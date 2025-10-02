@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 Actively looking for exciting open-source projects to contribute to.
+🌱 Actively looking for exciting open-source projects to contribute to.  
 🚀 Currently debugging my way into open-source contributions. 
 
 <!--
