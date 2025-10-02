@@ -1,5 +1,6 @@
 ## Hi there 👋
-🌱 Actively looking for exciting open-source projects to contribute to.  
+🌱 Actively looking for exciting open-source projects to contribute to.
+🚀 Currently debugging my way into open-source contributions. 
 
 <!--
 **Vinciarya/Vinciarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
