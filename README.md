@@ -28,9 +28,10 @@
 
 <h3><code>vinciarya@github ~ $ ./links.sh</code></h3>
 
-<p><b>Software Engineer · Voice AI Builder</b></p>
+<p><b>Software Engineer ·  AI Builder</b></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vinciarya-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinciarya)
+[![GitHub](https://img.shields.io/badge/GitHub-Vinciarya-2EA043?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Vinciarya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryanyadav47-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanyadav47)
 
 <br>
 
