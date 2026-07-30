@@ -10,10 +10,10 @@ import html
 GEORGIA_AVG_CHAR_WIDTH = 6.2  # px, at 12px body size (spec measurement)
 MAX_STRETCH = 0.15            # cap on textLength stretch before rivers appear
 
-LEAD_COL_WIDTH = 270
-LEAD_COL_CHARS = 43
-SIDEBAR_COL_WIDTH = 162
-SIDEBAR_COL_CHARS = 26
+# The page is a three-column grid of equal measures, matching the 860px width
+# of the other README panels. 40 chars is the comfortable newspaper measure.
+COL_WIDTH = 260
+COL_CHARS = 41
 
 
 def escape(text):
@@ -21,8 +21,18 @@ def escape(text):
 
 
 def wrap_text(text, max_chars):
-    """Greedy word-boundary wrap. Never splits a word, never hyphenates."""
-    words = text.split()
+    """Greedy word-boundary wrap. Splits a word only when it cannot ever fit.
+
+    Release notes and repo names are not vetted prose -- a bare URL longer than
+    the measure would otherwise run straight out of its column and into the
+    next one, so overlong tokens are broken rather than allowed to overflow.
+    """
+    words = []
+    for word in text.split():
+        while len(word) > max_chars:
+            words.append(word[:max_chars - 1] + "-")
+            word = word[max_chars - 1:]
+        words.append(word)
     lines = []
     current = []
     current_len = 0
@@ -91,8 +101,8 @@ if __name__ == "__main__":
     from pathlib import Path
 
     feed = json.loads((Path(__file__).parent.parent / "data" / "feed.json").read_text())
-    lines = layout_paragraph(feed["lead"]["body"], LEAD_COL_CHARS, LEAD_COL_WIDTH)
-    print(f"Lead body wrapped to {len(lines)} lines at {LEAD_COL_CHARS} chars / {LEAD_COL_WIDTH}px:\n")
+    lines = layout_paragraph(feed["lead"]["body"], COL_CHARS, COL_WIDTH)
+    print(f"Lead body wrapped to {len(lines)} lines at {COL_CHARS} chars / {COL_WIDTH}px:\n")
     for l in lines:
         natural = len(l["text"]) * GEORGIA_AVG_CHAR_WIDTH
         stretch = (l["text_length"] / natural - 1) if l["text_length"] else None

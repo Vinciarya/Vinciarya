@@ -12,6 +12,7 @@ load_dotenv()
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_PATH = os.path.join(HERE, "..", "data", "feed.json")
+STARS_PATH = os.path.join(HERE, "..", "data", "stars.json")
 REPO = "Vinciarya/Vinciarya"  # used only to compute the edition number
 
 GH_API = "https://api.github.com"
@@ -35,15 +36,24 @@ RELEASE_REPOS = ["oven-sh/bun"]
 
 EOL_PRODUCTS = ["nodejs"]
 
-MAX_BRIEFS = 5  # sidebar is ~162px wide; an uncapped list can run away on a busy news day
+# Per-section caps. The panel is a fixed grid: an uncapped list on a busy news
+# day would run past the bottom of the page.
+MAX_AI = 3
+MAX_LAUNCHES = 4
+MAX_TRENDING = 4
+MAX_HN = 4
+MAX_MARKET = 8      # ticker rail
+MAX_INFRA = 2
 
 HN_MIN_POINTS = 150
-HN_DOMAIN_ALLOWLIST = {
-    "github.com", "arxiv.org", "news.ycombinator.com",
-    "npmjs.com", "npmjs.org", "python.org", "rust-lang.org",
-    "developer.mozilla.org", "web.dev", "chromium.org",
-    "kernel.org", "llvm.org", "postgresql.org", "sqlite.org",
-}
+# No domain allowlist: the old one cut a typical day from 19 stories to 2,
+# which cannot fill the AI Wire, Hacker News and Launches sections at once.
+# The points threshold is the quality gate now.
+
+AI_PATTERN = re.compile(
+    r"\b(ai|llm|llms|gpt|claude|gemini|openai|anthropic|mistral|llama|"
+    r"model|models|agent|agents|transformer|inference|embedding|diffusion|"
+    r"rag|prompt|fine-?tun\w*|neural|machine learning)\b", re.I)
 # ------------------------------------------------------------------------
 
 GH_TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
@@ -109,8 +119,12 @@ def groq_prose(repo, tag, raw_body):
         f"Write a two-line newspaper blurb about the GitHub release {repo} {tag}.\n"
         f"Release notes:\n{(raw_body or '(no notes provided)')[:2000]}\n\n"
         "Reply with exactly two lines, no labels, no quotes:\n"
+        "Write flowing prose only -- no code, no shell commands, no URLs, no "
+        "install or upgrade instructions. Report what changed and why it matters.\n"
         "1. a one-sentence deck, under 90 characters\n"
-        "2. a ~45-word body paragraph in neutral news style"
+        # the lead body fills two 40-char columns on the panel; ~100 words is
+        # what it takes to set them both without leaving the page half empty
+        "2. a 95-115 word body paragraph in neutral news style"
     )
     try:
         r = requests.post(
@@ -120,7 +134,7 @@ def groq_prose(repo, tag, raw_body):
                 "model": GROQ_MODEL,
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": 0.4,
-                "max_tokens": 220,
+                "max_tokens": 400,
             },
             timeout=15,
         )
@@ -134,13 +148,13 @@ def groq_prose(repo, tag, raw_body):
     return None
 
 
-def assemble_lead(repo, tag, prose, groq_result):
+def assemble_lead(repo, tag, prose, groq_result, url=""):
     """Pure: turn a prose paragraph and/or a Groq result into a lead dict."""
     if groq_result:
         deck, body = groq_result
     elif prose:
         deck = prose.split(". ")[0][:90]
-        body = prose[:400]
+        body = prose[:700]
     else:
         deck = f"See release notes on {repo}"
         body = (f"{repo} shipped {tag}. The release notes on GitHub didn't include "
@@ -151,6 +165,7 @@ def assemble_lead(repo, tag, prose, groq_result):
         "deck": deck,
         "body": body,
         "source": repo,
+        "url": url or f"https://github.com/{repo}/releases/tag/{tag}",
     }
 
 
@@ -161,7 +176,7 @@ def build_lead(repo):
     tag = raw["tag_name"]
     prose = first_paragraph(raw.get("body"))
     groq_result = groq_prose(repo, tag, raw.get("body"))
-    return assemble_lead(repo, tag, prose, groq_result)
+    return assemble_lead(repo, tag, prose, groq_result, raw.get("html_url", ""))
 
 
 # ==== Hacker News (briefs) ===================================================
@@ -179,18 +194,22 @@ def fetch_hn_hits(min_points=HN_MIN_POINTS):
     return r.json()["hits"]
 
 
-def parse_hn_hit(hit, allowlist=HN_DOMAIN_ALLOWLIST):
-    """Pure: one HN hit -> a brief dict, or None if it's filtered out."""
+def parse_hn_hit(hit):
+    """Pure: one HN hit -> a brief dict."""
     url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit['objectID']}"
-    domain = re.sub(r"^https?://(www\.)?", "", url).split("/")[0]
-    if allowlist and domain not in allowlist:
-        return None
-    return {"kind": "hn", "title": hit["title"], "meta": f"{hit['points']} pts"}
+    return {"kind": "hn", "title": hit["title"], "meta": f"{hit['points']} pts", "url": url}
+
+
+def is_ai_story(title):
+    return bool(AI_PATTERN.search(title))
+
+
+def is_launch(title):
+    return title.strip().lower().startswith("show hn")
 
 
 def fetch_hn_briefs():
-    briefs = [parse_hn_hit(h) for h in fetch_hn_hits()]
-    return [b for b in briefs if b]
+    return [parse_hn_hit(h) for h in fetch_hn_hits()]
 
 
 # ==== GitHub Search (rising repos) ==========================================
@@ -212,11 +231,8 @@ def parse_rising_item(item):
     """Pure: one search-result repo -> a brief dict."""
     stars = item["stargazers_count"]
     meta = f"{stars/1000:.1f}k★" if stars >= 1000 else f"{stars}★"
-    return {"kind": "rising", "title": item["full_name"], "meta": meta}
-
-
-def fetch_rising_briefs():
-    return [parse_rising_item(i) for i in fetch_rising_items()]
+    return {"kind": "rising", "title": item["full_name"], "meta": meta,
+            "url": item["html_url"]}
 
 
 # ==== endoflife.date (ticker) ================================================
@@ -255,39 +271,92 @@ def fetch_eol_ticker():
     return ticker
 
 
-# ==== Statuspage (outages) ===================================================
+# ==== Statuspage (infrastructure) ============================================
+# Reports incidents from the last 24h rather than live status. A newspaper
+# publishes once a day: "Cloudflare is degraded right now" is false within the
+# hour, but "Cloudflare Workers was down 28 minutes" stays true all day.
 
-def fetch_statuspage(url):
+def fetch_incidents(url):
     r = requests.get(url, timeout=10)
     r.raise_for_status()
     return r.json()
 
 
-def parse_statuspage(data, name):
-    """Pure: only surfaces a vendor if it actually has an active incident --
-    a healthy page returns None, so the outages box stays empty on a normal
-    day instead of listing six "All Systems Operational" lines every time.
+def parse_incidents(data, name, now=None, window_hours=24,
+                    impacts=("major", "critical")):
+    """Pure: recent incidents worth a front-page banner, newest first.
+
+    Only major/critical get reported -- the spec is "only if something major
+    broke", and minor Statuspage entries are near-permanent background noise.
     """
-    if not data.get("incidents"):
-        return None
-    return {
-        "name": name,
-        "status": data["status"]["description"],
-        "indicator": data["status"]["indicator"],
-    }
+    now = now or datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=window_hours)
+    out = []
+    for inc in data.get("incidents", []):
+        if inc.get("impact") not in impacts:
+            continue
+        started = datetime.fromisoformat(inc["created_at"].replace("Z", "+00:00"))
+        if started < cutoff:
+            continue
+        resolved_at = inc.get("resolved_at")
+        ended = (datetime.fromisoformat(resolved_at.replace("Z", "+00:00"))
+                 if resolved_at else now)
+        out.append({
+            "name": name,
+            "title": inc["name"],
+            "impact": inc["impact"],
+            "minutes": max(int((ended - started).total_seconds() // 60), 1),
+            "ongoing": resolved_at is None,
+            "url": inc.get("shortlink", ""),
+        })
+    return out
 
 
-def fetch_outages():
-    outages = []
+def fetch_infra():
+    infra = []
     for name, url in STATUSPAGES.items():
         try:
-            data = fetch_statuspage(url)
+            data = fetch_incidents(url.replace("summary.json", "incidents.json"))
         except requests.RequestException:
             continue
-        outage = parse_statuspage(data, name)
-        if outage:
-            outages.append(outage)
-    return outages
+        infra += parse_incidents(data, name)
+    infra.sort(key=lambda i: (not i["ongoing"], -i["minutes"]))
+    return infra[:MAX_INFRA]
+
+
+# ==== star history (trending + market) =======================================
+# GitHub has no trending API, so "trending" is computed here as the change in
+# star count since yesterday's snapshot. Day one has no baseline and yields
+# nothing, by design -- the sections simply don't render.
+
+def fetch_star_pool(days=7, min_stars=5000, per_page=100):
+    """One search call covering the large, actively-pushed repos."""
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).date().isoformat()
+    r = requests.get(f"{GH_API}/search/repositories",
+                     params={"q": f"pushed:>{since} stars:>{min_stars}",
+                             "sort": "stars", "order": "desc", "per_page": per_page},
+                     headers=GH_HEADERS, timeout=15)
+    r.raise_for_status()
+    return r.json()["items"]
+
+
+def build_star_snapshot(rising_items):
+    """{full_name: stars} for today. The freshly-launched repos are merged in
+    explicitly -- they are the fastest movers but too small for the pool query.
+    """
+    snapshot = {i["full_name"]: i["stargazers_count"] for i in fetch_star_pool()}
+    snapshot.update({i["full_name"]: i["stargazers_count"] for i in rising_items})
+    return snapshot
+
+
+def star_deltas(snapshot, previous):
+    """Pure: [(repo, gained, total)] sorted by stars gained since the last run."""
+    if not previous:
+        return []
+    gains = [(repo, stars - previous[repo], stars)
+             for repo, stars in snapshot.items()
+             if repo in previous and stars > previous[repo]]
+    return sorted(gains, key=lambda g: -g[1])
 
 
 # ==== edition number ==========================================================
@@ -310,7 +379,7 @@ def feed_hash(feed):
     return hashlib.sha256(json.dumps(material, sort_keys=True).encode()).hexdigest()
 
 
-def build_feed(previous=None):
+def build_feed(previous=None, prev_stars=None):
     lead = None
     for repo in RELEASE_REPOS:
         lead = build_lead(repo)
@@ -324,25 +393,71 @@ def build_feed(previous=None):
             "deck": "No qualifying releases today",
             "body": "None of today's tracked repos shipped a release. Back tomorrow.",
             "source": "",
+            "url": "",
         }
 
-    return {
+    # Sections claim stories in priority order and remove what they take, so a
+    # story that qualifies for several (an AI repo that is also a Show HN and
+    # also trending) is printed exactly once, in its most specific section.
+    hn_pool = fetch_hn_briefs()
+    claimed = set()
+
+    def take(candidates, limit):
+        picked = []
+        for item in candidates:
+            # keyed on url, falling back to title: two items with no url would
+            # otherwise collide on "" and the second would vanish silently
+            key = item["url"] or item["title"]
+            if key in claimed or len(picked) >= limit:
+                continue
+            claimed.add(key)
+            picked.append(item)
+        return picked
+
+    ai = take([b for b in hn_pool if is_ai_story(b["title"])], MAX_AI)
+
+    rising_items = fetch_rising_items()
+    launches = take([b for b in hn_pool if is_launch(b["title"])]
+                    + [parse_rising_item(i) for i in rising_items], MAX_LAUNCHES)
+
+    snapshot = build_star_snapshot(rising_items)
+    deltas = star_deltas(snapshot, prev_stars)
+    trending = take([{"kind": "trending", "title": repo,
+                      "meta": f"+{gained:,}★", "url": f"https://github.com/{repo}"}
+                     for repo, gained, _ in deltas], MAX_TRENDING)
+
+    hn = take(hn_pool, MAX_HN)
+
+    feed = {
         "generated": date.today().isoformat(),
         "edition": edition_number(),
         "lead": lead,
-        "briefs": (fetch_hn_briefs() + fetch_rising_briefs())[:MAX_BRIEFS],
+        "sections": {"ai": ai, "trending": trending, "hn": hn, "launches": launches},
+        "market": [{"name": repo.split("/")[-1], "gained": gained}
+                   for repo, gained, _ in deltas[:MAX_MARKET]],
         "ticker": fetch_eol_ticker(),
-        "outages": fetch_outages(),
+        "infra": fetch_infra(),
     }
+    return feed, snapshot
+
+
+def read_json(path):
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
 
 
 def main():
-    previous = None
-    if os.path.exists(OUT_PATH):
-        with open(OUT_PATH, encoding="utf-8") as f:
-            previous = json.load(f)
+    previous = read_json(OUT_PATH)
+    prev_stars = read_json(STARS_PATH)
 
-    feed = build_feed(previous)
+    feed, snapshot = build_feed(previous, prev_stars)
+
+    # The snapshot is written every run even when the feed is unchanged --
+    # skipping it would break the delta chain that trending and market need.
+    with open(STARS_PATH, "w", encoding="utf-8") as f:
+        json.dump(snapshot, f, indent=2, sort_keys=True)
 
     if previous and feed_hash(previous) == feed_hash(feed):
         print("feed unchanged, skipping write")

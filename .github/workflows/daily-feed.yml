@@ -33,8 +33,13 @@ jobs:
       - name: Typeset the newspaper SVG
         run: python scripts/newspaper.py
 
+      - name: Refresh the clickable index in the README
+        run: python scripts/readme_index.py
+
       - name: Commit if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "feed: daily refresh [skip ci]"
-          file_pattern: "data/feed.json newspaper.svg"
+          # stars.json must be committed: it is the baseline tomorrow's run
+          # diffs against for GitHub Trending and the Market rail.
+          file_pattern: "data/feed.json data/stars.json newspaper.svg README.md"

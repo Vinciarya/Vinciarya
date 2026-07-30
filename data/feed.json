@@ -3,48 +3,104 @@
   "edition": 301,
   "lead": {
     "headline": "BUN SHIPS BUN-V1.3.14",
-    "deck": "GitHub has released version 1.3.14 of the Bun JavaScript runtime, available for installation via a curl command or npm package, with upgrade instructions and release notes available on the official Bun blog",
-    "body": "The latest update, which credits 11 contributors, brings improvements to the platform, with users able to install the new version using a simple command or package manager, and upgrade existing installations with a single command",
-    "source": "oven-sh/bun"
+    "deck": "Bun v1.3.14 has been released with updates from 11 contributors",
+    "body": "The latest version of Bun, a JavaScript runtime, has been updated with new features and improvements. According to the release notes, the changes are the result of collaborative efforts from a diverse group of contributors. While specific details of the updates are not provided, the release is likely to bring performance enhancements, bug fixes, and other refinements that will make the development process more efficient and reliable for users. The release also includes a link to the full release notes on Bun's blog, where developers can learn more about the specific changes and their implications. As a result, developers can expect a smoother and more productive experience with Bun v1.3.14",
+    "source": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.3.14"
   },
-  "briefs": [
-    {
-      "kind": "hn",
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "meta": "746 pts"
-    },
-    {
-      "kind": "hn",
-      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "meta": "314 pts"
-    },
-    {
-      "kind": "rising",
-      "title": "MoonshotAI/Kimi-K3",
-      "meta": "6.7k\u2605"
-    },
-    {
-      "kind": "rising",
-      "title": "mshumer/Claude-of-Duty",
-      "meta": "2.3k\u2605"
-    },
-    {
-      "kind": "rising",
-      "title": "digimata/quill",
-      "meta": "1.7k\u2605"
-    }
-  ],
+  "sections": {
+    "ai": [
+      {
+        "kind": "hn",
+        "title": "AI's top startups are barely publishing their research",
+        "meta": "504 pts",
+        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
+      },
+      {
+        "kind": "hn",
+        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+        "meta": "369 pts",
+        "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
+      },
+      {
+        "kind": "hn",
+        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+        "meta": "315 pts",
+        "url": "https://arxiv.org/abs/2607.25398"
+      }
+    ],
+    "trending": [],
+    "hn": [
+      {
+        "kind": "hn",
+        "title": "Superlogical",
+        "meta": "715 pts",
+        "url": "https://www.superlogical.com/"
+      },
+      {
+        "kind": "hn",
+        "title": "The coolest use for the Vision Pro",
+        "meta": "708 pts",
+        "url": "https://christianselig.com/2026/07/vision-pro-house/"
+      },
+      {
+        "kind": "hn",
+        "title": "Kimi K3-256k",
+        "meta": "454 pts",
+        "url": "https://www.kimi.com/code/docs/en/kimi-code/models"
+      },
+      {
+        "kind": "hn",
+        "title": "Keychron announces first open-source firmware for gaming mice",
+        "meta": "390 pts",
+        "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
+      }
+    ],
+    "launches": [
+      {
+        "kind": "hn",
+        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "meta": "825 pts",
+        "url": "https://github.com/drumih/turbo-fieldfare"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
+        "meta": "221 pts",
+        "url": "https://cheapfoodmap.com/"
+      },
+      {
+        "kind": "rising",
+        "title": "MoonshotAI/Kimi-K3",
+        "meta": "7.4k\u2605",
+        "url": "https://github.com/MoonshotAI/Kimi-K3"
+      },
+      {
+        "kind": "rising",
+        "title": "mshumer/Claude-of-Duty",
+        "meta": "2.3k\u2605",
+        "url": "https://github.com/mshumer/Claude-of-Duty"
+      }
+    ]
+  },
+  "market": [],
   "ticker": [],
-  "outages": [
+  "infra": [
     {
-      "name": "Cloudflare",
-      "status": "Minor Service Outage",
-      "indicator": "minor"
+      "name": "Anthropic",
+      "title": "Elevated errors across many models",
+      "impact": "major",
+      "minutes": 291,
+      "ongoing": false,
+      "url": "https://stspg.io/c0fmy7628y3w"
     },
     {
       "name": "Anthropic",
-      "status": "Minor Service Outage",
-      "indicator": "minor"
+      "title": "Elevated errors across all models",
+      "impact": "critical",
+      "minutes": 166,
+      "ongoing": false,
+      "url": "https://stspg.io/p7pqqb00414c"
     }
   ]
 }
