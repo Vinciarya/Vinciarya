@@ -7,13 +7,13 @@ only computes the parameters for.
 """
 import html
 
-GEORGIA_AVG_CHAR_WIDTH = 6.2  # px, at 12px body size (spec measurement)
+GEORGIA_AVG_CHAR_WIDTH = 8.2  # px, at the 16px body size set in newspaper.py
 MAX_STRETCH = 0.15            # cap on textLength stretch before rivers appear
 
 # The page is a three-column grid of equal measures. See newspaper.py for how
 # the column width is solved back to the panel's overall 1000px canvas.
 COL_WIDTH = 304
-COL_CHARS = 49
+COL_CHARS = 37          # 304px / 8.2px per char at the 16px body size
 
 
 def escape(text):
@@ -30,8 +30,16 @@ def wrap_text(text, max_chars):
     words = []
     for word in text.split():
         while len(word) > max_chars:
-            words.append(word[:max_chars - 1] + "-")
-            word = word[max_chars - 1:]
+            # break at an existing separator where there is one, so repo names
+            # and URLs split as "owner/long-repo-" + "name" rather than being
+            # guillotined mid-syllable into "free-programming-b-" + "ooks"
+            at = max(word.rfind(c, 0, max_chars) for c in "/-_.")
+            if at > max_chars // 2:
+                words.append(word[:at + 1])
+                word = word[at + 1:]
+            else:
+                words.append(word[:max_chars - 1] + "-")
+                word = word[max_chars - 1:]
         words.append(word)
     lines = []
     current = []

@@ -49,22 +49,26 @@ VRULE_X = COL_X[2] - GUTTER / 2
 
 BODY_FONT = "Georgia, 'Times New Roman', Times, serif"
 
+# Type is set larger than a print measure would suggest: GitHub scales the
+# 1000px panel down to its README column, so everything renders below its
+# nominal size. Changing BODY_SIZE means changing typeset.GEORGIA_AVG_CHAR_WIDTH
+# and COL_CHARS with it, or justification and wrapping drift apart.
 MASTHEAD_SIZE = 68       # sized to fit CONTENT_WIDTH once textLength stretches it
-DATELINE_SIZE = 10
-HEADLINE_SIZE = 24
-DECK_SIZE = 12
-BODY_SIZE = 12
-BODY_LEADING = 16
-SIDEBAR_SIZE = 11
-SIDEBAR_LEADING = 14
-META_SIZE = 9
-BANNER_SIZE = 10
-TICKER_SIZE = 9
-SECTION_SIZE = 10        # section heads, small caps
-STANDFIRST_SIZE = 8.5    # the italic line under each section head
-STANDFIRST_CHARS = 46    # a generated note must not overrun its column
-DESC_CHARS = 44          # per-item description, sharing a line with the metric
-KICKER_SIZE = 9
+DATELINE_SIZE = 13
+HEADLINE_SIZE = 32
+DECK_SIZE = 16
+BODY_SIZE = 16
+BODY_LEADING = 22
+SIDEBAR_SIZE = 15
+SIDEBAR_LEADING = 20
+META_SIZE = 12
+BANNER_SIZE = 12
+TICKER_SIZE = 12
+SECTION_SIZE = 14        # section heads, small caps
+STANDFIRST_SIZE = 11     # the italic line under each section head
+STANDFIRST_CHARS = 35    # a generated note must not overrun its column
+DESC_CHARS = 33          # per-item description, sharing a line with the metric
+KICKER_SIZE = 11
 
 # Section heads. The second element is a *fallback* standfirst: fetch.py writes
 # a live one into feed["notes"] describing what that run actually retrieved
@@ -81,9 +85,9 @@ HEADS = {
     "launches": ("LAUNCHES", "Show HN and new repos this week"),
 }
 
-HEADLINE_CHARS = 44
-DECK_CHARS = 98
-BANNER_CHARS = 95
+HEADLINE_CHARS = 34
+DECK_CHARS = 74
+BANNER_CHARS = 79
 
 # ---- animation timeline (seconds) -----------------------------------------
 # Edit here, not at the call sites. The whole performance is over by ~4.5s;
@@ -100,13 +104,13 @@ T_BODY = 1.95
 T_BODY_STEP = 0.055      # per printed line
 T_COL2_OFFSET = 0.03     # right-hand body column trails the left, like a press
 T_AI = 2.55              # AI Wire, alongside the lead story
-T_TIER2 = 3.05           # the three lower sections
+T_TICKER = 3.05          # the Market rail, now between the two tiers
+T_TIER2 = 3.40           # the three lower sections
 T_TIER2_STEP = 0.18      # per lower column, left to right
 T_ITEM_STEP = 0.11       # per item within a section
 T_COUNT = 3.05           # metrics start counting once their section is in
 T_COUNT_STEP = 0.075     # per count-up frame
-T_FOOTER = 4.15
-T_TICKER = 4.45
+T_FOOTER = 4.45
 T_LIVE = 4.70
 
 COUNT_STEPS = 5
@@ -230,6 +234,31 @@ def ticker_items(feed):
 
 
 # ==== sections ===============================================================
+
+def ticker_rail(y, items, defs):
+    """The Market rail. Sits inside the body, between the lead story and the
+    lower sections, rather than as a footer strip. Returns (parts, next_y).
+    """
+    rail_h = TICKER_SIZE + 15
+    run = "   ·   ".join(items) + "   ·   "
+    span = len(run) * TICKER_SIZE * 0.52          # estimated run width
+    duration = max(span / TICKER_SPEED, 12)
+    baseline = y + rail_h - 10
+    defs.append(f'<clipPath id="clipRail"><rect x="{PAGE_MARGIN}" y="{y:.1f}" '
+                f'width="{CONTENT_WIDTH}" height="{rail_h}"/></clipPath>')
+    # textLength pins each copy to exactly `span`, so the second abuts the
+    # first and the loop is seamless -- an estimated width leaves a visible
+    # gap or an overlap at the wrap point.
+    tape = (text(0, baseline, esc(run), TICKER_SIZE, text_length=span)
+            + text(span, baseline, esc(run), TICKER_SIZE, text_length=span))
+    parts = [
+        f'<g class="fade" clip-path="url(#clipRail)"{a(T_TICKER - 0.25)}>'
+        f'<rect x="{PAGE_MARGIN}" y="{y:.1f}" width="{CONTENT_WIDTH}" '
+        f'height="{rail_h}" class="rail-bg"/>'
+        f'<g class="rail"{a(T_TICKER, **{"--span": f"-{span:.1f}px", "animation-duration": f"{duration:.1f}s"})}>'
+        f'<g transform="translate({PAGE_MARGIN},0)">{tape}</g></g></g>']
+    return parts, y + rail_h
+
 
 def section_block(x, y, head, items, base, count_base):
     """One titled column of briefs. `head` is (label, standfirst).
@@ -389,10 +418,19 @@ def build(feed):
     tier2 = [(head(key), sections.get(key, []))
              for key in ("trending", "hn", "launches") if sections.get(key)]
 
+    # -- the Market rail, in the body between the two tiers --------------------
     y = tier1_bottom + 14
+    market = ticker_items(feed)
+    if market:
+        parts.append(rule(y, T_TICKER - 0.35, width=0.5))
+        y += 10
+        rail, y = ticker_rail(y, market, defs)
+        parts += rail
+        y += 14
+
     if tier2:
         parts.append(rule(y, T_TIER2 - 0.25, width=0.5))
-        y += 16
+        y += 18
         tier2_top = y
         tier2_bottom = y
         for col, (col_head, items) in enumerate(tier2):
@@ -406,32 +444,8 @@ def build(feed):
                                 T_TIER2 + col * T_TIER2_STEP - 0.15))
         y = tier2_bottom
 
-    y += 12
+    y += 14
     parts.append(rule(y, T_FOOTER))
-    y += 9
-
-    # -- ticker rail ----------------------------------------------------------
-    items = ticker_items(feed)
-    if items:
-        rail_h = TICKER_SIZE + 13
-        run = "   ·   ".join(items) + "   ·   "
-        span = len(run) * TICKER_SIZE * 0.52          # estimated run width
-        duration = max(span / TICKER_SPEED, 12)
-        baseline = y + rail_h - 9
-        defs.append(f'<clipPath id="clipRail"><rect x="{PAGE_MARGIN}" y="{y:.1f}" '
-                    f'width="{CONTENT_WIDTH}" height="{rail_h}"/></clipPath>')
-        # textLength pins each copy to exactly `span`, so the second abuts the
-        # first and the loop is seamless -- an estimated width leaves a visible
-        # gap or an overlap at the wrap point.
-        tape = (text(0, baseline, esc(run), TICKER_SIZE, text_length=span)
-                + text(span, baseline, esc(run), TICKER_SIZE, text_length=span))
-        parts.append(
-            f'<g class="fade" clip-path="url(#clipRail)"{a(T_TICKER - 0.25)}>'
-            f'<rect x="{PAGE_MARGIN}" y="{y:.1f}" width="{CONTENT_WIDTH}" '
-            f'height="{rail_h}" class="rail-bg"/>'
-            f'<g class="rail"{a(T_TICKER, **{"--span": f"-{span:.1f}px", "animation-duration": f"{duration:.1f}s"})}>'
-            f'<g transform="translate({PAGE_MARGIN},0)">{tape}</g></g></g>')
-        y += rail_h
 
     y += PAGE_MARGIN
     height = round(y)
@@ -481,9 +495,13 @@ text{fill:var(--ink)}
 .rule{stroke:var(--ink);stroke-dasharray:var(--len);
   animation:draw .55s cubic-bezier(.22,.61,.36,1) both}
 .wipe{fill:var(--paper);animation:wipe .5s cubic-bezier(.4,0,.2,1) both}
-.ink{animation:ink .5s ease-out both}
+/* `backwards`, not `both`: with `both` the final keyframe sticks, leaving
+   filter:blur(0) permanently applied, which keeps the text on a rasterised
+   filter path and renders it soft. `backwards` still hides the element during
+   its delay, then drops back to base styles -- no filter, crisp glyphs. */
+.ink{animation:ink .5s ease-out backwards}
 .fade{animation:fade .5s ease-out both}
-.mast{animation:ink .9s ease-out both}
+.mast{animation:ink .9s ease-out backwards}
 .stamp{transform-box:fill-box;transform-origin:0 50%;animation:stamp .5s cubic-bezier(.2,1.5,.4,1) both}
 .slide{animation:slide .45s cubic-bezier(.22,.61,.36,1) both}
 .tickframe{opacity:0;animation:tick .08s linear both}
