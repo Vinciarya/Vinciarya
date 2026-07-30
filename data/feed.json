@@ -3,8 +3,8 @@
   "edition": 301,
   "lead": {
     "headline": "BUN SHIPS BUN-V1.3.14",
-    "deck": "Bun, a popular JavaScript runtime, has been updated to version 1.3.14",
-    "body": "The latest release of Bun includes contributions from 11 developers, bringing various improvements and bug fixes to the platform. According to the release notes, the update addresses several issues and enhances the overall stability and performance of Bun. The changes are aimed at providing a smoother experience for developers, allowing them to build and deploy applications more efficiently. With this update, Bun continues to evolve as a versatile and reliable tool for modern web development, offering a range of features and capabilities that cater to the needs of a wide range of users. The release marks another step forward in the ongoing development of Bun",
+    "deck": "Bun v1.3.14 released with improvements",
+    "body": "The latest version of the JavaScript runtime, Bun v1.3.14, has been released with enhancements contributed by 11 developers. This update brings stability and performance improvements, allowing users to take advantage of faster execution and reduced errors. The release notes do not specify the exact nature of these improvements, but they are likely to benefit developers working on complex applications and services. The release is the result of collaborative efforts between the Bun team and the community, demonstrating the importance of open-source development and community engagement. As a result, users can expect a smoother experience when working with Bun, making it an attractive choice for those seeking a reliable and efficient JavaScript runtime",
     "source": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.3.14"
   },
@@ -13,14 +13,14 @@
       {
         "kind": "hn",
         "title": "AI's top startups are barely publishing their research",
-        "meta": "519 pts",
+        "meta": "522 pts",
         "desc": "science.org \u00b7 266 comments",
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
       },
       {
         "kind": "hn",
         "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-        "meta": "316 pts",
+        "meta": "317 pts",
         "desc": "arxiv.org \u00b7 198 comments",
         "url": "https://arxiv.org/abs/2607.25398"
       },
@@ -28,7 +28,7 @@
         "kind": "hn",
         "title": "LLM Honeypot",
         "meta": "300 pts",
-        "desc": "llm2human.pages.dev \u00b7 88 comments",
+        "desc": "llm2human.pages.dev \u00b7 89 comments",
         "url": "https://llm2human.pages.dev/"
       }
     ],
@@ -36,23 +36,9 @@
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+10\u2605",
+        "meta": "+12\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
-      },
-      {
-        "kind": "trending",
-        "title": "obra/superpowers",
-        "meta": "+5\u2605",
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
-      },
-      {
-        "kind": "trending",
-        "title": "practical-tutorials/project-based-learning",
-        "meta": "+4\u2605",
-        "desc": "Curated list of project-based tutorials",
-        "url": "https://github.com/practical-tutorials/project-based-learning"
       },
       {
         "kind": "trending",
@@ -60,27 +46,41 @@
         "meta": "+4\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
+        "title": "browser-use/browser-use",
+        "meta": "+4\u2605",
+        "desc": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "url": "https://github.com/browser-use/browser-use"
+      },
+      {
+        "kind": "trending",
+        "title": "EbookFoundation/free-programming-books",
+        "meta": "+3\u2605",
+        "desc": ":books: Freely available programming books",
+        "url": "https://github.com/EbookFoundation/free-programming-books"
       }
     ],
     "hn": [
       {
         "kind": "hn",
         "title": "Superlogical",
-        "meta": "727 pts",
+        "meta": "729 pts",
         "desc": "superlogical.com \u00b7 427 comments",
         "url": "https://www.superlogical.com/"
       },
       {
         "kind": "hn",
         "title": "The coolest use for the Vision Pro",
-        "meta": "725 pts",
-        "desc": "christianselig.com \u00b7 279 comments",
+        "meta": "726 pts",
+        "desc": "christianselig.com \u00b7 281 comments",
         "url": "https://christianselig.com/2026/07/vision-pro-house/"
       },
       {
         "kind": "hn",
         "title": "Kimi K3-256k",
-        "meta": "458 pts",
+        "meta": "459 pts",
         "desc": "kimi.com \u00b7 133 comments",
         "url": "https://www.kimi.com/code/docs/en/kimi-code/models"
       },
@@ -96,14 +96,14 @@
       {
         "kind": "hn",
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "meta": "833 pts",
+        "meta": "835 pts",
         "desc": "github.com \u00b7 295 comments",
         "url": "https://github.com/drumih/turbo-fieldfare"
       },
       {
         "kind": "hn",
         "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
-        "meta": "232 pts",
+        "meta": "234 pts",
         "desc": "cheapfoodmap.com \u00b7 206 comments",
         "url": "https://cheapfoodmap.com/"
       },
@@ -132,34 +132,34 @@
   "market": [
     {
       "name": "skills",
-      "gained": 10
-    },
-    {
-      "name": "superpowers",
-      "gained": 5
-    },
-    {
-      "name": "project-based-learning",
-      "gained": 4
+      "gained": 12
     },
     {
       "name": "ECC",
       "gained": 4
     },
     {
-      "name": "hermes-agent",
+      "name": "browser-use",
+      "gained": 4
+    },
+    {
+      "name": "free-programming-books",
       "gained": 3
     },
     {
-      "name": "awesome-python",
+      "name": "ollama",
+      "gained": 3
+    },
+    {
+      "name": "quill",
+      "gained": 3
+    },
+    {
+      "name": "developer-roadmap",
       "gained": 2
     },
     {
-      "name": "react",
-      "gained": 2
-    },
-    {
-      "name": "linux",
+      "name": "superpowers",
       "gained": 2
     }
   ],
