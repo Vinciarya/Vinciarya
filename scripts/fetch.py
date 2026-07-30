@@ -312,16 +312,38 @@ def parse_incidents(data, name, now=None, window_hours=24,
     return out
 
 
+IMPACT_RANK = {"critical": 2, "major": 1}
+
+
+def incident_rank(inc):
+    return (inc["ongoing"], IMPACT_RANK.get(inc["impact"], 0), inc["minutes"])
+
+
+def worst_per_vendor(incidents):
+    """Pure: at most one entry per vendor, worst first.
+
+    A vendor can file several incidents in a day (Anthropic filed two), and
+    listing each reads as a duplicate on a one-line banner. The banner's job is
+    "this vendor broke", so keep only the worst: ongoing beats resolved,
+    critical beats major, then longest.
+    """
+    worst = {}
+    for inc in incidents:
+        current = worst.get(inc["name"])
+        if current is None or incident_rank(inc) > incident_rank(current):
+            worst[inc["name"]] = inc
+    return sorted(worst.values(), key=incident_rank, reverse=True)
+
+
 def fetch_infra():
-    infra = []
+    incidents = []
     for name, url in STATUSPAGES.items():
         try:
             data = fetch_incidents(url.replace("summary.json", "incidents.json"))
         except requests.RequestException:
             continue
-        infra += parse_incidents(data, name)
-    infra.sort(key=lambda i: (not i["ongoing"], -i["minutes"]))
-    return infra[:MAX_INFRA]
+        incidents += parse_incidents(data, name)
+    return worst_per_vendor(incidents)[:MAX_INFRA]
 
 
 # ==== star history (trending + market) =======================================

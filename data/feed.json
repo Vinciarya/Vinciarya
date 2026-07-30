@@ -3,8 +3,8 @@
   "edition": 301,
   "lead": {
     "headline": "BUN SHIPS BUN-V1.3.14",
-    "deck": "Bun v1.3.14 has been released with updates from 11 contributors",
-    "body": "The latest version of Bun, a JavaScript runtime, has been updated with new features and improvements. According to the release notes, the changes are the result of collaborative efforts from a diverse group of contributors. While specific details of the updates are not provided, the release is likely to bring performance enhancements, bug fixes, and other refinements that will make the development process more efficient and reliable for users. The release also includes a link to the full release notes on Bun's blog, where developers can learn more about the specific changes and their implications. As a result, developers can expect a smoother and more productive experience with Bun v1.3.14",
+    "deck": "Bun v1.3.14 is now available",
+    "body": "Bun, the JavaScript runtime, has been updated to version 1.3.14, marking a significant improvement in performance and stability. The release is the result of collaborative efforts from 11 contributors, who have worked to address various issues and enhance the overall user experience. With this update, users can expect improved performance, bug fixes, and enhanced functionality. The release notes are available on the official Bun blog, where users can learn more about the changes and improvements made in this version. As a result, developers can now rely on a more reliable and efficient JavaScript runtime, enabling them to focus on building high-quality applications",
     "source": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.3.14"
   },
@@ -13,46 +13,71 @@
       {
         "kind": "hn",
         "title": "AI's top startups are barely publishing their research",
-        "meta": "504 pts",
+        "meta": "512 pts",
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
       },
       {
         "kind": "hn",
-        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-        "meta": "369 pts",
-        "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
+        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+        "meta": "316 pts",
+        "url": "https://arxiv.org/abs/2607.25398"
       },
       {
         "kind": "hn",
-        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-        "meta": "315 pts",
-        "url": "https://arxiv.org/abs/2607.25398"
+        "title": "LLM Honeypot",
+        "meta": "292 pts",
+        "url": "https://llm2human.pages.dev/"
       }
     ],
-    "trending": [],
+    "trending": [
+      {
+        "kind": "trending",
+        "title": "mattpocock/skills",
+        "meta": "+28\u2605",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
+        "title": "digimata/quill",
+        "meta": "+20\u2605",
+        "url": "https://github.com/digimata/quill"
+      },
+      {
+        "kind": "trending",
+        "title": "firecrawl/firecrawl",
+        "meta": "+11\u2605",
+        "url": "https://github.com/firecrawl/firecrawl"
+      },
+      {
+        "kind": "trending",
+        "title": "microsoft/PowerToys",
+        "meta": "+11\u2605",
+        "url": "https://github.com/microsoft/PowerToys"
+      }
+    ],
     "hn": [
       {
         "kind": "hn",
         "title": "Superlogical",
-        "meta": "715 pts",
+        "meta": "722 pts",
         "url": "https://www.superlogical.com/"
       },
       {
         "kind": "hn",
         "title": "The coolest use for the Vision Pro",
-        "meta": "708 pts",
+        "meta": "718 pts",
         "url": "https://christianselig.com/2026/07/vision-pro-house/"
       },
       {
         "kind": "hn",
         "title": "Kimi K3-256k",
-        "meta": "454 pts",
+        "meta": "455 pts",
         "url": "https://www.kimi.com/code/docs/en/kimi-code/models"
       },
       {
         "kind": "hn",
         "title": "Keychron announces first open-source firmware for gaming mice",
-        "meta": "390 pts",
+        "meta": "392 pts",
         "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
       }
     ],
@@ -60,13 +85,13 @@
       {
         "kind": "hn",
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "meta": "825 pts",
+        "meta": "831 pts",
         "url": "https://github.com/drumih/turbo-fieldfare"
       },
       {
         "kind": "hn",
         "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
-        "meta": "221 pts",
+        "meta": "228 pts",
         "url": "https://cheapfoodmap.com/"
       },
       {
@@ -83,17 +108,42 @@
       }
     ]
   },
-  "market": [],
+  "market": [
+    {
+      "name": "skills",
+      "gained": 28
+    },
+    {
+      "name": "quill",
+      "gained": 20
+    },
+    {
+      "name": "firecrawl",
+      "gained": 11
+    },
+    {
+      "name": "PowerToys",
+      "gained": 11
+    },
+    {
+      "name": "superpowers",
+      "gained": 10
+    },
+    {
+      "name": "graphify",
+      "gained": 10
+    },
+    {
+      "name": "hermes-agent",
+      "gained": 9
+    },
+    {
+      "name": "markitdown",
+      "gained": 8
+    }
+  ],
   "ticker": [],
   "infra": [
-    {
-      "name": "Anthropic",
-      "title": "Elevated errors across many models",
-      "impact": "major",
-      "minutes": 291,
-      "ongoing": false,
-      "url": "https://stspg.io/c0fmy7628y3w"
-    },
     {
       "name": "Anthropic",
       "title": "Elevated errors across all models",
@@ -101,6 +151,14 @@
       "minutes": 166,
       "ongoing": false,
       "url": "https://stspg.io/p7pqqb00414c"
+    },
+    {
+      "name": "GitHub",
+      "title": "Incident with Actions",
+      "impact": "major",
+      "minutes": 34,
+      "ongoing": false,
+      "url": "https://stspg.io/8nsh6820sff9"
     }
   ]
 }

@@ -10,10 +10,10 @@ import html
 GEORGIA_AVG_CHAR_WIDTH = 6.2  # px, at 12px body size (spec measurement)
 MAX_STRETCH = 0.15            # cap on textLength stretch before rivers appear
 
-# The page is a three-column grid of equal measures, matching the 860px width
-# of the other README panels. 40 chars is the comfortable newspaper measure.
-COL_WIDTH = 260
-COL_CHARS = 41
+# The page is a three-column grid of equal measures. See newspaper.py for how
+# the column width is solved back to the panel's overall 1000px canvas.
+COL_WIDTH = 304
+COL_CHARS = 49
 
 
 def escape(text):

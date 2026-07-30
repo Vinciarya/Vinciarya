@@ -18,17 +18,37 @@ README = os.path.join(HERE, "..", "README.md")
 START = "<!-- daily-commit:start -->"
 END = "<!-- daily-commit:end -->"
 
-PANEL_WIDTH = 860       # must match newspaper.py's canvas, and the other panels
+PANEL_WIDTH = 1000      # must match newspaper.py's canvas, and the other panels
 TITLE_CHARS = 38
 
-# The emoji live here rather than in the SVG: colour glyphs clash with the
-# panel's monochrome serif, and GitHub renders these natively.
+# Section labels are shields.io badges matching the GitHub/LinkedIn pair lower
+# down the README. Only the labels are badges -- one per section, five images.
+# Rendering every story as a badge would mean ~15 camo-proxied requests per
+# page load, and headlines are far too long for a badge to hold.
+# Each badge links to the source that section is drawn from.
+# shields.io path encoding: space -> _, literal dash -> --, literal _ -> __
+BADGE_STYLE = "for-the-badge"
 SECTIONS = [
-    ("ai", "🧠 **AI Wire**"),
-    ("trending", "📦 **GitHub Trending**"),
-    ("hn", "💬 **Hacker News**"),
-    ("launches", "🚀 **Launches**"),
+    # not "openai": shields.io still returns 200 for an unknown slug, it just
+    # renders the badge with no icon -- verify any logo change actually draws
+    ("ai", {"label": "AI_Wire", "color": "1a1a1a", "logo": "anthropic",
+            "hub": "https://news.ycombinator.com/"}),
+    ("trending", {"label": "GitHub_Trending", "color": "2EA043", "logo": "github",
+                  "hub": "https://github.com/trending"}),
+    ("hn", {"label": "Hacker_News", "color": "FF6600", "logo": "ycombinator",
+            "hub": "https://news.ycombinator.com/"}),
+    ("launches", {"label": "Launches", "color": "8B2500", "logo": "producthunt",
+                  "hub": "https://news.ycombinator.com/show"}),
 ]
+INFRA_BADGE = {"label": "Infrastructure", "color": "B00020", "logo": "statuspage",
+               "hub": "https://www.githubstatus.com/"}
+
+
+def badge(spec):
+    src = (f"https://img.shields.io/badge/{spec['label']}-{spec['color']}"
+           f"?style={BADGE_STYLE}&logo={spec['logo']}&logoColor=white")
+    alt = spec["label"].replace("_", " ")
+    return f'<a href="{spec["hub"]}"><img src="{src}" alt="{alt}" /></a>'
 
 
 def md_escape(text):
@@ -47,22 +67,23 @@ def build_block(feed):
         img = f'<a href="{lead["url"]}">{img}</a>'
 
     rows = []
-    for key, label in SECTIONS:
+    for key, spec in SECTIONS:
         items = feed.get("sections", {}).get(key, [])
         if items:
-            rows.append(f"{label} · " + " · ".join(link(i) for i in items))
+            rows.append(f"{badge(spec)} <sub>"
+                        + " · ".join(link(i) for i in items) + "</sub>")
 
     infra = feed.get("infra", [])
     if infra:
-        rows.append("⚠ **Infrastructure** · " + " · ".join(
+        rows.append(f"{badge(INFRA_BADGE)} <sub>" + " · ".join(
             link({"title": f"{i['name']} {i['minutes']}min", "meta": i["impact"],
-                  "url": i["url"]}) for i in infra))
+                  "url": i["url"]}) for i in infra) + "</sub>")
 
     lines = [START, "", img, ""]
     if rows:
-        # <sub> is inline: keep its opening and closing tags on the same lines
-        # as the content so GitHub still applies markdown inside it
-        lines += ["<sub>" + "<br>\n".join(rows) + "</sub>", ""]
+        # <sub> wraps only the links -- a badge inside it would be shrunk and
+        # dropped to the subscript baseline
+        lines += ["<br>\n".join(rows), ""]
     lines.append(END)
     return "\n".join(lines)
 

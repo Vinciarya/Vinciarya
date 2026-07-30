@@ -27,13 +27,16 @@ OUT = os.path.join(HERE, "..", "newspaper.svg")
 esc = typeset.escape
 
 # ---- grid -------------------------------------------------------------------
-# The grid is solved so the canvas lands on exactly 860: three 260px columns
-# + two 20px gutters = 820 content, + 2x14 page margin = 848 paper, + 2x6 pad.
+# The grid is solved so the canvas lands on exactly 1000: three 304px columns
+# + two 24px gutters = 960 content, + 2x14 page margin = 988 paper, + 2x6 pad.
 # CANVAS_PAD is the only non-printing space -- it holds the drop shadow and the
 # travel of the idle float, so shrinking it further would clip both.
+# 1000 is wider than GitHub's README column, and GitHub puts max-width:100% on
+# markdown images, so the panel scales down to fill the column edge to edge on
+# any viewport instead of leaving a band beside it.
 CANVAS_PAD = 6
 PAGE_MARGIN = 14
-GUTTER = 20
+GUTTER = 24
 COL_W = typeset.COL_WIDTH
 COL_CHARS = typeset.COL_CHARS
 COL_X = [PAGE_MARGIN + i * (COL_W + GUTTER) for i in range(3)]
@@ -46,7 +49,7 @@ VRULE_X = COL_X[2] - GUTTER / 2
 
 BODY_FONT = "Georgia, 'Times New Roman', Times, serif"
 
-MASTHEAD_SIZE = 56       # sized to fit CONTENT_WIDTH once textLength stretches it
+MASTHEAD_SIZE = 68       # sized to fit CONTENT_WIDTH once textLength stretches it
 DATELINE_SIZE = 10
 HEADLINE_SIZE = 24
 DECK_SIZE = 12
@@ -70,9 +73,9 @@ HEADS = {
     "launches": "LAUNCHES",
 }
 
-HEADLINE_CHARS = 37
-DECK_CHARS = 85
-BANNER_CHARS = 80
+HEADLINE_CHARS = 44
+DECK_CHARS = 98
+BANNER_CHARS = 95
 
 # ---- animation timeline (seconds) -----------------------------------------
 # Edit here, not at the call sites. The whole performance is over by ~4.5s;

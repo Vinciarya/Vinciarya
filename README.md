@@ -9,7 +9,7 @@
 
 <h3><code>vinciarya@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Aryan's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="1000" alt="Aryan's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
@@ -24,12 +24,13 @@
 
 <!-- daily-commit:start -->
 
-<a href="https://github.com/oven-sh/bun/releases/tag/bun-v1.3.14"><img src="./newspaper.svg" width="860" alt="The Daily Commit — BUN SHIPS BUN-V1.3.14" /></a>
+<a href="https://github.com/oven-sh/bun/releases/tag/bun-v1.3.14"><img src="./newspaper.svg" width="1000" alt="The Daily Commit — BUN SHIPS BUN-V1.3.14" /></a>
 
-<sub>🧠 **AI Wire** · [AI's top startups are barely…](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) `504 pts` · [Document-borne AI worms can…](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/) `369 pts` · [Handbook.md shows that long policy…](https://arxiv.org/abs/2607.25398) `315 pts`<br>
-💬 **Hacker News** · [Superlogical](https://www.superlogical.com/) `715 pts` · [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) `708 pts` · [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models) `454 pts` · [Keychron announces first open-source…](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) `390 pts`<br>
-🚀 **Launches** · [Show HN: Open-source engine running…](https://github.com/drumih/turbo-fieldfare) `825 pts` · [Show HN: CheapFoodMap – A map of good…](https://cheapfoodmap.com/) `221 pts` · [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) `7.4k★` · [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) `2.3k★`<br>
-⚠ **Infrastructure** · [Anthropic 291min](https://stspg.io/c0fmy7628y3w) `major` · [Anthropic 166min](https://stspg.io/p7pqqb00414c) `critical`</sub>
+<a href="https://news.ycombinator.com/"><img src="https://img.shields.io/badge/AI_Wire-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Wire" /></a> <sub>[AI's top startups are barely…](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) `512 pts` · [Handbook.md shows that long policy…](https://arxiv.org/abs/2607.25398) `316 pts` · [LLM Honeypot](https://llm2human.pages.dev/) `292 pts`</sub><br>
+<a href="https://github.com/trending"><img src="https://img.shields.io/badge/GitHub_Trending-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Trending" /></a> <sub>[mattpocock/skills](https://github.com/mattpocock/skills) `+28★` · [digimata/quill](https://github.com/digimata/quill) `+20★` · [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) `+11★` · [microsoft/PowerToys](https://github.com/microsoft/PowerToys) `+11★`</sub><br>
+<a href="https://news.ycombinator.com/"><img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" alt="Hacker News" /></a> <sub>[Superlogical](https://www.superlogical.com/) `722 pts` · [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) `718 pts` · [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models) `455 pts` · [Keychron announces first open-source…](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) `392 pts`</sub><br>
+<a href="https://news.ycombinator.com/show"><img src="https://img.shields.io/badge/Launches-8B2500?style=for-the-badge&logo=producthunt&logoColor=white" alt="Launches" /></a> <sub>[Show HN: Open-source engine running…](https://github.com/drumih/turbo-fieldfare) `831 pts` · [Show HN: CheapFoodMap – A map of good…](https://cheapfoodmap.com/) `228 pts` · [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) `7.4k★` · [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) `2.3k★`</sub><br>
+<a href="https://www.githubstatus.com/"><img src="https://img.shields.io/badge/Infrastructure-B00020?style=for-the-badge&logo=statuspage&logoColor=white" alt="Infrastructure" /></a> <sub>[Anthropic 166min](https://stspg.io/p7pqqb00414c) `critical` · [GitHub 34min](https://stspg.io/8nsh6820sff9) `major`</sub>
 
 <!-- daily-commit:end -->
 
@@ -40,8 +41,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./vinciarya-ascii.svg" width="370" alt="Aryan Yadav — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Aryan Yadav — experience, stack, highlights" /></td>
+<td valign="top"><img src="./vinciarya-ascii.svg" width="430" alt="Aryan Yadav — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="570" alt="Aryan Yadav — experience, stack, highlights" /></td>
 </tr>
 </table>
 
