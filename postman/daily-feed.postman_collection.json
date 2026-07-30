@@ -1,0 +1,228 @@
+{
+  "info": {
+    "_postman_id": "d7e2f9a1-4b6c-4e8d-9a3f-1c5b8e2d6f47",
+    "name": "daily-feed",
+    "description": "Starter set for The Daily Commit newspaper panel. Five sources, one GitHub token, ~25 requests/day. Mirrors postman-starter-set.md exactly \u2014 run Request 0 first.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "auth": {
+    "type": "bearer",
+    "bearer": [
+      { "key": "token", "value": "{{gh_token}}", "type": "string" }
+    ]
+  },
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "const now = Date.now();",
+          "pm.environment.set(\"since_unix\", Math.floor((now - 86400000) / 1000));      // 24h ago",
+          "pm.environment.set(\"since_iso\",  new Date(now - 7*86400000)",
+          "                                   .toISOString().slice(0,10));             // 7d ago"
+        ]
+      }
+    }
+  ],
+  "item": [
+    {
+      "name": "0 - Rate limit check",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Accept", "value": "application/vnd.github+json" },
+          { "key": "X-GitHub-Api-Version", "value": "2022-11-28" }
+        ],
+        "url": {
+          "raw": "{{gh_api}}/rate_limit",
+          "host": ["{{gh_api}}"],
+          "path": ["rate_limit"]
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"200\", () => pm.response.to.have.status(200));",
+              "const core = pm.response.json().resources.core;",
+              "pm.test(\"token is authenticating\", () => pm.expect(core.limit).to.eql(5000));",
+              "console.log(`core: ${core.remaining}/${core.limit}`);"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "1 - Latest release (lead story)",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Accept", "value": "application/vnd.github+json" },
+          { "key": "X-GitHub-Api-Version", "value": "2022-11-28" }
+        ],
+        "url": {
+          "raw": "{{gh_api}}/repos/oven-sh/bun/releases/latest",
+          "host": ["{{gh_api}}"],
+          "path": ["repos", "oven-sh", "bun", "releases", "latest"]
+        },
+        "description": "Keyless fallback if you want to test it separately: GET https://github.com/oven-sh/bun/releases.atom (filter titles to ^v?\\d+\\.\\d+, it includes non-version tags too)."
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"200\", () => pm.response.to.have.status(200));",
+              "const r = pm.response.json();",
+              "pm.test(\"has tag\", () => pm.expect(r.tag_name).to.be.a(\"string\"));",
+              "pm.test(\"not a prerelease\", () => pm.expect(r.prerelease).to.be.false);",
+              "pm.test(\"has body for the lead\", () => pm.expect((r.body||\"\").length).to.be.above(40));",
+              "console.log(r.tag_name, \"|\", r.published_at, \"| body:\", (r.body||\"\").length, \"chars\");"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "2 - Hacker News (briefs)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "auth": { "type": "noauth" },
+        "url": {
+          "raw": "{{hn_api}}/search?tags=story&numericFilters=created_at_i>{{since_unix}},points>150&hitsPerPage=20&attributesToRetrieve=title,url,points,num_comments,author,created_at,objectID",
+          "host": ["{{hn_api}}"],
+          "path": ["search"],
+          "query": [
+            { "key": "tags", "value": "story" },
+            { "key": "numericFilters", "value": "created_at_i>{{since_unix}},points>150" },
+            { "key": "hitsPerPage", "value": "20" },
+            { "key": "attributesToRetrieve", "value": "title,url,points,num_comments,author,created_at,objectID" }
+          ]
+        },
+        "description": "Do not use tags=front_page for \"today\" \u2014 it isn't date-scoped. To exercise the thin-day path, temporarily bump numericFilters to points>800."
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"200\", () => pm.response.to.have.status(200));",
+              "const d = pm.response.json();",
+              "pm.test(\"has hits\", () => pm.expect(d.hits.length).to.be.above(0));",
+              "pm.test(\"all above threshold\", () =>",
+              "  d.hits.forEach(h => pm.expect(h.points).to.be.above(150)));",
+              "pm.test(\"all within 24h\", () => {",
+              "  const cut = Number(pm.environment.get(\"since_unix\"));",
+              "  d.hits.forEach(h => pm.expect(h.created_at_i).to.be.above(cut));",
+              "});",
+              "console.log(d.hits.map(h => `${h.points}  ${h.title}`).join(\"\\n\"));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "3 - Rising repos",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{gh_api}}/search/repositories?q=created:>{{since_iso}} stars:>100&sort=stars&order=desc&per_page=5",
+          "host": ["{{gh_api}}"],
+          "path": ["search", "repositories"],
+          "query": [
+            { "key": "q", "value": "created:>{{since_iso}} stars:>100" },
+            { "key": "sort", "value": "stars" },
+            { "key": "order", "value": "desc" },
+            { "key": "per_page", "value": "5" }
+          ]
+        },
+        "description": "Search has its own limit: 30 requests/minute, separate from the 5000/hr core pool. Don't hammer this one while iterating."
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"200\", () => pm.response.to.have.status(200));",
+              "const d = pm.response.json();",
+              "pm.test(\"got repos\", () => pm.expect(d.items.length).to.be.above(0));",
+              "pm.test(\"descriptions present\", () =>",
+              "  d.items.forEach(i => pm.expect(i.description).to.not.be.null));",
+              "console.log(d.items.map(i => `${i.stargazers_count}\u2605  ${i.full_name}`).join(\"\\n\"));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "4 - endoflife.date (legacy schema)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "auth": { "type": "noauth" },
+        "url": {
+          "raw": "{{eol_api}}/nodejs.json",
+          "host": ["{{eol_api}}"],
+          "path": ["nodejs.json"]
+        },
+        "description": "Legacy schema used here (cycle/releaseDate/eol). v1 equivalent is https://endoflife.date/api/v1/products/nodejs with different field names (name/date/cycles) \u2014 duplicate this request and swap the URL if you want to test v1 too. Swap 'nodejs' for another product to hit the eol:false boolean case."
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"200\", () => pm.response.to.have.status(200));",
+              "const cycles = pm.response.json();",
+              "pm.test(\"is an array\", () => pm.expect(cycles).to.be.an(\"array\"));",
+              "const soon = cycles.filter(c => typeof c.eol === \"string\"",
+              "  && new Date(c.eol) > new Date()",
+              "  && new Date(c.eol) < new Date(Date.now() + 90*86400000));",
+              "console.log(\"EOL within 90 days:\", soon.map(c => `${c.cycle} \u2192 ${c.eol}`));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "5 - Statuspage (outages box)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "auth": { "type": "noauth" },
+        "url": {
+          "raw": "https://www.githubstatus.com/api/v2/summary.json",
+          "protocol": "https",
+          "host": ["www", "githubstatus", "com"],
+          "path": ["api", "v2", "summary.json"]
+        },
+        "description": "Other vendors to verify individually (hostnames are inconsistent \u2014 duplicate this request per host): status.npmjs.org, www.cloudflarestatus.com, status.openai.com, status.anthropic.com, www.vercelstatus.com."
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"200\", () => pm.response.to.have.status(200));",
+              "const d = pm.response.json();",
+              "pm.test(\"has status.indicator\", () =>",
+              "  pm.expect(d.status.indicator).to.be.oneOf([\"none\",\"minor\",\"major\",\"critical\"]));",
+              "console.log(d.page.name, \"\u2192\", d.status.description,",
+              "            \"| incidents:\", d.incidents.length);"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

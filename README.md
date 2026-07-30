@@ -14,6 +14,18 @@
 <br>
 <br>
 
+<!-- self-updating newspaper front page: real daily dev news (GitHub Releases,
+     HN, GitHub Search, endoflife.date, Statuspage), regenerated daily by
+     .github/workflows/daily-feed.yml. Pipeline: scripts/fetch.py -> data/feed.json
+     -> scripts/newspaper.py -->
+
+<h3><code>vinciarya@github ~ $ ./the-daily-commit.sh</code></h3>
+
+<img src="./newspaper.svg" width="486" alt="The Daily Commit — a self-updating developer-news front page, refreshed daily" />
+
+<br>
+<br>
+
 <h3><code>vinciarya@github ~ $ whoami</code></h3>
 
 <table>

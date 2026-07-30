@@ -1,0 +1,481 @@
+{
+    "exhaustive": {
+        "nbHits": true,
+        "typo": true
+    },
+    "exhaustiveNbHits": true,
+    "exhaustiveTypo": true,
+    "hits": [
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "gitpusher42"
+                },
+                "story_text": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Hi HN,<p>I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.<p>I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.<p>The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included.<p>The trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel `pread`. While those reads are in flight, the GPU runs the shared part of the layer.<p>I ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo.<p>It currently generates 5–6 tok/s on an 8 GB M2 MacBook Air and 31–35 tok/s on an M5 MacBook Pro.<p>I also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache.<p>Try it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable.<p>I would love any kind of feedback!"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://github.com/drumih/turbo-fieldfare"
+                }
+            },
+            "author": "gitpusher42",
+            "created_at": "2026-07-29T15:05:43Z",
+            "num_comments": 250,
+            "objectID": "49098510",
+            "points": 712,
+            "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+            "url": "https://github.com/drumih/turbo-fieldfare"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Cider9986"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "KOReader"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://koreader.rocks/"
+                }
+            },
+            "author": "Cider9986",
+            "created_at": "2026-07-29T11:05:08Z",
+            "num_comments": 214,
+            "objectID": "49095865",
+            "points": 691,
+            "title": "KOReader",
+            "url": "https://koreader.rocks/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "yan"
+                },
+                "story_text": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "<a href=\"https://mitchellh.com/writing/superlogical\" rel=\"nofollow\">https://mitchellh.com/writing/superlogical</a>"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Superlogical"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.superlogical.com/"
+                }
+            },
+            "author": "yan",
+            "created_at": "2026-07-29T15:41:33Z",
+            "num_comments": 374,
+            "objectID": "49098965",
+            "points": 603,
+            "title": "Superlogical",
+            "url": "https://www.superlogical.com/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "robbiet480"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "The coolest use for the Vision Pro"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://christianselig.com/2026/07/vision-pro-house/"
+                }
+            },
+            "author": "robbiet480",
+            "created_at": "2026-07-29T20:39:40Z",
+            "num_comments": 216,
+            "objectID": "49102774",
+            "points": 517,
+            "title": "The coolest use for the Vision Pro",
+            "url": "https://christianselig.com/2026/07/vision-pro-house/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "monneyboi"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Kimi K3-256k"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.kimi.com/code/docs/en/kimi-code/models"
+                }
+            },
+            "author": "monneyboi",
+            "created_at": "2026-07-29T19:25:33Z",
+            "num_comments": 116,
+            "objectID": "49101852",
+            "points": 388,
+            "title": "Kimi K3-256k",
+            "url": "https://www.kimi.com/code/docs/en/kimi-code/models"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Canopy9560"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Document-borne AI worms can self-propagate through Copilot for Word"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
+                }
+            },
+            "author": "Canopy9560",
+            "created_at": "2026-07-29T11:44:33Z",
+            "num_comments": 279,
+            "objectID": "49096188",
+            "points": 358,
+            "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+            "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "siatko"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Darktable"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.darktable.org/"
+                }
+            },
+            "author": "siatko",
+            "created_at": "2026-07-29T12:33:02Z",
+            "num_comments": 156,
+            "objectID": "49096654",
+            "points": 331,
+            "title": "Darktable",
+            "url": "https://www.darktable.org/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "JLO64"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Keychron announces first open-source firmware for gaming mice"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
+                }
+            },
+            "author": "JLO64",
+            "created_at": "2026-07-29T16:36:59Z",
+            "num_comments": 133,
+            "objectID": "49099715",
+            "points": 331,
+            "title": "Keychron announces first open-source firmware for gaming mice",
+            "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "YeGoblynQueenne"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "AI's top startups are barely publishing their research"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
+                }
+            },
+            "author": "YeGoblynQueenne",
+            "created_at": "2026-07-29T21:25:40Z",
+            "num_comments": 179,
+            "objectID": "49103285",
+            "points": 327,
+            "title": "AI's top startups are barely publishing their research",
+            "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "bristleworm"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "French musician Kavinsky found dead"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home"
+                }
+            },
+            "author": "bristleworm",
+            "created_at": "2026-07-29T11:54:37Z",
+            "num_comments": 75,
+            "objectID": "49096290",
+            "points": 326,
+            "title": "French musician Kavinsky found dead",
+            "url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "spIrr"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Handbook.md shows that long policy documents do not reliably govern agents"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://arxiv.org/abs/2607.25398"
+                }
+            },
+            "author": "spIrr",
+            "created_at": "2026-07-29T13:01:57Z",
+            "num_comments": 186,
+            "objectID": "49096969",
+            "points": 313,
+            "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+            "url": "https://arxiv.org/abs/2607.25398"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "gregsadetsky"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Claude: Elevated errors across all models – Resolved"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://status.claude.com/incidents/q2kg8n613kr3"
+                }
+            },
+            "author": "gregsadetsky",
+            "created_at": "2026-07-29T19:50:42Z",
+            "num_comments": 241,
+            "objectID": "49102150",
+            "points": 261,
+            "title": "Claude: Elevated errors across all models – Resolved",
+            "url": "https://status.claude.com/incidents/q2kg8n613kr3"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "thm"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "A.I. companies are recruiting electricians and carpenters by the thousands"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+                }
+            },
+            "author": "thm",
+            "created_at": "2026-07-29T14:43:47Z",
+            "num_comments": 316,
+            "objectID": "49098198",
+            "points": 256,
+            "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+            "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "ankitg12"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers"
+                }
+            },
+            "author": "ankitg12",
+            "created_at": "2026-07-29T07:18:24Z",
+            "num_comments": 73,
+            "objectID": "49094346",
+            "points": 237,
+            "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+            "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "jaep1"
+                },
+                "story_text": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https://cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Show HN: CheapFoodMap – A map of good meals under $10"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://cheapfoodmap.com/"
+                }
+            },
+            "author": "jaep1",
+            "created_at": "2026-07-29T16:59:52Z",
+            "num_comments": 178,
+            "objectID": "49100043",
+            "points": 169,
+            "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+            "url": "https://cheapfoodmap.com/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "hn_acker"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "San Francisco: Don't Fall for Industry Defense of Surveillance Pricing"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing"
+                }
+            },
+            "author": "hn_acker",
+            "created_at": "2026-07-29T12:55:50Z",
+            "num_comments": 87,
+            "objectID": "49096885",
+            "points": 155,
+            "title": "San Francisco: Don't Fall for Industry Defense of Surveillance Pricing",
+            "url": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Bluestein"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Amiga Graphics Archive"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://amiga.lychesis.net/index.html"
+                }
+            },
+            "author": "Bluestein",
+            "created_at": "2026-07-29T10:19:44Z",
+            "num_comments": 24,
+            "objectID": "49095511",
+            "points": 155,
+            "title": "Amiga Graphics Archive",
+            "url": "https://amiga.lychesis.net/index.html"
+        }
+    ],
+    "hitsPerPage": 20,
+    "nbHits": 17,
+    "nbPages": 1,
+    "page": 0,
+    "params": "tags=story&numericFilters=created_at_i%3E1785303893%2Cpoints%3E150&hitsPerPage=20&attributesToRetrieve=title%2Curl%2Cpoints%2Cnum_comments%2Cauthor%2Ccreated_at%2CobjectID&advancedSyntax=true&analyticsTags=backend",
+    "processingTimeMS": 1,
+    "processingTimingsMS": {
+        "_request": {
+            "roundTrip": 15
+        },
+        "total": 1
+    },
+    "query": "",
+    "serverTimeMS": 2
+}

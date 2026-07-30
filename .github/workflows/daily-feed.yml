@@ -1,0 +1,40 @@
+name: daily-feed
+
+# Fetches the day's developer news, typesets it, commits the SVG if the
+# content actually changed. See newspaper-panel-spec.md for the full design.
+
+"on":
+  schedule:
+    - cron: "0 2 * * *"    # 02:00 UTC = 07:30 IST
+  workflow_dispatch: {}     # manual trigger, also keeps the schedule alive
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch and clean today's sources
+        run: python scripts/fetch.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
+      - name: Typeset the newspaper SVG
+        run: python scripts/newspaper.py
+
+      - name: Commit if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "feed: daily refresh [skip ci]"
+          file_pattern: "data/feed.json newspaper.svg"

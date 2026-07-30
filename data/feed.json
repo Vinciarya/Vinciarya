@@ -1,0 +1,50 @@
+{
+  "generated": "2026-07-30",
+  "edition": 301,
+  "lead": {
+    "headline": "BUN SHIPS BUN-V1.3.14",
+    "deck": "GitHub has released version 1.3.14 of the Bun JavaScript runtime, available for installation via a curl command or npm package, with upgrade instructions and release notes available on the official Bun blog",
+    "body": "The latest update, which credits 11 contributors, brings improvements to the platform, with users able to install the new version using a simple command or package manager, and upgrade existing installations with a single command",
+    "source": "oven-sh/bun"
+  },
+  "briefs": [
+    {
+      "kind": "hn",
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "meta": "746 pts"
+    },
+    {
+      "kind": "hn",
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "meta": "314 pts"
+    },
+    {
+      "kind": "rising",
+      "title": "MoonshotAI/Kimi-K3",
+      "meta": "6.7k\u2605"
+    },
+    {
+      "kind": "rising",
+      "title": "mshumer/Claude-of-Duty",
+      "meta": "2.3k\u2605"
+    },
+    {
+      "kind": "rising",
+      "title": "digimata/quill",
+      "meta": "1.7k\u2605"
+    }
+  ],
+  "ticker": [],
+  "outages": [
+    {
+      "name": "Cloudflare",
+      "status": "Minor Service Outage",
+      "indicator": "minor"
+    },
+    {
+      "name": "Anthropic",
+      "status": "Minor Service Outage",
+      "indicator": "minor"
+    }
+  ]
+}
