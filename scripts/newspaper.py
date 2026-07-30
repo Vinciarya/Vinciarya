@@ -61,16 +61,24 @@ META_SIZE = 9
 BANNER_SIZE = 10
 TICKER_SIZE = 9
 SECTION_SIZE = 10        # section heads, small caps
+STANDFIRST_SIZE = 8.5    # the italic line under each section head
+STANDFIRST_CHARS = 46    # a generated note must not overrun its column
+DESC_CHARS = 44          # per-item description, sharing a line with the metric
 KICKER_SIZE = 9
 
-# Section heads. The emoji from the spec live in the README index instead --
-# colour glyphs clash with a monochrome serif page, and an <img>-embedded SVG
-# can't load a font, so they'd render differently on every viewer's OS.
+# Section heads. The second element is a *fallback* standfirst: fetch.py writes
+# a live one into feed["notes"] describing what that run actually retrieved
+# ("Top 4 of 19 stories"), and these are only used when that key is absent.
+# Either way the line has to stay true to what fetch.py does -- "+28★" under
+# GITHUB TRENDING means nothing unless the reader knows it is a delta.
+# The emoji from the spec live in the README index instead -- colour glyphs
+# clash with a monochrome serif page, and an <img>-embedded SVG can't load a
+# font, so they'd render differently on every viewer's OS.
 HEADS = {
-    "ai": "AI WIRE",
-    "trending": "GITHUB TRENDING",
-    "hn": "HACKER NEWS",
-    "launches": "LAUNCHES",
+    "ai": ("AI WIRE", "The day's biggest AI stories"),
+    "trending": ("GITHUB TRENDING", "Stars gained since yesterday"),
+    "hn": ("HACKER NEWS", "Top-voted, past 24 hours"),
+    "launches": ("LAUNCHES", "Show HN and new repos this week"),
 }
 
 HEADLINE_CHARS = 44
@@ -223,13 +231,20 @@ def ticker_items(feed):
 
 # ==== sections ===============================================================
 
-def section_block(x, y, label, items, base, count_base):
-    """One titled column of briefs. Returns (svg_parts, next_y)."""
+def section_block(x, y, head, items, base, count_base):
+    """One titled column of briefs. `head` is (label, standfirst).
+
+    Returns (svg_parts, next_y).
+    """
+    label, standfirst = head
     parts = [text(x, y, label, SECTION_SIZE, weight="bold", letter_spacing=1.4,
                   cls="fade", extra=a(base))]
     y += 7
     parts.append(rule(y, base + 0.1, x1=x, x2=x + COL_W, width=0.5, dur=0.4))
-    y += SIDEBAR_SIZE + 9
+    y += STANDFIRST_SIZE + 4
+    parts.append(text(x, y, esc(standfirst), STANDFIRST_SIZE, style="italic",
+                      cls="fade dim", extra=a(base + 0.15)))
+    y += SIDEBAR_SIZE + 8
 
     for n, item in enumerate(items):
         rows = []
@@ -239,6 +254,12 @@ def section_block(x, y, label, items, base, count_base):
             y += SIDEBAR_LEADING
         parts.append(f'<g class="slide"{a(base + 0.25 + n * T_ITEM_STEP)}>'
                      f'{"".join(rows)}</g>')
+        # the description shares the metric's baseline -- left of the number,
+        # so the extra context costs the page no height at all
+        if item.get("desc"):
+            parts.append(text(x + 9, y, esc(typeset.truncate(item["desc"], DESC_CHARS)),
+                              META_SIZE, style="italic", cls="fade dim",
+                              extra=a(base + 0.3 + n * T_ITEM_STEP)))
         parts += counted_metric(x + COL_W, y, item["meta"], count_base + n * T_ITEM_STEP)
         y += META_SIZE + 9
     return parts, y
@@ -349,7 +370,13 @@ def build(feed):
         ly += DATELINE_SIZE
 
     sections = feed.get("sections", {})
-    ai_parts, ai_y = section_block(COL_X[2], content_top + SECTION_SIZE, HEADS["ai"],
+    notes = feed.get("notes", {})
+
+    def head(key):
+        label, fallback = HEADS[key]
+        return label, typeset.truncate(notes.get(key) or fallback, STANDFIRST_CHARS)
+
+    ai_parts, ai_y = section_block(COL_X[2], content_top + SECTION_SIZE, head("ai"),
                                    sections.get("ai", []), T_AI, T_COUNT)
     parts += ai_parts
 
@@ -359,7 +386,7 @@ def build(feed):
     # -- tier 2: the remaining sections, one per column ------------------------
     # Empty sections are skipped rather than left as a hole, so trending and
     # market simply aren't there on day one until a star baseline exists.
-    tier2 = [(HEADS[key], sections.get(key, []))
+    tier2 = [(head(key), sections.get(key, []))
              for key in ("trending", "hn", "launches") if sections.get(key)]
 
     y = tier1_bottom + 14
@@ -368,9 +395,9 @@ def build(feed):
         y += 16
         tier2_top = y
         tier2_bottom = y
-        for col, (label, items) in enumerate(tier2):
+        for col, (col_head, items) in enumerate(tier2):
             base = T_TIER2 + col * T_TIER2_STEP
-            block, end_y = section_block(COL_X[col], y + SECTION_SIZE, label, items,
+            block, end_y = section_block(COL_X[col], y + SECTION_SIZE, col_head, items,
                                          base, base)
             parts += block
             tier2_bottom = max(tier2_bottom, end_y)

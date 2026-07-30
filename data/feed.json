@@ -3,8 +3,8 @@
   "edition": 301,
   "lead": {
     "headline": "BUN SHIPS BUN-V1.3.14",
-    "deck": "Bun v1.3.14 is now available",
-    "body": "Bun, the JavaScript runtime, has been updated to version 1.3.14, marking a significant improvement in performance and stability. The release is the result of collaborative efforts from 11 contributors, who have worked to address various issues and enhance the overall user experience. With this update, users can expect improved performance, bug fixes, and enhanced functionality. The release notes are available on the official Bun blog, where users can learn more about the changes and improvements made in this version. As a result, developers can now rely on a more reliable and efficient JavaScript runtime, enabling them to focus on building high-quality applications",
+    "deck": "Bun, a popular JavaScript runtime, has been updated to version 1.3.14",
+    "body": "The latest release of Bun includes contributions from 11 developers, bringing various improvements and bug fixes to the platform. According to the release notes, the update addresses several issues and enhances the overall stability and performance of Bun. The changes are aimed at providing a smoother experience for developers, allowing them to build and deploy applications more efficiently. With this update, Bun continues to evolve as a versatile and reliable tool for modern web development, offering a range of features and capabilities that cater to the needs of a wide range of users. The release marks another step forward in the ongoing development of Bun",
     "source": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.3.14"
   },
@@ -13,19 +13,22 @@
       {
         "kind": "hn",
         "title": "AI's top startups are barely publishing their research",
-        "meta": "512 pts",
+        "meta": "519 pts",
+        "desc": "science.org \u00b7 266 comments",
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
       },
       {
         "kind": "hn",
         "title": "Handbook.md shows that long policy documents do not reliably govern agents",
         "meta": "316 pts",
+        "desc": "arxiv.org \u00b7 198 comments",
         "url": "https://arxiv.org/abs/2607.25398"
       },
       {
         "kind": "hn",
         "title": "LLM Honeypot",
-        "meta": "292 pts",
+        "meta": "300 pts",
+        "desc": "llm2human.pages.dev \u00b7 88 comments",
         "url": "https://llm2human.pages.dev/"
       }
     ],
@@ -33,51 +36,59 @@
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+28\u2605",
+        "meta": "+10\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "digimata/quill",
-        "meta": "+20\u2605",
-        "url": "https://github.com/digimata/quill"
+        "title": "obra/superpowers",
+        "meta": "+5\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+11\u2605",
-        "url": "https://github.com/firecrawl/firecrawl"
+        "title": "practical-tutorials/project-based-learning",
+        "meta": "+4\u2605",
+        "desc": "Curated list of project-based tutorials",
+        "url": "https://github.com/practical-tutorials/project-based-learning"
       },
       {
         "kind": "trending",
-        "title": "microsoft/PowerToys",
-        "meta": "+11\u2605",
-        "url": "https://github.com/microsoft/PowerToys"
+        "title": "affaan-m/ECC",
+        "meta": "+4\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
       }
     ],
     "hn": [
       {
         "kind": "hn",
         "title": "Superlogical",
-        "meta": "722 pts",
+        "meta": "727 pts",
+        "desc": "superlogical.com \u00b7 427 comments",
         "url": "https://www.superlogical.com/"
       },
       {
         "kind": "hn",
         "title": "The coolest use for the Vision Pro",
-        "meta": "718 pts",
+        "meta": "725 pts",
+        "desc": "christianselig.com \u00b7 279 comments",
         "url": "https://christianselig.com/2026/07/vision-pro-house/"
       },
       {
         "kind": "hn",
         "title": "Kimi K3-256k",
-        "meta": "455 pts",
+        "meta": "458 pts",
+        "desc": "kimi.com \u00b7 133 comments",
         "url": "https://www.kimi.com/code/docs/en/kimi-code/models"
       },
       {
         "kind": "hn",
         "title": "Keychron announces first open-source firmware for gaming mice",
-        "meta": "392 pts",
+        "meta": "397 pts",
+        "desc": "digitalfoundry.net \u00b7 166 comments",
         "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
       }
     ],
@@ -85,61 +96,71 @@
       {
         "kind": "hn",
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "meta": "831 pts",
+        "meta": "833 pts",
+        "desc": "github.com \u00b7 295 comments",
         "url": "https://github.com/drumih/turbo-fieldfare"
       },
       {
         "kind": "hn",
         "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
-        "meta": "228 pts",
+        "meta": "232 pts",
+        "desc": "cheapfoodmap.com \u00b7 206 comments",
         "url": "https://cheapfoodmap.com/"
       },
       {
         "kind": "rising",
         "title": "MoonshotAI/Kimi-K3",
         "meta": "7.4k\u2605",
+        "desc": "Open Frontier Intelligence",
         "url": "https://github.com/MoonshotAI/Kimi-K3"
       },
       {
         "kind": "rising",
         "title": "mshumer/Claude-of-Duty",
         "meta": "2.3k\u2605",
+        "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
         "url": "https://github.com/mshumer/Claude-of-Duty"
       }
     ]
   },
+  "notes": {
+    "ai": "3 of 5 AI stories, past 24 hours",
+    "trending": "Stars gained since the last run",
+    "hn": "Top 4 of 17 stories, past 24 hours",
+    "launches": "2 Show HN \u00b7 2 new repos"
+  },
   "market": [
     {
       "name": "skills",
-      "gained": 28
-    },
-    {
-      "name": "quill",
-      "gained": 20
-    },
-    {
-      "name": "firecrawl",
-      "gained": 11
-    },
-    {
-      "name": "PowerToys",
-      "gained": 11
+      "gained": 10
     },
     {
       "name": "superpowers",
-      "gained": 10
+      "gained": 5
     },
     {
-      "name": "graphify",
-      "gained": 10
+      "name": "project-based-learning",
+      "gained": 4
+    },
+    {
+      "name": "ECC",
+      "gained": 4
     },
     {
       "name": "hermes-agent",
-      "gained": 9
+      "gained": 3
     },
     {
-      "name": "markitdown",
-      "gained": 8
+      "name": "awesome-python",
+      "gained": 2
+    },
+    {
+      "name": "react",
+      "gained": 2
+    },
+    {
+      "name": "linux",
+      "gained": 2
     }
   ],
   "ticker": [],

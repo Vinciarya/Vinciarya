@@ -195,9 +195,17 @@ def fetch_hn_hits(min_points=HN_MIN_POINTS):
 
 
 def parse_hn_hit(hit):
-    """Pure: one HN hit -> a brief dict."""
+    """Pure: one HN hit -> a brief dict.
+
+    A bare headline like "Superlogical" says nothing, so the source domain and
+    the discussion size ride along as the item's description -- both are
+    already in the response, they were just being thrown away.
+    """
     url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit['objectID']}"
-    return {"kind": "hn", "title": hit["title"], "meta": f"{hit['points']} pts", "url": url}
+    domain = re.sub(r"^https?://(www\.)?", "", url).split("/")[0]
+    comments = hit.get("num_comments") or 0
+    return {"kind": "hn", "title": hit["title"], "meta": f"{hit['points']} pts",
+            "desc": f"{domain} · {comments} comments", "url": url}
 
 
 def is_ai_story(title):
@@ -232,6 +240,7 @@ def parse_rising_item(item):
     stars = item["stargazers_count"]
     meta = f"{stars/1000:.1f}k★" if stars >= 1000 else f"{stars}★"
     return {"kind": "rising", "title": item["full_name"], "meta": meta,
+            "desc": (item.get("description") or "").strip(),
             "url": item["html_url"]}
 
 
@@ -363,12 +372,17 @@ def fetch_star_pool(days=7, min_stars=5000, per_page=100):
 
 
 def build_star_snapshot(rising_items):
-    """{full_name: stars} for today. The freshly-launched repos are merged in
-    explicitly -- they are the fastest movers but too small for the pool query.
+    """({full_name: stars}, {full_name: description}) for today.
+
+    The freshly-launched repos are merged in explicitly -- they are the fastest
+    movers but too small for the pool query. Descriptions come along so the
+    trending section can say what each repo is; they are not persisted, since
+    only the counts are needed as tomorrow's baseline.
     """
-    snapshot = {i["full_name"]: i["stargazers_count"] for i in fetch_star_pool()}
-    snapshot.update({i["full_name"]: i["stargazers_count"] for i in rising_items})
-    return snapshot
+    pool = fetch_star_pool() + rising_items
+    snapshot = {i["full_name"]: i["stargazers_count"] for i in pool}
+    descriptions = {i["full_name"]: (i.get("description") or "").strip() for i in pool}
+    return snapshot, descriptions
 
 
 def star_deltas(snapshot, previous):
@@ -401,7 +415,20 @@ def feed_hash(feed):
     return hashlib.sha256(json.dumps(material, sort_keys=True).encode()).hexdigest()
 
 
-def build_feed(previous=None, prev_stars=None):
+def since_phrase(prev_captured, now=None):
+    """How long the star window actually was, in words."""
+    if not prev_captured:
+        return None
+    now = now or datetime.now(timezone.utc)
+    hours = (now - datetime.fromisoformat(prev_captured)).total_seconds() / 3600
+    if hours < 1:
+        return "since the last run"
+    if hours < 36:
+        return f"in the last {round(hours)}h"
+    return f"in the last {round(hours / 24)} days"
+
+
+def build_feed(previous=None, prev_stars=None, prev_captured=None):
     lead = None
     for repo in RELEASE_REPOS:
         lead = build_lead(repo)
@@ -436,25 +463,46 @@ def build_feed(previous=None, prev_stars=None):
             picked.append(item)
         return picked
 
-    ai = take([b for b in hn_pool if is_ai_story(b["title"])], MAX_AI)
+    ai_candidates = [b for b in hn_pool if is_ai_story(b["title"])]
+    ai = take(ai_candidates, MAX_AI)
 
     rising_items = fetch_rising_items()
     launches = take([b for b in hn_pool if is_launch(b["title"])]
                     + [parse_rising_item(i) for i in rising_items], MAX_LAUNCHES)
 
-    snapshot = build_star_snapshot(rising_items)
+    snapshot, descriptions = build_star_snapshot(rising_items)
     deltas = star_deltas(snapshot, prev_stars)
-    trending = take([{"kind": "trending", "title": repo,
-                      "meta": f"+{gained:,}★", "url": f"https://github.com/{repo}"}
+    trending = take([{"kind": "trending", "title": repo, "meta": f"+{gained:,}★",
+                      "desc": descriptions.get(repo, ""),
+                      "url": f"https://github.com/{repo}"}
                      for repo, gained, _ in deltas], MAX_TRENDING)
 
     hn = take(hn_pool, MAX_HN)
+
+    # Standfirsts are generated from what this run actually retrieved, so the
+    # panel describes today's numbers instead of a fixed caption. The renderer
+    # falls back to its own static text for any section missing a note.
+    # Three cases, and they are not the same: no baseline at all (day one),
+    # a baseline with no capture time (the pre-timestamp stars.json), and a
+    # baseline with a real interval to quote.
+    if not prev_stars:
+        trending_note = "Baseline set — deltas from tomorrow"
+    else:
+        trending_note = f"Stars gained {since_phrase(prev_captured) or 'since the last run'}"
+    notes = {
+        "ai": f"{len(ai)} of {len(ai_candidates)} AI stories, past 24 hours",
+        "trending": trending_note,
+        "hn": f"Top {len(hn)} of {len(hn_pool)} stories, past 24 hours",
+        "launches": (f"{sum(1 for l in launches if l['kind'] == 'hn')} Show HN · "
+                     f"{sum(1 for l in launches if l['kind'] == 'rising')} new repos"),
+    }
 
     feed = {
         "generated": date.today().isoformat(),
         "edition": edition_number(),
         "lead": lead,
         "sections": {"ai": ai, "trending": trending, "hn": hn, "launches": launches},
+        "notes": notes,
         "market": [{"name": repo.split("/")[-1], "gained": gained}
                    for repo, gained, _ in deltas[:MAX_MARKET]],
         "ticker": fetch_eol_ticker(),
@@ -470,16 +518,28 @@ def read_json(path):
         return json.load(f)
 
 
+def load_stars(path):
+    """(stars, captured_iso). Tolerates the original flat {repo: count} file,
+    which was written before the capture time was recorded."""
+    data = read_json(path)
+    if not data:
+        return None, None
+    if isinstance(data.get("stars"), dict):
+        return data["stars"], data.get("captured")
+    return data, None
+
+
 def main():
     previous = read_json(OUT_PATH)
-    prev_stars = read_json(STARS_PATH)
+    prev_stars, prev_captured = load_stars(STARS_PATH)
 
-    feed, snapshot = build_feed(previous, prev_stars)
+    feed, snapshot = build_feed(previous, prev_stars, prev_captured)
 
     # The snapshot is written every run even when the feed is unchanged --
     # skipping it would break the delta chain that trending and market need.
     with open(STARS_PATH, "w", encoding="utf-8") as f:
-        json.dump(snapshot, f, indent=2, sort_keys=True)
+        json.dump({"captured": datetime.now(timezone.utc).isoformat(),
+                   "stars": snapshot}, f, indent=2, sort_keys=True)
 
     if previous and feed_hash(previous) == feed_hash(feed):
         print("feed unchanged, skipping write")
