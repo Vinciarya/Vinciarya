@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-30",
-  "edition": 301,
+  "generated": "2026-07-31",
+  "edition": 302,
   "lead": {
     "headline": "BUN SHIPS BUN-V1.3.14",
-    "deck": "Bun v1.3.14 released with improvements",
-    "body": "The latest version of the JavaScript runtime, Bun v1.3.14, has been released with enhancements contributed by 11 developers. This update brings stability and performance improvements, allowing users to take advantage of faster execution and reduced errors. The release notes do not specify the exact nature of these improvements, but they are likely to benefit developers working on complex applications and services. The release is the result of collaborative efforts between the Bun team and the community, demonstrating the importance of open-source development and community engagement. As a result, users can expect a smoother experience when working with Bun, making it an attractive choice for those seeking a reliable and efficient JavaScript runtime",
+    "deck": "Bun, a JavaScript runtime, has been updated to version 1.3.14",
+    "body": "The latest release of Bun includes contributions from 11 developers, addressing various improvements and bug fixes. This update is part of the ongoing effort to refine the performance and reliability of the platform. As a result, users can expect enhanced stability and efficiency when working with Bun. The release notes, available on the Bun blog, provide a detailed account of the changes and enhancements made in this version. The update is now available for installation, and users can take advantage of the improvements by upgrading to the latest version. This development is significant for the Bun community, as it continues to build on the platform's capabilities and user experience",
     "source": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.3.14"
   },
@@ -12,174 +12,166 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "AI's top startups are barely publishing their research",
-        "meta": "522 pts",
-        "desc": "science.org \u00b7 266 comments",
-        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
+        "title": "Advancing the price-performance frontier with GPT\u20115.6",
+        "meta": "537 pts",
+        "desc": "openai.com \u00b7 352 comments",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
       },
       {
         "kind": "hn",
-        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-        "meta": "317 pts",
-        "desc": "arxiv.org \u00b7 198 comments",
-        "url": "https://arxiv.org/abs/2607.25398"
+        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "meta": "516 pts",
+        "desc": "deepmind.google \u00b7 416 comments",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
       },
       {
         "kind": "hn",
-        "title": "LLM Honeypot",
-        "meta": "300 pts",
-        "desc": "llm2human.pages.dev \u00b7 89 comments",
-        "url": "https://llm2human.pages.dev/"
+        "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+        "meta": "339 pts",
+        "desc": "bottlenecklabs.com \u00b7 198 comments",
+        "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+12\u2605",
+        "meta": "+1,092\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
+        "title": "Graphify-Labs/graphify",
+        "meta": "+438\u2605",
+        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "url": "https://github.com/Graphify-Labs/graphify"
+      },
+      {
+        "kind": "trending",
+        "title": "NousResearch/hermes-agent",
+        "meta": "+363\u2605",
+        "desc": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent"
+      },
+      {
+        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+4\u2605",
+        "meta": "+350\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
-        "title": "browser-use/browser-use",
-        "meta": "+4\u2605",
-        "desc": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "url": "https://github.com/browser-use/browser-use"
-      },
-      {
-        "kind": "trending",
-        "title": "EbookFoundation/free-programming-books",
-        "meta": "+3\u2605",
-        "desc": ":books: Freely available programming books",
-        "url": "https://github.com/EbookFoundation/free-programming-books"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Superlogical",
-        "meta": "729 pts",
-        "desc": "superlogical.com \u00b7 427 comments",
-        "url": "https://www.superlogical.com/"
+        "title": "UEFA and its national associations will not participate in FIFA competitions",
+        "meta": "890 pts",
+        "desc": "uefa.com \u00b7 486 comments",
+        "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/"
       },
       {
         "kind": "hn",
-        "title": "The coolest use for the Vision Pro",
-        "meta": "726 pts",
-        "desc": "christianselig.com \u00b7 281 comments",
-        "url": "https://christianselig.com/2026/07/vision-pro-house/"
+        "title": "Read this before you buy that TV streaming stick",
+        "meta": "647 pts",
+        "desc": "krebsonsecurity.com \u00b7 369 comments",
+        "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/"
       },
       {
         "kind": "hn",
-        "title": "Kimi K3-256k",
-        "meta": "459 pts",
-        "desc": "kimi.com \u00b7 133 comments",
-        "url": "https://www.kimi.com/code/docs/en/kimi-code/models"
+        "title": "Stacked PRs are now live on GitHub",
+        "meta": "555 pts",
+        "desc": "github.blog \u00b7 188 comments",
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
       },
       {
         "kind": "hn",
-        "title": "Keychron announces first open-source firmware for gaming mice",
-        "meta": "397 pts",
-        "desc": "digitalfoundry.net \u00b7 166 comments",
-        "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
+        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+        "meta": "426 pts",
+        "desc": "remysharp.com \u00b7 165 comments",
+        "url": "https://remysharp.com/links/2026-07-23-35890312"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "meta": "835 pts",
-        "desc": "github.com \u00b7 295 comments",
-        "url": "https://github.com/drumih/turbo-fieldfare"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
-        "meta": "234 pts",
-        "desc": "cheapfoodmap.com \u00b7 206 comments",
-        "url": "https://cheapfoodmap.com/"
-      },
-      {
         "kind": "rising",
         "title": "MoonshotAI/Kimi-K3",
-        "meta": "7.4k\u2605",
+        "meta": "7.6k\u2605",
         "desc": "Open Frontier Intelligence",
         "url": "https://github.com/MoonshotAI/Kimi-K3"
       },
       {
         "kind": "rising",
         "title": "mshumer/Claude-of-Duty",
-        "meta": "2.3k\u2605",
+        "meta": "2.4k\u2605",
         "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
         "url": "https://github.com/mshumer/Claude-of-Duty"
+      },
+      {
+        "kind": "rising",
+        "title": "VictorTaelin/OptMem",
+        "meta": "940\u2605",
+        "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+        "url": "https://github.com/VictorTaelin/OptMem"
+      },
+      {
+        "kind": "rising",
+        "title": "xikhar/persona",
+        "meta": "681\u2605",
+        "desc": "Bringing real-time voice to life.",
+        "url": "https://github.com/xikhar/persona"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 5 AI stories, past 24 hours",
-    "trending": "Stars gained since the last run",
-    "hn": "Top 4 of 17 stories, past 24 hours",
-    "launches": "2 Show HN \u00b7 2 new repos"
+    "ai": "3 of 6 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 17h",
+    "hn": "Top 4 of 18 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "skills",
-      "gained": 12
+      "gained": 1092
+    },
+    {
+      "name": "graphify",
+      "gained": 438
+    },
+    {
+      "name": "hermes-agent",
+      "gained": 363
     },
     {
       "name": "ECC",
-      "gained": 4
-    },
-    {
-      "name": "browser-use",
-      "gained": 4
-    },
-    {
-      "name": "free-programming-books",
-      "gained": 3
-    },
-    {
-      "name": "ollama",
-      "gained": 3
-    },
-    {
-      "name": "quill",
-      "gained": 3
-    },
-    {
-      "name": "developer-roadmap",
-      "gained": 2
+      "gained": 350
     },
     {
       "name": "superpowers",
-      "gained": 2
+      "gained": 349
+    },
+    {
+      "name": "firecrawl",
+      "gained": 297
+    },
+    {
+      "name": "PowerToys",
+      "gained": 277
+    },
+    {
+      "name": "ui-ux-pro-max-skill",
+      "gained": 244
     }
   ],
   "ticker": [],
   "infra": [
     {
       "name": "Anthropic",
-      "title": "Elevated errors across all models",
-      "impact": "critical",
-      "minutes": 166,
-      "ongoing": false,
-      "url": "https://stspg.io/p7pqqb00414c"
-    },
-    {
-      "name": "GitHub",
-      "title": "Incident with Actions",
+      "title": "Elevated errors across many models",
       "impact": "major",
-      "minutes": 34,
+      "minutes": 291,
       "ongoing": false,
-      "url": "https://stspg.io/8nsh6820sff9"
+      "url": "https://stspg.io/c0fmy7628y3w"
     }
   ]
 }
