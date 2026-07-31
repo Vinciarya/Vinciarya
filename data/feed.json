@@ -2,62 +2,62 @@
   "generated": "2026-07-31",
   "edition": 302,
   "lead": {
-    "headline": "BUN SHIPS BUN-V1.3.14",
-    "deck": "Bun, a JavaScript runtime, has been updated to version 1.3.14",
-    "body": "The latest release of Bun includes contributions from 11 developers, addressing various improvements and bug fixes. This update is part of the ongoing effort to refine the performance and reliability of the platform. As a result, users can expect enhanced stability and efficiency when working with Bun. The release notes, available on the Bun blog, provide a detailed account of the changes and enhancements made in this version. The update is now available for installation, and users can take advantage of the improvements by upgrading to the latest version. This development is significant for the Bun community, as it continues to build on the platform's capabilities and user experience",
-    "source": "oven-sh/bun",
-    "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.3.14"
+    "headline": "SKILLS SURGES TO #1 ON GITHUB",
+    "deck": "A repository of skills for real-world engineering applications has captured the attention of GitHub users, with its star count increasing by 74 in the last day alone",
+    "body": "The project, which appears to be a collection of practical tools and techniques, has drawn in developers seeking to improve their skills and tackle complex engineering challenges. With a total of 196,737 stars, it has become the fastest-growing repository on the platform, suggesting a strong demand for its content. The project's description, \"Skills for Real Engineers. Straight from my .agents directory,\" implies a focus on hands-on experience and real-world applicability, rather than theoretical knowledge. As a result, the project is likely to be of interest to professionals and hobbyists alike who are seeking to enhance their engineering skills and stay up-to-date with industry best practices",
+    "source": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
         "title": "Advancing the price-performance frontier with GPT\u20115.6",
-        "meta": "537 pts",
+        "meta": "545 pts",
         "desc": "openai.com \u00b7 352 comments",
         "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
       },
       {
         "kind": "hn",
         "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-        "meta": "516 pts",
-        "desc": "deepmind.google \u00b7 416 comments",
+        "meta": "526 pts",
+        "desc": "deepmind.google \u00b7 421 comments",
         "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
       },
       {
         "kind": "hn",
         "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-        "meta": "339 pts",
-        "desc": "bottlenecklabs.com \u00b7 198 comments",
+        "meta": "345 pts",
+        "desc": "bottlenecklabs.com \u00b7 201 comments",
         "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+1,092\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
-      },
-      {
-        "kind": "trending",
-        "title": "Graphify-Labs/graphify",
-        "meta": "+438\u2605",
-        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "url": "https://github.com/Graphify-Labs/graphify"
-      },
-      {
-        "kind": "trending",
         "title": "NousResearch/hermes-agent",
-        "meta": "+363\u2605",
+        "meta": "+30\u2605",
         "desc": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent"
       },
       {
         "kind": "trending",
+        "title": "Graphify-Labs/graphify",
+        "meta": "+26\u2605",
+        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "url": "https://github.com/Graphify-Labs/graphify"
+      },
+      {
+        "kind": "trending",
+        "title": "obra/superpowers",
+        "meta": "+21\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
+      },
+      {
+        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+350\u2605",
+        "meta": "+20\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       }
@@ -66,22 +66,22 @@
       {
         "kind": "hn",
         "title": "UEFA and its national associations will not participate in FIFA competitions",
-        "meta": "890 pts",
-        "desc": "uefa.com \u00b7 486 comments",
+        "meta": "914 pts",
+        "desc": "uefa.com \u00b7 491 comments",
         "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/"
       },
       {
         "kind": "hn",
         "title": "Read this before you buy that TV streaming stick",
-        "meta": "647 pts",
-        "desc": "krebsonsecurity.com \u00b7 369 comments",
+        "meta": "665 pts",
+        "desc": "krebsonsecurity.com \u00b7 382 comments",
         "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/"
       },
       {
         "kind": "hn",
         "title": "Stacked PRs are now live on GitHub",
-        "meta": "555 pts",
-        "desc": "github.blog \u00b7 188 comments",
+        "meta": "578 pts",
+        "desc": "github.blog \u00b7 193 comments",
         "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
       },
       {
@@ -110,14 +110,14 @@
       {
         "kind": "rising",
         "title": "VictorTaelin/OptMem",
-        "meta": "940\u2605",
+        "meta": "941\u2605",
         "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
         "url": "https://github.com/VictorTaelin/OptMem"
       },
       {
         "kind": "rising",
         "title": "xikhar/persona",
-        "meta": "681\u2605",
+        "meta": "684\u2605",
         "desc": "Bringing real-time voice to life.",
         "url": "https://github.com/xikhar/persona"
       }
@@ -125,53 +125,44 @@
   },
   "notes": {
     "ai": "3 of 6 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 17h",
-    "hn": "Top 4 of 18 stories, past 24 hours",
+    "trending": "Stars gained since the last run",
+    "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "skills",
-      "gained": 1092
-    },
-    {
-      "name": "graphify",
-      "gained": 438
+      "gained": 74
     },
     {
       "name": "hermes-agent",
-      "gained": 363
+      "gained": 30
     },
     {
-      "name": "ECC",
-      "gained": 350
+      "name": "graphify",
+      "gained": 26
     },
     {
       "name": "superpowers",
-      "gained": 349
+      "gained": 21
+    },
+    {
+      "name": "ECC",
+      "gained": 20
     },
     {
       "name": "firecrawl",
-      "gained": 297
-    },
-    {
-      "name": "PowerToys",
-      "gained": 277
+      "gained": 18
     },
     {
       "name": "ui-ux-pro-max-skill",
-      "gained": 244
+      "gained": 17
+    },
+    {
+      "name": "awesome-llm-apps",
+      "gained": 15
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Anthropic",
-      "title": "Elevated errors across many models",
-      "impact": "major",
-      "minutes": 291,
-      "ongoing": false,
-      "url": "https://stspg.io/c0fmy7628y3w"
-    }
-  ]
+  "infra": []
 }
