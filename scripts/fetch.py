@@ -29,9 +29,11 @@ STATUSPAGES = {
 }
 
 # ---- config: edit these to match your actual stack -------------------------
-# Spec calls for 10-15 repos matching the runtimes/tooling you actually use
-# (newspaper-panel-spec.md #4). Starts with just Bun since that's what every
-# fixture so far has been tested against -- add your own.
+# The front page leads with today's #1 trending repo (see build_trending_lead),
+# not a release watchlist -- a fixed repo can go days without shipping, but the
+# star-gain pool almost never goes quiet. RELEASE_REPOS is now only a fallback
+# for when there's no star baseline yet to compute a trending leader from
+# (day one, or the snapshot file is missing).
 RELEASE_REPOS = ["oven-sh/bun"]
 
 EOL_PRODUCTS = ["nodejs"]
@@ -111,21 +113,8 @@ def first_paragraph(body):
     return None
 
 
-def groq_prose(repo, tag, raw_body):
-    """Ask Groq for a (deck, body) pair. None if unset/unavailable/malformed."""
-    if not GROQ_API_KEY:
-        return None
-    prompt = (
-        f"Write a two-line newspaper blurb about the GitHub release {repo} {tag}.\n"
-        f"Release notes:\n{(raw_body or '(no notes provided)')[:2000]}\n\n"
-        "Reply with exactly two lines, no labels, no quotes:\n"
-        "Write flowing prose only -- no code, no shell commands, no URLs, no "
-        "install or upgrade instructions. Report what changed and why it matters.\n"
-        "1. a one-sentence deck, under 90 characters\n"
-        # the lead body fills two 40-char columns on the panel; ~100 words is
-        # what it takes to set them both without leaving the page half empty
-        "2. a 95-115 word body paragraph in neutral news style"
-    )
+def _groq_complete(prompt):
+    """(deck, body) parsed from a Groq chat completion, or None on any failure."""
     try:
         r = requests.post(
             "https://api.groq.com/openai/v1/chat/completions",
@@ -146,6 +135,42 @@ def groq_prose(repo, tag, raw_body):
     except (requests.RequestException, KeyError, IndexError):
         pass
     return None
+
+
+def groq_prose(repo, tag, raw_body):
+    """Ask Groq for a (deck, body) pair. None if unset/unavailable/malformed."""
+    if not GROQ_API_KEY:
+        return None
+    prompt = (
+        f"Write a two-line newspaper blurb about the GitHub release {repo} {tag}.\n"
+        f"Release notes:\n{(raw_body or '(no notes provided)')[:2000]}\n\n"
+        "Reply with exactly two lines, no labels, no quotes:\n"
+        "Write flowing prose only -- no code, no shell commands, no URLs, no "
+        "install or upgrade instructions. Report what changed and why it matters.\n"
+        "1. a one-sentence deck, under 90 characters\n"
+        # the lead body fills two 40-char columns on the panel; ~100 words is
+        # what it takes to set them both without leaving the page half empty
+        "2. a 95-115 word body paragraph in neutral news style"
+    )
+    return _groq_complete(prompt)
+
+
+def groq_trending_prose(repo, description, gained, total):
+    """Ask Groq for a (deck, body) pair about a trending repo. None if unset/unavailable/malformed."""
+    if not GROQ_API_KEY:
+        return None
+    prompt = (
+        f"Write a two-line newspaper blurb about {repo}, the fastest-growing "
+        f"repository on GitHub today (+{gained:,} stars in the last day, "
+        f"{total:,} total).\n"
+        f"Description: {description or '(no description provided)'}\n\n"
+        "Reply with exactly two lines, no labels, no quotes:\n"
+        "Write flowing prose only -- no code, no shell commands, no URLs. "
+        "Report what the project does and why it's drawing attention today.\n"
+        "1. a one-sentence deck, under 90 characters\n"
+        "2. a 95-115 word body paragraph in neutral news style"
+    )
+    return _groq_complete(prompt)
 
 
 def assemble_lead(repo, tag, prose, groq_result, url=""):
@@ -177,6 +202,37 @@ def build_lead(repo):
     prose = first_paragraph(raw.get("body"))
     groq_result = groq_prose(repo, tag, raw.get("body"))
     return assemble_lead(repo, tag, prose, groq_result, raw.get("html_url", ""))
+
+
+def assemble_trending_lead(repo, gained, total, description, groq_result):
+    """Pure: a trending repo's stats (+ optional Groq prose) -> a lead dict."""
+    if groq_result:
+        deck, body = groq_result
+    elif description:
+        deck = description[:90]
+        body = (f"{repo} is today's fastest-growing repository on GitHub, gaining "
+                f"{gained:,} stars in the last day to reach {total:,} total. {description}")
+    else:
+        deck = f"+{gained:,} stars in the last day"
+        body = (f"{repo} is today's fastest-growing repository on GitHub, gaining "
+                f"{gained:,} stars in the last day to reach {total:,} total.")
+    return {
+        "headline": f"{repo.split('/')[-1].upper()} SURGES TO #1 ON GITHUB",
+        "deck": deck,
+        "body": body,
+        "source": repo,
+        "url": f"https://github.com/{repo}",
+    }
+
+
+def build_trending_lead(deltas, descriptions):
+    """Today's #1 star-gainer as the lead, or None with no baseline to rank yet."""
+    if not deltas:
+        return None
+    repo, gained, total = deltas[0]
+    description = descriptions.get(repo, "")
+    groq_result = groq_trending_prose(repo, description, gained, total)
+    return assemble_trending_lead(repo, gained, total, description, groq_result)
 
 
 # ==== Hacker News (briefs) ===================================================
@@ -429,26 +485,14 @@ def since_phrase(prev_captured, now=None):
 
 
 def build_feed(previous=None, prev_stars=None, prev_captured=None):
-    lead = None
-    for repo in RELEASE_REPOS:
-        lead = build_lead(repo)
-        if lead:
-            break
-    if lead is None and previous:
-        lead = previous.get("lead")
-    if lead is None:
-        lead = {
-            "headline": "QUIET DAY ON THE RELEASE RADAR",
-            "deck": "No qualifying releases today",
-            "body": "None of today's tracked repos shipped a release. Back tomorrow.",
-            "source": "",
-            "url": "",
-        }
+    hn_pool = fetch_hn_briefs()
+    rising_items = fetch_rising_items()
+    snapshot, descriptions = build_star_snapshot(rising_items)
+    deltas = star_deltas(snapshot, prev_stars)
 
     # Sections claim stories in priority order and remove what they take, so a
     # story that qualifies for several (an AI repo that is also a Show HN and
     # also trending) is printed exactly once, in its most specific section.
-    hn_pool = fetch_hn_briefs()
     claimed = set()
 
     def take(candidates, limit):
@@ -463,19 +507,42 @@ def build_feed(previous=None, prev_stars=None, prev_captured=None):
             picked.append(item)
         return picked
 
+    # The front page leads with today's #1 trending repo (biggest star gain
+    # since yesterday), not a fixed watchlist -- see RELEASE_REPOS above.
+    # Only falls back to a release check / yesterday's lead when there's no
+    # star baseline yet to rank a trending leader from.
+    lead = build_trending_lead(deltas, descriptions)
+    remaining_deltas = deltas
+    if lead:
+        claimed.add(lead["url"])
+        remaining_deltas = deltas[1:]
+    else:
+        for repo in RELEASE_REPOS:
+            lead = build_lead(repo)
+            if lead:
+                break
+        if lead is None and previous:
+            lead = previous.get("lead")
+        if lead is None:
+            lead = {
+                "headline": "QUIET DAY ON GITHUB",
+                "deck": "No star baseline yet to name a trending leader",
+                "body": "Today's run has no prior snapshot to compare against, so no "
+                        "trending leader could be computed. Back tomorrow.",
+                "source": "",
+                "url": "",
+            }
+
     ai_candidates = [b for b in hn_pool if is_ai_story(b["title"])]
     ai = take(ai_candidates, MAX_AI)
 
-    rising_items = fetch_rising_items()
     launches = take([b for b in hn_pool if is_launch(b["title"])]
                     + [parse_rising_item(i) for i in rising_items], MAX_LAUNCHES)
 
-    snapshot, descriptions = build_star_snapshot(rising_items)
-    deltas = star_deltas(snapshot, prev_stars)
     trending = take([{"kind": "trending", "title": repo, "meta": f"+{gained:,}★",
                       "desc": descriptions.get(repo, ""),
                       "url": f"https://github.com/{repo}"}
-                     for repo, gained, _ in deltas], MAX_TRENDING)
+                     for repo, gained, _ in remaining_deltas], MAX_TRENDING)
 
     hn = take(hn_pool, MAX_HN)
 
