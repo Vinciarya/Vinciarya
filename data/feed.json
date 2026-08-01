@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-31",
-  "edition": 302,
+  "generated": "2026-08-01",
+  "edition": 303,
   "lead": {
     "headline": "SKILLS SURGES TO #1 ON GITHUB",
-    "deck": "A repository of skills for real-world engineering applications has captured the attention of GitHub users, with its star count increasing by 74 in the last day alone",
-    "body": "The project, which appears to be a collection of practical tools and techniques, has drawn in developers seeking to improve their skills and tackle complex engineering challenges. With a total of 196,737 stars, it has become the fastest-growing repository on the platform, suggesting a strong demand for its content. The project's description, \"Skills for Real Engineers. Straight from my .agents directory,\" implies a focus on hands-on experience and real-world applicability, rather than theoretical knowledge. As a result, the project is likely to be of interest to professionals and hobbyists alike who are seeking to enhance their engineering skills and stay up-to-date with industry best practices",
+    "deck": "A rapidly growing repository on GitHub is drawing attention from the tech community, thanks to its collection of essential skills for software engineers",
+    "body": "The project, which has seen a significant surge in popularity with over 1,300 new stars in the past day, promises to equip engineers with the practical knowledge and tools needed to excel in their field. Described as \"straight from my .agents directory,\" the repository appears to offer a curated set of skills and expertise gathered from real-world experience",
     "source": "mattpocock/skills",
     "url": "https://github.com/mattpocock/skills"
   },
@@ -12,155 +12,148 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Advancing the price-performance frontier with GPT\u20115.6",
-        "meta": "545 pts",
-        "desc": "openai.com \u00b7 352 comments",
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
+        "title": "qm \u2013 Multiplayer agent harness for work",
+        "meta": "521 pts",
+        "desc": "github.com \u00b7 109 comments",
+        "url": "https://github.com/yc-software/qm"
       },
       {
         "kind": "hn",
-        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-        "meta": "526 pts",
-        "desc": "deepmind.google \u00b7 421 comments",
-        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
-      },
-      {
-        "kind": "hn",
-        "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-        "meta": "345 pts",
-        "desc": "bottlenecklabs.com \u00b7 201 comments",
-        "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
+        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "meta": "490 pts",
+        "desc": "blog.google \u00b7 495 comments",
+        "url": "https://blog.google/security/chrome-stronger-with-every-update/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "NousResearch/hermes-agent",
-        "meta": "+30\u2605",
-        "desc": "The agent that grows with you",
-        "url": "https://github.com/NousResearch/hermes-agent"
-      },
-      {
-        "kind": "trending",
         "title": "Graphify-Labs/graphify",
-        "meta": "+26\u2605",
+        "meta": "+542\u2605",
         "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
         "url": "https://github.com/Graphify-Labs/graphify"
       },
       {
         "kind": "trending",
+        "title": "NousResearch/hermes-agent",
+        "meta": "+462\u2605",
+        "desc": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent"
+      },
+      {
+        "kind": "trending",
         "title": "obra/superpowers",
-        "meta": "+21\u2605",
+        "meta": "+436\u2605",
         "desc": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+20\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
+        "title": "anomalyco/opencode",
+        "meta": "+426\u2605",
+        "desc": "The open source coding agent.",
+        "url": "https://github.com/anomalyco/opencode"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "UEFA and its national associations will not participate in FIFA competitions",
-        "meta": "914 pts",
-        "desc": "uefa.com \u00b7 491 comments",
-        "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/"
+        "title": "Elevators",
+        "meta": "1085 pts",
+        "desc": "john.fun \u00b7 256 comments",
+        "url": "https://john.fun/elevators"
       },
       {
         "kind": "hn",
-        "title": "Read this before you buy that TV streaming stick",
-        "meta": "665 pts",
-        "desc": "krebsonsecurity.com \u00b7 382 comments",
-        "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/"
+        "title": "DeepSeek-V4-Flash Update",
+        "meta": "684 pts",
+        "desc": "api-docs.deepseek.com \u00b7 329 comments",
+        "url": "https://api-docs.deepseek.com/updates/"
       },
       {
         "kind": "hn",
-        "title": "Stacked PRs are now live on GitHub",
-        "meta": "578 pts",
-        "desc": "github.blog \u00b7 193 comments",
-        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
+        "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+        "meta": "542 pts",
+        "desc": "artificialanalysis.ai \u00b7 293 comments",
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash"
       },
       {
         "kind": "hn",
-        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-        "meta": "426 pts",
-        "desc": "remysharp.com \u00b7 165 comments",
-        "url": "https://remysharp.com/links/2026-07-23-35890312"
+        "title": "Tailscale didn't stop the Hugging Face intrusion",
+        "meta": "505 pts",
+        "desc": "tailscale.com \u00b7 195 comments",
+        "url": "https://tailscale.com/blog/hugging-face-intrusion"
       }
     ],
     "launches": [
       {
+        "kind": "hn",
+        "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
+        "meta": "198 pts",
+        "desc": "github.com \u00b7 69 comments",
+        "url": "https://github.com/mokshablr/gander"
+      },
+      {
         "kind": "rising",
         "title": "MoonshotAI/Kimi-K3",
-        "meta": "7.6k\u2605",
+        "meta": "7.7k\u2605",
         "desc": "Open Frontier Intelligence",
         "url": "https://github.com/MoonshotAI/Kimi-K3"
       },
       {
         "kind": "rising",
-        "title": "mshumer/Claude-of-Duty",
-        "meta": "2.4k\u2605",
-        "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-        "url": "https://github.com/mshumer/Claude-of-Duty"
-      },
-      {
-        "kind": "rising",
-        "title": "VictorTaelin/OptMem",
-        "meta": "941\u2605",
-        "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-        "url": "https://github.com/VictorTaelin/OptMem"
+        "title": "bashalarmistalt/decimen-optical-transfer",
+        "meta": "2.3k\u2605",
+        "desc": "",
+        "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
       },
       {
         "kind": "rising",
         "title": "xikhar/persona",
-        "meta": "684\u2605",
+        "meta": "725\u2605",
         "desc": "Bringing real-time voice to life.",
         "url": "https://github.com/xikhar/persona"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 6 AI stories, past 24 hours",
-    "trending": "Stars gained since the last run",
-    "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "ai": "2 of 2 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 23h",
+    "hn": "Top 4 of 13 stories, past 24 hours",
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "skills",
-      "gained": 74
-    },
-    {
-      "name": "hermes-agent",
-      "gained": 30
+      "gained": 1306
     },
     {
       "name": "graphify",
-      "gained": 26
+      "gained": 542
+    },
+    {
+      "name": "hermes-agent",
+      "gained": 462
     },
     {
       "name": "superpowers",
-      "gained": 21
+      "gained": 436
+    },
+    {
+      "name": "opencode",
+      "gained": 426
+    },
+    {
+      "name": "cc-switch",
+      "gained": 348
     },
     {
       "name": "ECC",
-      "gained": 20
+      "gained": 315
     },
     {
       "name": "firecrawl",
-      "gained": 18
-    },
-    {
-      "name": "ui-ux-pro-max-skill",
-      "gained": 17
-    },
-    {
-      "name": "awesome-llm-apps",
-      "gained": 15
+      "gained": 315
     }
   ],
   "ticker": [],
