@@ -1,159 +1,159 @@
 {
-  "generated": "2026-08-01",
-  "edition": 303,
+  "generated": "2026-08-02",
+  "edition": 304,
   "lead": {
-    "headline": "SKILLS SURGES TO #1 ON GITHUB",
-    "deck": "A rapidly growing repository on GitHub is drawing attention from the tech community, thanks to its collection of essential skills for software engineers",
-    "body": "The project, which has seen a significant surge in popularity with over 1,300 new stars in the past day, promises to equip engineers with the practical knowledge and tools needed to excel in their field. Described as \"straight from my .agents directory,\" the repository appears to offer a curated set of skills and expertise gathered from real-world experience",
-    "source": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills"
+    "headline": "QM SURGES TO #1 ON GITHUB",
+    "deck": "YC-Software's QM project is rapidly gaining traction as the fastest-growing repository on GitHub, with a staggering 2,689 new stars in the last day alone",
+    "body": "The project, which has now accumulated 5,288 total stars, is a multiplayer agent harness designed to facilitate collaborative work among teams. Its sudden surge in popularity suggests that it may be addressing a pressing need in the industry, possibly by streamlining workflows, enhancing productivity, or providing a more efficient way to manage complex projects. As more developers and organizations become aware of its capabilities, it is likely that QM will continue to attract attention and users, potentially leading to significant advancements in the field of collaborative work",
+    "source": "yc-software/qm",
+    "url": "https://github.com/yc-software/qm"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "qm \u2013 Multiplayer agent harness for work",
-        "meta": "521 pts",
-        "desc": "github.com \u00b7 109 comments",
-        "url": "https://github.com/yc-software/qm"
+        "title": "AI doesn't generate working products, that's still your job",
+        "meta": "251 pts",
+        "desc": "weeraman.com \u00b7 268 comments",
+        "url": "https://weeraman.com/the-prototype-isnt-the-product/"
       },
       {
         "kind": "hn",
-        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-        "meta": "490 pts",
-        "desc": "blog.google \u00b7 495 comments",
-        "url": "https://blog.google/security/chrome-stronger-with-every-update/"
+        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "meta": "238 pts",
+        "desc": "mitsloan.mit.edu \u00b7 210 comments",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "mattpocock/skills",
+        "meta": "+1,107\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
         "title": "Graphify-Labs/graphify",
-        "meta": "+542\u2605",
+        "meta": "+586\u2605",
         "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
         "url": "https://github.com/Graphify-Labs/graphify"
       },
       {
         "kind": "trending",
+        "title": "microsoft/generative-ai-for-beginners",
+        "meta": "+468\u2605",
+        "desc": "21 Lessons, Get Started Building with Generative AI",
+        "url": "https://github.com/microsoft/generative-ai-for-beginners"
+      },
+      {
+        "kind": "trending",
         "title": "NousResearch/hermes-agent",
-        "meta": "+462\u2605",
+        "meta": "+417\u2605",
         "desc": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent"
-      },
-      {
-        "kind": "trending",
-        "title": "obra/superpowers",
-        "meta": "+436\u2605",
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
-      },
-      {
-        "kind": "trending",
-        "title": "anomalyco/opencode",
-        "meta": "+426\u2605",
-        "desc": "The open source coding agent.",
-        "url": "https://github.com/anomalyco/opencode"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Elevators",
-        "meta": "1085 pts",
-        "desc": "john.fun \u00b7 256 comments",
-        "url": "https://john.fun/elevators"
+        "title": "How Google helped destroy adoption of RSS feeds (2023)",
+        "meta": "471 pts",
+        "desc": "openrss.org \u00b7 160 comments",
+        "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds"
       },
       {
         "kind": "hn",
-        "title": "DeepSeek-V4-Flash Update",
-        "meta": "684 pts",
-        "desc": "api-docs.deepseek.com \u00b7 329 comments",
-        "url": "https://api-docs.deepseek.com/updates/"
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "meta": "425 pts",
+        "desc": "openai.com \u00b7 293 comments",
+        "url": "https://openai.com/index/ten-advances-in-mathematics/"
       },
       {
         "kind": "hn",
-        "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-        "meta": "542 pts",
-        "desc": "artificialanalysis.ai \u00b7 293 comments",
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash"
+        "title": "Cursor removed cost information from the usage page and CSV export",
+        "meta": "317 pts",
+        "desc": "forum.cursor.com \u00b7 143 comments",
+        "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153"
       },
       {
         "kind": "hn",
-        "title": "Tailscale didn't stop the Hugging Face intrusion",
-        "meta": "505 pts",
-        "desc": "tailscale.com \u00b7 195 comments",
-        "url": "https://tailscale.com/blog/hugging-face-intrusion"
+        "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+        "meta": "284 pts",
+        "desc": "michaelgeist.ca \u00b7 157 comments",
+        "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
-        "meta": "198 pts",
-        "desc": "github.com \u00b7 69 comments",
-        "url": "https://github.com/mokshablr/gander"
-      },
-      {
         "kind": "rising",
         "title": "MoonshotAI/Kimi-K3",
-        "meta": "7.7k\u2605",
+        "meta": "7.8k\u2605",
         "desc": "Open Frontier Intelligence",
         "url": "https://github.com/MoonshotAI/Kimi-K3"
       },
       {
         "kind": "rising",
         "title": "bashalarmistalt/decimen-optical-transfer",
-        "meta": "2.3k\u2605",
+        "meta": "3.1k\u2605",
         "desc": "",
         "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
       },
       {
         "kind": "rising",
-        "title": "xikhar/persona",
-        "meta": "725\u2605",
-        "desc": "Bringing real-time voice to life.",
-        "url": "https://github.com/xikhar/persona"
+        "title": "QwenAudio/qwen-audio-agent",
+        "meta": "1.4k\u2605",
+        "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+        "url": "https://github.com/QwenAudio/qwen-audio-agent"
+      },
+      {
+        "kind": "rising",
+        "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "meta": "1.2k\u2605",
+        "desc": "FDE\uff08\u524d\u6cbf\u90e8\u7f72\u5de5\u7a0b\u5e08\uff09\u4ece\u96f6\u5165\u95e8\u6307\u5357\uff08\u57fa\u4e8e\u8303\u51b0\u300a\u589e\u957f\u9ed1\u5ba2\u300b\u539f\u4e66\u6846\u67b6\uff09",
+        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
       }
     ]
   },
   "notes": {
     "ai": "2 of 2 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 23h",
-    "hn": "Top 4 of 13 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "trending": "Stars gained in the last 24h",
+    "hn": "Top 4 of 16 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
+      "name": "qm",
+      "gained": 2689
+    },
+    {
       "name": "skills",
-      "gained": 1306
+      "gained": 1107
+    },
+    {
+      "name": "decimen-optical-transfer",
+      "gained": 876
+    },
+    {
+      "name": "qwen-audio-agent",
+      "gained": 821
     },
     {
       "name": "graphify",
-      "gained": 542
+      "gained": 586
+    },
+    {
+      "name": "generative-ai-for-beginners",
+      "gained": 468
     },
     {
       "name": "hermes-agent",
-      "gained": 462
-    },
-    {
-      "name": "superpowers",
-      "gained": 436
-    },
-    {
-      "name": "opencode",
-      "gained": 426
-    },
-    {
-      "name": "cc-switch",
-      "gained": 348
-    },
-    {
-      "name": "ECC",
-      "gained": 315
+      "gained": 417
     },
     {
       "name": "firecrawl",
-      "gained": 315
+      "gained": 401
     }
   ],
   "ticker": [],
