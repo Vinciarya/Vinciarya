@@ -1,144 +1,166 @@
 {
-  "generated": "2026-08-03",
-  "edition": 305,
+  "generated": "2026-08-04",
+  "edition": 306,
   "lead": {
     "headline": "QM SURGES TO #1 ON GITHUB",
-    "deck": "YC-Software's QM repository is rapidly gaining traction as the fastest-growing project on GitHub, with a staggering 2,428 new stars in the last day alone, bringing its total to 7,716",
-    "body": "This sudden surge in popularity can be attributed to the project's innovative approach to facilitating multiplayer agent interactions, which is poised to revolutionize the way teams collaborate and work together. The open-source repository, which has been rapidly gaining momentum, promises to streamline workflows and enhance productivity by providing a versatile and customizable framework for harnessing the power of multiple agents. As a result, developers and industry professionals alike are taking notice, contributing to the project's exponential growth and cementing its status as a leader in the field of collaborative software development",
+    "deck": "YC-Software's QM repository is surging in popularity, adding over 2,400 stars in a single day",
+    "body": "The project, a multiplayer agent harness for work, is drawing attention from developers and industry professionals alike as it rapidly gains traction on GitHub. With its growing user base and impressive star count, QM is poised to become a go-to solution for teams looking to streamline collaboration and optimize workflow. The project's focus on multiplayer functionality and agent harness capabilities suggests a high level of sophistication and potential for scalability, making it an attractive option for organizations seeking to improve productivity and efficiency. As the project continues to gain momentum, it will be interesting to see how QM evolves and is adopted by the development community",
     "source": "yc-software/qm",
     "url": "https://github.com/yc-software/qm"
   },
   "sections": {
-    "ai": [],
+    "ai": [
+      {
+        "kind": "hn",
+        "title": "SQLite Critical CVEs or LLM Slop?",
+        "meta": "706 pts",
+        "desc": "research.jfrog.com \u00b7 353 comments",
+        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+      },
+      {
+        "kind": "hn",
+        "title": "LLMs reward expertise",
+        "meta": "659 pts",
+        "desc": "seangoedecke.com \u00b7 271 comments",
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/"
+      },
+      {
+        "kind": "hn",
+        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "meta": "425 pts",
+        "desc": "ankursethi.com \u00b7 357 comments",
+        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
+      }
+    ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,052\u2605",
+        "meta": "+1,682\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "Graphify-Labs/graphify",
-        "meta": "+815\u2605",
-        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "url": "https://github.com/Graphify-Labs/graphify"
-      },
-      {
-        "kind": "trending",
         "title": "microsoft/generative-ai-for-beginners",
-        "meta": "+649\u2605",
+        "meta": "+772\u2605",
         "desc": "21 Lessons, Get Started Building with Generative AI",
         "url": "https://github.com/microsoft/generative-ai-for-beginners"
       },
       {
         "kind": "trending",
-        "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-        "meta": "+550\u2605",
-        "desc": "FDE\uff08\u524d\u6cbf\u90e8\u7f72\u5de5\u7a0b\u5e08\uff09\u4ece\u96f6\u5165\u95e8\u6307\u5357\uff08\u57fa\u4e8e\u8303\u51b0\u300a\u589e\u957f\u9ed1\u5ba2\u300b\u539f\u4e66\u6846\u67b6\uff09",
-        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+        "title": "Graphify-Labs/graphify",
+        "meta": "+715\u2605",
+        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "url": "https://github.com/Graphify-Labs/graphify"
+      },
+      {
+        "kind": "trending",
+        "title": "firecrawl/firecrawl",
+        "meta": "+613\u2605",
+        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "url": "https://github.com/firecrawl/firecrawl"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-        "meta": "329 pts",
-        "desc": "en.wikipedia.org \u00b7 310 comments",
-        "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes"
+        "title": "Don't be a meat proxy",
+        "meta": "1714 pts",
+        "desc": "gruhn.me \u00b7 698 comments",
+        "url": "https://gruhn.me/blog/2026-08-03/"
       },
       {
         "kind": "hn",
-        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-        "meta": "307 pts",
-        "desc": "qwen.ai \u00b7 113 comments",
-        "url": "https://qwen.ai/blog?id=qwen3.8"
+        "title": "Devtools must be open source",
+        "meta": "548 pts",
+        "desc": "blog.exe.dev \u00b7 190 comments",
+        "url": "https://blog.exe.dev/devtools-must-be-open-source"
       },
       {
         "kind": "hn",
-        "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-        "meta": "218 pts",
-        "desc": "ft.com \u00b7 106 comments",
-        "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2"
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "meta": "498 pts",
+        "desc": "openai.com \u00b7 762 comments",
+        "url": "https://openai.com/index/ten-advances-in-mathematics/"
       },
       {
         "kind": "hn",
-        "title": "How the words we teach English language learners changed",
-        "meta": "199 pts",
-        "desc": "pudding.cool \u00b7 151 comments",
-        "url": "https://pudding.cool/2026/07/essential-words/"
+        "title": "More German than many Germans",
+        "meta": "438 pts",
+        "desc": "mertbulan.com \u00b7 315 comments",
+        "url": "https://mertbulan.com/more-german-than-many-germans/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
-        "meta": "202 pts",
-        "desc": "github.com \u00b7 45 comments",
-        "url": "https://github.com/wie-project/kakehashi"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
-        "meta": "173 pts",
-        "desc": "getbor.dev \u00b7 22 comments",
-        "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/"
-      },
-      {
         "kind": "rising",
         "title": "bashalarmistalt/decimen-optical-transfer",
-        "meta": "3.8k\u2605",
+        "meta": "4.3k\u2605",
         "desc": "",
         "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
       },
       {
         "kind": "rising",
         "title": "trycompai/crm",
-        "meta": "2.0k\u2605",
+        "meta": "3.5k\u2605",
         "desc": "An open-source, agentic-first CRM.",
         "url": "https://github.com/trycompai/crm"
+      },
+      {
+        "kind": "rising",
+        "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "meta": "2.3k\u2605",
+        "desc": "FDE\uff08\u524d\u6cbf\u90e8\u7f72\u5de5\u7a0b\u5e08\uff09\u4ece\u96f6\u5165\u95e8\u6307\u5357\uff08\u57fa\u4e8e\u8303\u51b0\u300a\u589e\u957f\u9ed1\u5ba2\u300b\u539f\u4e66\u6846\u67b6\uff09",
+        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+      },
+      {
+        "kind": "rising",
+        "title": "microsoft/skill-recorder",
+        "meta": "1.5k\u2605",
+        "desc": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+        "url": "https://github.com/microsoft/skill-recorder"
       }
     ]
   },
   "notes": {
-    "ai": "0 of 0 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 13 stories, past 24 hours",
-    "launches": "2 Show HN \u00b7 2 new repos"
+    "hn": "Top 4 of 17 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "qm",
-      "gained": 2428
+      "gained": 2403
     },
     {
       "name": "skills",
-      "gained": 1052
+      "gained": 1682
     },
     {
-      "name": "graphify",
-      "gained": 815
-    },
-    {
-      "name": "decimen-optical-transfer",
-      "gained": 675
+      "name": "crm",
+      "gained": 1531
     },
     {
       "name": "generative-ai-for-beginners",
-      "gained": 649
+      "gained": 772
     },
     {
-      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "gained": 550
-    },
-    {
-      "name": "hermes-agent",
-      "gained": 519
+      "name": "graphify",
+      "gained": 715
     },
     {
       "name": "firecrawl",
-      "gained": 473
+      "gained": 613
+    },
+    {
+      "name": "superpowers",
+      "gained": 575
+    },
+    {
+      "name": "hermes-agent",
+      "gained": 575
     }
   ],
   "ticker": [],
