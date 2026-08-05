@@ -1,168 +1,177 @@
 {
-  "generated": "2026-08-04",
-  "edition": 306,
+  "generated": "2026-08-05",
+  "edition": 307,
   "lead": {
-    "headline": "QM SURGES TO #1 ON GITHUB",
-    "deck": "YC-Software's QM repository is surging in popularity, adding over 2,400 stars in a single day",
-    "body": "The project, a multiplayer agent harness for work, is drawing attention from developers and industry professionals alike as it rapidly gains traction on GitHub. With its growing user base and impressive star count, QM is poised to become a go-to solution for teams looking to streamline collaboration and optimize workflow. The project's focus on multiplayer functionality and agent harness capabilities suggests a high level of sophistication and potential for scalability, making it an attractive option for organizations seeking to improve productivity and efficiency. As the project continues to gain momentum, it will be interesting to see how QM evolves and is adopted by the development community",
-    "source": "yc-software/qm",
-    "url": "https://github.com/yc-software/qm"
+    "headline": "SKILLS SURGES TO #1 ON GITHUB",
+    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
+    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,741 stars in the last day to reach 203,625 total. Skills for Real Engineers. Straight from my .agents directory.",
+    "source": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "SQLite Critical CVEs or LLM Slop?",
-        "meta": "706 pts",
-        "desc": "research.jfrog.com \u00b7 353 comments",
-        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+        "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+        "meta": "745 pts",
+        "desc": "nelson.cloud \u00b7 438 comments",
+        "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
       },
       {
         "kind": "hn",
-        "title": "LLMs reward expertise",
-        "meta": "659 pts",
-        "desc": "seangoedecke.com \u00b7 271 comments",
-        "url": "https://www.seangoedecke.com/llms-reward-expertise/"
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "meta": "353 pts",
+        "desc": "mistral.ai \u00b7 84 comments",
+        "url": "https://mistral.ai/news/shieldstral/"
       },
       {
         "kind": "hn",
-        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "meta": "425 pts",
-        "desc": "ankursethi.com \u00b7 357 comments",
-        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "meta": "348 pts",
+        "desc": "techcrunch.com \u00b7 253 comments",
+        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+1,682\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
+        "title": "firecrawl/firecrawl",
+        "meta": "+919\u2605",
+        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "url": "https://github.com/firecrawl/firecrawl"
       },
       {
         "kind": "trending",
-        "title": "microsoft/generative-ai-for-beginners",
-        "meta": "+772\u2605",
-        "desc": "21 Lessons, Get Started Building with Generative AI",
-        "url": "https://github.com/microsoft/generative-ai-for-beginners"
+        "title": "obra/superpowers",
+        "meta": "+812\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
         "title": "Graphify-Labs/graphify",
-        "meta": "+715\u2605",
+        "meta": "+670\u2605",
         "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
         "url": "https://github.com/Graphify-Labs/graphify"
       },
       {
         "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+613\u2605",
-        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-        "url": "https://github.com/firecrawl/firecrawl"
+        "title": "microsoft/generative-ai-for-beginners",
+        "meta": "+634\u2605",
+        "desc": "21 Lessons, Get Started Building with Generative AI",
+        "url": "https://github.com/microsoft/generative-ai-for-beginners"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Don't be a meat proxy",
-        "meta": "1714 pts",
-        "desc": "gruhn.me \u00b7 698 comments",
-        "url": "https://gruhn.me/blog/2026-08-03/"
+        "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+        "meta": "1156 pts",
+        "desc": "writings.stephenwolfram.com \u00b7 63 comments",
+        "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/"
       },
       {
         "kind": "hn",
-        "title": "Devtools must be open source",
-        "meta": "548 pts",
-        "desc": "blog.exe.dev \u00b7 190 comments",
-        "url": "https://blog.exe.dev/devtools-must-be-open-source"
+        "title": "Xbox goes down. You can't play games you own on disc",
+        "meta": "609 pts",
+        "desc": "birchtree.me \u00b7 647 comments",
+        "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/"
       },
       {
         "kind": "hn",
-        "title": "Ten advances in mathematics and theoretical computer science",
-        "meta": "498 pts",
-        "desc": "openai.com \u00b7 762 comments",
-        "url": "https://openai.com/index/ten-advances-in-mathematics/"
+        "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+        "meta": "497 pts",
+        "desc": "short-stories.co \u00b7 6 comments",
+        "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj"
       },
       {
         "kind": "hn",
-        "title": "More German than many Germans",
-        "meta": "438 pts",
-        "desc": "mertbulan.com \u00b7 315 comments",
-        "url": "https://mertbulan.com/more-german-than-many-germans/"
+        "title": "FFmpeg 9.0",
+        "meta": "434 pts",
+        "desc": "github.com \u00b7 94 comments",
+        "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES"
       }
     ],
     "launches": [
       {
-        "kind": "rising",
-        "title": "bashalarmistalt/decimen-optical-transfer",
-        "meta": "4.3k\u2605",
-        "desc": "",
-        "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+        "kind": "hn",
+        "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+        "meta": "485 pts",
+        "desc": "toneyalexander.github.io \u00b7 90 comments",
+        "url": "https://toneyalexander.github.io/inclusive-color-space/"
       },
       {
         "kind": "rising",
         "title": "trycompai/crm",
-        "meta": "3.5k\u2605",
+        "meta": "5.0k\u2605",
         "desc": "An open-source, agentic-first CRM.",
         "url": "https://github.com/trycompai/crm"
       },
       {
         "kind": "rising",
-        "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-        "meta": "2.3k\u2605",
-        "desc": "FDE\uff08\u524d\u6cbf\u90e8\u7f72\u5de5\u7a0b\u5e08\uff09\u4ece\u96f6\u5165\u95e8\u6307\u5357\uff08\u57fa\u4e8e\u8303\u51b0\u300a\u589e\u957f\u9ed1\u5ba2\u300b\u539f\u4e66\u6846\u67b6\uff09",
-        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+        "title": "bashalarmistalt/decimen-optical-transfer",
+        "meta": "4.6k\u2605",
+        "desc": "",
+        "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
       },
       {
         "kind": "rising",
-        "title": "microsoft/skill-recorder",
-        "meta": "1.5k\u2605",
-        "desc": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-        "url": "https://github.com/microsoft/skill-recorder"
+        "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "meta": "3.1k\u2605",
+        "desc": "FDE\uff08\u524d\u6cbf\u90e8\u7f72\u5de5\u7a0b\u5e08\uff09\u4ece\u96f6\u5165\u95e8\u6307\u5357\uff08\u57fa\u4e8e\u8303\u51b0\u300a\u589e\u957f\u9ed1\u5ba2\u300b\u539f\u4e66\u6846\u67b6\uff09",
+        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 17 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
-      "name": "qm",
-      "gained": 2403
-    },
-    {
       "name": "skills",
-      "gained": 1682
+      "gained": 1741
     },
     {
       "name": "crm",
-      "gained": 1531
-    },
-    {
-      "name": "generative-ai-for-beginners",
-      "gained": 772
-    },
-    {
-      "name": "graphify",
-      "gained": 715
+      "gained": 1497
     },
     {
       "name": "firecrawl",
-      "gained": 613
+      "gained": 919
     },
     {
       "name": "superpowers",
-      "gained": 575
+      "gained": 812
+    },
+    {
+      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "gained": 792
+    },
+    {
+      "name": "graphify",
+      "gained": 670
+    },
+    {
+      "name": "generative-ai-for-beginners",
+      "gained": 634
     },
     {
       "name": "hermes-agent",
-      "gained": 575
+      "gained": 602
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors across many models",
+      "impact": "major",
+      "minutes": 71,
+      "ongoing": false,
+      "url": "https://stspg.io/smnf386prrtx"
+    }
+  ]
 }
