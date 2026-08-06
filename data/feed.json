@@ -1,177 +1,168 @@
 {
-  "generated": "2026-08-05",
-  "edition": 307,
+  "generated": "2026-08-06",
+  "edition": 308,
   "lead": {
-    "headline": "SKILLS SURGES TO #1 ON GITHUB",
-    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
-    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,741 stars in the last day to reach 203,625 total. Skills for Real Engineers. Straight from my .agents directory.",
-    "source": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills"
+    "headline": "ANYDOC SURGES TO #1 ON GITHUB",
+    "deck": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. ",
+    "body": "firecrawl/anydoc is today's fastest-growing repository on GitHub, gaining 3,511 stars in the last day to reach 5,558 total. Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "source": "firecrawl/anydoc",
+    "url": "https://github.com/firecrawl/anydoc"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-        "meta": "745 pts",
-        "desc": "nelson.cloud \u00b7 438 comments",
-        "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
+        "title": "Cloudflare OS: an open platform for agents, apps, and work",
+        "meta": "513 pts",
+        "desc": "blog.cloudflare.com \u00b7 253 comments",
+        "url": "https://blog.cloudflare.com/cloudflare-os/"
       },
       {
         "kind": "hn",
-        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-        "meta": "353 pts",
-        "desc": "mistral.ai \u00b7 84 comments",
-        "url": "https://mistral.ai/news/shieldstral/"
+        "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+        "meta": "273 pts",
+        "desc": "wired.com \u00b7 210 comments",
+        "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
       },
       {
         "kind": "hn",
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "meta": "348 pts",
-        "desc": "techcrunch.com \u00b7 253 comments",
-        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
+        "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+        "meta": "266 pts",
+        "desc": "neon.com \u00b7 66 comments",
+        "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+919\u2605",
-        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-        "url": "https://github.com/firecrawl/firecrawl"
+        "title": "mattpocock/skills",
+        "meta": "+1,715\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "obra/superpowers",
-        "meta": "+812\u2605",
+        "meta": "+819\u2605",
         "desc": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
-        "title": "Graphify-Labs/graphify",
-        "meta": "+670\u2605",
-        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "url": "https://github.com/Graphify-Labs/graphify"
+        "title": "firecrawl/firecrawl",
+        "meta": "+684\u2605",
+        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "url": "https://github.com/firecrawl/firecrawl"
       },
       {
         "kind": "trending",
-        "title": "microsoft/generative-ai-for-beginners",
-        "meta": "+634\u2605",
-        "desc": "21 Lessons, Get Started Building with Generative AI",
-        "url": "https://github.com/microsoft/generative-ai-for-beginners"
+        "title": "NousResearch/hermes-agent",
+        "meta": "+564\u2605",
+        "desc": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-        "meta": "1156 pts",
-        "desc": "writings.stephenwolfram.com \u00b7 63 comments",
-        "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/"
+        "title": "Discovery Loop",
+        "meta": "664 pts",
+        "desc": "discoveryloop.com \u00b7 416 comments",
+        "url": "https://www.discoveryloop.com/"
       },
       {
         "kind": "hn",
-        "title": "Xbox goes down. You can't play games you own on disc",
-        "meta": "609 pts",
-        "desc": "birchtree.me \u00b7 647 comments",
-        "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/"
+        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+        "meta": "563 pts",
+        "desc": "blog.google \u00b7 635 comments",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
       },
       {
         "kind": "hn",
-        "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-        "meta": "497 pts",
-        "desc": "short-stories.co \u00b7 6 comments",
-        "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj"
+        "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+        "meta": "460 pts",
+        "desc": "wired.com \u00b7 242 comments",
+        "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/"
       },
       {
         "kind": "hn",
-        "title": "FFmpeg 9.0",
-        "meta": "434 pts",
-        "desc": "github.com \u00b7 94 comments",
-        "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES"
+        "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+        "meta": "369 pts",
+        "desc": "axios.com \u00b7 1 comments",
+        "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-        "meta": "485 pts",
-        "desc": "toneyalexander.github.io \u00b7 90 comments",
-        "url": "https://toneyalexander.github.io/inclusive-color-space/"
-      },
-      {
         "kind": "rising",
         "title": "trycompai/crm",
-        "meta": "5.0k\u2605",
+        "meta": "6.5k\u2605",
         "desc": "An open-source, agentic-first CRM.",
         "url": "https://github.com/trycompai/crm"
       },
       {
         "kind": "rising",
-        "title": "bashalarmistalt/decimen-optical-transfer",
-        "meta": "4.6k\u2605",
-        "desc": "",
-        "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+        "title": "FareedKhan-dev/kimi-k3-in-c",
+        "meta": "2.6k\u2605",
+        "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
       },
       {
         "kind": "rising",
-        "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-        "meta": "3.1k\u2605",
-        "desc": "FDE\uff08\u524d\u6cbf\u90e8\u7f72\u5de5\u7a0b\u5e08\uff09\u4ece\u96f6\u5165\u95e8\u6307\u5357\uff08\u57fa\u4e8e\u8303\u51b0\u300a\u589e\u957f\u9ed1\u5ba2\u300b\u539f\u4e66\u6846\u67b6\uff09",
-        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+        "title": "imsai-sh/zhuzhiliao",
+        "meta": "2.1k\u2605",
+        "desc": "\u7af9\u77e5\u4e86 \u2014\u2014 \u4e00\u8f6c\u5c31\u54c7\u54c7\u53eb\u7684\u4f20\u7edf\u73a9\u5177\uff0cWeb \u6a21\u62df\u7248\u3002\u96f6\u4f9d\u8d56\u5355\u6587\u4ef6\uff0c\u771f\u5b9e\u5f55\u97f3\u91c7\u6837\uff0c\u79fb\u52a8\u7aef\u4f18\u5148\u3002",
+        "url": "https://github.com/imsai-sh/zhuzhiliao"
+      },
+      {
+        "kind": "rising",
+        "title": "genspark-ai/genoffice",
+        "meta": "1.8k\u2605",
+        "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+        "url": "https://github.com/genspark-ai/genoffice"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
+    "ai": "3 of 6 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
+      "name": "anydoc",
+      "gained": 3511
+    },
+    {
       "name": "skills",
-      "gained": 1741
+      "gained": 1715
     },
     {
       "name": "crm",
-      "gained": 1497
-    },
-    {
-      "name": "firecrawl",
-      "gained": 919
+      "gained": 1523
     },
     {
       "name": "superpowers",
-      "gained": 812
+      "gained": 819
     },
     {
-      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "gained": 792
-    },
-    {
-      "name": "graphify",
-      "gained": 670
-    },
-    {
-      "name": "generative-ai-for-beginners",
-      "gained": 634
+      "name": "firecrawl",
+      "gained": 684
     },
     {
       "name": "hermes-agent",
-      "gained": 602
+      "gained": 564
+    },
+    {
+      "name": "graphify",
+      "gained": 504
+    },
+    {
+      "name": "kimi-k3-in-c",
+      "gained": 500
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Anthropic",
-      "title": "Elevated errors across many models",
-      "impact": "major",
-      "minutes": 71,
-      "ongoing": false,
-      "url": "https://stspg.io/smnf386prrtx"
-    }
-  ]
+  "infra": []
 }
