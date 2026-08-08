@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-07",
-  "edition": 309,
+  "generated": "2026-08-08",
+  "edition": 310,
   "lead": {
     "headline": "ANYDOC SURGES TO #1 ON GITHUB",
-    "deck": "Firecrawl, a rapidly growing GitHub repository, has captured the attention of developers with its innovative tool for converting a wide range of file formats into clean Markdown",
-    "body": "This open-source project, built in Rust with bindings for Node.js and Python, allows users to easily transform documents from popular formats like Word, PowerPoint, and PDF into Markdown, a lightweight markup language widely used in software development and documentation. The tool's versatility and efficiency have contributed to its remarkable growth, with over 8,900 stars on GitHub and a staggering 3,352 new followers in just one day. As developers increasingly seek to streamline their workflows and improve collaboration, Firecrawl's capabilities are likely to appeal to a broad audience",
+    "deck": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. ",
+    "body": "firecrawl/anydoc is today's fastest-growing repository on GitHub, gaining 2,251 stars in the last day to reach 11,161 total. Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
     "source": "firecrawl/anydoc",
     "url": "https://github.com/firecrawl/anydoc"
   },
@@ -12,166 +12,157 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-        "meta": "468 pts",
-        "desc": "theregister.com \u00b7 362 comments",
-        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "meta": "407 pts",
+        "desc": "app.dealroom.co \u00b7 275 comments",
+        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
       },
       {
         "kind": "hn",
-        "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-        "meta": "464 pts",
-        "desc": "artificialanalysis.ai \u00b7 299 comments",
-        "url": "https://artificialanalysis.ai/?intelligence=agentic-index"
+        "title": "Managing AI Coding Costs at Scale",
+        "meta": "179 pts",
+        "desc": "databricks.com \u00b7 178 comments",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
       },
       {
         "kind": "hn",
-        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-        "meta": "267 pts",
-        "desc": "scalex.dev \u00b7 196 comments",
-        "url": "https://scalex.dev/blog/ai-agent-permissions-stats/"
+        "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+        "meta": "172 pts",
+        "desc": "blog.cloudflare.com \u00b7 44 comments",
+        "url": "https://blog.cloudflare.com/kitesurf/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+2,052\u2605",
+        "meta": "+1,569\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "obra/superpowers",
-        "meta": "+753\u2605",
+        "meta": "+580\u2605",
         "desc": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
         "title": "firecrawl/firecrawl",
-        "meta": "+580\u2605",
+        "meta": "+495\u2605",
         "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
         "url": "https://github.com/firecrawl/firecrawl"
       },
       {
         "kind": "trending",
-        "title": "NousResearch/hermes-agent",
-        "meta": "+506\u2605",
-        "desc": "The agent that grows with you",
-        "url": "https://github.com/NousResearch/hermes-agent"
+        "title": "Graphify-Labs/graphify",
+        "meta": "+464\u2605",
+        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "url": "https://github.com/Graphify-Labs/graphify"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Mario Meets Pareto",
-        "meta": "930 pts",
-        "desc": "mayerowitz.io \u00b7 151 comments",
-        "url": "https://www.mayerowitz.io/blog/mario-meets-pareto"
+        "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+        "meta": "859 pts",
+        "desc": "bbc.com \u00b7 822 comments",
+        "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
       },
       {
         "kind": "hn",
-        "title": "Crime Pays but Botany Doesn't",
-        "meta": "661 pts",
-        "desc": "crimepaysbutbotanydoesnt.com \u00b7 205 comments",
-        "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list"
+        "title": "DeepSeek V4 Flash 0731",
+        "meta": "498 pts",
+        "desc": "arcprize.org \u00b7 303 comments",
+        "url": "https://arcprize.org/results/deepseek-v4-flash-0731"
       },
       {
         "kind": "hn",
-        "title": "GitHub Actions and Pages are experiencing degraded availability",
-        "meta": "353 pts",
-        "desc": "githubstatus.com \u00b7 289 comments",
-        "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74"
+        "title": "What happens if an entire class of workers loses faith in their careers",
+        "meta": "471 pts",
+        "desc": "noemamag.com \u00b7 567 comments",
+        "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/"
       },
       {
         "kind": "hn",
-        "title": "Almost no skill required to cook a steak",
-        "meta": "299 pts",
-        "desc": "blog.sydorets.com \u00b7 344 comments",
-        "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
+        "title": "A year of fighting scrapers on my 1.5 million-page website",
+        "meta": "389 pts",
+        "desc": "patronview.com \u00b7 363 comments",
+        "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
-        "meta": "261 pts",
-        "desc": "electronicmaterialsoffice.com \u00b7 219 comments",
-        "url": "https://electronicmaterialsoffice.com/"
-      },
-      {
-        "kind": "rising",
-        "title": "FareedKhan-dev/kimi-k3-in-c",
-        "meta": "2.9k\u2605",
-        "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
-      },
-      {
-        "kind": "rising",
-        "title": "imsai-sh/zhuzhiliao",
-        "meta": "2.3k\u2605",
-        "desc": "\u7af9\u77e5\u4e86 \u2014\u2014 \u4e00\u8f6c\u5c31\u54c7\u54c7\u53eb\u7684\u4f20\u7edf\u73a9\u5177\uff0cWeb \u6a21\u62df\u7248\u3002\u96f6\u4f9d\u8d56\u5355\u6587\u4ef6\uff0c\u771f\u5b9e\u5f55\u97f3\u91c7\u6837\uff0c\u79fb\u52a8\u7aef\u4f18\u5148\u3002",
-        "url": "https://github.com/imsai-sh/zhuzhiliao"
+        "title": "Show HN: Wyzer Programming Language",
+        "meta": "180 pts",
+        "desc": "github.com \u00b7 100 comments",
+        "url": "https://github.com/Wyzer-Lang/wyzer"
       },
       {
         "kind": "rising",
         "title": "thebuggeddev/anatomy",
-        "meta": "1.9k\u2605",
+        "meta": "2.0k\u2605",
         "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
         "url": "https://github.com/thebuggeddev/anatomy"
+      },
+      {
+        "kind": "rising",
+        "title": "KKKKhazix/human-writing",
+        "meta": "1.9k\u2605",
+        "desc": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
+        "url": "https://github.com/KKKKhazix/human-writing"
+      },
+      {
+        "kind": "rising",
+        "title": "Binaryify/open-kimi-ppt-skill",
+        "meta": "1.6k\u2605",
+        "desc": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
+        "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
       }
     ]
   },
   "notes": {
     "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 23h",
-    "hn": "Top 4 of 14 stories, past 24 hours",
+    "hn": "Top 4 of 19 stories, past 24 hours",
     "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "anydoc",
-      "gained": 3352
+      "gained": 2251
     },
     {
       "name": "skills",
-      "gained": 2052
+      "gained": 1569
     },
     {
       "name": "superpowers",
-      "gained": 753
-    },
-    {
-      "name": "firecrawl",
       "gained": 580
     },
     {
-      "name": "hermes-agent",
-      "gained": 506
+      "name": "firecrawl",
+      "gained": 495
     },
     {
       "name": "graphify",
-      "gained": 473
+      "gained": 464
+    },
+    {
+      "name": "hermes-agent",
+      "gained": 439
     },
     {
       "name": "opencode",
-      "gained": 465
+      "gained": 404
     },
     {
-      "name": "ComfyUI",
-      "gained": 387
+      "name": "ui-ux-pro-max-skill",
+      "gained": 281
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "GitHub",
-      "title": "Incident with Actions",
-      "impact": "critical",
-      "minutes": 641,
-      "ongoing": false,
-      "url": "https://stspg.io/rcz3fcm83sff"
-    }
-  ]
+  "infra": []
 }
