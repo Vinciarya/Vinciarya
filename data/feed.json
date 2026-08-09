@@ -1,118 +1,118 @@
 {
-  "generated": "2026-08-08",
-  "edition": 310,
+  "generated": "2026-08-09",
+  "edition": 311,
   "lead": {
-    "headline": "ANYDOC SURGES TO #1 ON GITHUB",
-    "deck": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. ",
-    "body": "firecrawl/anydoc is today's fastest-growing repository on GitHub, gaining 2,251 stars in the last day to reach 11,161 total. Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-    "source": "firecrawl/anydoc",
-    "url": "https://github.com/firecrawl/anydoc"
+    "headline": "SKILLS SURGES TO #1 ON GITHUB",
+    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
+    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,195 stars in the last day to reach 210,156 total. Skills for Real Engineers. Straight from my .agents directory.",
+    "source": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Oracle bans AI-generated code from OpenJDK",
-        "meta": "407 pts",
-        "desc": "app.dealroom.co \u00b7 275 comments",
-        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
+        "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+        "meta": "396 pts",
+        "desc": "deepmind.google \u00b7 121 comments",
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
       },
       {
         "kind": "hn",
-        "title": "Managing AI Coding Costs at Scale",
-        "meta": "179 pts",
-        "desc": "databricks.com \u00b7 178 comments",
-        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
+        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+        "meta": "362 pts",
+        "desc": "simonwillison.net \u00b7 359 comments",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/"
       },
       {
         "kind": "hn",
-        "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-        "meta": "172 pts",
-        "desc": "blog.cloudflare.com \u00b7 44 comments",
-        "url": "https://blog.cloudflare.com/kitesurf/"
+        "title": "Gentoo bugzilla closed due AI bot scraper overload",
+        "meta": "155 pts",
+        "desc": "social.treehouse.systems \u00b7 106 comments",
+        "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+1,569\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
+        "title": "msitarzewski/agency-agents",
+        "meta": "+666\u2605",
+        "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "url": "https://github.com/msitarzewski/agency-agents"
       },
       {
         "kind": "trending",
         "title": "obra/superpowers",
-        "meta": "+580\u2605",
+        "meta": "+569\u2605",
         "desc": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
         "title": "firecrawl/firecrawl",
-        "meta": "+495\u2605",
+        "meta": "+547\u2605",
         "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
         "url": "https://github.com/firecrawl/firecrawl"
       },
       {
         "kind": "trending",
-        "title": "Graphify-Labs/graphify",
-        "meta": "+464\u2605",
-        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "url": "https://github.com/Graphify-Labs/graphify"
+        "title": "DietrichGebert/ponytail",
+        "meta": "+539\u2605",
+        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "url": "https://github.com/DietrichGebert/ponytail"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-        "meta": "859 pts",
-        "desc": "bbc.com \u00b7 822 comments",
-        "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
+        "title": "\u201cCode was never the hard part\u201d is an insult to all programmers",
+        "meta": "612 pts",
+        "desc": "blog.senko.net \u00b7 386 comments",
+        "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers"
       },
       {
         "kind": "hn",
-        "title": "DeepSeek V4 Flash 0731",
-        "meta": "498 pts",
-        "desc": "arcprize.org \u00b7 303 comments",
-        "url": "https://arcprize.org/results/deepseek-v4-flash-0731"
+        "title": "Danish high schoolers will have to verbally defend written assignments",
+        "meta": "530 pts",
+        "desc": "mezha.net \u00b7 248 comments",
+        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"
       },
       {
         "kind": "hn",
-        "title": "What happens if an entire class of workers loses faith in their careers",
-        "meta": "471 pts",
-        "desc": "noemamag.com \u00b7 567 comments",
-        "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/"
+        "title": "_for-sale DNS records",
+        "meta": "364 pts",
+        "desc": "specification.website \u00b7 134 comments",
+        "url": "https://specification.website/spec/foundations/for-sale-dns/"
       },
       {
         "kind": "hn",
-        "title": "A year of fighting scrapers on my 1.5 million-page website",
-        "meta": "389 pts",
-        "desc": "patronview.com \u00b7 363 comments",
-        "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/"
+        "title": "Hardware backdoors in some x86 CPUs",
+        "meta": "352 pts",
+        "desc": "github.com \u00b7 98 comments",
+        "url": "https://github.com/xoreaxeaxeax/rosenbridge"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Wyzer Programming Language",
-        "meta": "180 pts",
-        "desc": "github.com \u00b7 100 comments",
-        "url": "https://github.com/Wyzer-Lang/wyzer"
-      },
-      {
         "kind": "rising",
-        "title": "thebuggeddev/anatomy",
-        "meta": "2.0k\u2605",
-        "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-        "url": "https://github.com/thebuggeddev/anatomy"
+        "title": "firecrawl/anydoc",
+        "meta": "12.2k\u2605",
+        "desc": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+        "url": "https://github.com/firecrawl/anydoc"
       },
       {
         "kind": "rising",
         "title": "KKKKhazix/human-writing",
-        "meta": "1.9k\u2605",
+        "meta": "2.0k\u2605",
         "desc": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
         "url": "https://github.com/KKKKhazix/human-writing"
+      },
+      {
+        "kind": "rising",
+        "title": "ZzzLc0405/photo-abstract-editorial",
+        "meta": "1.8k\u2605",
+        "desc": "",
+        "url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
       },
       {
         "kind": "rising",
@@ -124,43 +124,43 @@
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 23h",
-    "hn": "Top 4 of 19 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "ai": "3 of 3 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 24h",
+    "hn": "Top 4 of 16 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "anydoc",
-      "gained": 2251
+      "name": "skills",
+      "gained": 1195
     },
     {
-      "name": "skills",
-      "gained": 1569
+      "name": "anydoc",
+      "gained": 1035
+    },
+    {
+      "name": "agency-agents",
+      "gained": 666
     },
     {
       "name": "superpowers",
-      "gained": 580
+      "gained": 569
     },
     {
       "name": "firecrawl",
-      "gained": 495
+      "gained": 547
     },
     {
-      "name": "graphify",
-      "gained": 464
+      "name": "ponytail",
+      "gained": 539
     },
     {
       "name": "hermes-agent",
-      "gained": 439
+      "gained": 449
     },
     {
       "name": "opencode",
-      "gained": 404
-    },
-    {
-      "name": "ui-ux-pro-max-skill",
-      "gained": 281
+      "gained": 345
     }
   ],
   "ticker": [],
