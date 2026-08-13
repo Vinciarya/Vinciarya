@@ -1,168 +1,185 @@
 {
-  "generated": "2026-08-12",
-  "edition": 314,
+  "generated": "2026-08-13",
+  "edition": 315,
   "lead": {
-    "headline": "AGENCY-AGENTS SURGES TO #1 ON GITHUB",
-    "deck": "A revolutionary AI agency platform is rapidly gaining traction on GitHub, drawing in thousands of new followers with its promise of specialized AI experts at users' fingertips",
-    "body": "This innovative repository, featuring a diverse range of AI agents, offers a one-stop-shop for individuals and businesses seeking to harness the power of artificial intelligence. From frontend development to community management, each agent is designed to tackle a specific task with ease and precision. The platform's unique approach to AI has resonated with users, who appreciate the ability to tap into a collective of expert agents with distinct personalities and skill sets. As a result, the project has seen a staggering surge in popularity, with thousands of new stars and followers joining the community in a matter of days",
-    "source": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents"
+    "headline": "SKILLS SURGES TO #1 ON GITHUB",
+    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
+    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,288 stars in the last day to reach 215,322 total. Skills for Real Engineers. Straight from my .agents directory.",
+    "source": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "meta": "542 pts",
-        "desc": "stolen-thoughts.com \u00b7 228 comments",
-        "url": "https://stolen-thoughts.com/"
+        "title": "AI is removing the middle class of software engineering?",
+        "meta": "775 pts",
+        "desc": "blog.florianherrengt.com \u00b7 721 comments",
+        "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
       },
       {
         "kind": "hn",
-        "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
-        "meta": "332 pts",
-        "desc": "ft.com \u00b7 357 comments",
-        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0"
+        "title": "llama.cpp",
+        "meta": "351 pts",
+        "desc": "llama.app \u00b7 167 comments",
+        "url": "https://llama.app"
       },
       {
         "kind": "hn",
-        "title": "Go is an ideal language for AI-assisted software engineering",
-        "meta": "307 pts",
-        "desc": "developers.googleblog.com \u00b7 361 comments",
-        "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
+        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+        "meta": "245 pts",
+        "desc": "knownagents.com \u00b7 185 comments",
+        "url": "https://knownagents.com/insights"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+1,269\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
-      },
-      {
-        "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+753\u2605",
-        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-        "url": "https://github.com/firecrawl/firecrawl"
-      },
-      {
-        "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+713\u2605",
+        "meta": "+674\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "anthropics/skills",
-        "meta": "+635\u2605",
-        "desc": "Public repository for Agent Skills",
-        "url": "https://github.com/anthropics/skills"
+        "title": "firecrawl/firecrawl",
+        "meta": "+562\u2605",
+        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "url": "https://github.com/firecrawl/firecrawl"
+      },
+      {
+        "kind": "trending",
+        "title": "NousResearch/hermes-agent",
+        "meta": "+559\u2605",
+        "desc": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent"
+      },
+      {
+        "kind": "trending",
+        "title": "obra/superpowers",
+        "meta": "+494\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "France to ban unsolicited telemarketing calls",
-        "meta": "994 pts",
-        "desc": "lemonde.fr \u00b7 478 comments",
-        "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html"
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "meta": "871 pts",
+        "desc": "tailscale.com \u00b7 168 comments",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
       },
       {
         "kind": "hn",
-        "title": "England set to be one of the first countries to eliminate hepatitis C",
-        "meta": "500 pts",
-        "desc": "bbc.com \u00b7 361 comments",
-        "url": "https://www.bbc.com/news/articles/c75gk620r22o"
+        "title": "DeepSeek V4 Pro 0813",
+        "meta": "805 pts",
+        "desc": "openrouter.ai \u00b7 315 comments",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
       },
       {
         "kind": "hn",
-        "title": "Compression is prediction",
-        "meta": "339 pts",
-        "desc": "ngrok.com \u00b7 139 comments",
-        "url": "https://ngrok.com/blog/compression-is-prediction"
+        "title": "License plate reader searches should require a warrant",
+        "meta": "560 pts",
+        "desc": "andrewpwheeler.com \u00b7 334 comments",
+        "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"
       },
       {
         "kind": "hn",
-        "title": "Mojo 1.0",
-        "meta": "325 pts",
-        "desc": "modular.com \u00b7 149 comments",
-        "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here"
+        "title": "Qwen3.8-2.4T",
+        "meta": "528 pts",
+        "desc": "huggingface.co \u00b7 116 comments",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
       }
     ],
     "launches": [
       {
+        "kind": "hn",
+        "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+        "meta": "264 pts",
+        "desc": "woxi.ad-si.com \u00b7 40 comments",
+        "url": "https://woxi.ad-si.com"
+      },
+      {
+        "kind": "rising",
+        "title": "guillaumemeyer/watermarks-remover",
+        "meta": "2.8k\u2605",
+        "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+        "url": "https://github.com/guillaumemeyer/watermarks-remover"
+      },
+      {
         "kind": "rising",
         "title": "ShawnPana/phone-harness",
-        "meta": "1.5k\u2605",
+        "meta": "1.7k\u2605",
         "desc": "let your agent control your phone",
         "url": "https://github.com/ShawnPana/phone-harness"
       },
       {
         "kind": "rising",
         "title": "oil-oil/oil-motion",
-        "meta": "1.5k\u2605",
+        "meta": "1.6k\u2605",
         "desc": "Create smooth, responsive interactive web animations.",
         "url": "https://github.com/oil-oil/oil-motion"
-      },
-      {
-        "kind": "rising",
-        "title": "SMNETSTUDIO/WeChat-AI",
-        "meta": "1.5k\u2605",
-        "desc": "",
-        "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
-      },
-      {
-        "kind": "rising",
-        "title": "antirez/h3.c",
-        "meta": "1.3k\u2605",
-        "desc": "MiniMax H3 inference engine for Mac computers",
-        "url": "https://github.com/antirez/h3.c"
       }
     ]
   },
   "notes": {
     "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 16 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
-      "name": "agency-agents",
-      "gained": 1609
-    },
-    {
       "name": "skills",
-      "gained": 1269
-    },
-    {
-      "name": "firecrawl",
-      "gained": 753
+      "gained": 1288
     },
     {
       "name": "ponytail",
-      "gained": 713
+      "gained": 674
     },
     {
-      "name": "skills",
-      "gained": 635
+      "name": "firecrawl",
+      "gained": 562
     },
     {
       "name": "hermes-agent",
-      "gained": 573
+      "gained": 559
     },
     {
       "name": "superpowers",
-      "gained": 532
+      "gained": 494
     },
     {
-      "name": "project-based-learning",
-      "gained": 515
+      "name": "ui-ux-pro-max-skill",
+      "gained": 419
+    },
+    {
+      "name": "opencode",
+      "gained": 410
+    },
+    {
+      "name": "graphify",
+      "gained": 372
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Cloudflare",
+      "title": "Email Security delivery impacted by Spamhaus listing",
+      "impact": "major",
+      "minutes": 139,
+      "ongoing": false,
+      "url": "https://www.cloudflarestatus.com/incidents/fdyjr0t87mrb"
+    },
+    {
+      "name": "GitHub",
+      "title": "Disruption with Login and Release Asset downloads",
+      "impact": "major",
+      "minutes": 77,
+      "ongoing": false,
+      "url": "https://stspg.io/xp36nwz4rrh1"
+    }
+  ]
 }
