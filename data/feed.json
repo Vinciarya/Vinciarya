@@ -1,185 +1,168 @@
 {
-  "generated": "2026-08-13",
-  "edition": 315,
+  "generated": "2026-08-14",
+  "edition": 316,
   "lead": {
-    "headline": "SKILLS SURGES TO #1 ON GITHUB",
-    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
-    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,288 stars in the last day to reach 215,322 total. Skills for Real Engineers. Straight from my .agents directory.",
-    "source": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills"
+    "headline": "WATERMARKS-REMOVER SURGES TO #1 ON GITHUB",
+    "deck": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, a",
+    "body": "guillaumemeyer/watermarks-remover is today's fastest-growing repository on GitHub, gaining 2,933 stars in the last day to reach 5,685 total. Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+    "source": "guillaumemeyer/watermarks-remover",
+    "url": "https://github.com/guillaumemeyer/watermarks-remover"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "AI is removing the middle class of software engineering?",
-        "meta": "775 pts",
-        "desc": "blog.florianherrengt.com \u00b7 721 comments",
-        "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
+        "title": "Gemini 3.7 Flash",
+        "meta": "674 pts",
+        "desc": "blog.google \u00b7 380 comments",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
       },
       {
         "kind": "hn",
-        "title": "llama.cpp",
-        "meta": "351 pts",
-        "desc": "llama.app \u00b7 167 comments",
-        "url": "https://llama.app"
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "meta": "478 pts",
+        "desc": "cerebras.ai \u00b7 202 comments",
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
       },
       {
         "kind": "hn",
-        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-        "meta": "245 pts",
-        "desc": "knownagents.com \u00b7 185 comments",
-        "url": "https://knownagents.com/insights"
+        "title": "Mistral OCR 4.1",
+        "meta": "271 pts",
+        "desc": "docs.mistral.ai \u00b7 107 comments",
+        "url": "https://docs.mistral.ai/models/ocr-4-1"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "DietrichGebert/ponytail",
-        "meta": "+674\u2605",
-        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail"
+        "title": "mattpocock/skills",
+        "meta": "+1,292\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+562\u2605",
-        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-        "url": "https://github.com/firecrawl/firecrawl"
+        "title": "github/spec-kit",
+        "meta": "+1,049\u2605",
+        "desc": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+        "url": "https://github.com/github/spec-kit"
       },
       {
         "kind": "trending",
         "title": "NousResearch/hermes-agent",
-        "meta": "+559\u2605",
+        "meta": "+554\u2605",
         "desc": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent"
       },
       {
         "kind": "trending",
-        "title": "obra/superpowers",
-        "meta": "+494\u2605",
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
+        "title": "anthropics/skills",
+        "meta": "+545\u2605",
+        "desc": "Public repository for Agent Skills",
+        "url": "https://github.com/anthropics/skills"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-        "meta": "871 pts",
-        "desc": "tailscale.com \u00b7 168 comments",
-        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
+        "title": "DeepSeek Harness developer preview",
+        "meta": "588 pts",
+        "desc": "deepseek.com \u00b7 248 comments",
+        "url": "https://deepseek.com/harness/en/"
       },
       {
         "kind": "hn",
-        "title": "DeepSeek V4 Pro 0813",
-        "meta": "805 pts",
-        "desc": "openrouter.ai \u00b7 315 comments",
-        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+        "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+        "meta": "448 pts",
+        "desc": "community.openai.com \u00b7 301 comments",
+        "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027"
       },
       {
         "kind": "hn",
-        "title": "License plate reader searches should require a warrant",
-        "meta": "560 pts",
-        "desc": "andrewpwheeler.com \u00b7 334 comments",
-        "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"
+        "title": "Gloomberb",
+        "meta": "394 pts",
+        "desc": "gloom.sh \u00b7 200 comments",
+        "url": "https://gloom.sh/"
       },
       {
         "kind": "hn",
-        "title": "Qwen3.8-2.4T",
-        "meta": "528 pts",
-        "desc": "huggingface.co \u00b7 116 comments",
-        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
+        "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+        "meta": "386 pts",
+        "desc": "tradersunion.com \u00b7 415 comments",
+        "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-        "meta": "264 pts",
-        "desc": "woxi.ad-si.com \u00b7 40 comments",
-        "url": "https://woxi.ad-si.com"
+        "kind": "rising",
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "66.7k\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "rising",
-        "title": "guillaumemeyer/watermarks-remover",
-        "meta": "2.8k\u2605",
-        "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-        "url": "https://github.com/guillaumemeyer/watermarks-remover"
+        "title": "antirez/h3.c",
+        "meta": "1.8k\u2605",
+        "desc": "MiniMax H3 inference engine for Mac computers",
+        "url": "https://github.com/antirez/h3.c"
       },
       {
         "kind": "rising",
-        "title": "ShawnPana/phone-harness",
+        "title": "SMNETSTUDIO/WeChat-AI",
         "meta": "1.7k\u2605",
-        "desc": "let your agent control your phone",
-        "url": "https://github.com/ShawnPana/phone-harness"
+        "desc": "",
+        "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
       },
       {
         "kind": "rising",
-        "title": "oil-oil/oil-motion",
-        "meta": "1.6k\u2605",
-        "desc": "Create smooth, responsive interactive web animations.",
-        "url": "https://github.com/oil-oil/oil-motion"
+        "title": "xoreaxeaxeax/skitter-creek-bath-salts",
+        "meta": "1.1k\u2605",
+        "desc": "Unlocking _everything_ on the CPU with DRAM scrambling",
+        "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
+    "ai": "3 of 5 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "hn": "Top 4 of 19 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
+      "name": "watermarks-remover",
+      "gained": 2933
+    },
+    {
       "name": "skills",
-      "gained": 1288
+      "gained": 1292
     },
     {
-      "name": "ponytail",
-      "gained": 674
-    },
-    {
-      "name": "firecrawl",
-      "gained": 562
+      "name": "spec-kit",
+      "gained": 1049
     },
     {
       "name": "hermes-agent",
-      "gained": 559
+      "gained": 554
     },
     {
-      "name": "superpowers",
-      "gained": 494
+      "name": "skills",
+      "gained": 545
     },
     {
-      "name": "ui-ux-pro-max-skill",
-      "gained": 419
+      "name": "firecrawl",
+      "gained": 526
     },
     {
       "name": "opencode",
-      "gained": 410
+      "gained": 493
     },
     {
-      "name": "graphify",
-      "gained": 372
+      "name": "superpowers",
+      "gained": 488
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Cloudflare",
-      "title": "Email Security delivery impacted by Spamhaus listing",
-      "impact": "major",
-      "minutes": 139,
-      "ongoing": false,
-      "url": "https://www.cloudflarestatus.com/incidents/fdyjr0t87mrb"
-    },
-    {
-      "name": "GitHub",
-      "title": "Disruption with Login and Release Asset downloads",
-      "impact": "major",
-      "minutes": 77,
-      "ongoing": false,
-      "url": "https://stspg.io/xp36nwz4rrh1"
-    }
-  ]
+  "infra": []
 }
