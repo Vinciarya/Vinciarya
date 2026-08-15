@@ -1,168 +1,177 @@
 {
-  "generated": "2026-08-14",
-  "edition": 316,
+  "generated": "2026-08-15",
+  "edition": 317,
   "lead": {
-    "headline": "WATERMARKS-REMOVER SURGES TO #1 ON GITHUB",
-    "deck": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, a",
-    "body": "guillaumemeyer/watermarks-remover is today's fastest-growing repository on GitHub, gaining 2,933 stars in the last day to reach 5,685 total. Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-    "source": "guillaumemeyer/watermarks-remover",
-    "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
+    "deck": "DeepSeek Harness is revolutionizing software development with its innovative plugin-based architecture",
+    "body": "In a stunning display of growth, DeepSeek Harness has become the fastest-growing repository on GitHub, with a staggering 98,010 stars and an astonishing 31,314 new followers in just one day. This meteoric rise can be attributed to the project's bold vision of making everything a plugin, allowing developers to seamlessly integrate and customize various tools and services. By abstracting the complexities of software development, DeepSeek Harness is empowering developers to focus on building and innovating, rather than wrestling with tedious integrations and compatibility issues. As a result, the project is attracting a vast and diverse community of developers who are eager to explore its potential and contribute to its growth",
+    "source": "deepseek-ai/deepseek-harness",
+    "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Gemini 3.7 Flash",
-        "meta": "674 pts",
-        "desc": "blog.google \u00b7 380 comments",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        "title": "Google is making private AI practical with homomorphic encryption",
+        "meta": "296 pts",
+        "desc": "blog.google \u00b7 176 comments",
+        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
       },
       {
         "kind": "hn",
-        "title": "Accelerating GPT-5.6 Sol Ultrafast",
-        "meta": "478 pts",
-        "desc": "cerebras.ai \u00b7 202 comments",
-        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+        "title": "AI by Hand",
+        "meta": "215 pts",
+        "desc": "byhand.ai \u00b7 18 comments",
+        "url": "https://www.byhand.ai/"
       },
       {
         "kind": "hn",
-        "title": "Mistral OCR 4.1",
-        "meta": "271 pts",
-        "desc": "docs.mistral.ai \u00b7 107 comments",
-        "url": "https://docs.mistral.ai/models/ocr-4-1"
+        "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+        "meta": "170 pts",
+        "desc": "weightythoughts.com \u00b7 186 comments",
+        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "public-apis/public-apis",
+        "meta": "+2,630\u2605",
+        "desc": "A collective list of free APIs",
+        "url": "https://github.com/public-apis/public-apis"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,292\u2605",
+        "meta": "+1,039\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "github/spec-kit",
-        "meta": "+1,049\u2605",
+        "meta": "+965\u2605",
         "desc": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
         "url": "https://github.com/github/spec-kit"
       },
       {
         "kind": "trending",
-        "title": "NousResearch/hermes-agent",
-        "meta": "+554\u2605",
-        "desc": "The agent that grows with you",
-        "url": "https://github.com/NousResearch/hermes-agent"
-      },
-      {
-        "kind": "trending",
-        "title": "anthropics/skills",
-        "meta": "+545\u2605",
-        "desc": "Public repository for Agent Skills",
-        "url": "https://github.com/anthropics/skills"
+        "title": "earendil-works/pi",
+        "meta": "+638\u2605",
+        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "url": "https://github.com/earendil-works/pi"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "DeepSeek Harness developer preview",
-        "meta": "588 pts",
-        "desc": "deepseek.com \u00b7 248 comments",
-        "url": "https://deepseek.com/harness/en/"
+        "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+        "meta": "1039 pts",
+        "desc": "z.ai \u00b7 515 comments",
+        "url": "https://z.ai/blog/glm-5.3"
       },
       {
         "kind": "hn",
-        "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-        "meta": "448 pts",
-        "desc": "community.openai.com \u00b7 301 comments",
-        "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027"
+        "title": "Qwen 3.8 27B",
+        "meta": "936 pts",
+        "desc": "huggingface.co \u00b7 610 comments",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
       },
       {
         "kind": "hn",
-        "title": "Gloomberb",
-        "meta": "394 pts",
-        "desc": "gloom.sh \u00b7 200 comments",
-        "url": "https://gloom.sh/"
+        "title": "Why does Opus 5 feel worse to work with?",
+        "meta": "801 pts",
+        "desc": "mun-logadan.github.io \u00b7 735 comments",
+        "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
       },
       {
         "kind": "hn",
-        "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-        "meta": "386 pts",
-        "desc": "tradersunion.com \u00b7 415 comments",
-        "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/"
+        "title": "Every Fucking Website (2020)",
+        "meta": "755 pts",
+        "desc": "lxe.github.io \u00b7 449 comments",
+        "url": "https://lxe.github.io/everywebsite/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "66.7k\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
+        "title": "guillaumemeyer/watermarks-remover",
+        "meta": "8.3k\u2605",
+        "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+        "url": "https://github.com/guillaumemeyer/watermarks-remover"
+      },
+      {
+        "kind": "rising",
+        "title": "anywhere-labs/deepseek-harness-desktop",
+        "meta": "2.3k\u2605",
+        "desc": "\u4e3a DeepSeek Harness (DSH) \u751f\u6001\u6253\u9020\u7684\u73b0\u4ee3\u5316\u684c\u9762\u7aef\u4f53\u9a8c",
+        "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
+      },
+      {
+        "kind": "rising",
+        "title": "zhu1090093659/dsh-web-ui",
+        "meta": "2.0k\u2605",
+        "desc": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+        "url": "https://github.com/zhu1090093659/dsh-web-ui"
       },
       {
         "kind": "rising",
         "title": "antirez/h3.c",
-        "meta": "1.8k\u2605",
+        "meta": "1.9k\u2605",
         "desc": "MiniMax H3 inference engine for Mac computers",
         "url": "https://github.com/antirez/h3.c"
-      },
-      {
-        "kind": "rising",
-        "title": "SMNETSTUDIO/WeChat-AI",
-        "meta": "1.7k\u2605",
-        "desc": "",
-        "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
-      },
-      {
-        "kind": "rising",
-        "title": "xoreaxeaxeax/skitter-creek-bath-salts",
-        "meta": "1.1k\u2605",
-        "desc": "Unlocking _everything_ on the CPU with DRAM scrambling",
-        "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 5 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
+    "ai": "3 of 3 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 23h",
     "hn": "Top 4 of 19 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
+      "name": "deepseek-harness",
+      "gained": 31314
+    },
+    {
       "name": "watermarks-remover",
-      "gained": 2933
+      "gained": 2639
+    },
+    {
+      "name": "public-apis",
+      "gained": 2630
     },
     {
       "name": "skills",
-      "gained": 1292
+      "gained": 1039
     },
     {
       "name": "spec-kit",
-      "gained": 1049
+      "gained": 965
+    },
+    {
+      "name": "pi",
+      "gained": 638
     },
     {
       "name": "hermes-agent",
-      "gained": 554
+      "gained": 449
     },
     {
-      "name": "skills",
-      "gained": 545
-    },
-    {
-      "name": "firecrawl",
-      "gained": 526
-    },
-    {
-      "name": "opencode",
-      "gained": 493
-    },
-    {
-      "name": "superpowers",
-      "gained": 488
+      "name": "MoneyPrinterTurbo",
+      "gained": 425
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Anthropic",
+      "title": "Service disruption on Claude services",
+      "impact": "major",
+      "minutes": 87,
+      "ongoing": false,
+      "url": "https://stspg.io/wlcwm73lh5vb"
+    }
+  ]
 }
