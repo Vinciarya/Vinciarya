@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-16",
-  "edition": 318,
+  "generated": "2026-08-17",
+  "edition": 319,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
-    "deck": "DeepSeek Harness is a rapidly expanding open-source project that revolutionizes software development by treating everything as a plugin, allowing for seamless integration and customization",
-    "body": "The project's unprecedented growth has been fueled by its innovative approach to software development, which enables developers to create complex systems by combining smaller, modular components. This philosophy has resonated with the developer community, who see the potential for increased efficiency and flexibility in their workflows. As a result, DeepSeek Harness has become a go-to solution for companies and individuals looking to streamline their development processes and stay ahead of the curve in a rapidly evolving tech landscape",
+    "deck": "DeepSeek Harness surges to the forefront of GitHub's fastest-growing repositories, with a staggering 18,728 new stars in a single day",
+    "body": "The DeepSeek Harness project is revolutionizing the way developers approach software building by treating everything as a plugin. This innovative approach allows for unprecedented flexibility and customization, making it an attractive solution for a wide range of applications. By breaking down complex systems into modular components, DeepSeek Harness enables developers to easily swap out or add new features, streamlining the development process and reducing the time to market. As a result, the project has quickly gained a massive following among developers seeking to optimize their workflow and stay ahead of the competition",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,45 +12,52 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "AI has access to a vastly larger working memory than the human brain",
-        "meta": "426 pts",
-        "desc": "davidepiffer.com \u00b7 375 comments",
-        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
+        "title": "Claude: System Prompts",
+        "meta": "561 pts",
+        "desc": "platform.claude.com \u00b7 234 comments",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts"
       },
       {
         "kind": "hn",
-        "title": "Working with AI feels more like leadership than coding",
-        "meta": "274 pts",
-        "desc": "allen.bargi.org \u00b7 176 comments",
-        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
+        "title": "Models Are Getting Dumber on Purpose",
+        "meta": "280 pts",
+        "desc": "w4g1.dev \u00b7 158 comments",
+        "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose"
+      },
+      {
+        "kind": "hn",
+        "title": "What happens when an LLM never sees material beyond fifth grade?",
+        "meta": "237 pts",
+        "desc": "littlelearner-ll.github.io \u00b7 205 comments",
+        "url": "https://littlelearner-ll.github.io/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "public-apis/public-apis",
-        "meta": "+1,623\u2605",
+        "meta": "+1,690\u2605",
         "desc": "A collective list of free APIs",
         "url": "https://github.com/public-apis/public-apis"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+792\u2605",
+        "meta": "+953\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "github/spec-kit",
-        "meta": "+686\u2605",
-        "desc": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
-        "url": "https://github.com/github/spec-kit"
+        "title": "harry0703/MoneyPrinterTurbo",
+        "meta": "+805\u2605",
+        "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
       },
       {
         "kind": "trending",
         "title": "earendil-works/pi",
-        "meta": "+468\u2605",
+        "meta": "+681\u2605",
         "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
         "url": "https://github.com/earendil-works/pi"
       }
@@ -58,104 +65,113 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "meta": "401 pts",
-        "desc": "sankalp.bearblog.dev \u00b7 89 comments",
-        "url": "https://sankalp.bearblog.dev/autoresearch/"
+        "title": "Firefox for iOS now has a native adblocker",
+        "meta": "553 pts",
+        "desc": "support.mozilla.org \u00b7 229 comments",
+        "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios"
       },
       {
         "kind": "hn",
-        "title": "The other Sean Byrne doesn't exist",
-        "meta": "374 pts",
-        "desc": "conic.al \u00b7 178 comments",
-        "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/"
+        "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+        "meta": "396 pts",
+        "desc": "rvembedded.com \u00b7 209 comments",
+        "url": "https://rvembedded.com/blog_post/12/"
       },
       {
         "kind": "hn",
-        "title": "Semaglutide linked to lower predicted dementia risk",
-        "meta": "363 pts",
-        "desc": "alz-journals.onlinelibrary.wiley.com \u00b7 253 comments",
-        "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432"
+        "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+        "meta": "367 pts",
+        "desc": "scholar.google.com \u00b7 132 comments",
+        "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22"
       },
       {
         "kind": "hn",
-        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-        "meta": "219 pts",
-        "desc": "smithsonianmag.com \u00b7 81 comments",
-        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/"
+        "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+        "meta": "305 pts",
+        "desc": "news.ycombinator.com \u00b7 74 comments",
+        "url": "https://news.ycombinator.com/item?id=49322107"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "guillaumemeyer/watermarks-remover",
-        "meta": "9.8k\u2605",
+        "meta": "11.8k\u2605",
         "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
         "url": "https://github.com/guillaumemeyer/watermarks-remover"
       },
       {
         "kind": "rising",
         "title": "anywhere-labs/deepseek-harness-desktop",
-        "meta": "6.3k\u2605",
-        "desc": "\u4e3a DeepSeek Harness (DSH) \u751f\u6001\u6253\u9020\u7684\u73b0\u4ee3\u5316\u684c\u9762\u7aef\u4f53\u9a8c",
+        "meta": "9.6k\u2605",
+        "desc": "\u4e3a DeepSeek Harness (DSH) \u63d2\u4ef6\u751f\u6001\u6253\u9020\u7684\u73b0\u4ee3\u5316\u684c\u9762\u7aef\u89e3\u51b3\u65b9\u6848",
         "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
       },
       {
         "kind": "rising",
         "title": "awesome-dsh-plugin/awesome-dsh-plugin",
-        "meta": "3.1k\u2605",
+        "meta": "5.7k\u2605",
         "desc": "A curated list of plugins for DeepSeek Harness (dsh) \u00b7 DeepSeek Harness \u63d2\u4ef6\u7cbe\u9009\u5217\u8868",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
       },
       {
         "kind": "rising",
         "title": "zhu1090093659/dsh-web-ui",
-        "meta": "2.8k\u2605",
+        "meta": "3.6k\u2605",
         "desc": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
         "url": "https://github.com/zhu1090093659/dsh-web-ui"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
+    "ai": "3 of 6 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 9 stories, past 24 hours",
+    "hn": "Top 4 of 12 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 19137
+      "gained": 18728
     },
     {
       "name": "deepseek-harness-desktop",
-      "gained": 3980
+      "gained": 3288
     },
     {
-      "name": "public-apis",
-      "gained": 1623
+      "name": "awesome-dsh-plugin",
+      "gained": 2540
     },
     {
       "name": "watermarks-remover",
-      "gained": 1497
+      "gained": 1983
+    },
+    {
+      "name": "public-apis",
+      "gained": 1690
     },
     {
       "name": "skills",
-      "gained": 792
+      "gained": 953
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "gained": 805
     },
     {
       "name": "dsh-web-ui",
-      "gained": 778
-    },
-    {
-      "name": "spec-kit",
-      "gained": 686
-    },
-    {
-      "name": "pi",
-      "gained": 468
+      "gained": 790
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Anthropic",
+      "title": "Service disruption on Claude services",
+      "impact": "critical",
+      "minutes": 35,
+      "ongoing": false,
+      "url": "https://stspg.io/cc6kmwrqhzmh"
+    }
+  ]
 }
