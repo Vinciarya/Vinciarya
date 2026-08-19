@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-18",
-  "edition": 320,
+  "generated": "2026-08-19",
+  "edition": 321,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 16,027 stars in the last day to reach 151,902 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 9,570 stars in the last day to reach 161,472 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,52 +12,52 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "AI;DR (AI; Didn't Read)",
-        "meta": "637 pts",
-        "desc": "rickmanelius.com \u00b7 396 comments",
-        "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
+        "title": "Claude Code May\u2013August 2026 weekly limits promotion",
+        "meta": "262 pts",
+        "desc": "support.claude.com \u00b7 238 comments",
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion"
       },
       {
         "kind": "hn",
-        "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
-        "meta": "322 pts",
-        "desc": "wiz.io \u00b7 126 comments",
-        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+        "title": "Norway should buy OpenAI",
+        "meta": "221 pts",
+        "desc": "onethousandmeans.com \u00b7 235 comments",
+        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai"
       },
       {
         "kind": "hn",
-        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-        "meta": "307 pts",
-        "desc": "blog.roboflow.com \u00b7 154 comments",
-        "url": "https://blog.roboflow.com/openai-gpt-5-6/"
+        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "meta": "153 pts",
+        "desc": "twitter.com \u00b7 65 comments",
+        "url": "https://twitter.com/kuberwastaken/status/2089377982536388964"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "harry0703/MoneyPrinterTurbo",
-        "meta": "+1,569\u2605",
+        "meta": "+2,402\u2605",
         "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo"
       },
       {
         "kind": "trending",
         "title": "public-apis/public-apis",
-        "meta": "+1,337\u2605",
+        "meta": "+1,409\u2605",
         "desc": "A collective list of free APIs",
         "url": "https://github.com/public-apis/public-apis"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,069\u2605",
+        "meta": "+1,192\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "earendil-works/pi",
-        "meta": "+842\u2605",
+        "meta": "+750\u2605",
         "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
         "url": "https://github.com/earendil-works/pi"
       }
@@ -65,113 +65,113 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Incident with Github.com",
-        "meta": "697 pts",
-        "desc": "githubstatus.com \u00b7 2 comments",
-        "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx"
+        "title": "The Amazon tax",
+        "meta": "970 pts",
+        "desc": "seths.blog \u00b7 560 comments",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/"
       },
       {
         "kind": "hn",
-        "title": "A Preview of DuckDB v2.0",
-        "meta": "558 pts",
-        "desc": "duckdb.org \u00b7 98 comments",
-        "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
+        "title": "Google has acquired the data of failed US airline Spirit",
+        "meta": "568 pts",
+        "desc": "theregister.com \u00b7 386 comments",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
       },
       {
         "kind": "hn",
-        "title": "Ask HN: Alternatives to GitHub",
-        "meta": "506 pts",
-        "desc": "news.ycombinator.com \u00b7 325 comments",
-        "url": "https://news.ycombinator.com/item?id=49331033"
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "meta": "511 pts",
+        "desc": "pixelcluster.dev \u00b7 276 comments",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/"
       },
       {
         "kind": "hn",
-        "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
-        "meta": "386 pts",
-        "desc": "ysph.yale.edu \u00b7 519 comments",
-        "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/"
+        "title": "Beware Management Consultants",
+        "meta": "457 pts",
+        "desc": "about.iceland.co.uk \u00b7 124 comments",
+        "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "anywhere-labs/deepseek-harness-desktop",
-        "meta": "12.0k\u2605",
+        "meta": "13.9k\u2605",
         "desc": "\u4e3a DeepSeek Harness (DSH) \u63d2\u4ef6\u751f\u6001\u6253\u9020\u7684\u73b0\u4ee3\u5316\u684c\u9762\u7aef\u89e3\u51b3\u65b9\u6848\u3002\u4e07\u7269\u7686\u300c\u63d2\u4ef6\u300d\uff0c\u684c\u9762\u672c\u8eab\u4e5f\u662f\u300c\u63d2\u4ef6\u300d\u3002",
         "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
       },
       {
         "kind": "rising",
         "title": "awesome-dsh-plugin/awesome-dsh-plugin",
-        "meta": "7.7k\u2605",
+        "meta": "9.1k\u2605",
         "desc": "A curated list of plugins for DeepSeek Harness (dsh) \u00b7 DeepSeek Harness \u63d2\u4ef6\u7cbe\u9009\u5217\u8868",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
       },
       {
         "kind": "rising",
         "title": "yjh051108/dsh-routing-suite",
-        "meta": "5.5k\u2605",
+        "meta": "6.1k\u2605",
         "desc": "dsh-routing-suite \u2014 injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
         "url": "https://github.com/yjh051108/dsh-routing-suite"
       },
       {
         "kind": "rising",
-        "title": "zhu1090093659/dsh-web-ui",
-        "meta": "4.2k\u2605",
-        "desc": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-        "url": "https://github.com/zhu1090093659/dsh-web-ui"
+        "title": "xiaobright/dsh-anchored-standard",
+        "meta": "3.6k\u2605",
+        "desc": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+        "url": "https://github.com/xiaobright/dsh-anchored-standard"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 5 AI stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 19 stories, past 24 hours",
+    "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 16027
-    },
-    {
-      "name": "deepseek-harness-desktop",
-      "gained": 2447
-    },
-    {
-      "name": "awesome-dsh-plugin",
-      "gained": 2065
+      "gained": 9570
     },
     {
       "name": "MoneyPrinterTurbo",
-      "gained": 1569
+      "gained": 2402
+    },
+    {
+      "name": "deepseek-harness-desktop",
+      "gained": 1839
     },
     {
       "name": "public-apis",
-      "gained": 1337
+      "gained": 1409
+    },
+    {
+      "name": "awesome-dsh-plugin",
+      "gained": 1333
     },
     {
       "name": "skills",
-      "gained": 1069
+      "gained": 1192
     },
     {
       "name": "pi",
-      "gained": 842
+      "gained": 750
     },
     {
-      "name": "dsh-web-ui",
-      "gained": 611
+      "name": "dsh-routing-suite",
+      "gained": 609
     }
   ],
   "ticker": [],
   "infra": [
     {
       "name": "GitHub",
-      "title": "Incident with GitHub.com",
-      "impact": "critical",
-      "minutes": 455,
+      "title": "Incident with Actions",
+      "impact": "major",
+      "minutes": 46,
       "ongoing": false,
-      "url": "https://stspg.io/y1fl26l6wpzr"
+      "url": "https://stspg.io/q3ck88mqw08z"
     }
   ]
 }
