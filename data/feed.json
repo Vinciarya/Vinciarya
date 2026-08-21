@@ -1,146 +1,185 @@
 {
-  "generated": "2026-08-20",
-  "edition": 322,
+  "generated": "2026-08-21",
+  "edition": 323,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 6,903 stars in the last day to reach 168,375 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 7,100 stars in the last day to reach 175,475 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
   "sections": {
-    "ai": [],
+    "ai": [
+      {
+        "kind": "hn",
+        "title": "Don't paste the AI, please",
+        "meta": "992 pts",
+        "desc": "dontpastetheai.com \u00b7 544 comments",
+        "url": "https://dontpastetheai.com/"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "meta": "528 pts",
+        "desc": "simedw.com \u00b7 109 comments",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
+        "meta": "228 pts",
+        "desc": "danielvaughn.dev \u00b7 134 comments",
+        "url": "https://www.danielvaughn.dev/posts/huzzah/"
+      }
+    ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+2,325\u2605",
+        "meta": "+2,831\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "harry0703/MoneyPrinterTurbo",
-        "meta": "+2,270\u2605",
+        "meta": "+2,043\u2605",
         "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo"
       },
       {
         "kind": "trending",
-        "title": "public-apis/public-apis",
-        "meta": "+1,461\u2605",
-        "desc": "A collective list of free APIs",
-        "url": "https://github.com/public-apis/public-apis"
+        "title": "openai/codex",
+        "meta": "+1,321\u2605",
+        "desc": "Lightweight coding agent that runs in your terminal",
+        "url": "https://github.com/openai/codex"
       },
       {
         "kind": "trending",
-        "title": "earendil-works/pi",
-        "meta": "+633\u2605",
-        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "url": "https://github.com/earendil-works/pi"
+        "title": "public-apis/public-apis",
+        "meta": "+1,138\u2605",
+        "desc": "A collective list of free APIs",
+        "url": "https://github.com/public-apis/public-apis"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "A joke domain purchase turned in geopolitical warfare",
-        "meta": "780 pts",
-        "desc": "sprocketfox.io \u00b7 120 comments",
-        "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
+        "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+        "meta": "1116 pts",
+        "desc": "blog.curiousquail.com \u00b7 243 comments",
+        "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/"
       },
       {
         "kind": "hn",
-        "title": "OpenRouter is joining Stripe",
-        "meta": "674 pts",
-        "desc": "openrouter.ai \u00b7 356 comments",
-        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "meta": "910 pts",
+        "desc": "blog.laserphile.com \u00b7 295 comments",
+        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html"
       },
       {
         "kind": "hn",
-        "title": "Devices with GrapheneOS support should be available in 2027",
-        "meta": "576 pts",
-        "desc": "grapheneos.social \u00b7 366 comments",
-        "url": "https://grapheneos.social/@GrapheneOS/117078064184215730"
+        "title": "Malicious Rust crate Arrayref runs a build-time payload",
+        "meta": "407 pts",
+        "desc": "safedep.io \u00b7 367 comments",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"
       },
       {
         "kind": "hn",
-        "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-        "meta": "525 pts",
-        "desc": "twitter.com \u00b7 252 comments",
-        "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787"
+        "title": "The August 17 outage",
+        "meta": "351 pts",
+        "desc": "github.blog \u00b7 401 comments",
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "yjh051108/dsh-routing-suite",
-        "meta": "6.3k\u2605",
-        "desc": "dsh-routing-suite \u2014 injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-        "url": "https://github.com/yjh051108/dsh-routing-suite"
-      },
-      {
-        "kind": "rising",
-        "title": "xiaobright/dsh-anchored-standard",
-        "meta": "3.6k\u2605",
-        "desc": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-        "url": "https://github.com/xiaobright/dsh-anchored-standard"
+        "title": "s1dashu/ip-as-logo-skill",
+        "meta": "3.2k\u2605",
+        "desc": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+        "url": "https://github.com/s1dashu/ip-as-logo-skill"
       },
       {
         "kind": "rising",
         "title": "yetone/cumora",
-        "meta": "2.7k\u2605",
+        "meta": "2.8k\u2605",
         "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
         "url": "https://github.com/yetone/cumora"
       },
       {
         "kind": "rising",
-        "title": "s1dashu/ip-as-logo-skill",
-        "meta": "2.2k\u2605",
-        "desc": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-        "url": "https://github.com/s1dashu/ip-as-logo-skill"
+        "title": "CopilotKit/OpenBot",
+        "meta": "1.7k\u2605",
+        "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "url": "https://github.com/CopilotKit/OpenBot"
+      },
+      {
+        "kind": "rising",
+        "title": "cinderline/northcinder",
+        "meta": "1.2k\u2605",
+        "desc": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+        "url": "https://github.com/cinderline/northcinder"
       }
     ]
   },
   "notes": {
-    "ai": "0 of 0 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 17 stories, past 24 hours",
+    "hn": "Top 4 of 16 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 6903
+      "gained": 7100
     },
     {
       "name": "skills",
-      "gained": 2325
+      "gained": 2831
     },
     {
       "name": "MoneyPrinterTurbo",
-      "gained": 2270
+      "gained": 2043
+    },
+    {
+      "name": "codex",
+      "gained": 1321
     },
     {
       "name": "public-apis",
-      "gained": 1461
+      "gained": 1138
     },
     {
-      "name": "pi",
-      "gained": 633
+      "name": "ip-as-logo-skill",
+      "gained": 999
     },
     {
       "name": "superpowers",
-      "gained": 620
+      "gained": 660
     },
     {
-      "name": "firecrawl",
-      "gained": 492
-    },
-    {
-      "name": "hermes-agent",
-      "gained": 490
+      "name": "pi",
+      "gained": 639
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "GitHub",
+      "title": "Intermittent failures creating agent tasks",
+      "impact": "critical",
+      "minutes": 594,
+      "ongoing": false,
+      "url": "https://stspg.io/py1yl5mnq89c"
+    },
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors on requests to multiple models",
+      "impact": "major",
+      "minutes": 26,
+      "ongoing": false,
+      "url": "https://stspg.io/w7yghz6hfr72"
+    }
+  ]
 }
