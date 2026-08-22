@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-21",
-  "edition": 323,
+  "generated": "2026-08-22",
+  "edition": 324,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 7,100 stars in the last day to reach 175,475 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 6,205 stars in the last day to reach 181,680 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,105 +12,105 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Don't paste the AI, please",
-        "meta": "992 pts",
-        "desc": "dontpastetheai.com \u00b7 544 comments",
-        "url": "https://dontpastetheai.com/"
+        "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+        "meta": "702 pts",
+        "desc": "annas-archive.pk \u00b7 2 comments",
+        "url": "https://annas-archive.pk/blog/physical-destruction.html"
       },
       {
         "kind": "hn",
-        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-        "meta": "528 pts",
-        "desc": "simedw.com \u00b7 109 comments",
-        "url": "https://simedw.com/2026/08/20/midi-autocomplete/"
+        "title": "I'm becoming AI-blind",
+        "meta": "283 pts",
+        "desc": "cymerys.com \u00b7 300 comments",
+        "url": "https://cymerys.com/w/im-becoming-ai-blind"
       },
       {
         "kind": "hn",
-        "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
-        "meta": "228 pts",
-        "desc": "danielvaughn.dev \u00b7 134 comments",
-        "url": "https://www.danielvaughn.dev/posts/huzzah/"
+        "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+        "meta": "211 pts",
+        "desc": "github.com \u00b7 150 comments",
+        "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "openai/codex",
+        "meta": "+3,251\u2605",
+        "desc": "Lightweight coding agent that runs in your terminal",
+        "url": "https://github.com/openai/codex"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+2,831\u2605",
+        "meta": "+2,878\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "harry0703/MoneyPrinterTurbo",
-        "meta": "+2,043\u2605",
+        "meta": "+939\u2605",
         "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo"
       },
       {
         "kind": "trending",
-        "title": "openai/codex",
-        "meta": "+1,321\u2605",
-        "desc": "Lightweight coding agent that runs in your terminal",
-        "url": "https://github.com/openai/codex"
-      },
-      {
-        "kind": "trending",
-        "title": "public-apis/public-apis",
-        "meta": "+1,138\u2605",
-        "desc": "A collective list of free APIs",
-        "url": "https://github.com/public-apis/public-apis"
+        "title": "ripienaar/free-for-dev",
+        "meta": "+871\u2605",
+        "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "url": "https://github.com/ripienaar/free-for-dev"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-        "meta": "1116 pts",
-        "desc": "blog.curiousquail.com \u00b7 243 comments",
-        "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/"
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "meta": "1028 pts",
+        "desc": "kagi.com \u00b7 346 comments",
+        "url": "https://kagi.com/changelog#11296"
       },
       {
         "kind": "hn",
-        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-        "meta": "910 pts",
-        "desc": "blog.laserphile.com \u00b7 295 comments",
-        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html"
+        "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+        "meta": "641 pts",
+        "desc": "san.com \u00b7 366 comments",
+        "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/"
       },
       {
         "kind": "hn",
-        "title": "Malicious Rust crate Arrayref runs a build-time payload",
-        "meta": "407 pts",
-        "desc": "safedep.io \u00b7 367 comments",
-        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "meta": "601 pts",
+        "desc": "nytimes.com \u00b7 770 comments",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html"
       },
       {
         "kind": "hn",
-        "title": "The August 17 outage",
-        "meta": "351 pts",
-        "desc": "github.blog \u00b7 401 comments",
-        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
+        "title": "Felony Bench",
+        "meta": "556 pts",
+        "desc": "felonybench.com \u00b7 230 comments",
+        "url": "https://www.felonybench.com/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "s1dashu/ip-as-logo-skill",
-        "meta": "3.2k\u2605",
+        "meta": "3.5k\u2605",
         "desc": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
         "url": "https://github.com/s1dashu/ip-as-logo-skill"
       },
       {
         "kind": "rising",
         "title": "yetone/cumora",
-        "meta": "2.8k\u2605",
+        "meta": "2.9k\u2605",
         "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
         "url": "https://github.com/yetone/cumora"
       },
       {
         "kind": "rising",
         "title": "CopilotKit/OpenBot",
-        "meta": "1.7k\u2605",
+        "meta": "2.1k\u2605",
         "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
         "url": "https://github.com/CopilotKit/OpenBot"
       },
@@ -126,60 +126,43 @@
   "notes": {
     "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 16 stories, past 24 hours",
+    "hn": "Top 4 of 17 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 7100
-    },
-    {
-      "name": "skills",
-      "gained": 2831
-    },
-    {
-      "name": "MoneyPrinterTurbo",
-      "gained": 2043
+      "gained": 6205
     },
     {
       "name": "codex",
-      "gained": 1321
+      "gained": 3251
+    },
+    {
+      "name": "skills",
+      "gained": 2878
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "gained": 939
+    },
+    {
+      "name": "free-for-dev",
+      "gained": 871
     },
     {
       "name": "public-apis",
-      "gained": 1138
-    },
-    {
-      "name": "ip-as-logo-skill",
-      "gained": 999
+      "gained": 756
     },
     {
       "name": "superpowers",
-      "gained": 660
+      "gained": 681
     },
     {
       "name": "pi",
-      "gained": 639
+      "gained": 588
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "GitHub",
-      "title": "Intermittent failures creating agent tasks",
-      "impact": "critical",
-      "minutes": 594,
-      "ongoing": false,
-      "url": "https://stspg.io/py1yl5mnq89c"
-    },
-    {
-      "name": "Anthropic",
-      "title": "Elevated errors on requests to multiple models",
-      "impact": "major",
-      "minutes": 26,
-      "ongoing": false,
-      "url": "https://stspg.io/w7yghz6hfr72"
-    }
-  ]
+  "infra": []
 }
