@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-22",
-  "edition": 324,
+  "generated": "2026-08-23",
+  "edition": 325,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 6,205 stars in the last day to reach 181,680 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 3,666 stars in the last day to reach 185,346 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,52 +12,52 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-        "meta": "702 pts",
-        "desc": "annas-archive.pk \u00b7 2 comments",
-        "url": "https://annas-archive.pk/blog/physical-destruction.html"
+        "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+        "meta": "258 pts",
+        "desc": "munderdiffl.in \u00b7 115 comments",
+        "url": "https://munderdiffl.in/"
       },
       {
         "kind": "hn",
-        "title": "I'm becoming AI-blind",
-        "meta": "283 pts",
-        "desc": "cymerys.com \u00b7 300 comments",
-        "url": "https://cymerys.com/w/im-becoming-ai-blind"
+        "title": "Why your local LLM feels dumber than it is",
+        "meta": "201 pts",
+        "desc": "forum.level1techs.com \u00b7 69 comments",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
       },
       {
         "kind": "hn",
-        "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-        "meta": "211 pts",
-        "desc": "github.com \u00b7 150 comments",
-        "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md"
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "meta": "167 pts",
+        "desc": "twitter.com \u00b7 158 comments",
+        "url": "https://twitter.com/argofowl/status/2091150597374537729"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "openai/codex",
-        "meta": "+3,251\u2605",
-        "desc": "Lightweight coding agent that runs in your terminal",
-        "url": "https://github.com/openai/codex"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+2,878\u2605",
+        "meta": "+2,542\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
+        "title": "openai/codex",
+        "meta": "+2,146\u2605",
+        "desc": "Lightweight coding agent that runs in your terminal",
+        "url": "https://github.com/openai/codex"
+      },
+      {
+        "kind": "trending",
         "title": "harry0703/MoneyPrinterTurbo",
-        "meta": "+939\u2605",
+        "meta": "+689\u2605",
         "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo"
       },
       {
         "kind": "trending",
         "title": "ripienaar/free-for-dev",
-        "meta": "+871\u2605",
+        "meta": "+658\u2605",
         "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
         "url": "https://github.com/ripienaar/free-for-dev"
       }
@@ -65,38 +65,38 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Kagi added a setting for removing paywalled links from search results",
-        "meta": "1028 pts",
-        "desc": "kagi.com \u00b7 346 comments",
-        "url": "https://kagi.com/changelog#11296"
+        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+        "meta": "509 pts",
+        "desc": "bbc.com \u00b7 1267 comments",
+        "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo"
       },
       {
         "kind": "hn",
-        "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-        "meta": "641 pts",
-        "desc": "san.com \u00b7 366 comments",
-        "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/"
+        "title": "Scrap (2006)",
+        "meta": "326 pts",
+        "desc": "twitter.com \u00b7 177 comments",
+        "url": "https://twitter.com/moxie/status/2091218652133732491"
       },
       {
         "kind": "hn",
-        "title": "Felony charges for citizen deleting phone data at US Border",
-        "meta": "601 pts",
-        "desc": "nytimes.com \u00b7 770 comments",
-        "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html"
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "meta": "326 pts",
+        "desc": "quantumi.sh \u00b7 102 comments",
+        "url": "https://quantumi.sh/public/labs.html"
       },
       {
         "kind": "hn",
-        "title": "Felony Bench",
-        "meta": "556 pts",
-        "desc": "felonybench.com \u00b7 230 comments",
-        "url": "https://www.felonybench.com/"
+        "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+        "meta": "204 pts",
+        "desc": "theguardian.com \u00b7 166 comments",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "s1dashu/ip-as-logo-skill",
-        "meta": "3.5k\u2605",
+        "meta": "3.8k\u2605",
         "desc": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
         "url": "https://github.com/s1dashu/ip-as-logo-skill"
       },
@@ -110,57 +110,57 @@
       {
         "kind": "rising",
         "title": "CopilotKit/OpenBot",
-        "meta": "2.1k\u2605",
+        "meta": "2.3k\u2605",
         "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
         "url": "https://github.com/CopilotKit/OpenBot"
       },
       {
         "kind": "rising",
-        "title": "cinderline/northcinder",
-        "meta": "1.2k\u2605",
-        "desc": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-        "url": "https://github.com/cinderline/northcinder"
+        "title": "MengTo/threeui",
+        "meta": "2.0k\u2605",
+        "desc": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+        "url": "https://github.com/MengTo/threeui"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 17 stories, past 24 hours",
+    "hn": "Top 4 of 11 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 6205
-    },
-    {
-      "name": "codex",
-      "gained": 3251
+      "gained": 3666
     },
     {
       "name": "skills",
-      "gained": 2878
+      "gained": 2542
+    },
+    {
+      "name": "codex",
+      "gained": 2146
     },
     {
       "name": "MoneyPrinterTurbo",
-      "gained": 939
+      "gained": 689
     },
     {
       "name": "free-for-dev",
-      "gained": 871
+      "gained": 658
     },
     {
       "name": "public-apis",
-      "gained": 756
+      "gained": 620
     },
     {
       "name": "superpowers",
-      "gained": 681
+      "gained": 533
     },
     {
-      "name": "pi",
-      "gained": 588
+      "name": "ui-ux-pro-max-skill",
+      "gained": 506
     }
   ],
   "ticker": [],
