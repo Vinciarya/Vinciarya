@@ -1,166 +1,144 @@
 {
-  "generated": "2026-08-23",
-  "edition": 325,
+  "generated": "2026-08-24",
+  "edition": 326,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 3,666 stars in the last day to reach 185,346 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 3,264 stars in the last day to reach 188,610 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
   "sections": {
-    "ai": [
-      {
-        "kind": "hn",
-        "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-        "meta": "258 pts",
-        "desc": "munderdiffl.in \u00b7 115 comments",
-        "url": "https://munderdiffl.in/"
-      },
-      {
-        "kind": "hn",
-        "title": "Why your local LLM feels dumber than it is",
-        "meta": "201 pts",
-        "desc": "forum.level1techs.com \u00b7 69 comments",
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
-      },
-      {
-        "kind": "hn",
-        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-        "meta": "167 pts",
-        "desc": "twitter.com \u00b7 158 comments",
-        "url": "https://twitter.com/argofowl/status/2091150597374537729"
-      }
-    ],
+    "ai": [],
     "trending": [
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+2,542\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
-      },
-      {
-        "kind": "trending",
         "title": "openai/codex",
-        "meta": "+2,146\u2605",
+        "meta": "+1,970\u2605",
         "desc": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex"
       },
       {
         "kind": "trending",
+        "title": "mattpocock/skills",
+        "meta": "+1,792\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
         "title": "harry0703/MoneyPrinterTurbo",
-        "meta": "+689\u2605",
+        "meta": "+697\u2605",
         "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo"
       },
       {
         "kind": "trending",
-        "title": "ripienaar/free-for-dev",
-        "meta": "+658\u2605",
-        "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-        "url": "https://github.com/ripienaar/free-for-dev"
+        "title": "NousResearch/hermes-agent",
+        "meta": "+648\u2605",
+        "desc": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-        "meta": "509 pts",
-        "desc": "bbc.com \u00b7 1267 comments",
-        "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo"
+        "title": "To become a better writer, read as much as you can",
+        "meta": "316 pts",
+        "desc": "nappertime.com \u00b7 208 comments",
+        "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/"
       },
       {
         "kind": "hn",
-        "title": "Scrap (2006)",
-        "meta": "326 pts",
-        "desc": "twitter.com \u00b7 177 comments",
-        "url": "https://twitter.com/moxie/status/2091218652133732491"
+        "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+        "meta": "159 pts",
+        "desc": "xda-developers.com \u00b7 80 comments",
+        "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/"
       },
       {
         "kind": "hn",
-        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-        "meta": "326 pts",
-        "desc": "quantumi.sh \u00b7 102 comments",
-        "url": "https://quantumi.sh/public/labs.html"
+        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+        "meta": "155 pts",
+        "desc": "xda-developers.com \u00b7 115 comments",
+        "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/"
       },
       {
         "kind": "hn",
-        "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-        "meta": "204 pts",
-        "desc": "theguardian.com \u00b7 166 comments",
-        "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
+        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "meta": "154 pts",
+        "desc": "martypc.net \u00b7 55 comments",
+        "url": "https://martypc.net/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "s1dashu/ip-as-logo-skill",
-        "meta": "3.8k\u2605",
+        "meta": "3.9k\u2605",
         "desc": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
         "url": "https://github.com/s1dashu/ip-as-logo-skill"
       },
       {
         "kind": "rising",
-        "title": "yetone/cumora",
-        "meta": "2.9k\u2605",
-        "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
-        "url": "https://github.com/yetone/cumora"
-      },
-      {
-        "kind": "rising",
-        "title": "CopilotKit/OpenBot",
-        "meta": "2.3k\u2605",
-        "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "url": "https://github.com/CopilotKit/OpenBot"
-      },
-      {
-        "kind": "rising",
         "title": "MengTo/threeui",
-        "meta": "2.0k\u2605",
+        "meta": "3.0k\u2605",
         "desc": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
         "url": "https://github.com/MengTo/threeui"
+      },
+      {
+        "kind": "rising",
+        "title": "wang2122/sprix-sage-router",
+        "meta": "1.4k\u2605",
+        "desc": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+        "url": "https://github.com/wang2122/sprix-sage-router"
+      },
+      {
+        "kind": "rising",
+        "title": "vvxw/deploy-vercel",
+        "meta": "1.2k\u2605",
+        "desc": "Install Command\uff1anpm install",
+        "url": "https://github.com/vvxw/deploy-vercel"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
+    "ai": "0 of 0 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 11 stories, past 24 hours",
+    "hn": "Top 4 of 4 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 3666
-    },
-    {
-      "name": "skills",
-      "gained": 2542
+      "gained": 3264
     },
     {
       "name": "codex",
-      "gained": 2146
+      "gained": 1970
+    },
+    {
+      "name": "skills",
+      "gained": 1792
+    },
+    {
+      "name": "threeui",
+      "gained": 1040
     },
     {
       "name": "MoneyPrinterTurbo",
-      "gained": 689
+      "gained": 697
     },
     {
-      "name": "free-for-dev",
-      "gained": 658
+      "name": "hermes-agent",
+      "gained": 648
     },
     {
       "name": "public-apis",
-      "gained": 620
+      "gained": 601
     },
     {
-      "name": "superpowers",
-      "gained": 533
-    },
-    {
-      "name": "ui-ux-pro-max-skill",
-      "gained": 506
+      "name": "free-for-dev",
+      "gained": 544
     }
   ],
   "ticker": [],
