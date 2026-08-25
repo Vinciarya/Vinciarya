@@ -1,146 +1,178 @@
 {
-  "generated": "2026-08-24",
-  "edition": 326,
+  "generated": "2026-08-25",
+  "edition": 327,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 3,264 stars in the last day to reach 188,610 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 3,831 stars in the last day to reach 192,441 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
   "sections": {
-    "ai": [],
+    "ai": [
+      {
+        "kind": "hn",
+        "title": "Coding expertise is going to collapse from AI reliance",
+        "meta": "484 pts",
+        "desc": "larsfaye.com \u00b7 475 comments",
+        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+      },
+      {
+        "kind": "hn",
+        "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+        "meta": "305 pts",
+        "desc": "developers.openai.com \u00b7 271 comments",
+        "url": "https://developers.openai.com/api/docs/pricing"
+      }
+    ],
     "trending": [
       {
         "kind": "trending",
         "title": "openai/codex",
-        "meta": "+1,970\u2605",
+        "meta": "+1,645\u2605",
         "desc": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,792\u2605",
+        "meta": "+1,516\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "harry0703/MoneyPrinterTurbo",
-        "meta": "+697\u2605",
-        "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+        "title": "NousResearch/hermes-agent",
+        "meta": "+807\u2605",
+        "desc": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent"
       },
       {
         "kind": "trending",
-        "title": "NousResearch/hermes-agent",
-        "meta": "+648\u2605",
-        "desc": "The agent that grows with you",
-        "url": "https://github.com/NousResearch/hermes-agent"
+        "title": "earendil-works/pi",
+        "meta": "+697\u2605",
+        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "url": "https://github.com/earendil-works/pi"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "To become a better writer, read as much as you can",
-        "meta": "316 pts",
-        "desc": "nappertime.com \u00b7 208 comments",
-        "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/"
+        "title": "How Europe is killing makers and micro-entrepreneurs",
+        "meta": "1089 pts",
+        "desc": "lectronz.com \u00b7 672 comments",
+        "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs"
       },
       {
         "kind": "hn",
-        "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-        "meta": "159 pts",
-        "desc": "xda-developers.com \u00b7 80 comments",
-        "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/"
+        "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+        "meta": "746 pts",
+        "desc": "twitter.com \u00b7 505 comments",
+        "url": "https://twitter.com/lemire/status/2091894299289874926"
       },
       {
         "kind": "hn",
-        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-        "meta": "155 pts",
-        "desc": "xda-developers.com \u00b7 115 comments",
-        "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/"
+        "title": "Andreessen Horowitz is investing billions into a bleak future",
+        "meta": "667 pts",
+        "desc": "modelrepublic.org \u00b7 346 comments",
+        "url": "https://www.modelrepublic.org/articles/a16z-portfolio"
       },
       {
         "kind": "hn",
-        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-        "meta": "154 pts",
-        "desc": "martypc.net \u00b7 55 comments",
-        "url": "https://martypc.net/"
+        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+        "meta": "580 pts",
+        "desc": "xusheng.dev \u00b7 232 comments",
+        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"
       }
     ],
     "launches": [
       {
-        "kind": "rising",
-        "title": "s1dashu/ip-as-logo-skill",
-        "meta": "3.9k\u2605",
-        "desc": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-        "url": "https://github.com/s1dashu/ip-as-logo-skill"
+        "kind": "hn",
+        "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+        "meta": "177 pts",
+        "desc": "ssx360.github.io \u00b7 32 comments",
+        "url": "https://ssx360.github.io/rack-02/?src=hn"
       },
       {
         "kind": "rising",
         "title": "MengTo/threeui",
-        "meta": "3.0k\u2605",
+        "meta": "3.6k\u2605",
         "desc": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
         "url": "https://github.com/MengTo/threeui"
       },
       {
         "kind": "rising",
-        "title": "wang2122/sprix-sage-router",
-        "meta": "1.4k\u2605",
-        "desc": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-        "url": "https://github.com/wang2122/sprix-sage-router"
+        "title": "b-nnett/grok-bot-0.18-reconstructed",
+        "meta": "1.9k\u2605",
+        "desc": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+        "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
       },
       {
         "kind": "rising",
-        "title": "vvxw/deploy-vercel",
+        "title": "duty1g/x64dbg-mcp-server",
         "meta": "1.2k\u2605",
-        "desc": "Install Command\uff1anpm install",
-        "url": "https://github.com/vvxw/deploy-vercel"
+        "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server"
       }
     ]
   },
   "notes": {
-    "ai": "0 of 0 AI stories, past 24 hours",
+    "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 4 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 3264
+      "gained": 3831
     },
     {
       "name": "codex",
-      "gained": 1970
+      "gained": 1645
     },
     {
       "name": "skills",
-      "gained": 1792
-    },
-    {
-      "name": "threeui",
-      "gained": 1040
-    },
-    {
-      "name": "MoneyPrinterTurbo",
-      "gained": 697
+      "gained": 1516
     },
     {
       "name": "hermes-agent",
-      "gained": 648
+      "gained": 807
+    },
+    {
+      "name": "pi",
+      "gained": 697
     },
     {
       "name": "public-apis",
-      "gained": 601
+      "gained": 650
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "gained": 633
     },
     {
       "name": "free-for-dev",
-      "gained": 544
+      "gained": 584
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors for multiple models",
+      "impact": "major",
+      "minutes": 204,
+      "ongoing": false,
+      "url": "https://stspg.io/5kzdprb1xsbx"
+    },
+    {
+      "name": "GitHub",
+      "title": "Elevated errors on Fable 5 due to upstream provider",
+      "impact": "major",
+      "minutes": 46,
+      "ongoing": false,
+      "url": "https://stspg.io/4dz9rv14dz14"
+    }
+  ]
 }
