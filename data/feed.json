@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-25",
-  "edition": 327,
+  "generated": "2026-08-26",
+  "edition": 328,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 3,831 stars in the last day to reach 192,441 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 3,216 stars in the last day to reach 195,657 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,105 +12,105 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Coding expertise is going to collapse from AI reliance",
-        "meta": "484 pts",
-        "desc": "larsfaye.com \u00b7 475 comments",
-        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+        "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+        "meta": "355 pts",
+        "desc": "newsletter.semianalysis.com \u00b7 248 comments",
+        "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
       },
       {
         "kind": "hn",
-        "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-        "meta": "305 pts",
-        "desc": "developers.openai.com \u00b7 271 comments",
-        "url": "https://developers.openai.com/api/docs/pricing"
+        "title": "How much of HN is AI?",
+        "meta": "251 pts",
+        "desc": "blog.coredump.cx \u00b7 302 comments",
+        "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "openai/codex",
-        "meta": "+1,645\u2605",
-        "desc": "Lightweight coding agent that runs in your terminal",
-        "url": "https://github.com/openai/codex"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,516\u2605",
+        "meta": "+1,301\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "NousResearch/hermes-agent",
-        "meta": "+807\u2605",
-        "desc": "The agent that grows with you",
-        "url": "https://github.com/NousResearch/hermes-agent"
+        "title": "openai/codex",
+        "meta": "+989\u2605",
+        "desc": "Lightweight coding agent that runs in your terminal",
+        "url": "https://github.com/openai/codex"
       },
       {
         "kind": "trending",
         "title": "earendil-works/pi",
-        "meta": "+697\u2605",
+        "meta": "+597\u2605",
         "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
         "url": "https://github.com/earendil-works/pi"
+      },
+      {
+        "kind": "trending",
+        "title": "NousResearch/hermes-agent",
+        "meta": "+596\u2605",
+        "desc": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "How Europe is killing makers and micro-entrepreneurs",
-        "meta": "1089 pts",
-        "desc": "lectronz.com \u00b7 672 comments",
-        "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs"
+        "title": "Dolly Parton has died",
+        "meta": "1278 pts",
+        "desc": "theguardian.com \u00b7 195 comments",
+        "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead"
       },
       {
         "kind": "hn",
-        "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-        "meta": "746 pts",
-        "desc": "twitter.com \u00b7 505 comments",
-        "url": "https://twitter.com/lemire/status/2091894299289874926"
+        "title": "Apple introduces M6 and M5 Ultra",
+        "meta": "990 pts",
+        "desc": "apple.com \u00b7 925 comments",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
       },
       {
         "kind": "hn",
-        "title": "Andreessen Horowitz is investing billions into a bleak future",
-        "meta": "667 pts",
-        "desc": "modelrepublic.org \u00b7 346 comments",
-        "url": "https://www.modelrepublic.org/articles/a16z-portfolio"
+        "title": "New Mac Studio with M5 Max and M5 Ultra",
+        "meta": "713 pts",
+        "desc": "apple.com \u00b7 471 comments",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
       },
       {
         "kind": "hn",
-        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-        "meta": "580 pts",
-        "desc": "xusheng.dev \u00b7 232 comments",
-        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"
+        "title": "Nitter and XCancel receive cease and desist notices",
+        "meta": "688 pts",
+        "desc": "github.com \u00b7 591 comments",
+        "url": "https://github.com/zedeus/nitter/issues/1442"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-        "meta": "177 pts",
-        "desc": "ssx360.github.io \u00b7 32 comments",
-        "url": "https://ssx360.github.io/rack-02/?src=hn"
-      },
-      {
         "kind": "rising",
         "title": "MengTo/threeui",
-        "meta": "3.6k\u2605",
+        "meta": "4.0k\u2605",
         "desc": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
         "url": "https://github.com/MengTo/threeui"
       },
       {
         "kind": "rising",
         "title": "b-nnett/grok-bot-0.18-reconstructed",
-        "meta": "1.9k\u2605",
+        "meta": "2.6k\u2605",
         "desc": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
         "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
       },
       {
         "kind": "rising",
+        "title": "tobi/walgit",
+        "meta": "1.6k\u2605",
+        "desc": "",
+        "url": "https://github.com/tobi/walgit"
+      },
+      {
+        "kind": "rising",
         "title": "duty1g/x64dbg-mcp-server",
-        "meta": "1.2k\u2605",
+        "meta": "1.4k\u2605",
         "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
         "url": "https://github.com/duty1g/x64dbg-mcp-server"
       }
@@ -119,60 +119,43 @@
   "notes": {
     "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "hn": "Top 4 of 19 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 3831
-    },
-    {
-      "name": "codex",
-      "gained": 1645
+      "gained": 3216
     },
     {
       "name": "skills",
-      "gained": 1516
+      "gained": 1301
     },
     {
-      "name": "hermes-agent",
-      "gained": 807
+      "name": "codex",
+      "gained": 989
+    },
+    {
+      "name": "grok-bot-0.18-reconstructed",
+      "gained": 693
     },
     {
       "name": "pi",
-      "gained": 697
+      "gained": 597
     },
     {
-      "name": "public-apis",
-      "gained": 650
+      "name": "hermes-agent",
+      "gained": 596
     },
     {
       "name": "MoneyPrinterTurbo",
-      "gained": 633
+      "gained": 499
     },
     {
-      "name": "free-for-dev",
-      "gained": 584
+      "name": "walgit",
+      "gained": 499
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Anthropic",
-      "title": "Elevated errors for multiple models",
-      "impact": "major",
-      "minutes": 204,
-      "ongoing": false,
-      "url": "https://stspg.io/5kzdprb1xsbx"
-    },
-    {
-      "name": "GitHub",
-      "title": "Elevated errors on Fable 5 due to upstream provider",
-      "impact": "major",
-      "minutes": 46,
-      "ongoing": false,
-      "url": "https://stspg.io/4dz9rv14dz14"
-    }
-  ]
+  "infra": []
 }
