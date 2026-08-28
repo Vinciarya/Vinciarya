@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-27",
-  "edition": 329,
+  "generated": "2026-08-28",
+  "edition": 330,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 3,811 stars in the last day to reach 199,468 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 2,088 stars in the last day to reach 201,556 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,159 +12,157 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-        "meta": "697 pts",
-        "desc": "github.com \u00b7 466 comments",
-        "url": "https://github.com/SenteLabsAI/OpenExecutive"
+        "title": "Small Models Have Arrived",
+        "meta": "708 pts",
+        "desc": "calv.info \u00b7 310 comments",
+        "url": "https://calv.info/small-models-have-arrived"
       },
       {
         "kind": "hn",
-        "title": "The turbulent AI era is here",
-        "meta": "284 pts",
-        "desc": "gatesnotes.com \u00b7 280 comments",
-        "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
+        "title": "Gemini-3.5-Transcribe",
+        "meta": "323 pts",
+        "desc": "blog.google \u00b7 109 comments",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
+      },
+      {
+        "kind": "hn",
+        "title": "Gemini Omni 1.1 Flash",
+        "meta": "281 pts",
+        "desc": "blog.google \u00b7 207 comments",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,714\u2605",
+        "meta": "+1,273\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "openai/codex",
-        "meta": "+870\u2605",
-        "desc": "Lightweight coding agent that runs in your terminal",
-        "url": "https://github.com/openai/codex"
+        "title": "harry0703/MoneyPrinterTurbo",
+        "meta": "+762\u2605",
+        "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
       },
       {
         "kind": "trending",
-        "title": "browser-use/browser-use",
-        "meta": "+849\u2605",
-        "desc": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "url": "https://github.com/browser-use/browser-use"
+        "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+        "meta": "+740\u2605",
+        "desc": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+        "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
       },
       {
         "kind": "trending",
-        "title": "earendil-works/pi",
-        "meta": "+832\u2605",
-        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "url": "https://github.com/earendil-works/pi"
+        "title": "public-apis/public-apis",
+        "meta": "+694\u2605",
+        "desc": "A collective list of free APIs",
+        "url": "https://github.com/public-apis/public-apis"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Nvidia agrees to acquire Hugging Face for $13B",
-        "meta": "1295 pts",
-        "desc": "businessinsider.com \u00b7 579 comments",
-        "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"
+        "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+        "meta": "830 pts",
+        "desc": "blog.cloudflare.com \u00b7 245 comments",
+        "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
       },
       {
         "kind": "hn",
-        "title": "GLM-5.3-Flash",
-        "meta": "1062 pts",
-        "desc": "z.ai \u00b7 537 comments",
-        "url": "https://z.ai/blog/glm-5.3-flash"
+        "title": "507 Mechanical Movements",
+        "meta": "622 pts",
+        "desc": "507movements.com \u00b7 76 comments",
+        "url": "https://507movements.com/"
       },
       {
         "kind": "hn",
-        "title": "AWS Acquires DuckLabs",
-        "meta": "1062 pts",
-        "desc": "ducklabs.com \u00b7 307 comments",
-        "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"
+        "title": "Trade (and Tariffs)",
+        "meta": "525 pts",
+        "desc": "xkcd.com \u00b7 250 comments",
+        "url": "https://xkcd.com/3290/"
       },
       {
         "kind": "hn",
-        "title": "Tim Curry has died",
-        "meta": "693 pts",
-        "desc": "theguardian.com \u00b7 221 comments",
-        "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film"
+        "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+        "meta": "269 pts",
+        "desc": "code.ffmpeg.org \u00b7 234 comments",
+        "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290"
       }
     ],
     "launches": [
       {
+        "kind": "hn",
+        "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+        "meta": "197 pts",
+        "desc": "github.com \u00b7 40 comments",
+        "url": "https://github.com/experientiallabs/experiential"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+        "meta": "195 pts",
+        "desc": "github.com \u00b7 48 comments",
+        "url": "https://github.com/elyosh/OpenTIE/"
+      },
+      {
         "kind": "rising",
-        "title": "MengTo/threeui",
-        "meta": "4.3k\u2605",
-        "desc": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-        "url": "https://github.com/MengTo/threeui"
+        "title": "HEJustinSun/my-girlfriend-jingtian-latex",
+        "meta": "3.5k\u2605",
+        "desc": "",
+        "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
       },
       {
         "kind": "rising",
         "title": "b-nnett/grok-bot-0.18-reconstructed",
-        "meta": "3.3k\u2605",
+        "meta": "3.4k\u2605",
         "desc": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
         "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
-      },
-      {
-        "kind": "rising",
-        "title": "tobi/walgit",
-        "meta": "2.2k\u2605",
-        "desc": "",
-        "url": "https://github.com/tobi/walgit"
-      },
-      {
-        "kind": "rising",
-        "title": "duty1g/x64dbg-mcp-server",
-        "meta": "1.5k\u2605",
-        "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
-        "url": "https://github.com/duty1g/x64dbg-mcp-server"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 33h",
+    "ai": "3 of 7 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 25h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "launches": "2 Show HN \u00b7 2 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 3811
+      "gained": 2088
     },
     {
       "name": "skills",
-      "gained": 1714
+      "gained": 1273
     },
     {
-      "name": "codex",
-      "gained": 870
-    },
-    {
-      "name": "browser-use",
-      "gained": 849
-    },
-    {
-      "name": "pi",
-      "gained": 832
-    },
-    {
-      "name": "graphify",
-      "gained": 752
-    },
-    {
-      "name": "grok-bot-0.18-reconstructed",
-      "gained": 716
+      "name": "MoneyPrinterTurbo",
+      "gained": 762
     },
     {
       "name": "ui-ux-pro-max-skill",
-      "gained": 686
+      "gained": 740
+    },
+    {
+      "name": "public-apis",
+      "gained": 694
+    },
+    {
+      "name": "graphify",
+      "gained": 527
+    },
+    {
+      "name": "pi",
+      "gained": 505
+    },
+    {
+      "name": "hermes-agent",
+      "gained": 445
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "GitHub",
-      "title": "Incident with Actions",
-      "impact": "critical",
-      "minutes": 169,
-      "ongoing": false,
-      "url": "https://stspg.io/pg14nv9m3095"
-    }
-  ]
+  "infra": []
 }
