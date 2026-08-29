@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-28",
-  "edition": 330,
+  "generated": "2026-08-29",
+  "edition": 331,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 2,088 stars in the last day to reach 201,556 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,011 stars in the last day to reach 202,567 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,105 +12,77 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Small Models Have Arrived",
-        "meta": "708 pts",
-        "desc": "calv.info \u00b7 310 comments",
-        "url": "https://calv.info/small-models-have-arrived"
-      },
-      {
-        "kind": "hn",
-        "title": "Gemini-3.5-Transcribe",
-        "meta": "323 pts",
-        "desc": "blog.google \u00b7 109 comments",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
-      },
-      {
-        "kind": "hn",
-        "title": "Gemini Omni 1.1 Flash",
-        "meta": "281 pts",
-        "desc": "blog.google \u00b7 207 comments",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
+        "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+        "meta": "324 pts",
+        "desc": "reuters.com \u00b7 3 comments",
+        "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,273\u2605",
+        "meta": "+642\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
+        "title": "public-apis/public-apis",
+        "meta": "+436\u2605",
+        "desc": "A collective list of free APIs",
+        "url": "https://github.com/public-apis/public-apis"
+      },
+      {
+        "kind": "trending",
         "title": "harry0703/MoneyPrinterTurbo",
-        "meta": "+762\u2605",
+        "meta": "+396\u2605",
         "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo"
       },
       {
         "kind": "trending",
-        "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-        "meta": "+740\u2605",
-        "desc": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-        "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
-      },
-      {
-        "kind": "trending",
-        "title": "public-apis/public-apis",
-        "meta": "+694\u2605",
-        "desc": "A collective list of free APIs",
-        "url": "https://github.com/public-apis/public-apis"
+        "title": "firecrawl/firecrawl",
+        "meta": "+306\u2605",
+        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "url": "https://github.com/firecrawl/firecrawl"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-        "meta": "830 pts",
-        "desc": "blog.cloudflare.com \u00b7 245 comments",
-        "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
+        "title": "GUIs should be fully keyboard-driven",
+        "meta": "773 pts",
+        "desc": "ckardaris.com \u00b7 391 comments",
+        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
       },
       {
         "kind": "hn",
-        "title": "507 Mechanical Movements",
-        "meta": "622 pts",
-        "desc": "507movements.com \u00b7 76 comments",
-        "url": "https://507movements.com/"
+        "title": "GLM-5.3 is now open-weight",
+        "meta": "683 pts",
+        "desc": "huggingface.co \u00b7 228 comments",
+        "url": "https://huggingface.co/zai-org/GLM-5.3"
       },
       {
         "kind": "hn",
-        "title": "Trade (and Tariffs)",
-        "meta": "525 pts",
-        "desc": "xkcd.com \u00b7 250 comments",
-        "url": "https://xkcd.com/3290/"
+        "title": "Get your Windows license refund",
+        "meta": "679 pts",
+        "desc": "en.refund4freedom.org \u00b7 282 comments",
+        "url": "https://en.refund4freedom.org/"
       },
       {
         "kind": "hn",
-        "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-        "meta": "269 pts",
-        "desc": "code.ffmpeg.org \u00b7 234 comments",
-        "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290"
+        "title": "\u201cIt works better in the app\u201d",
+        "meta": "651 pts",
+        "desc": "shkspr.mobi \u00b7 444 comments",
+        "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-        "meta": "197 pts",
-        "desc": "github.com \u00b7 40 comments",
-        "url": "https://github.com/experientiallabs/experiential"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-        "meta": "195 pts",
-        "desc": "github.com \u00b7 48 comments",
-        "url": "https://github.com/elyosh/OpenTIE/"
-      },
-      {
         "kind": "rising",
         "title": "HEJustinSun/my-girlfriend-jingtian-latex",
-        "meta": "3.5k\u2605",
+        "meta": "3.8k\u2605",
         "desc": "",
         "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
       },
@@ -120,49 +92,72 @@
         "meta": "3.4k\u2605",
         "desc": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
         "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+      },
+      {
+        "kind": "rising",
+        "title": "tobi/walgit",
+        "meta": "2.3k\u2605",
+        "desc": "",
+        "url": "https://github.com/tobi/walgit"
+      },
+      {
+        "kind": "rising",
+        "title": "sapientinc/PRAXIST",
+        "meta": "2.1k\u2605",
+        "desc": "Autonomous research system for measurable, computer-executable research.",
+        "url": "https://github.com/sapientinc/PRAXIST"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 7 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 25h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "2 Show HN \u00b7 2 new repos"
+    "ai": "1 of 1 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 19h",
+    "hn": "Top 4 of 18 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 2088
+      "gained": 1011
+    },
+    {
+      "name": "PRAXIST",
+      "gained": 651
     },
     {
       "name": "skills",
-      "gained": 1273
-    },
-    {
-      "name": "MoneyPrinterTurbo",
-      "gained": 762
-    },
-    {
-      "name": "ui-ux-pro-max-skill",
-      "gained": 740
+      "gained": 642
     },
     {
       "name": "public-apis",
-      "gained": 694
+      "gained": 436
     },
     {
-      "name": "graphify",
-      "gained": 527
+      "name": "MoneyPrinterTurbo",
+      "gained": 396
     },
     {
-      "name": "pi",
-      "gained": 505
+      "name": "my-girlfriend-jingtian-latex",
+      "gained": 325
     },
     {
-      "name": "hermes-agent",
-      "gained": 445
+      "name": "firecrawl",
+      "gained": 306
+    },
+    {
+      "name": "ui-ux-pro-max-skill",
+      "gained": 302
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors on Claude Code and Claude Cowork",
+      "impact": "major",
+      "minutes": 179,
+      "ongoing": false,
+      "url": "https://stspg.io/6rfby2z7stc2"
+    }
+  ]
 }
