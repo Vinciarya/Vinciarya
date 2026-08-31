@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-30",
-  "edition": 332,
+  "generated": "2026-08-31",
+  "edition": 333,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,293 stars in the last day to reach 203,860 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,630 stars in the last day to reach 205,490 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,148 +12,148 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
-        "meta": "480 pts",
-        "desc": "lwn.net \u00b7 448 comments",
-        "url": "https://lwn.net/Articles/1091231/"
+        "title": "No AI Fridays",
+        "meta": "270 pts",
+        "desc": "noaifridays.com \u00b7 191 comments",
+        "url": "https://noaifridays.com/"
       },
       {
         "kind": "hn",
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "meta": "366 pts",
-        "desc": "newsletter.eng-leadership.com \u00b7 81 comments",
-        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
+        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+        "meta": "194 pts",
+        "desc": "github.com \u00b7 219 comments",
+        "url": "https://github.com/anthropics/claude-code/issues/66504"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+779\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
-      },
-      {
-        "kind": "trending",
         "title": "public-apis/public-apis",
-        "meta": "+423\u2605",
+        "meta": "+498\u2605",
         "desc": "A collective list of free APIs",
         "url": "https://github.com/public-apis/public-apis"
       },
       {
         "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+410\u2605",
-        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-        "url": "https://github.com/firecrawl/firecrawl"
+        "title": "earendil-works/pi",
+        "meta": "+498\u2605",
+        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "url": "https://github.com/earendil-works/pi"
       },
       {
         "kind": "trending",
-        "title": "NousResearch/hermes-agent",
-        "meta": "+368\u2605",
-        "desc": "The agent that grows with you",
-        "url": "https://github.com/NousResearch/hermes-agent"
+        "title": "affaan-m/ECC",
+        "meta": "+480\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
+        "title": "punkpeye/awesome-mcp-servers",
+        "meta": "+423\u2605",
+        "desc": "A collection of MCP servers.",
+        "url": "https://github.com/punkpeye/awesome-mcp-servers"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "The internet is kind of a predatory cesspit now",
-        "meta": "422 pts",
-        "desc": "stephendiehl.com \u00b7 285 comments",
-        "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/"
+        "title": "\u201cI just chose words carefully\u201d",
+        "meta": "681 pts",
+        "desc": "unsung.aresluna.org \u00b7 166 comments",
+        "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/"
       },
       {
         "kind": "hn",
-        "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-        "meta": "392 pts",
-        "desc": "theguardian.com \u00b7 78 comments",
-        "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
+        "title": "Omarchy: Any User Process Can Escalate to Root",
+        "meta": "488 pts",
+        "desc": "0xcc.io \u00b7 474 comments",
+        "url": "https://0xcc.io/posts/omarchy-root-creds/"
       },
       {
         "kind": "hn",
-        "title": "Iceland votes on whether to restart talks on joining EU",
-        "meta": "328 pts",
-        "desc": "bbc.com \u00b7 435 comments",
-        "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo"
+        "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+        "meta": "407 pts",
+        "desc": "reclaimthenet.org \u00b7 169 comments",
+        "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement"
       },
       {
         "kind": "hn",
-        "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-        "meta": "289 pts",
-        "desc": "bsky.app \u00b7 154 comments",
-        "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e"
+        "title": "Brits would quite like their private messages to stay private",
+        "meta": "334 pts",
+        "desc": "theregister.com \u00b7 271 comments",
+        "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "HEJustinSun/my-girlfriend-jingtian-latex",
-        "meta": "4.0k\u2605",
-        "desc": "",
-        "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
-      },
-      {
-        "kind": "rising",
         "title": "sapientinc/PRAXIST",
-        "meta": "3.2k\u2605",
+        "meta": "4.8k\u2605",
         "desc": "Autonomous research system for measurable, computer-executable research.",
         "url": "https://github.com/sapientinc/PRAXIST"
       },
       {
         "kind": "rising",
-        "title": "wide-trace/open-higgsfield",
-        "meta": "1.1k\u2605",
-        "desc": "A studio for image and video generation \u2014 one prompt bar, each model\u2019s own settings, and every finished run in one gallery.",
-        "url": "https://github.com/wide-trace/open-higgsfield"
+        "title": "HEJustinSun/my-girlfriend-jingtian-latex",
+        "meta": "4.2k\u2605",
+        "desc": "",
+        "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
       },
       {
         "kind": "rising",
         "title": "XiaoDuoYa/codex-with-chatgpt",
-        "meta": "1.1k\u2605",
+        "meta": "1.6k\u2605",
         "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
         "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+      },
+      {
+        "kind": "rising",
+        "title": "MetaMask-AI/metamask-desktop",
+        "meta": "1.2k\u2605",
+        "desc": "\ud83c\udf10 \ud83d\udd0c The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+        "url": "https://github.com/MetaMask-AI/metamask-desktop"
       }
     ]
   },
   "notes": {
     "ai": "2 of 2 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 23h",
-    "hn": "Top 4 of 12 stories, past 24 hours",
+    "trending": "Stars gained in the last 24h",
+    "hn": "Top 4 of 14 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 1293
+      "gained": 1630
     },
     {
       "name": "PRAXIST",
-      "gained": 1167
+      "gained": 1589
     },
     {
-      "name": "skills",
-      "gained": 779
+      "name": "codex-with-chatgpt",
+      "gained": 500
     },
     {
       "name": "public-apis",
-      "gained": 423
+      "gained": 498
     },
     {
-      "name": "firecrawl",
-      "gained": 410
-    },
-    {
-      "name": "hermes-agent",
-      "gained": 368
+      "name": "pi",
+      "gained": 498
     },
     {
       "name": "ECC",
-      "gained": 357
+      "gained": 480
     },
     {
-      "name": "MoneyPrinterTurbo",
-      "gained": 356
+      "name": "awesome-mcp-servers",
+      "gained": 423
+    },
+    {
+      "name": "hermes-agent",
+      "gained": 409
     }
   ],
   "ticker": [],
