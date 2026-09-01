@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-31",
-  "edition": 333,
+  "generated": "2026-09-01",
+  "edition": 334,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,630 stars in the last day to reach 205,490 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,559 stars in the last day to reach 207,049 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,84 +12,91 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "No AI Fridays",
-        "meta": "270 pts",
-        "desc": "noaifridays.com \u00b7 191 comments",
-        "url": "https://noaifridays.com/"
+        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "meta": "386 pts",
+        "desc": "macrumors.com \u00b7 430 comments",
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
       },
       {
         "kind": "hn",
-        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-        "meta": "194 pts",
-        "desc": "github.com \u00b7 219 comments",
-        "url": "https://github.com/anthropics/claude-code/issues/66504"
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "meta": "364 pts",
+        "desc": "embracethered.com \u00b7 115 comments",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
+      },
+      {
+        "kind": "hn",
+        "title": "Agent memory as a file format",
+        "meta": "172 pts",
+        "desc": "calpaterson.com \u00b7 89 comments",
+        "url": "https://calpaterson.com/memoryfields.html"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "affaan-m/ECC",
+        "meta": "+535\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
+        "title": "NousResearch/hermes-agent",
+        "meta": "+516\u2605",
+        "desc": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent"
+      },
+      {
+        "kind": "trending",
         "title": "public-apis/public-apis",
-        "meta": "+498\u2605",
+        "meta": "+491\u2605",
         "desc": "A collective list of free APIs",
         "url": "https://github.com/public-apis/public-apis"
       },
       {
         "kind": "trending",
         "title": "earendil-works/pi",
-        "meta": "+498\u2605",
+        "meta": "+490\u2605",
         "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
         "url": "https://github.com/earendil-works/pi"
-      },
-      {
-        "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+480\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
-        "title": "punkpeye/awesome-mcp-servers",
-        "meta": "+423\u2605",
-        "desc": "A collection of MCP servers.",
-        "url": "https://github.com/punkpeye/awesome-mcp-servers"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "\u201cI just chose words carefully\u201d",
-        "meta": "681 pts",
-        "desc": "unsung.aresluna.org \u00b7 166 comments",
-        "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/"
+        "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+        "meta": "657 pts",
+        "desc": "webiterate.dev \u00b7 503 comments",
+        "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/"
       },
       {
         "kind": "hn",
-        "title": "Omarchy: Any User Process Can Escalate to Root",
-        "meta": "488 pts",
-        "desc": "0xcc.io \u00b7 474 comments",
-        "url": "https://0xcc.io/posts/omarchy-root-creds/"
+        "title": "Playa Phone",
+        "meta": "593 pts",
+        "desc": "playaphone.com \u00b7 207 comments",
+        "url": "https://playaphone.com/"
       },
       {
         "kind": "hn",
-        "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-        "meta": "407 pts",
-        "desc": "reclaimthenet.org \u00b7 169 comments",
-        "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement"
+        "title": "OpenShot 4.0 \u2013 Open-source video editor",
+        "meta": "556 pts",
+        "desc": "openshot.org \u00b7 131 comments",
+        "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/"
       },
       {
         "kind": "hn",
-        "title": "Brits would quite like their private messages to stay private",
-        "meta": "334 pts",
-        "desc": "theregister.com \u00b7 271 comments",
-        "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994"
+        "title": "I turned my security cameras into an automatic bird identification system",
+        "meta": "455 pts",
+        "desc": "jasontucker.blog \u00b7 110 comments",
+        "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "sapientinc/PRAXIST",
-        "meta": "4.8k\u2605",
+        "meta": "5.7k\u2605",
         "desc": "Autonomous research system for measurable, computer-executable research.",
         "url": "https://github.com/sapientinc/PRAXIST"
       },
@@ -103,59 +110,68 @@
       {
         "kind": "rising",
         "title": "XiaoDuoYa/codex-with-chatgpt",
-        "meta": "1.6k\u2605",
+        "meta": "2.0k\u2605",
         "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
         "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
       },
       {
         "kind": "rising",
-        "title": "MetaMask-AI/metamask-desktop",
-        "meta": "1.2k\u2605",
-        "desc": "\ud83c\udf10 \ud83d\udd0c The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-        "url": "https://github.com/MetaMask-AI/metamask-desktop"
+        "title": "Nanako0129/sepia",
+        "meta": "1.3k\u2605",
+        "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "url": "https://github.com/Nanako0129/sepia"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 14 stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 23h",
+    "hn": "Top 4 of 17 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 1630
+      "gained": 1559
     },
     {
       "name": "PRAXIST",
-      "gained": 1589
-    },
-    {
-      "name": "codex-with-chatgpt",
-      "gained": 500
-    },
-    {
-      "name": "public-apis",
-      "gained": 498
-    },
-    {
-      "name": "pi",
-      "gained": 498
+      "gained": 877
     },
     {
       "name": "ECC",
-      "gained": 480
-    },
-    {
-      "name": "awesome-mcp-servers",
-      "gained": 423
+      "gained": 535
     },
     {
       "name": "hermes-agent",
-      "gained": 409
+      "gained": 516
+    },
+    {
+      "name": "public-apis",
+      "gained": 491
+    },
+    {
+      "name": "pi",
+      "gained": 490
+    },
+    {
+      "name": "codex-with-chatgpt",
+      "gained": 411
+    },
+    {
+      "name": "firecrawl",
+      "gained": 401
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "OpenAI",
+      "title": "ChatGPT Work seeing elevated errors and latency",
+      "impact": "major",
+      "minutes": 323,
+      "ongoing": false,
+      "url": ""
+    }
+  ]
 }
