@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-03",
-  "edition": 336,
+  "generated": "2026-09-04",
+  "edition": 337,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,537 stars in the last day to reach 210,105 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,343 stars in the last day to reach 211,448 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,119 +12,119 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "meta": "955 pts",
-        "desc": "blog.google \u00b7 542 comments",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+        "title": "GPT-6 Astra",
+        "meta": "1638 pts",
+        "desc": "openai.com \u00b7 1417 comments",
+        "url": "https://openai.com/index/gpt-6-astra/"
       },
       {
         "kind": "hn",
-        "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-        "meta": "372 pts",
-        "desc": "trellner.com \u00b7 175 comments",
-        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
+        "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+        "meta": "360 pts",
+        "desc": "news.ycombinator.com \u00b7 533 comments",
+        "url": "https://news.ycombinator.com/item?id=49551096"
       },
       {
         "kind": "hn",
-        "title": "Quasar 438B: Europe's Leading AI Model",
-        "meta": "168 pts",
-        "desc": "multiversecomputing.com \u00b7 108 comments",
-        "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
+        "title": "K2 Horizon: A connected fleet of six open models",
+        "meta": "287 pts",
+        "desc": "ifm.ai \u00b7 93 comments",
+        "url": "https://ifm.ai/blog/k2/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "NousResearch/hermes-agent",
-        "meta": "+679\u2605",
-        "desc": "The agent that grows with you",
-        "url": "https://github.com/NousResearch/hermes-agent"
-      },
-      {
-        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+658\u2605",
+        "meta": "+941\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "JuliusBrussee/caveman",
-        "meta": "+457\u2605",
-        "desc": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "url": "https://github.com/JuliusBrussee/caveman"
+        "title": "NousResearch/hermes-agent",
+        "meta": "+726\u2605",
+        "desc": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent"
       },
       {
         "kind": "trending",
-        "title": "earendil-works/pi",
-        "meta": "+453\u2605",
-        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "url": "https://github.com/earendil-works/pi"
+        "title": "obra/superpowers",
+        "meta": "+538\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
+      },
+      {
+        "kind": "trending",
+        "title": "torvalds/linux",
+        "meta": "+521\u2605",
+        "desc": "Linux kernel source tree",
+        "url": "https://github.com/torvalds/linux"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "A note on subscription prices from LWN",
-        "meta": "696 pts",
-        "desc": "lwn.net \u00b7 135 comments",
-        "url": "https://lwn.net/Articles/1090585/"
+        "title": ".name Termination",
+        "meta": "1648 pts",
+        "desc": "neil.fraser.name \u00b7 416 comments",
+        "url": "https://neil.fraser.name/news/2026/09/03/"
       },
       {
         "kind": "hn",
-        "title": "Muse Spark 1.3",
-        "meta": "515 pts",
-        "desc": "developer.meta.com \u00b7 348 comments",
-        "url": "https://developer.meta.com/ai/models/muse-spark/"
+        "title": "Audacity 4.0",
+        "meta": "1092 pts",
+        "desc": "github.com \u00b7 244 comments",
+        "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"
       },
       {
         "kind": "hn",
-        "title": "Can I opt out of my input or output data being used for training?",
-        "meta": "418 pts",
-        "desc": "help.mistral.ai \u00b7 180 comments",
-        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
+        "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+        "meta": "548 pts",
+        "desc": "anyhumanever.com \u00b7 260 comments",
+        "url": "https://anyhumanever.com/"
       },
       {
         "kind": "hn",
-        "title": "Google avoids a breakup of its ad tech business",
-        "meta": "351 pts",
-        "desc": "nytimes.com \u00b7 249 comments",
-        "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
+        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "meta": "520 pts",
+        "desc": "inference-docs.cerebras.ai \u00b7 166 comments",
+        "url": "https://inference-docs.cerebras.ai/models/overview"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "XiaoDuoYa/codex-with-chatgpt",
-        "meta": "2.3k\u2605",
-        "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
-      },
-      {
-        "kind": "rising",
-        "title": "Nanako0129/sepia",
+        "title": "anthropics/commerce-agents",
         "meta": "1.7k\u2605",
-        "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-        "url": "https://github.com/Nanako0129/sepia"
+        "desc": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+        "url": "https://github.com/anthropics/commerce-agents"
       },
       {
         "kind": "rising",
-        "title": "MetaMask-AI/metamask-desktop",
+        "title": "rakanki911/DLSS5-Swapper",
         "meta": "1.2k\u2605",
-        "desc": "\ud83c\udf10 \ud83d\udd0c The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-        "url": "https://github.com/MetaMask-AI/metamask-desktop"
+        "desc": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+        "url": "https://github.com/rakanki911/DLSS5-Swapper"
       },
       {
         "kind": "rising",
-        "title": "cbrock84/headcount",
-        "meta": "1.1k\u2605",
-        "desc": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently installable.",
-        "url": "https://github.com/cbrock84/headcount"
+        "title": "GangTailorUpgrade/undress-service",
+        "meta": "1.0k\u2605",
+        "desc": "Dress AI Sponsor",
+        "url": "https://github.com/GangTailorUpgrade/undress-service"
+      },
+      {
+        "kind": "rising",
+        "title": "shadcn-ui/cn",
+        "meta": "998\u2605",
+        "desc": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30\u00d7 faster.",
+        "url": "https://github.com/shadcn-ui/cn"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 6 AI stories, past 24 hours",
+    "ai": "3 of 8 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
@@ -132,54 +132,46 @@
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 1537
-    },
-    {
-      "name": "hermes-agent",
-      "gained": 679
+      "gained": 1343
     },
     {
       "name": "ECC",
-      "gained": 658
+      "gained": 941
+    },
+    {
+      "name": "hermes-agent",
+      "gained": 726
+    },
+    {
+      "name": "superpowers",
+      "gained": 538
+    },
+    {
+      "name": "linux",
+      "gained": 521
+    },
+    {
+      "name": "prompts.chat",
+      "gained": 488
+    },
+    {
+      "name": "skills",
+      "gained": 482
     },
     {
       "name": "caveman",
       "gained": 457
-    },
-    {
-      "name": "pi",
-      "gained": 453
-    },
-    {
-      "name": "firecrawl",
-      "gained": 446
-    },
-    {
-      "name": "graphify",
-      "gained": 436
-    },
-    {
-      "name": "MoneyPrinterTurbo",
-      "gained": 435
     }
   ],
   "ticker": [],
   "infra": [
     {
       "name": "Anthropic",
-      "title": "Elevated errors for Claude Sonnet 5",
+      "title": "Elevated errors for multiple models",
       "impact": "major",
-      "minutes": 26,
+      "minutes": 177,
       "ongoing": false,
-      "url": "https://stspg.io/9dgzwz3ymz42"
-    },
-    {
-      "name": "OpenAI",
-      "title": "ChatGPT Work Mode High Error Rates",
-      "impact": "major",
-      "minutes": 6,
-      "ongoing": false,
-      "url": ""
+      "url": "https://stspg.io/9xz4hhmd1jzn"
     }
   ]
 }
