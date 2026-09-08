@@ -1,166 +1,152 @@
 {
-  "generated": "2026-09-07",
-  "edition": 340,
+  "generated": "2026-09-08",
+  "edition": 341,
   "lead": {
-    "headline": "SKILLS SURGES TO #1 ON GITHUB",
-    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
-    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 2,096 stars in the last day to reach 255,197 total. Skills for Real Engineers. Straight from my .agents directory.",
-    "source": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills"
+    "headline": "MARKITDOWN SURGES TO #1 ON GITHUB",
+    "deck": "Python tool for converting files and office documents to Markdown.",
+    "body": "microsoft/markitdown is today's fastest-growing repository on GitHub, gaining 1,798 stars in the last day to reach 180,837 total. Python tool for converting files and office documents to Markdown.",
+    "source": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-        "meta": "631 pts",
-        "desc": "bcantrill.dtrace.org \u00b7 401 comments",
-        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
-      },
-      {
-        "kind": "hn",
-        "title": "Research acceleration: The view inside OpenAI",
-        "meta": "155 pts",
-        "desc": "openai.com \u00b7 102 comments",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai"
-      },
-      {
-        "kind": "hn",
-        "title": "How I feel about AI",
-        "meta": "154 pts",
-        "desc": "beza1e1.tuxen.de \u00b7 248 comments",
-        "url": "https://beza1e1.tuxen.de/ai_feelings.html"
+        "title": "Mistral raises \u20ac3B to make sovereign, open-weight AI the technology frontier",
+        "meta": "151 pts",
+        "desc": "mistral.ai \u00b7 74 comments",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+1,666\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+1,624\u2605",
+        "meta": "+1,431\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,055\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
+        "title": "affaan-m/ECC",
+        "meta": "+1,356\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "microsoft/markitdown",
-        "meta": "+655\u2605",
-        "desc": "Python tool for converting files and office documents to Markdown.",
-        "url": "https://github.com/microsoft/markitdown"
+        "title": "mattpocock/skills",
+        "meta": "+1,142\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "+1,042\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "QBittorrent breaks out of sandbox to commit crimes",
-        "meta": "1248 pts",
-        "desc": "beige.party \u00b7 273 comments",
-        "url": "https://beige.party/@intransitivelie/117057396732763183"
+        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+        "meta": "1128 pts",
+        "desc": "notebookcheck.net \u00b7 3 comments",
+        "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html"
       },
       {
         "kind": "hn",
-        "title": "Nitter and XCancel resume service after legal advice",
-        "meta": "647 pts",
-        "desc": "github.com \u00b7 300 comments",
-        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
+        "title": "De-Brainrot Vacations",
+        "meta": "479 pts",
+        "desc": "devz.cl \u00b7 192 comments",
+        "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"
       },
       {
         "kind": "hn",
-        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-        "meta": "574 pts",
-        "desc": "isaraerospace.com \u00b7 185 comments",
-        "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight"
+        "title": "bzip3",
+        "meta": "400 pts",
+        "desc": "github.com \u00b7 112 comments",
+        "url": "https://github.com/iczelia/bzip3"
       },
       {
         "kind": "hn",
-        "title": "A/I shuts down",
-        "meta": "568 pts",
-        "desc": "keepitfree.ai \u00b7 452 comments",
-        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"
+        "title": "Bill Gates tries to install MovieMaker (2003)",
+        "meta": "385 pts",
+        "desc": "techemails.com \u00b7 260 comments",
+        "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "lnkiai/m3e-canvas",
-        "meta": "4.4k\u2605",
+        "meta": "4.8k\u2605",
         "desc": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
         "url": "https://github.com/lnkiai/m3e-canvas"
       },
       {
         "kind": "rising",
-        "title": "anthropics/commerce-agents",
-        "meta": "2.3k\u2605",
-        "desc": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-        "url": "https://github.com/anthropics/commerce-agents"
-      },
-      {
-        "kind": "rising",
         "title": "ashemag/human-atlas",
-        "meta": "1.5k\u2605",
+        "meta": "2.2k\u2605",
         "desc": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
         "url": "https://github.com/ashemag/human-atlas"
       },
       {
         "kind": "rising",
         "title": "Rion-Wu-tech/wechat-intelligence-hub",
-        "meta": "1.4k\u2605",
+        "meta": "1.9k\u2605",
         "desc": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
         "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
+      },
+      {
+        "kind": "rising",
+        "title": "pierrenade/short-video-generator-AI",
+        "meta": "1.2k\u2605",
+        "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+        "url": "https://github.com/pierrenade/short-video-generator-AI"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
+    "ai": "1 of 1 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 16 stories, past 24 hours",
+    "hn": "Top 4 of 18 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "skills",
-      "gained": 2096
-    },
-    {
-      "name": "ECC",
-      "gained": 1666
+      "name": "markitdown",
+      "gained": 1798
     },
     {
       "name": "ponytail",
-      "gained": 1624
+      "gained": 1431
+    },
+    {
+      "name": "ECC",
+      "gained": 1356
+    },
+    {
+      "name": "skills",
+      "gained": 1142
     },
     {
       "name": "deepseek-harness",
-      "gained": 1055
+      "gained": 1042
     },
     {
-      "name": "markitdown",
-      "gained": 655
-    },
-    {
-      "name": "opencode",
-      "gained": 624
+      "name": "human-atlas",
+      "gained": 613
     },
     {
       "name": "public-apis",
-      "gained": 597
+      "gained": 572
     },
     {
-      "name": "hermes-agent",
-      "gained": 594
+      "name": "wechat-intelligence-hub",
+      "gained": 467
     }
   ],
   "ticker": [],
