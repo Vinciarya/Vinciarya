@@ -1,111 +1,111 @@
 {
-  "generated": "2026-09-09",
-  "edition": 342,
+  "generated": "2026-09-10",
+  "edition": 343,
   "lead": {
-    "headline": "ECC SURGES TO #1 ON GITHUB",
-    "deck": "The agent harness performance optimization system. Skills, instincts, memory, security, an",
-    "body": "affaan-m/ECC is today's fastest-growing repository on GitHub, gaining 1,341 stars in the last day to reach 254,573 total. The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "source": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC"
+    "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
+    "deck": "DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,311 stars in the last day to reach 217,973 total. DeepSeek Harness: Everything is a Plugin.",
+    "source": "deepseek-ai/deepseek-harness",
+    "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "LibreOffice breaks download records after declaring it has no AI features",
-        "meta": "672 pts",
-        "desc": "manualdousuario.net \u00b7 220 comments",
-        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
+        "title": "Claude, change the \u201cAdd to Cart\u201d button to blue",
+        "meta": "1096 pts",
+        "desc": "opusfived.dev \u00b7 423 comments",
+        "url": "https://opusfived.dev/"
       },
       {
         "kind": "hn",
-        "title": "Muse \u2013 Meta\u2019s personal AI agent",
-        "meta": "465 pts",
-        "desc": "ai.meta.com \u00b7 493 comments",
-        "url": "https://ai.meta.com/muse/"
+        "title": "Desert Ant Labs: local, fast models that run on device",
+        "meta": "430 pts",
+        "desc": "desertant.com \u00b7 93 comments",
+        "url": "https://desertant.com/blog/introducing-desert-ant-labs/"
       },
       {
         "kind": "hn",
-        "title": "I resigned from Anthropic today",
-        "meta": "417 pts",
-        "desc": "twitter.com \u00b7 553 comments",
-        "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m"
+        "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+        "meta": "393 pts",
+        "desc": "magazine.sebastianraschka.com \u00b7 132 comments",
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+1,220\u2605",
+        "meta": "+1,254\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,179\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
-      },
-      {
-        "kind": "trending",
-        "title": "microsoft/markitdown",
-        "meta": "+1,099\u2605",
-        "desc": "Python tool for converting files and office documents to Markdown.",
-        "url": "https://github.com/microsoft/markitdown"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+871\u2605",
+        "meta": "+904\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
+        "title": "affaan-m/ECC",
+        "meta": "+807\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
+        "title": "TauricResearch/TradingAgents",
+        "meta": "+730\u2605",
+        "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "url": "https://github.com/TauricResearch/TradingAgents"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-        "meta": "1229 pts",
-        "desc": "openai.com \u00b7 983 comments",
-        "url": "https://openai.com/index/navier-stokes-solution/"
+        "title": "iPhone Duo",
+        "meta": "1130 pts",
+        "desc": "apple.com \u00b7 1975 comments",
+        "url": "https://www.apple.com/iphone-duo/"
       },
       {
         "kind": "hn",
-        "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-        "meta": "540 pts",
-        "desc": "blog.google \u00b7 118 comments",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
+        "title": "Shopify acquires Tailwind",
+        "meta": "992 pts",
+        "desc": "tailwindcss.com \u00b7 384 comments",
+        "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
       },
       {
         "kind": "hn",
-        "title": "LG TVs caught spying even when offline or on standby",
-        "meta": "524 pts",
-        "desc": "theverge.com \u00b7 304 comments",
-        "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus"
+        "title": "Flock Wants a Closely Surveilled World with No Exit",
+        "meta": "553 pts",
+        "desc": "newyorker.com \u00b7 530 comments",
+        "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit"
       },
       {
         "kind": "hn",
-        "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-        "meta": "409 pts",
-        "desc": "github.com \u00b7 291 comments",
-        "url": "https://github.com/ayghri/i-have-adhd"
+        "title": "AirPods 5",
+        "meta": "438 pts",
+        "desc": "apple.com \u00b7 339 comments",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
       }
     ],
     "launches": [
       {
-        "kind": "rising",
-        "title": "ashemag/human-atlas",
-        "meta": "2.6k\u2605",
-        "desc": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-        "url": "https://github.com/ashemag/human-atlas"
+        "kind": "hn",
+        "title": "Show HN: What if the speed of light was 5 km/h?",
+        "meta": "220 pts",
+        "desc": "rivendell.dmitrybrant.com \u00b7 93 comments",
+        "url": "https://rivendell.dmitrybrant.com/relativity/"
       },
       {
         "kind": "rising",
-        "title": "Albert-Weasker/niubigeo",
-        "meta": "2.2k\u2605",
-        "desc": "Open-source AI brand visibility and competitor reports",
-        "url": "https://github.com/Albert-Weasker/niubigeo"
+        "title": "ashemag/human-atlas",
+        "meta": "2.9k\u2605",
+        "desc": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+        "url": "https://github.com/ashemag/human-atlas"
       },
       {
         "kind": "rising",
@@ -116,10 +116,10 @@
       },
       {
         "kind": "rising",
-        "title": "EverettFish/holo-card-studio",
-        "meta": "1.2k\u2605",
-        "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-        "url": "https://github.com/EverettFish/holo-card-studio"
+        "title": "openai/NavierStokesAndEuler",
+        "meta": "1.6k\u2605",
+        "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
+        "url": "https://github.com/openai/NavierStokesAndEuler"
       }
     ]
   },
@@ -127,40 +127,40 @@
     "ai": "3 of 6 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
-      "name": "ECC",
-      "gained": 1341
+      "name": "deepseek-harness",
+      "gained": 1311
     },
     {
       "name": "ponytail",
-      "gained": 1220
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 1179
-    },
-    {
-      "name": "markitdown",
-      "gained": 1099
+      "gained": 1254
     },
     {
       "name": "skills",
-      "gained": 871
+      "gained": 904
     },
     {
-      "name": "browser-use",
-      "gained": 766
+      "name": "ECC",
+      "gained": 807
+    },
+    {
+      "name": "TradingAgents",
+      "gained": 730
     },
     {
       "name": "superpowers",
-      "gained": 602
+      "gained": 646
     },
     {
       "name": "public-apis",
-      "gained": 536
+      "gained": 512
+    },
+    {
+      "name": "NavierStokesAndEuler",
+      "gained": 450
     }
   ],
   "ticker": [],
