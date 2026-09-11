@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-10",
-  "edition": 343,
+  "generated": "2026-09-11",
+  "edition": 344,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,311 stars in the last day to reach 217,973 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,697 stars in the last day to reach 219,670 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,154 +12,154 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Claude, change the \u201cAdd to Cart\u201d button to blue",
-        "meta": "1096 pts",
-        "desc": "opusfived.dev \u00b7 423 comments",
-        "url": "https://opusfived.dev/"
+        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+        "meta": "447 pts",
+        "desc": "news.ycombinator.com \u00b7 179 comments",
+        "url": "https://news.ycombinator.com/item?id=49643556"
       },
       {
         "kind": "hn",
-        "title": "Desert Ant Labs: local, fast models that run on device",
-        "meta": "430 pts",
-        "desc": "desertant.com \u00b7 93 comments",
-        "url": "https://desertant.com/blog/introducing-desert-ant-labs/"
+        "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+        "meta": "402 pts",
+        "desc": "cognition.com \u00b7 170 comments",
+        "url": "https://cognition.com/blog/swe-2"
       },
       {
         "kind": "hn",
-        "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-        "meta": "393 pts",
-        "desc": "magazine.sebastianraschka.com \u00b7 132 comments",
-        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
+        "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+        "meta": "256 pts",
+        "desc": "bsky.app \u00b7 15 comments",
+        "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+1,254\u2605",
+        "meta": "+1,275\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+904\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
+        "title": "github/spec-kit",
+        "meta": "+877\u2605",
+        "desc": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+        "url": "https://github.com/github/spec-kit"
+      },
+      {
+        "kind": "trending",
+        "title": "obra/superpowers",
+        "meta": "+683\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+807\u2605",
+        "meta": "+672\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
-        "title": "TauricResearch/TradingAgents",
-        "meta": "+730\u2605",
-        "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "iPhone Duo",
-        "meta": "1130 pts",
-        "desc": "apple.com \u00b7 1975 comments",
-        "url": "https://www.apple.com/iphone-duo/"
+        "title": "Shopify is moving from React Native back to Swift and Kotlin",
+        "meta": "982 pts",
+        "desc": "shopify.engineering \u00b7 667 comments",
+        "url": "https://shopify.engineering/back-to-native"
       },
       {
         "kind": "hn",
-        "title": "Shopify acquires Tailwind",
-        "meta": "992 pts",
-        "desc": "tailwindcss.com \u00b7 384 comments",
-        "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
+        "title": "Rust is tier-1 language at Microsoft",
+        "meta": "652 pts",
+        "desc": "rustfoundation.org \u00b7 384 comments",
+        "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"
       },
       {
         "kind": "hn",
-        "title": "Flock Wants a Closely Surveilled World with No Exit",
-        "meta": "553 pts",
-        "desc": "newyorker.com \u00b7 530 comments",
-        "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit"
+        "title": "Don't let anyone take away your big box of cables",
+        "meta": "451 pts",
+        "desc": "blog.jim-nielsen.com \u00b7 308 comments",
+        "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/"
       },
       {
         "kind": "hn",
-        "title": "AirPods 5",
-        "meta": "438 pts",
-        "desc": "apple.com \u00b7 339 comments",
-        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
+        "title": "I have a theory that software drives people insane",
+        "meta": "429 pts",
+        "desc": "graybeard.ing \u00b7 176 comments",
+        "url": "https://graybeard.ing/software-drives-people-insane/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: What if the speed of light was 5 km/h?",
-        "meta": "220 pts",
-        "desc": "rivendell.dmitrybrant.com \u00b7 93 comments",
-        "url": "https://rivendell.dmitrybrant.com/relativity/"
-      },
-      {
         "kind": "rising",
         "title": "ashemag/human-atlas",
-        "meta": "2.9k\u2605",
+        "meta": "3.1k\u2605",
         "desc": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
         "url": "https://github.com/ashemag/human-atlas"
       },
       {
         "kind": "rising",
-        "title": "Rion-Wu-tech/wechat-intelligence-hub",
-        "meta": "2.0k\u2605",
-        "desc": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-        "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
+        "title": "openai/NavierStokesAndEuler",
+        "meta": "1.7k\u2605",
+        "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
+        "url": "https://github.com/openai/NavierStokesAndEuler"
       },
       {
         "kind": "rising",
-        "title": "openai/NavierStokesAndEuler",
-        "meta": "1.6k\u2605",
-        "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
-        "url": "https://github.com/openai/NavierStokesAndEuler"
+        "title": "sdli1995/dlssg_for_sm86",
+        "meta": "1.5k\u2605",
+        "desc": "Here is a dlssg for RTX30 Series GPU",
+        "url": "https://github.com/sdli1995/dlssg_for_sm86"
+      },
+      {
+        "kind": "rising",
+        "title": "vinzdg/codenotch",
+        "meta": "1.4k\u2605",
+        "desc": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+        "url": "https://github.com/vinzdg/codenotch"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 6 AI stories, past 24 hours",
+    "ai": "3 of 5 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 1311
+      "gained": 1697
     },
     {
       "name": "ponytail",
-      "gained": 1254
+      "gained": 1275
     },
     {
-      "name": "skills",
-      "gained": 904
-    },
-    {
-      "name": "ECC",
-      "gained": 807
-    },
-    {
-      "name": "TradingAgents",
-      "gained": 730
+      "name": "spec-kit",
+      "gained": 877
     },
     {
       "name": "superpowers",
-      "gained": 646
+      "gained": 683
+    },
+    {
+      "name": "ECC",
+      "gained": 672
+    },
+    {
+      "name": "linux",
+      "gained": 532
     },
     {
       "name": "public-apis",
-      "gained": 512
+      "gained": 477
     },
     {
-      "name": "NavierStokesAndEuler",
+      "name": "kubernetes",
       "gained": 450
     }
   ],
