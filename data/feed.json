@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-12",
-  "edition": 345,
+  "generated": "2026-09-13",
+  "edition": 346,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,219 stars in the last day to reach 220,889 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 989 stars in the last day to reach 221,878 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,105 +12,91 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "A misalignment of AI in mathematics",
-        "meta": "828 pts",
-        "desc": "mathandai.org \u00b7 819 comments",
-        "url": "https://mathandai.org/"
+        "title": "Nvidia is the central bank of AI",
+        "meta": "451 pts",
+        "desc": "economist.com \u00b7 323 comments",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
       },
       {
         "kind": "hn",
-        "title": "Ask HN: Can we please limit the AI news flood?",
-        "meta": "779 pts",
-        "desc": "news.ycombinator.com \u00b7 365 comments",
-        "url": "https://news.ycombinator.com/item?id=49657850"
+        "title": "Everyone should slow down AI development except for me",
+        "meta": "364 pts",
+        "desc": "xeiaso.net \u00b7 218 comments",
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
       },
       {
         "kind": "hn",
-        "title": "Claude is only available to people over 18 years",
-        "meta": "624 pts",
-        "desc": "support.claude.com \u00b7 622 comments",
-        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude"
+        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+        "meta": "226 pts",
+        "desc": "eiln.github.io \u00b7 32 comments",
+        "url": "https://eiln.github.io/posts/ane.html"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+926\u2605",
+        "meta": "+794\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "obra/superpowers",
-        "meta": "+616\u2605",
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
-      },
-      {
-        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+604\u2605",
+        "meta": "+610\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "github/spec-kit",
-        "meta": "+503\u2605",
-        "desc": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
-        "url": "https://github.com/github/spec-kit"
+        "title": "microsoft/markitdown",
+        "meta": "+590\u2605",
+        "desc": "Python tool for converting files and office documents to Markdown.",
+        "url": "https://github.com/microsoft/markitdown"
+      },
+      {
+        "kind": "trending",
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "meta": "+473\u2605",
+        "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "meta": "590 pts",
-        "desc": "rubyhack.ai \u00b7 339 comments",
-        "url": "https://www.rubyhack.ai/"
+        "title": "We must pace the frontier",
+        "meta": "618 pts",
+        "desc": "darioamodei.com \u00b7 869 comments",
+        "url": "https://darioamodei.com/post/we-must-pace-the-frontier"
       },
       {
         "kind": "hn",
-        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-        "meta": "446 pts",
-        "desc": "dayzlegame.com \u00b7 234 comments",
-        "url": "https://dayzlegame.com/blog/google-ads-bot-farm/"
+        "title": "Fuck it, make it anyway",
+        "meta": "561 pts",
+        "desc": "joelotter.com \u00b7 568 comments",
+        "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
       },
       {
         "kind": "hn",
-        "title": "The EPA is planning to scrap public review rules for data center pollution",
-        "meta": "439 pts",
-        "desc": "capitalbnews.org \u00b7 301 comments",
-        "url": "https://capitalbnews.org/data-centers-permit-rules-epa/"
+        "title": "Make your first edit to OpenStreetMap",
+        "meta": "422 pts",
+        "desc": "high5apps.github.io \u00b7 97 comments",
+        "url": "https://high5apps.github.io/josm-plugin-website-wizard/"
       },
       {
         "kind": "hn",
-        "title": "Houthis 'take control' of key island in global shipping route",
-        "meta": "372 pts",
-        "desc": "bbc.com \u00b7 654 comments",
-        "url": "https://www.bbc.com/news/live/cmd683p01eljt"
+        "title": "An open letter to Dario: if you mean it, open the weights",
+        "meta": "281 pts",
+        "desc": "jacob.gold \u00b7 94 comments",
+        "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Hacker News, without AI",
-        "meta": "183 pts",
-        "desc": "hcker.news \u00b7 84 comments",
-        "url": "https://hcker.news/?ai=exclude"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: Hacker News, Without AI",
-        "meta": "182 pts",
-        "desc": "unslop.news \u00b7 77 comments",
-        "url": "https://www.unslop.news/"
-      },
-      {
         "kind": "rising",
         "title": "sdli1995/dlssg_for_sm86",
-        "meta": "1.9k\u2605",
+        "meta": "2.2k\u2605",
         "desc": "Here is a dlssg for RTX30 Series GPU",
         "url": "https://github.com/sdli1995/dlssg_for_sm86"
       },
@@ -120,58 +106,63 @@
         "meta": "1.8k\u2605",
         "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
         "url": "https://github.com/openai/NavierStokesAndEuler"
+      },
+      {
+        "kind": "rising",
+        "title": "Edge0-AI/Edge0",
+        "meta": "1.5k\u2605",
+        "desc": "",
+        "url": "https://github.com/Edge0-AI/Edge0"
+      },
+      {
+        "kind": "rising",
+        "title": "EverettFish/holo-card-studio",
+        "meta": "1.5k\u2605",
+        "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+        "url": "https://github.com/EverettFish/holo-card-studio"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 8 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "2 Show HN \u00b7 2 new repos"
+    "hn": "Top 4 of 10 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 1219
+      "gained": 989
     },
     {
       "name": "ponytail",
-      "gained": 926
-    },
-    {
-      "name": "superpowers",
-      "gained": 616
+      "gained": 794
     },
     {
       "name": "ECC",
-      "gained": 604
+      "gained": 610
     },
     {
-      "name": "spec-kit",
-      "gained": 503
+      "name": "markitdown",
+      "gained": 590
     },
     {
-      "name": "firecrawl",
-      "gained": 387
+      "name": "awesome-llm-apps",
+      "gained": 473
     },
     {
       "name": "public-apis",
-      "gained": 369
+      "gained": 402
     },
     {
-      "name": "hermes-agent",
-      "gained": 361
+      "name": "superpowers",
+      "gained": 401
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "gained": 368
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Anthropic",
-      "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
-      "impact": "major",
-      "minutes": 17,
-      "ongoing": false,
-      "url": "https://stspg.io/n9n8kfcxtkfm"
-    }
-  ]
+  "infra": []
 }
