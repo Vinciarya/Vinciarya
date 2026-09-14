@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-13",
-  "edition": 346,
+  "generated": "2026-09-14",
+  "edition": 347,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 989 stars in the last day to reach 221,878 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,215 stars in the last day to reach 223,093 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,157 +12,159 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Nvidia is the central bank of AI",
-        "meta": "451 pts",
-        "desc": "economist.com \u00b7 323 comments",
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
+        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+        "meta": "385 pts",
+        "desc": "techcrunch.com \u00b7 212 comments",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
       },
       {
         "kind": "hn",
-        "title": "Everyone should slow down AI development except for me",
-        "meta": "364 pts",
-        "desc": "xeiaso.net \u00b7 218 comments",
-        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
-      },
-      {
-        "kind": "hn",
-        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-        "meta": "226 pts",
-        "desc": "eiln.github.io \u00b7 32 comments",
-        "url": "https://eiln.github.io/posts/ane.html"
+        "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+        "meta": "295 pts",
+        "desc": "twitter.com \u00b7 216 comments",
+        "url": "https://twitter.com/DavidSacks/status/2098973625252708460"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "DietrichGebert/ponytail",
-        "meta": "+794\u2605",
-        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail"
-      },
-      {
-        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+610\u2605",
+        "meta": "+666\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "microsoft/markitdown",
-        "meta": "+590\u2605",
-        "desc": "Python tool for converting files and office documents to Markdown.",
-        "url": "https://github.com/microsoft/markitdown"
+        "title": "huggingface/transformers",
+        "meta": "+479\u2605",
+        "desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+        "url": "https://github.com/huggingface/transformers"
       },
       {
         "kind": "trending",
-        "title": "Shubhamsaboo/awesome-llm-apps",
-        "meta": "+473\u2605",
-        "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+        "title": "firecrawl/firecrawl",
+        "meta": "+474\u2605",
+        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "url": "https://github.com/firecrawl/firecrawl"
+      },
+      {
+        "kind": "trending",
+        "title": "obra/superpowers",
+        "meta": "+463\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "We must pace the frontier",
-        "meta": "618 pts",
-        "desc": "darioamodei.com \u00b7 869 comments",
-        "url": "https://darioamodei.com/post/we-must-pace-the-frontier"
+        "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+        "meta": "802 pts",
+        "desc": "vals.ai \u00b7 334 comments",
+        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich"
       },
       {
         "kind": "hn",
-        "title": "Fuck it, make it anyway",
-        "meta": "561 pts",
-        "desc": "joelotter.com \u00b7 568 comments",
-        "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+        "title": "Why is Google still serving dodgy ads?",
+        "meta": "769 pts",
+        "desc": "atomic14.com \u00b7 345 comments",
+        "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads"
       },
       {
         "kind": "hn",
-        "title": "Make your first edit to OpenStreetMap",
-        "meta": "422 pts",
-        "desc": "high5apps.github.io \u00b7 97 comments",
-        "url": "https://high5apps.github.io/josm-plugin-website-wizard/"
+        "title": "Homebrew 7.0.0",
+        "meta": "589 pts",
+        "desc": "brew.sh \u00b7 235 comments",
+        "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/"
       },
       {
         "kind": "hn",
-        "title": "An open letter to Dario: if you mean it, open the weights",
-        "meta": "281 pts",
-        "desc": "jacob.gold \u00b7 94 comments",
-        "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/"
+        "title": "JetKVM Mini",
+        "meta": "542 pts",
+        "desc": "jetkvm.com \u00b7 221 comments",
+        "url": "https://jetkvm.com/blog/introducing-jetkvm-mini"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "sdli1995/dlssg_for_sm86",
-        "meta": "2.2k\u2605",
-        "desc": "Here is a dlssg for RTX30 Series GPU",
-        "url": "https://github.com/sdli1995/dlssg_for_sm86"
-      },
-      {
-        "kind": "rising",
         "title": "openai/NavierStokesAndEuler",
-        "meta": "1.8k\u2605",
+        "meta": "1.9k\u2605",
         "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
         "url": "https://github.com/openai/NavierStokesAndEuler"
       },
       {
         "kind": "rising",
         "title": "Edge0-AI/Edge0",
-        "meta": "1.5k\u2605",
+        "meta": "1.6k\u2605",
         "desc": "",
         "url": "https://github.com/Edge0-AI/Edge0"
       },
       {
         "kind": "rising",
-        "title": "EverettFish/holo-card-studio",
-        "meta": "1.5k\u2605",
-        "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-        "url": "https://github.com/EverettFish/holo-card-studio"
+        "title": "Vincentwei1021/anything2explainer",
+        "meta": "1.2k\u2605",
+        "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+        "url": "https://github.com/Vincentwei1021/anything2explainer"
+      },
+      {
+        "kind": "rising",
+        "title": "gazijarin/itsgiving",
+        "meta": "821\u2605",
+        "desc": "Express yourself in meetings (with memes, of course).",
+        "url": "https://github.com/gazijarin/itsgiving"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
+    "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 10 stories, past 24 hours",
+    "hn": "Top 4 of 18 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 989
-    },
-    {
-      "name": "ponytail",
-      "gained": 794
+      "gained": 1215
     },
     {
       "name": "ECC",
-      "gained": 610
+      "gained": 666
     },
     {
-      "name": "markitdown",
-      "gained": 590
+      "name": "transformers",
+      "gained": 479
     },
     {
-      "name": "awesome-llm-apps",
-      "gained": 473
-    },
-    {
-      "name": "public-apis",
-      "gained": 402
+      "name": "firecrawl",
+      "gained": 474
     },
     {
       "name": "superpowers",
-      "gained": 401
+      "gained": 463
+    },
+    {
+      "name": "spec-kit",
+      "gained": 434
+    },
+    {
+      "name": "linux",
+      "gained": 429
     },
     {
       "name": "MoneyPrinterTurbo",
-      "gained": 368
+      "gained": 420
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "GitHub",
+      "title": "Incident with several GitHub Services",
+      "impact": "critical",
+      "minutes": 88,
+      "ongoing": false,
+      "url": "https://stspg.io/8f3xch4y0v2k"
+    }
+  ]
 }
