@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-14",
-  "edition": 347,
+  "generated": "2026-09-15",
+  "edition": 348,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,215 stars in the last day to reach 223,093 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,413 stars in the last day to reach 224,506 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,159 +12,157 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-        "meta": "385 pts",
-        "desc": "techcrunch.com \u00b7 212 comments",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+        "meta": "429 pts",
+        "desc": "tenderlovemaking.com \u00b7 344 comments",
+        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
       },
       {
         "kind": "hn",
-        "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-        "meta": "295 pts",
-        "desc": "twitter.com \u00b7 216 comments",
-        "url": "https://twitter.com/DavidSacks/status/2098973625252708460"
+        "title": "Pion, an agent designed to run any company autonomously",
+        "meta": "365 pts",
+        "desc": "andonlabs.com \u00b7 423 comments",
+        "url": "https://andonlabs.com/blog/why-we-built-pion"
+      },
+      {
+        "kind": "hn",
+        "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+        "meta": "221 pts",
+        "desc": "macrumors.com \u00b7 155 comments",
+        "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+666\u2605",
+        "meta": "+621\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "huggingface/transformers",
-        "meta": "+479\u2605",
-        "desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-        "url": "https://github.com/huggingface/transformers"
-      },
-      {
-        "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+474\u2605",
-        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-        "url": "https://github.com/firecrawl/firecrawl"
+        "title": "public-apis/public-apis",
+        "meta": "+501\u2605",
+        "desc": "A collective list of free APIs",
+        "url": "https://github.com/public-apis/public-apis"
       },
       {
         "kind": "trending",
         "title": "obra/superpowers",
-        "meta": "+463\u2605",
+        "meta": "+465\u2605",
         "desc": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers"
+      },
+      {
+        "kind": "trending",
+        "title": "firecrawl/firecrawl",
+        "meta": "+418\u2605",
+        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "url": "https://github.com/firecrawl/firecrawl"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-        "meta": "802 pts",
-        "desc": "vals.ai \u00b7 334 comments",
-        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich"
+        "title": "Steam Frame starts at $1059",
+        "meta": "630 pts",
+        "desc": "store.steampowered.com \u00b7 471 comments",
+        "url": "https://store.steampowered.com/hardware/steamframe"
       },
       {
         "kind": "hn",
-        "title": "Why is Google still serving dodgy ads?",
-        "meta": "769 pts",
-        "desc": "atomic14.com \u00b7 345 comments",
-        "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads"
+        "title": "XCancel service is suspended until further notice",
+        "meta": "583 pts",
+        "desc": "xcancel.com \u00b7 859 comments",
+        "url": "https://xcancel.com/#"
       },
       {
         "kind": "hn",
-        "title": "Homebrew 7.0.0",
-        "meta": "589 pts",
-        "desc": "brew.sh \u00b7 235 comments",
-        "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/"
+        "title": "iOS 27, iPadOS 27, and macOS 27",
+        "meta": "544 pts",
+        "desc": "apple.com \u00b7 603 comments",
+        "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
       },
       {
         "kind": "hn",
-        "title": "JetKVM Mini",
-        "meta": "542 pts",
-        "desc": "jetkvm.com \u00b7 221 comments",
-        "url": "https://jetkvm.com/blog/introducing-jetkvm-mini"
+        "title": "Dario, Please",
+        "meta": "450 pts",
+        "desc": "pop.rdi.sh \u00b7 215 comments",
+        "url": "https://pop.rdi.sh/dario-please/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "openai/NavierStokesAndEuler",
-        "meta": "1.9k\u2605",
-        "desc": "Lean certificates accompanying Navier-Stokes and Euler results",
-        "url": "https://github.com/openai/NavierStokesAndEuler"
+        "title": "Chuloo/mural",
+        "meta": "882\u2605",
+        "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+        "url": "https://github.com/Chuloo/mural"
       },
       {
         "kind": "rising",
-        "title": "Edge0-AI/Edge0",
-        "meta": "1.6k\u2605",
-        "desc": "",
-        "url": "https://github.com/Edge0-AI/Edge0"
+        "title": "sumimakito/Mac-Duo",
+        "meta": "879\u2605",
+        "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
+        "url": "https://github.com/sumimakito/Mac-Duo"
       },
       {
         "kind": "rising",
-        "title": "Vincentwei1021/anything2explainer",
-        "meta": "1.2k\u2605",
-        "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
-        "url": "https://github.com/Vincentwei1021/anything2explainer"
+        "title": "kruzovic7/ai-data-extractor",
+        "meta": "813\u2605",
+        "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+        "url": "https://github.com/kruzovic7/ai-data-extractor"
       },
       {
         "kind": "rising",
-        "title": "gazijarin/itsgiving",
-        "meta": "821\u2605",
-        "desc": "Express yourself in meetings (with memes, of course).",
-        "url": "https://github.com/gazijarin/itsgiving"
+        "title": "yifanzhang-pro/recurrent-looped-tranformer",
+        "meta": "767\u2605",
+        "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+        "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 18 stories, past 24 hours",
+    "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 1215
+      "gained": 1413
     },
     {
       "name": "ECC",
-      "gained": 666
+      "gained": 621
     },
     {
-      "name": "transformers",
-      "gained": 479
-    },
-    {
-      "name": "firecrawl",
-      "gained": 474
+      "name": "public-apis",
+      "gained": 501
     },
     {
       "name": "superpowers",
-      "gained": 463
+      "gained": 465
     },
     {
-      "name": "spec-kit",
-      "gained": 434
+      "name": "firecrawl",
+      "gained": 418
     },
     {
-      "name": "linux",
-      "gained": 429
+      "name": "pi",
+      "gained": 409
     },
     {
       "name": "MoneyPrinterTurbo",
-      "gained": 420
+      "gained": 403
+    },
+    {
+      "name": "transformers",
+      "gained": 393
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "GitHub",
-      "title": "Incident with several GitHub Services",
-      "impact": "critical",
-      "minutes": 88,
-      "ongoing": false,
-      "url": "https://stspg.io/8f3xch4y0v2k"
-    }
-  ]
+  "infra": []
 }
