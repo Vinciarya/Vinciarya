@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-15",
-  "edition": 348,
+  "generated": "2026-09-16",
+  "edition": 349,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,413 stars in the last day to reach 224,506 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,336 stars in the last day to reach 225,842 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,157 +12,174 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-        "meta": "429 pts",
-        "desc": "tenderlovemaking.com \u00b7 344 comments",
-        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
+        "title": "Introducing System One Models and Jev",
+        "meta": "1194 pts",
+        "desc": "typesafe.ai \u00b7 349 comments",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
       },
       {
         "kind": "hn",
-        "title": "Pion, an agent designed to run any company autonomously",
-        "meta": "365 pts",
-        "desc": "andonlabs.com \u00b7 423 comments",
-        "url": "https://andonlabs.com/blog/why-we-built-pion"
+        "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "meta": "383 pts",
+        "desc": "blog.google \u00b7 247 comments",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
       },
       {
         "kind": "hn",
-        "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-        "meta": "221 pts",
-        "desc": "macrumors.com \u00b7 155 comments",
-        "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
+        "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+        "meta": "219 pts",
+        "desc": "404media.co \u00b7 159 comments",
+        "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "Graphify-Labs/graphify",
+        "meta": "+1,308\u2605",
+        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "url": "https://github.com/Graphify-Labs/graphify"
+      },
+      {
+        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+621\u2605",
+        "meta": "+978\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "public-apis/public-apis",
-        "meta": "+501\u2605",
-        "desc": "A collective list of free APIs",
-        "url": "https://github.com/public-apis/public-apis"
+        "title": "DietrichGebert/ponytail",
+        "meta": "+935\u2605",
+        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "obra/superpowers",
-        "meta": "+465\u2605",
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
-      },
-      {
-        "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+418\u2605",
-        "desc": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
-        "url": "https://github.com/firecrawl/firecrawl"
+        "title": "earendil-works/pi",
+        "meta": "+715\u2605",
+        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "url": "https://github.com/earendil-works/pi"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Steam Frame starts at $1059",
-        "meta": "630 pts",
-        "desc": "store.steampowered.com \u00b7 471 comments",
-        "url": "https://store.steampowered.com/hardware/steamframe"
+        "title": "25 years of mass surveillance is enough",
+        "meta": "841 pts",
+        "desc": "schneier.com \u00b7 311 comments",
+        "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html"
       },
       {
         "kind": "hn",
-        "title": "XCancel service is suspended until further notice",
-        "meta": "583 pts",
-        "desc": "xcancel.com \u00b7 859 comments",
-        "url": "https://xcancel.com/#"
+        "title": "An update on Wayback Machine access",
+        "meta": "498 pts",
+        "desc": "blog.archive.org \u00b7 258 comments",
+        "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
       },
       {
         "kind": "hn",
-        "title": "iOS 27, iPadOS 27, and macOS 27",
-        "meta": "544 pts",
-        "desc": "apple.com \u00b7 603 comments",
-        "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
+        "title": "Suspected sabotage causes major Netherlands rail disruption",
+        "meta": "469 pts",
+        "desc": "bbc.com \u00b7 421 comments",
+        "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo"
       },
       {
         "kind": "hn",
-        "title": "Dario, Please",
-        "meta": "450 pts",
-        "desc": "pop.rdi.sh \u00b7 215 comments",
-        "url": "https://pop.rdi.sh/dario-please/"
+        "title": "Let's make quality the norm again",
+        "meta": "366 pts",
+        "desc": "forbrukerradet.no \u00b7 378 comments",
+        "url": "https://www.forbrukerradet.no/short-life/"
       }
     ],
     "launches": [
       {
+        "kind": "hn",
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "meta": "1545 pts",
+        "desc": "github.com \u00b7 194 comments",
+        "url": "https://github.com/arnegiacomo/fugleramme"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+        "meta": "319 pts",
+        "desc": "withcapsule.app \u00b7 129 comments",
+        "url": "https://withcapsule.app/"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+        "meta": "187 pts",
+        "desc": "bkovac.github.io \u00b7 33 comments",
+        "url": "https://bkovac.github.io/modem-thing/"
+      },
+      {
         "kind": "rising",
         "title": "Chuloo/mural",
-        "meta": "882\u2605",
+        "meta": "1.1k\u2605",
         "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
         "url": "https://github.com/Chuloo/mural"
-      },
-      {
-        "kind": "rising",
-        "title": "sumimakito/Mac-Duo",
-        "meta": "879\u2605",
-        "desc": "Wish you could bring the iPhone Duo effect to your MacBook?",
-        "url": "https://github.com/sumimakito/Mac-Duo"
-      },
-      {
-        "kind": "rising",
-        "title": "kruzovic7/ai-data-extractor",
-        "meta": "813\u2605",
-        "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-        "url": "https://github.com/kruzovic7/ai-data-extractor"
-      },
-      {
-        "kind": "rising",
-        "title": "yifanzhang-pro/recurrent-looped-tranformer",
-        "meta": "767\u2605",
-        "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
-        "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "launches": "3 Show HN \u00b7 1 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 1413
+      "gained": 1336
+    },
+    {
+      "name": "graphify",
+      "gained": 1308
     },
     {
       "name": "ECC",
-      "gained": 621
+      "gained": 978
     },
     {
-      "name": "public-apis",
-      "gained": 501
-    },
-    {
-      "name": "superpowers",
-      "gained": 465
-    },
-    {
-      "name": "firecrawl",
-      "gained": 418
+      "name": "ponytail",
+      "gained": 935
     },
     {
       "name": "pi",
-      "gained": 409
+      "gained": 715
     },
     {
-      "name": "MoneyPrinterTurbo",
-      "gained": 403
+      "name": "superpowers",
+      "gained": 489
     },
     {
-      "name": "transformers",
-      "gained": 393
+      "name": "firecrawl",
+      "gained": 473
+    },
+    {
+      "name": "TradingAgents",
+      "gained": 448
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Anthropic",
+      "title": "Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1",
+      "impact": "major",
+      "minutes": 86,
+      "ongoing": false,
+      "url": "https://stspg.io/x1qpycpg6ln7"
+    },
+    {
+      "name": "OpenAI",
+      "title": "Elevated errors with gpt-image-2.5-flare",
+      "impact": "major",
+      "minutes": 40,
+      "ongoing": false,
+      "url": ""
+    }
+  ]
 }
