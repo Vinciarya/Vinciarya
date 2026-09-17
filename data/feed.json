@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-16",
-  "edition": 349,
+  "generated": "2026-09-17",
+  "edition": 350,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,336 stars in the last day to reach 225,842 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,278 stars in the last day to reach 227,120 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,174 +12,166 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Introducing System One Models and Jev",
-        "meta": "1194 pts",
-        "desc": "typesafe.ai \u00b7 349 comments",
-        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "meta": "560 pts",
+        "desc": "mistral.ai \u00b7 192 comments",
+        "url": "https://mistral.ai/news/mistral-x-mozilla/"
       },
       {
         "kind": "hn",
-        "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-        "meta": "383 pts",
-        "desc": "blog.google \u00b7 247 comments",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+        "meta": "508 pts",
+        "desc": "rohanbansal.com \u00b7 107 comments",
+        "url": "https://rohanbansal.com/qorl"
       },
       {
         "kind": "hn",
-        "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-        "meta": "219 pts",
-        "desc": "404media.co \u00b7 159 comments",
-        "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
+        "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+        "meta": "311 pts",
+        "desc": "frvr.com \u00b7 215 comments",
+        "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "Graphify-Labs/graphify",
-        "meta": "+1,308\u2605",
-        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "url": "https://github.com/Graphify-Labs/graphify"
-      },
-      {
-        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+978\u2605",
+        "meta": "+1,046\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+935\u2605",
+        "meta": "+1,030\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "earendil-works/pi",
-        "meta": "+715\u2605",
-        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "url": "https://github.com/earendil-works/pi"
+        "title": "mattpocock/skills",
+        "meta": "+755\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
+        "title": "supabase/supabase",
+        "meta": "+548\u2605",
+        "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "url": "https://github.com/supabase/supabase"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "25 years of mass surveillance is enough",
-        "meta": "841 pts",
-        "desc": "schneier.com \u00b7 311 comments",
-        "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html"
+        "title": "EU chief opens door for Canada to become 'associate member'",
+        "meta": "659 pts",
+        "desc": "bbc.com \u00b7 840 comments",
+        "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko"
       },
       {
         "kind": "hn",
-        "title": "An update on Wayback Machine access",
-        "meta": "498 pts",
-        "desc": "blog.archive.org \u00b7 258 comments",
-        "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
+        "title": "Nvidia announces native GPU programming in Rust",
+        "meta": "573 pts",
+        "desc": "developer.nvidia.com \u00b7 212 comments",
+        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
       },
       {
         "kind": "hn",
-        "title": "Suspected sabotage causes major Netherlands rail disruption",
-        "meta": "469 pts",
-        "desc": "bbc.com \u00b7 421 comments",
-        "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo"
+        "title": "Hackers Got Inside a Flock Camera",
+        "meta": "519 pts",
+        "desc": "wired.com \u00b7 236 comments",
+        "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"
       },
       {
         "kind": "hn",
-        "title": "Let's make quality the norm again",
-        "meta": "366 pts",
-        "desc": "forbrukerradet.no \u00b7 378 comments",
-        "url": "https://www.forbrukerradet.no/short-life/"
+        "title": "Small programming tricks",
+        "meta": "490 pts",
+        "desc": "will-keleher.com \u00b7 216 comments",
+        "url": "https://will-keleher.com/posts/small-programming-tricks-matter/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-        "meta": "1545 pts",
-        "desc": "github.com \u00b7 194 comments",
-        "url": "https://github.com/arnegiacomo/fugleramme"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
-        "meta": "319 pts",
-        "desc": "withcapsule.app \u00b7 129 comments",
-        "url": "https://withcapsule.app/"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-        "meta": "187 pts",
-        "desc": "bkovac.github.io \u00b7 33 comments",
-        "url": "https://bkovac.github.io/modem-thing/"
+        "kind": "rising",
+        "title": "ai-sucks-butt/ai-sucks-butt",
+        "meta": "2.1k\u2605",
+        "desc": "If you think AI sucks, star the repo.",
+        "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
       },
       {
         "kind": "rising",
         "title": "Chuloo/mural",
-        "meta": "1.1k\u2605",
+        "meta": "1.3k\u2605",
         "desc": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
         "url": "https://github.com/Chuloo/mural"
+      },
+      {
+        "kind": "rising",
+        "title": "yifanzhang-pro/recurrent-looped-tranformer",
+        "meta": "863\u2605",
+        "desc": "Official Project Page for Recurrent Looped Transformer (RLT)",
+        "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+      },
+      {
+        "kind": "rising",
+        "title": "kruzovic7/ai-data-extractor",
+        "meta": "827\u2605",
+        "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+        "url": "https://github.com/kruzovic7/ai-data-extractor"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
+    "ai": "3 of 7 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "3 Show HN \u00b7 1 new repos"
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 1336
+      "gained": 1278
     },
     {
-      "name": "graphify",
-      "gained": 1308
+      "name": "ai-sucks-butt",
+      "gained": 1100
     },
     {
       "name": "ECC",
-      "gained": 978
+      "gained": 1046
     },
     {
       "name": "ponytail",
-      "gained": 935
+      "gained": 1030
+    },
+    {
+      "name": "skills",
+      "gained": 755
+    },
+    {
+      "name": "supabase",
+      "gained": 548
+    },
+    {
+      "name": "graphify",
+      "gained": 517
     },
     {
       "name": "pi",
-      "gained": 715
-    },
-    {
-      "name": "superpowers",
-      "gained": 489
-    },
-    {
-      "name": "firecrawl",
-      "gained": 473
-    },
-    {
-      "name": "TradingAgents",
-      "gained": 448
+      "gained": 469
     }
   ],
   "ticker": [],
   "infra": [
     {
-      "name": "Anthropic",
-      "title": "Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1",
+      "name": "GitHub",
+      "title": "Degradation with Gemini 3.8 Flash",
       "impact": "major",
-      "minutes": 86,
+      "minutes": 627,
       "ongoing": false,
-      "url": "https://stspg.io/x1qpycpg6ln7"
-    },
-    {
-      "name": "OpenAI",
-      "title": "Elevated errors with gpt-image-2.5-flare",
-      "impact": "major",
-      "minutes": 40,
-      "ongoing": false,
-      "url": ""
+      "url": "https://stspg.io/hsjy12f57b24"
     }
   ]
 }
