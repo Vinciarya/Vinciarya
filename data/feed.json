@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-21",
-  "edition": 354,
+  "generated": "2026-09-22",
+  "edition": 355,
   "lead": {
     "headline": "LAYA SURGES TO #1 ON GITHUB",
-    "deck": "+4,088 stars in the last day",
-    "body": "NandhaKishorM/laya is today's fastest-growing repository on GitHub, gaining 4,088 stars in the last day to reach 5,956 total.",
+    "deck": "+6,484 stars in the last day",
+    "body": "NandhaKishorM/laya is today's fastest-growing repository on GitHub, gaining 6,484 stars in the last day to reach 12,440 total.",
     "source": "NandhaKishorM/laya",
     "url": "https://github.com/NandhaKishorM/laya"
   },
@@ -12,105 +12,105 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Pirate Face Rescues LLM Models from Deletion",
-        "meta": "531 pts",
-        "desc": "pirateface.co \u00b7 143 comments",
-        "url": "https://pirateface.co/"
+        "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+        "meta": "222 pts",
+        "desc": "reddit.com \u00b7 112 comments",
+        "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
       },
       {
         "kind": "hn",
-        "title": "AI and the Destruction of the Creative Commons",
-        "meta": "229 pts",
-        "desc": "chesterwisniewski.com \u00b7 274 comments",
-        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/"
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "meta": "214 pts",
+        "desc": "linear.app \u00b7 220 comments",
+        "url": "https://linear.app/now/ci-bottleneck-reworked"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,147\u2605",
+        "meta": "+1,039\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+960\u2605",
+        "meta": "+817\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+643\u2605",
+        "meta": "+681\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "addyosmani/agent-skills",
-        "meta": "+617\u2605",
-        "desc": "Production-grade engineering skills for AI coding agents.",
-        "url": "https://github.com/addyosmani/agent-skills"
+        "title": "ruanyf/weekly",
+        "meta": "+546\u2605",
+        "desc": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
+        "url": "https://github.com/ruanyf/weekly"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "ChatGPT now knows what you do on other websites via ad collector",
-        "meta": "710 pts",
-        "desc": "buchodi.com \u00b7 376 comments",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/"
+        "title": "MiMo v2.6",
+        "meta": "803 pts",
+        "desc": "mimo.xiaomi.com \u00b7 360 comments",
+        "url": "https://mimo.xiaomi.com/mimo-v2-6"
       },
       {
         "kind": "hn",
-        "title": "Qwen Image 2.1",
-        "meta": "611 pts",
-        "desc": "qwen.ai \u00b7 168 comments",
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1"
+        "title": "Attention is all you have",
+        "meta": "731 pts",
+        "desc": "alicegg.tech \u00b7 215 comments",
+        "url": "https://alicegg.tech/2026/09/21/attention"
       },
       {
         "kind": "hn",
-        "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-        "meta": "443 pts",
-        "desc": "en.sedaily.com \u00b7 288 comments",
-        "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say"
+        "title": "ZuckOff Know when a camera is in the room",
+        "meta": "596 pts",
+        "desc": "zuckoff.app \u00b7 3 comments",
+        "url": "https://zuckoff.app/"
       },
       {
         "kind": "hn",
-        "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
-        "meta": "436 pts",
-        "desc": "agentexecutor.io \u00b7 172 comments",
-        "url": "https://agentexecutor.io"
+        "title": "I don't want to read what you didn't write",
+        "meta": "580 pts",
+        "desc": "blog.colinbreck.com \u00b7 206 comments",
+        "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "browser-use/jev-ultrafast",
-        "meta": "13.3k\u2605",
-        "desc": "i. am. speed.",
+        "meta": "16.8k\u2605",
+        "desc": "Fastest and cheapest web agent",
         "url": "https://github.com/browser-use/jev-ultrafast"
       },
       {
         "kind": "rising",
         "title": "tamaratran/fast-jev-compaction",
-        "meta": "5.6k\u2605",
+        "meta": "6.1k\u2605",
         "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
         "url": "https://github.com/tamaratran/fast-jev-compaction"
       },
       {
         "kind": "rising",
         "title": "zai-org/ZCode",
-        "meta": "4.2k\u2605",
+        "meta": "6.0k\u2605",
         "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
         "url": "https://github.com/zai-org/ZCode"
       },
       {
         "kind": "rising",
         "title": "robbietilton/Compositor",
-        "meta": "3.9k\u2605",
+        "meta": "4.6k\u2605",
         "desc": "The Photoshop alternative for Mac",
         "url": "https://github.com/robbietilton/Compositor"
       }
@@ -119,43 +119,52 @@
   "notes": {
     "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 18 stories, past 24 hours",
+    "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "laya",
-      "gained": 4088
+      "gained": 6484
     },
     {
       "name": "jev-ultrafast",
-      "gained": 3596
+      "gained": 3491
+    },
+    {
+      "name": "ZCode",
+      "gained": 1774
     },
     {
       "name": "deepseek-harness",
-      "gained": 1147
-    },
-    {
-      "name": "fast-jev-compaction",
-      "gained": 1073
+      "gained": 1039
     },
     {
       "name": "ECC",
-      "gained": 960
-    },
-    {
-      "name": "Compositor",
-      "gained": 955
+      "gained": 817
     },
     {
       "name": "skills",
+      "gained": 681
+    },
+    {
+      "name": "Compositor",
       "gained": 643
     },
     {
-      "name": "agent-skills",
-      "gained": 617
+      "name": "weekly",
+      "gained": 546
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors for multiple models",
+      "impact": "major",
+      "minutes": 97,
+      "ongoing": false,
+      "url": "https://stspg.io/90s4l9yywzbk"
+    }
+  ]
 }
