@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-22",
-  "edition": 355,
+  "generated": "2026-09-23",
+  "edition": 356,
   "lead": {
     "headline": "LAYA SURGES TO #1 ON GITHUB",
-    "deck": "+6,484 stars in the last day",
-    "body": "NandhaKishorM/laya is today's fastest-growing repository on GitHub, gaining 6,484 stars in the last day to reach 12,440 total.",
+    "deck": "+5,547 stars in the last day",
+    "body": "NandhaKishorM/laya is today's fastest-growing repository on GitHub, gaining 5,547 stars in the last day to reach 17,987 total.",
     "source": "NandhaKishorM/laya",
     "url": "https://github.com/NandhaKishorM/laya"
   },
@@ -12,159 +12,157 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-        "meta": "222 pts",
-        "desc": "reddit.com \u00b7 112 comments",
-        "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
+        "title": "Claude Opus 5.5",
+        "meta": "1449 pts",
+        "desc": "anthropic.com \u00b7 909 comments",
+        "url": "https://www.anthropic.com/claude-opus-5-5"
       },
       {
         "kind": "hn",
-        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-        "meta": "214 pts",
-        "desc": "linear.app \u00b7 220 comments",
-        "url": "https://linear.app/now/ci-bottleneck-reworked"
+        "title": "GPT-6 Sol and Luna",
+        "meta": "1440 pts",
+        "desc": "openai.com \u00b7 697 comments",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+      },
+      {
+        "kind": "hn",
+        "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+        "meta": "641 pts",
+        "desc": "cryptocellar.org \u00b7 381 comments",
+        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,039\u2605",
+        "meta": "+1,112\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
+        "title": "farion1231/cc-switch",
+        "meta": "+1,021\u2605",
+        "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+        "url": "https://github.com/farion1231/cc-switch"
+      },
+      {
+        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+817\u2605",
+        "meta": "+736\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+681\u2605",
+        "meta": "+675\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
-      },
-      {
-        "kind": "trending",
-        "title": "ruanyf/weekly",
-        "meta": "+546\u2605",
-        "desc": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
-        "url": "https://github.com/ruanyf/weekly"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "MiMo v2.6",
-        "meta": "803 pts",
-        "desc": "mimo.xiaomi.com \u00b7 360 comments",
-        "url": "https://mimo.xiaomi.com/mimo-v2-6"
+        "title": "I said no and Apple said yes",
+        "meta": "816 pts",
+        "desc": "dbushell.com \u00b7 661 comments",
+        "url": "https://dbushell.com/2026/09/22/apple-intelligence/"
       },
       {
         "kind": "hn",
-        "title": "Attention is all you have",
-        "meta": "731 pts",
-        "desc": "alicegg.tech \u00b7 215 comments",
-        "url": "https://alicegg.tech/2026/09/21/attention"
+        "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+        "meta": "699 pts",
+        "desc": "techradar.com \u00b7 506 comments",
+        "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy"
       },
       {
         "kind": "hn",
-        "title": "ZuckOff Know when a camera is in the room",
-        "meta": "596 pts",
-        "desc": "zuckoff.app \u00b7 3 comments",
-        "url": "https://zuckoff.app/"
+        "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+        "meta": "587 pts",
+        "desc": "bloomberg.com \u00b7 296 comments",
+        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
       },
       {
         "kind": "hn",
-        "title": "I don't want to read what you didn't write",
-        "meta": "580 pts",
-        "desc": "blog.colinbreck.com \u00b7 206 comments",
-        "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"
+        "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+        "meta": "565 pts",
+        "desc": "404media.co \u00b7 392 comments",
+        "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/"
       }
     ],
     "launches": [
       {
-        "kind": "rising",
-        "title": "browser-use/jev-ultrafast",
-        "meta": "16.8k\u2605",
-        "desc": "Fastest and cheapest web agent",
-        "url": "https://github.com/browser-use/jev-ultrafast"
-      },
-      {
-        "kind": "rising",
-        "title": "tamaratran/fast-jev-compaction",
-        "meta": "6.1k\u2605",
-        "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-        "url": "https://github.com/tamaratran/fast-jev-compaction"
+        "kind": "hn",
+        "title": "Show HN: Drop \u2013 A rootless Linux sandbox with gVisor support",
+        "meta": "167 pts",
+        "desc": "droprun.sh \u00b7 57 comments",
+        "url": "https://droprun.sh/"
       },
       {
         "kind": "rising",
         "title": "zai-org/ZCode",
-        "meta": "6.0k\u2605",
+        "meta": "6.4k\u2605",
         "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
         "url": "https://github.com/zai-org/ZCode"
       },
       {
         "kind": "rising",
-        "title": "robbietilton/Compositor",
-        "meta": "4.6k\u2605",
-        "desc": "The Photoshop alternative for Mac",
-        "url": "https://github.com/robbietilton/Compositor"
+        "title": "tamaratran/fast-jev-compaction",
+        "meta": "6.4k\u2605",
+        "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+        "url": "https://github.com/tamaratran/fast-jev-compaction"
+      },
+      {
+        "kind": "rising",
+        "title": "mizorewww/laya-mlx",
+        "meta": "5.7k\u2605",
+        "desc": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "url": "https://github.com/mizorewww/laya-mlx"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
+    "ai": "3 of 9 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "laya",
-      "gained": 6484
-    },
-    {
-      "name": "jev-ultrafast",
-      "gained": 3491
-    },
-    {
-      "name": "ZCode",
-      "gained": 1774
+      "gained": 5547
     },
     {
       "name": "deepseek-harness",
-      "gained": 1039
+      "gained": 1112
+    },
+    {
+      "name": "cc-switch",
+      "gained": 1021
     },
     {
       "name": "ECC",
-      "gained": 817
+      "gained": 736
     },
     {
       "name": "skills",
-      "gained": 681
+      "gained": 675
     },
     {
-      "name": "Compositor",
-      "gained": 643
+      "name": "superpowers",
+      "gained": 463
     },
     {
-      "name": "weekly",
-      "gained": 546
+      "name": "firecrawl",
+      "gained": 455
+    },
+    {
+      "name": "ZCode",
+      "gained": 427
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Anthropic",
-      "title": "Elevated errors for multiple models",
-      "impact": "major",
-      "minutes": 97,
-      "ongoing": false,
-      "url": "https://stspg.io/90s4l9yywzbk"
-    }
-  ]
+  "infra": []
 }
