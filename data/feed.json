@@ -1,166 +1,159 @@
 {
-  "generated": "2026-09-24",
-  "edition": 357,
+  "generated": "2026-09-25",
+  "edition": 358,
   "lead": {
-    "headline": "LAYA SURGES TO #1 ON GITHUB",
-    "deck": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over",
-    "body": "NandhaKishorM/laya is today's fastest-growing repository on GitHub, gaining 3,391 stars in the last day to reach 21,378 total. Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-    "source": "NandhaKishorM/laya",
-    "url": "https://github.com/NandhaKishorM/laya"
+    "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
+    "deck": "DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 836 stars in the last day to reach 235,431 total. DeepSeek Harness: Everything is a Plugin.",
+    "source": "deepseek-ai/deepseek-harness",
+    "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "meta": "613 pts",
-        "desc": "anthropic.com \u00b7 623 comments",
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+        "meta": "609 pts",
+        "desc": "reddit.com \u00b7 366 comments",
+        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
       },
       {
         "kind": "hn",
-        "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-        "meta": "463 pts",
-        "desc": "blog.szypowi.cz \u00b7 264 comments",
-        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"
-      },
-      {
-        "kind": "hn",
-        "title": "Gemini 3.8 text-to-speech",
-        "meta": "296 pts",
-        "desc": "blog.google \u00b7 132 comments",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"
+        "title": "Best LLM for every budget, updated daily",
+        "meta": "171 pts",
+        "desc": "bestmodelforyourbudget.terrydjony.com \u00b7 106 comments",
+        "url": "https://bestmodelforyourbudget.terrydjony.com/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "farion1231/cc-switch",
-        "meta": "+1,022\u2605",
-        "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-        "url": "https://github.com/farion1231/cc-switch"
-      },
-      {
-        "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+782\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
-      },
-      {
-        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+701\u2605",
+        "meta": "+728\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+627\u2605",
+        "meta": "+597\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
+        "title": "farion1231/cc-switch",
+        "meta": "+545\u2605",
+        "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+        "url": "https://github.com/farion1231/cc-switch"
+      },
+      {
+        "kind": "trending",
+        "title": "obra/superpowers",
+        "meta": "+462\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Italian parliament votes for return to nuclear energy",
-        "meta": "729 pts",
-        "desc": "apnews.com \u00b7 484 comments",
-        "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567"
+        "title": "F-Droid 2.0",
+        "meta": "1142 pts",
+        "desc": "f-droid.org \u00b7 302 comments",
+        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
       },
       {
         "kind": "hn",
-        "title": "Jev in 25 Lines of Python",
-        "meta": "647 pts",
-        "desc": "nobodywho.ai \u00b7 201 comments",
-        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/"
-      },
-      {
-        "kind": "hn",
-        "title": "Fixing the Portobello Police Station Clock",
+        "title": "Two-tier encryption in the UK",
         "meta": "422 pts",
-        "desc": "pointinthecloud.com \u00b7 98 comments",
-        "url": "https://pointinthecloud.com/2026-04-11-211700.html"
+        "desc": "macanorak.com \u00b7 387 comments",
+        "url": "https://macanorak.com/two-tier-encryption-in-the-uk/"
       },
       {
         "kind": "hn",
-        "title": "I don't want the details",
-        "meta": "399 pts",
-        "desc": "michaelheap.com \u00b7 209 comments",
-        "url": "https://michaelheap.com/i-dont-want-the-details/"
+        "title": "Why is the liver so weirdly regenerative?",
+        "meta": "365 pts",
+        "desc": "dynomight.substack.com \u00b7 189 comments",
+        "url": "https://dynomight.substack.com/p/liver"
+      },
+      {
+        "kind": "hn",
+        "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+        "meta": "290 pts",
+        "desc": "arstechnica.com \u00b7 294 comments",
+        "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/"
       }
     ],
     "launches": [
       {
+        "kind": "hn",
+        "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+        "meta": "272 pts",
+        "desc": "github.com \u00b7 110 comments",
+        "url": "https://github.com/devdotfast/whiteboard"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+        "meta": "174 pts",
+        "desc": "koi.rest \u00b7 42 comments",
+        "url": "https://koi.rest"
+      },
+      {
         "kind": "rising",
         "title": "zai-org/ZCode",
-        "meta": "6.6k\u2605",
+        "meta": "6.7k\u2605",
         "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
         "url": "https://github.com/zai-org/ZCode"
       },
       {
         "kind": "rising",
-        "title": "mizorewww/laya-mlx",
-        "meta": "6.1k\u2605",
-        "desc": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-        "url": "https://github.com/mizorewww/laya-mlx"
-      },
-      {
-        "kind": "rising",
         "title": "jev-chat/jev-chat-jarvis",
-        "meta": "5.5k\u2605",
-        "desc": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728\u5fae\u4fe1 / QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
+        "meta": "6.3k\u2605",
+        "desc": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
         "url": "https://github.com/jev-chat/jev-chat-jarvis"
-      },
-      {
-        "kind": "rising",
-        "title": "unreallabsai/unreal-agent",
-        "meta": "1.8k\u2605",
-        "desc": "Async-first agent harness",
-        "url": "https://github.com/unreallabsai/unreal-agent"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 6 AI stories, past 24 hours",
+    "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "hn": "Top 4 of 18 stories, past 24 hours",
+    "launches": "2 Show HN \u00b7 2 new repos"
   },
   "market": [
     {
-      "name": "laya",
-      "gained": 3391
-    },
-    {
-      "name": "cc-switch",
-      "gained": 1022
-    },
-    {
       "name": "deepseek-harness",
-      "gained": 782
+      "gained": 836
+    },
+    {
+      "name": "jev-chat-jarvis",
+      "gained": 834
     },
     {
       "name": "ECC",
-      "gained": 701
+      "gained": 728
     },
     {
       "name": "skills",
-      "gained": 627
+      "gained": 597
+    },
+    {
+      "name": "cc-switch",
+      "gained": 545
     },
     {
       "name": "superpowers",
-      "gained": 533
+      "gained": 462
     },
     {
       "name": "firecrawl",
-      "gained": 450
+      "gained": 439
     },
     {
-      "name": "laya-mlx",
-      "gained": 416
+      "name": "public-apis",
+      "gained": 360
     }
   ],
   "ticker": [],
