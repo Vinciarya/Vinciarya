@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-25",
-  "edition": 358,
+  "generated": "2026-09-26",
+  "edition": 359,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 836 stars in the last day to reach 235,431 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 850 stars in the last day to reach 236,281 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,150 +12,166 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-        "meta": "609 pts",
-        "desc": "reddit.com \u00b7 366 comments",
-        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
+        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "meta": "433 pts",
+        "desc": "cnbc.com \u00b7 746 comments",
+        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
       },
       {
         "kind": "hn",
-        "title": "Best LLM for every budget, updated daily",
-        "meta": "171 pts",
-        "desc": "bestmodelforyourbudget.terrydjony.com \u00b7 106 comments",
-        "url": "https://bestmodelforyourbudget.terrydjony.com/"
+        "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+        "meta": "406 pts",
+        "desc": "ollaya.dev \u00b7 112 comments",
+        "url": "https://ollaya.dev/"
+      },
+      {
+        "kind": "hn",
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "meta": "399 pts",
+        "desc": "swarmtraces.org \u00b7 243 comments",
+        "url": "https://swarmtraces.org/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+728\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+597\u2605",
+        "meta": "+610\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "farion1231/cc-switch",
-        "meta": "+545\u2605",
-        "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-        "url": "https://github.com/farion1231/cc-switch"
+        "title": "affaan-m/ECC",
+        "meta": "+541\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
         "title": "obra/superpowers",
-        "meta": "+462\u2605",
+        "meta": "+432\u2605",
         "desc": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers"
+      },
+      {
+        "kind": "trending",
+        "title": "firecrawl/firecrawl",
+        "meta": "+411\u2605",
+        "desc": "The web data API to search, scrape, and interact at scale. \ud83d\udd25",
+        "url": "https://github.com/firecrawl/firecrawl"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "F-Droid 2.0",
-        "meta": "1142 pts",
-        "desc": "f-droid.org \u00b7 302 comments",
-        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
+        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+        "meta": "952 pts",
+        "desc": "dawo.community \u00b7 549 comments",
+        "url": "https://www.dawo.community/en/"
       },
       {
         "kind": "hn",
-        "title": "Two-tier encryption in the UK",
-        "meta": "422 pts",
-        "desc": "macanorak.com \u00b7 387 comments",
-        "url": "https://macanorak.com/two-tier-encryption-in-the-uk/"
+        "title": "Platform-independent SIMD in Go",
+        "meta": "379 pts",
+        "desc": "go.dev \u00b7 137 comments",
+        "url": "https://go.dev/blog/simd-experiment"
       },
       {
         "kind": "hn",
-        "title": "Why is the liver so weirdly regenerative?",
-        "meta": "365 pts",
-        "desc": "dynomight.substack.com \u00b7 189 comments",
-        "url": "https://dynomight.substack.com/p/liver"
+        "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+        "meta": "329 pts",
+        "desc": "github.com \u00b7 107 comments",
+        "url": "https://github.com/git-bug/git-bug"
       },
       {
         "kind": "hn",
-        "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-        "meta": "290 pts",
-        "desc": "arstechnica.com \u00b7 294 comments",
-        "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/"
+        "title": "Factorio that you can touch",
+        "meta": "324 pts",
+        "desc": "factorio.com \u00b7 112 comments",
+        "url": "https://factorio.com/blog/post/fff-447"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-        "meta": "272 pts",
-        "desc": "github.com \u00b7 110 comments",
-        "url": "https://github.com/devdotfast/whiteboard"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
-        "meta": "174 pts",
-        "desc": "koi.rest \u00b7 42 comments",
-        "url": "https://koi.rest"
+        "title": "Show HN: Jev Plays Pok\u00e9mon Red",
+        "meta": "186 pts",
+        "desc": "jev-pokemon.vercel.app \u00b7 79 comments",
+        "url": "https://jev-pokemon.vercel.app/"
       },
       {
         "kind": "rising",
         "title": "zai-org/ZCode",
-        "meta": "6.7k\u2605",
+        "meta": "6.8k\u2605",
         "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
         "url": "https://github.com/zai-org/ZCode"
       },
       {
         "kind": "rising",
         "title": "jev-chat/jev-chat-jarvis",
-        "meta": "6.3k\u2605",
+        "meta": "6.6k\u2605",
         "desc": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
         "url": "https://github.com/jev-chat/jev-chat-jarvis"
+      },
+      {
+        "kind": "rising",
+        "title": "unreallabsai/unreal-agent",
+        "meta": "1.9k\u2605",
+        "desc": "Async-first agent harness",
+        "url": "https://github.com/unreallabsai/unreal-agent"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 18 stories, past 24 hours",
-    "launches": "2 Show HN \u00b7 2 new repos"
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 836
-    },
-    {
-      "name": "jev-chat-jarvis",
-      "gained": 834
-    },
-    {
-      "name": "ECC",
-      "gained": 728
+      "gained": 850
     },
     {
       "name": "skills",
-      "gained": 597
+      "gained": 610
     },
     {
-      "name": "cc-switch",
-      "gained": 545
+      "name": "ECC",
+      "gained": 541
     },
     {
       "name": "superpowers",
-      "gained": 462
+      "gained": 432
     },
     {
       "name": "firecrawl",
-      "gained": 439
+      "gained": 411
     },
     {
-      "name": "public-apis",
-      "gained": 360
+      "name": "skills",
+      "gained": 398
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "gained": 384
+    },
+    {
+      "name": "cc-switch",
+      "gained": 348
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "OpenAI",
+      "title": "Issues with Codex ",
+      "impact": "critical",
+      "minutes": 55,
+      "ongoing": false,
+      "url": ""
+    }
+  ]
 }
