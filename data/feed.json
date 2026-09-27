@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-26",
-  "edition": 359,
+  "generated": "2026-09-27",
+  "edition": 360,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 850 stars in the last day to reach 236,281 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 873 stars in the last day to reach 237,154 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,166 +12,150 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-        "meta": "433 pts",
-        "desc": "cnbc.com \u00b7 746 comments",
-        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+        "title": "How to keep enjoying programming in a world of LLMs",
+        "meta": "210 pts",
+        "desc": "discourse.haskell.org \u00b7 261 comments",
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"
       },
       {
         "kind": "hn",
-        "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
-        "meta": "406 pts",
-        "desc": "ollaya.dev \u00b7 112 comments",
-        "url": "https://ollaya.dev/"
-      },
-      {
-        "kind": "hn",
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "meta": "399 pts",
-        "desc": "swarmtraces.org \u00b7 243 comments",
-        "url": "https://swarmtraces.org/"
+        "title": "One Month Without AI",
+        "meta": "171 pts",
+        "desc": "blog.bustikiller.com \u00b7 221 comments",
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+610\u2605",
+        "meta": "+518\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+541\u2605",
+        "meta": "+440\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "obra/superpowers",
-        "meta": "+432\u2605",
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
+        "title": "firecrawl/firecrawl",
+        "meta": "+406\u2605",
+        "desc": "The web data API to search, scrape, and interact at scale. \ud83d\udd25",
+        "url": "https://github.com/firecrawl/firecrawl"
       },
       {
         "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+411\u2605",
-        "desc": "The web data API to search, scrape, and interact at scale. \ud83d\udd25",
-        "url": "https://github.com/firecrawl/firecrawl"
+        "title": "farion1231/cc-switch",
+        "meta": "+351\u2605",
+        "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+        "url": "https://github.com/farion1231/cc-switch"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-        "meta": "952 pts",
-        "desc": "dawo.community \u00b7 549 comments",
-        "url": "https://www.dawo.community/en/"
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "meta": "659 pts",
+        "desc": "gultsch.de \u00b7 265 comments",
+        "url": "https://gultsch.de/posts/breaking-up-with-google-play/"
       },
       {
         "kind": "hn",
-        "title": "Platform-independent SIMD in Go",
-        "meta": "379 pts",
-        "desc": "go.dev \u00b7 137 comments",
-        "url": "https://go.dev/blog/simd-experiment"
+        "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+        "meta": "496 pts",
+        "desc": "themomoftheyear.substack.com \u00b7 191 comments",
+        "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip"
       },
       {
         "kind": "hn",
-        "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-        "meta": "329 pts",
-        "desc": "github.com \u00b7 107 comments",
-        "url": "https://github.com/git-bug/git-bug"
+        "title": "Fifteen years later, the Apple Cards origin story",
+        "meta": "389 pts",
+        "desc": "lexontech.org \u00b7 97 comments",
+        "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story"
       },
       {
         "kind": "hn",
-        "title": "Factorio that you can touch",
-        "meta": "324 pts",
-        "desc": "factorio.com \u00b7 112 comments",
-        "url": "https://factorio.com/blog/post/fff-447"
+        "title": "DeepSeek Elastic Compute (DSec)",
+        "meta": "234 pts",
+        "desc": "arxiv.org \u00b7 77 comments",
+        "url": "https://arxiv.org/abs/2609.22978"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Jev Plays Pok\u00e9mon Red",
-        "meta": "186 pts",
-        "desc": "jev-pokemon.vercel.app \u00b7 79 comments",
-        "url": "https://jev-pokemon.vercel.app/"
-      },
-      {
-        "kind": "rising",
-        "title": "zai-org/ZCode",
-        "meta": "6.8k\u2605",
-        "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-        "url": "https://github.com/zai-org/ZCode"
+        "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+        "meta": "281 pts",
+        "desc": "github.com \u00b7 78 comments",
+        "url": "https://github.com/reladraw/reladraw"
       },
       {
         "kind": "rising",
         "title": "jev-chat/jev-chat-jarvis",
-        "meta": "6.6k\u2605",
+        "meta": "6.7k\u2605",
         "desc": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
         "url": "https://github.com/jev-chat/jev-chat-jarvis"
       },
       {
         "kind": "rising",
         "title": "unreallabsai/unreal-agent",
-        "meta": "1.9k\u2605",
+        "meta": "2.0k\u2605",
         "desc": "Async-first agent harness",
         "url": "https://github.com/unreallabsai/unreal-agent"
+      },
+      {
+        "kind": "rising",
+        "title": "Contrastive-LM/CLM",
+        "meta": "1.7k\u2605",
+        "desc": "",
+        "url": "https://github.com/Contrastive-LM/CLM"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
+    "ai": "2 of 2 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 25h",
+    "hn": "Top 4 of 12 stories, past 24 hours",
     "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 850
+      "gained": 873
     },
     {
       "name": "skills",
-      "gained": 610
+      "gained": 518
     },
     {
       "name": "ECC",
-      "gained": 541
-    },
-    {
-      "name": "superpowers",
-      "gained": 432
+      "gained": 440
     },
     {
       "name": "firecrawl",
-      "gained": 411
-    },
-    {
-      "name": "skills",
-      "gained": 398
-    },
-    {
-      "name": "MoneyPrinterTurbo",
-      "gained": 384
+      "gained": 406
     },
     {
       "name": "cc-switch",
-      "gained": 348
+      "gained": 351
+    },
+    {
+      "name": "CLM",
+      "gained": 349
+    },
+    {
+      "name": "awesome-python",
+      "gained": 318
+    },
+    {
+      "name": "public-apis",
+      "gained": 302
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "OpenAI",
-      "title": "Issues with Codex ",
-      "impact": "critical",
-      "minutes": 55,
-      "ongoing": false,
-      "url": ""
-    }
-  ]
+  "infra": []
 }
