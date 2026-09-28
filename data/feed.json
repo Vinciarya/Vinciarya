@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-27",
-  "edition": 360,
+  "generated": "2026-09-28",
+  "edition": 361,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 873 stars in the last day to reach 237,154 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,025 stars in the last day to reach 238,179 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,148 +12,148 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "How to keep enjoying programming in a world of LLMs",
-        "meta": "210 pts",
-        "desc": "discourse.haskell.org \u00b7 261 comments",
-        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"
+        "title": "There are no \"rogue\" AI agents",
+        "meta": "364 pts",
+        "desc": "eoinhiggins.substack.com \u00b7 251 comments",
+        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
       },
       {
         "kind": "hn",
-        "title": "One Month Without AI",
-        "meta": "171 pts",
-        "desc": "blog.bustikiller.com \u00b7 221 comments",
-        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
+        "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+        "meta": "184 pts",
+        "desc": "youtube.com \u00b7 95 comments",
+        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "farion1231/cc-switch",
+        "meta": "+577\u2605",
+        "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+        "url": "https://github.com/farion1231/cc-switch"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+518\u2605",
+        "meta": "+540\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+440\u2605",
+        "meta": "+531\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
         "title": "firecrawl/firecrawl",
-        "meta": "+406\u2605",
+        "meta": "+438\u2605",
         "desc": "The web data API to search, scrape, and interact at scale. \ud83d\udd25",
         "url": "https://github.com/firecrawl/firecrawl"
-      },
-      {
-        "kind": "trending",
-        "title": "farion1231/cc-switch",
-        "meta": "+351\u2605",
-        "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-        "url": "https://github.com/farion1231/cc-switch"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "meta": "659 pts",
-        "desc": "gultsch.de \u00b7 265 comments",
-        "url": "https://gultsch.de/posts/breaking-up-with-google-play/"
+        "title": "When did Google get so weird?",
+        "meta": "1205 pts",
+        "desc": "sancho.bearblog.dev \u00b7 661 comments",
+        "url": "https://sancho.bearblog.dev/google-weird/"
       },
       {
         "kind": "hn",
-        "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
-        "meta": "496 pts",
-        "desc": "themomoftheyear.substack.com \u00b7 191 comments",
-        "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip"
+        "title": "Owed a billion dollars in Nvidia stock",
+        "meta": "598 pts",
+        "desc": "colo.to \u00b7 252 comments",
+        "url": "https://colo.to/nvidia-stock-narrative.html"
       },
       {
         "kind": "hn",
-        "title": "Fifteen years later, the Apple Cards origin story",
-        "meta": "389 pts",
-        "desc": "lexontech.org \u00b7 97 comments",
-        "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story"
+        "title": "Ember-1",
+        "meta": "445 pts",
+        "desc": "fireworks.ai \u00b7 205 comments",
+        "url": "https://fireworks.ai/blog/ember-1"
       },
       {
         "kind": "hn",
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "meta": "234 pts",
-        "desc": "arxiv.org \u00b7 77 comments",
-        "url": "https://arxiv.org/abs/2609.22978"
+        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+        "meta": "438 pts",
+        "desc": "reddit.com \u00b7 288 comments",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
-        "meta": "281 pts",
-        "desc": "github.com \u00b7 78 comments",
-        "url": "https://github.com/reladraw/reladraw"
-      },
-      {
-        "kind": "rising",
-        "title": "jev-chat/jev-chat-jarvis",
-        "meta": "6.7k\u2605",
-        "desc": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
-        "url": "https://github.com/jev-chat/jev-chat-jarvis"
-      },
-      {
-        "kind": "rising",
-        "title": "unreallabsai/unreal-agent",
-        "meta": "2.0k\u2605",
-        "desc": "Async-first agent harness",
-        "url": "https://github.com/unreallabsai/unreal-agent"
+        "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
+        "meta": "229 pts",
+        "desc": "loficities.com \u00b7 107 comments",
+        "url": "https://loficities.com/"
       },
       {
         "kind": "rising",
         "title": "Contrastive-LM/CLM",
-        "meta": "1.7k\u2605",
+        "meta": "2.1k\u2605",
         "desc": "",
         "url": "https://github.com/Contrastive-LM/CLM"
+      },
+      {
+        "kind": "rising",
+        "title": "tobi/disktree",
+        "meta": "1.7k\u2605",
+        "desc": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+        "url": "https://github.com/tobi/disktree"
+      },
+      {
+        "kind": "rising",
+        "title": "mexicat/pdoom-video",
+        "meta": "1.4k\u2605",
+        "desc": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+        "url": "https://github.com/mexicat/pdoom-video"
       }
     ]
   },
   "notes": {
     "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 25h",
-    "hn": "Top 4 of 12 stories, past 24 hours",
+    "hn": "Top 4 of 15 stories, past 24 hours",
     "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 873
-    },
-    {
-      "name": "skills",
-      "gained": 518
-    },
-    {
-      "name": "ECC",
-      "gained": 440
-    },
-    {
-      "name": "firecrawl",
-      "gained": 406
+      "gained": 1025
     },
     {
       "name": "cc-switch",
-      "gained": 351
+      "gained": 577
+    },
+    {
+      "name": "skills",
+      "gained": 540
+    },
+    {
+      "name": "ECC",
+      "gained": 531
+    },
+    {
+      "name": "firecrawl",
+      "gained": 438
     },
     {
       "name": "CLM",
-      "gained": 349
+      "gained": 374
     },
     {
-      "name": "awesome-python",
-      "gained": 318
+      "name": "disktree",
+      "gained": 335
     },
     {
-      "name": "public-apis",
-      "gained": 302
+      "name": "hermes-agent",
+      "gained": 303
     }
   ],
   "ticker": [],
