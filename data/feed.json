@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-28",
-  "edition": 361,
+  "generated": "2026-09-29",
+  "edition": 362,
   "lead": {
     "headline": "DEEPSEEK-HARNESS SURGES TO #1 ON GITHUB",
     "deck": "DeepSeek Harness: Everything is a Plugin.",
-    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,025 stars in the last day to reach 238,179 total. DeepSeek Harness: Everything is a Plugin.",
+    "body": "deepseek-ai/deepseek-harness is today's fastest-growing repository on GitHub, gaining 1,007 stars in the last day to reach 239,186 total. DeepSeek Harness: Everything is a Plugin.",
     "source": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -12,150 +12,166 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "There are no \"rogue\" AI agents",
-        "meta": "364 pts",
-        "desc": "eoinhiggins.substack.com \u00b7 251 comments",
-        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+        "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+        "meta": "468 pts",
+        "desc": "github.com \u00b7 176 comments",
+        "url": "https://github.com/firelex/jeff"
       },
       {
         "kind": "hn",
-        "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-        "meta": "184 pts",
-        "desc": "youtube.com \u00b7 95 comments",
-        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls"
+        "title": "It's Time to Investigate the AI Labs",
+        "meta": "449 pts",
+        "desc": "calnewport.com \u00b7 173 comments",
+        "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
+      },
+      {
+        "kind": "hn",
+        "title": "AI companies in race to demonstrate their model most threatening to humanity",
+        "meta": "430 pts",
+        "desc": "thecivilian.co.nz \u00b7 389 comments",
+        "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "farion1231/cc-switch",
-        "meta": "+577\u2605",
-        "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-        "url": "https://github.com/farion1231/cc-switch"
-      },
-      {
-        "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+540\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
-      },
-      {
-        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+531\u2605",
+        "meta": "+624\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
+        "title": "mattpocock/skills",
+        "meta": "+620\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
         "title": "firecrawl/firecrawl",
-        "meta": "+438\u2605",
+        "meta": "+557\u2605",
         "desc": "The web data API to search, scrape, and interact at scale. \ud83d\udd25",
         "url": "https://github.com/firecrawl/firecrawl"
+      },
+      {
+        "kind": "trending",
+        "title": "farion1231/cc-switch",
+        "meta": "+512\u2605",
+        "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+        "url": "https://github.com/farion1231/cc-switch"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "When did Google get so weird?",
-        "meta": "1205 pts",
-        "desc": "sancho.bearblog.dev \u00b7 661 comments",
-        "url": "https://sancho.bearblog.dev/google-weird/"
+        "title": "Sonnet 5.5",
+        "meta": "747 pts",
+        "desc": "anthropic.com \u00b7 500 comments",
+        "url": "https://www.anthropic.com/claude-sonnet-5-5"
       },
       {
         "kind": "hn",
-        "title": "Owed a billion dollars in Nvidia stock",
-        "meta": "598 pts",
-        "desc": "colo.to \u00b7 252 comments",
-        "url": "https://colo.to/nvidia-stock-narrative.html"
+        "title": "Pirating the Pirates",
+        "meta": "541 pts",
+        "desc": "mubi.com \u00b7 269 comments",
+        "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates"
       },
       {
         "kind": "hn",
-        "title": "Ember-1",
-        "meta": "445 pts",
-        "desc": "fireworks.ai \u00b7 205 comments",
-        "url": "https://fireworks.ai/blog/ember-1"
+        "title": "Updated Google Maps shows destruction of the city of Rafah",
+        "meta": "478 pts",
+        "desc": "twitter.com \u00b7 294 comments",
+        "url": "https://twitter.com/AliAbunimah/status/2103890594137309425"
       },
       {
         "kind": "hn",
-        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-        "meta": "438 pts",
-        "desc": "reddit.com \u00b7 288 comments",
-        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/"
+        "title": "Coding is not solved",
+        "meta": "477 pts",
+        "desc": "blog.alexewerlof.com \u00b7 477 comments",
+        "url": "https://blog.alexewerlof.com/p/coding-is-not-solved"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
-        "meta": "229 pts",
-        "desc": "loficities.com \u00b7 107 comments",
-        "url": "https://loficities.com/"
-      },
-      {
         "kind": "rising",
         "title": "Contrastive-LM/CLM",
-        "meta": "2.1k\u2605",
+        "meta": "2.4k\u2605",
         "desc": "",
         "url": "https://github.com/Contrastive-LM/CLM"
       },
       {
         "kind": "rising",
+        "title": "KKKKhazix/AIHOT",
+        "meta": "1.9k\u2605",
+        "desc": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
+        "url": "https://github.com/KKKKhazix/AIHOT"
+      },
+      {
+        "kind": "rising",
         "title": "tobi/disktree",
-        "meta": "1.7k\u2605",
+        "meta": "1.9k\u2605",
         "desc": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
         "url": "https://github.com/tobi/disktree"
       },
       {
         "kind": "rising",
         "title": "mexicat/pdoom-video",
-        "meta": "1.4k\u2605",
+        "meta": "1.8k\u2605",
         "desc": "Code-rendered music video for \"I'm Upping My P(doom)\"",
         "url": "https://github.com/mexicat/pdoom-video"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 25h",
-    "hn": "Top 4 of 15 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "ai": "3 of 5 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 24h",
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "deepseek-harness",
-      "gained": 1025
-    },
-    {
-      "name": "cc-switch",
-      "gained": 577
-    },
-    {
-      "name": "skills",
-      "gained": 540
+      "gained": 1007
     },
     {
       "name": "ECC",
-      "gained": 531
+      "gained": 624
+    },
+    {
+      "name": "skills",
+      "gained": 620
     },
     {
       "name": "firecrawl",
-      "gained": 438
+      "gained": 557
     },
     {
-      "name": "CLM",
-      "gained": 374
+      "name": "cc-switch",
+      "gained": 512
     },
     {
-      "name": "disktree",
-      "gained": 335
+      "name": "pdoom-video",
+      "gained": 402
     },
     {
-      "name": "hermes-agent",
-      "gained": 303
+      "name": "magpie",
+      "gained": 346
+    },
+    {
+      "name": "superpowers",
+      "gained": 333
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "GitHub",
+      "title": "Copilot Code Review is unable to complete reviews",
+      "impact": "critical",
+      "minutes": 51,
+      "ongoing": false,
+      "url": "https://stspg.io/phqvtmdm3y2m"
+    }
+  ]
 }
