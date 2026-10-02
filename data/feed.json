@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-01",
-  "edition": 364,
+  "generated": "2026-10-02",
+  "edition": 365,
   "lead": {
     "headline": "SKILLS SURGES TO #1 ON GITHUB",
     "deck": "Skills for Real Engineers. Straight from my .agents directory.",
-    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 907 stars in the last day to reach 273,272 total. Skills for Real Engineers. Straight from my .agents directory.",
+    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 897 stars in the last day to reach 274,169 total. Skills for Real Engineers. Straight from my .agents directory.",
     "source": "mattpocock/skills",
     "url": "https://github.com/mattpocock/skills"
   },
@@ -12,52 +12,45 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Gemini 4 Argon",
-        "meta": "1333 pts",
-        "desc": "blog.google \u00b7 847 comments",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+        "meta": "492 pts",
+        "desc": "blog.cloudflare.com \u00b7 174 comments",
+        "url": "https://blog.cloudflare.com/clef-decision-models/"
       },
       {
         "kind": "hn",
-        "title": "The AI Race Just Got Awkward",
-        "meta": "385 pts",
-        "desc": "insufferable.dev \u00b7 425 comments",
-        "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
-      },
-      {
-        "kind": "hn",
-        "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
-        "meta": "156 pts",
-        "desc": "github.com \u00b7 79 comments",
-        "url": "https://github.com/magnitudedev/magnitude"
+        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "meta": "202 pts",
+        "desc": "cnbc.com \u00b7 153 comments",
+        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+771\u2605",
+        "meta": "+622\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
-        "title": "paperclipai/paperclip",
-        "meta": "+673\u2605",
-        "desc": "The open-source app everyone uses to manage agents at work",
-        "url": "https://github.com/paperclipai/paperclip"
+        "title": "earendil-works/pi",
+        "meta": "+586\u2605",
+        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "url": "https://github.com/earendil-works/pi"
       },
       {
         "kind": "trending",
-        "title": "harry0703/MoneyPrinterTurbo",
-        "meta": "+549\u2605",
-        "desc": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+        "title": "obra/superpowers",
+        "meta": "+522\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+548\u2605",
+        "meta": "+502\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       }
@@ -65,104 +58,113 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "You said no MCP",
-        "meta": "639 pts",
-        "desc": "earendil.com \u00b7 350 comments",
-        "url": "https://earendil.com/posts/you-said-no-mcp/"
+        "title": "Pi 1.0",
+        "meta": "1169 pts",
+        "desc": "earendil.com \u00b7 367 comments",
+        "url": "https://earendil.com/posts/pi-1-0/"
       },
       {
         "kind": "hn",
-        "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-        "meta": "361 pts",
-        "desc": "twitter.com \u00b7 304 comments",
-        "url": "https://twitter.com/tuakdotsol/status/2105105417760391258"
+        "title": "StreetComplete on iOS is now in public beta",
+        "meta": "552 pts",
+        "desc": "github.com \u00b7 147 comments",
+        "url": "https://github.com/streetcomplete/StreetComplete/issues/5421"
       },
       {
         "kind": "hn",
-        "title": "A brief history of the Bloomberg terminal",
-        "meta": "272 pts",
-        "desc": "spectrum.ieee.org \u00b7 117 comments",
-        "url": "https://spectrum.ieee.org/bloomberg-terminal"
+        "title": "Returning from vacation? The government can search your phone without a warrant",
+        "meta": "371 pts",
+        "desc": "arstechnica.com \u00b7 340 comments",
+        "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
       },
       {
         "kind": "hn",
-        "title": "The last time my family was replaced by technology",
-        "meta": "228 pts",
-        "desc": "manuel.darcemont.fr \u00b7 480 comments",
-        "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/"
+        "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+        "meta": "353 pts",
+        "desc": "techpowerup.com \u00b7 407 comments",
+        "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "KKKKhazix/AIHOT",
-        "meta": "4.2k\u2605",
+        "meta": "4.8k\u2605",
         "desc": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
         "url": "https://github.com/KKKKhazix/AIHOT"
       },
       {
         "kind": "rising",
+        "title": "Louis-CFM/coucou",
+        "meta": "2.6k\u2605",
+        "desc": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+        "url": "https://github.com/Louis-CFM/coucou"
+      },
+      {
+        "kind": "rising",
         "title": "feder-cr/dots",
-        "meta": "2.0k\u2605",
+        "meta": "2.4k\u2605",
         "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
         "url": "https://github.com/feder-cr/dots"
       },
       {
         "kind": "rising",
         "title": "dzhng/jevgrep",
-        "meta": "1.9k\u2605",
+        "meta": "2.0k\u2605",
         "desc": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
         "url": "https://github.com/dzhng/jevgrep"
-      },
-      {
-        "kind": "rising",
-        "title": "Louis-CFM/coucou",
-        "meta": "1.8k\u2605",
-        "desc": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
-        "url": "https://github.com/Louis-CFM/coucou"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
+    "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 15 stories, past 24 hours",
+    "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "skills",
-      "gained": 907
+      "gained": 897
+    },
+    {
+      "name": "coucou",
+      "gained": 782
     },
     {
       "name": "deepseek-harness",
-      "gained": 771
+      "gained": 622
     },
     {
-      "name": "paperclip",
-      "gained": 673
+      "name": "pi",
+      "gained": 586
     },
     {
       "name": "AIHOT",
-      "gained": 579
-    },
-    {
-      "name": "MoneyPrinterTurbo",
-      "gained": 549
-    },
-    {
-      "name": "ECC",
-      "gained": 548
-    },
-    {
-      "name": "firecrawl",
-      "gained": 483
+      "gained": 565
     },
     {
       "name": "superpowers",
-      "gained": 443
+      "gained": 522
+    },
+    {
+      "name": "ECC",
+      "gained": 502
+    },
+    {
+      "name": "paperclip",
+      "gained": 483
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "OpenAI",
+      "title": "Issues with login, signup, and ads",
+      "impact": "major",
+      "minutes": 53,
+      "ongoing": false,
+      "url": ""
+    }
+  ]
 }
