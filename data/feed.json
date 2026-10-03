@@ -1,170 +1,177 @@
 {
-  "generated": "2026-10-02",
-  "edition": 365,
+  "generated": "2026-10-03",
+  "edition": 366,
   "lead": {
-    "headline": "SKILLS SURGES TO #1 ON GITHUB",
-    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
-    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 897 stars in the last day to reach 274,169 total. Skills for Real Engineers. Straight from my .agents directory.",
-    "source": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills"
+    "headline": "ECC SURGES TO #1 ON GITHUB",
+    "deck": "The agent harness performance optimization system. Skills, instincts, memory, security, an",
+    "body": "affaan-m/ECC is today's fastest-growing repository on GitHub, gaining 726 stars in the last day to reach 271,573 total. The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "source": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-        "meta": "492 pts",
-        "desc": "blog.cloudflare.com \u00b7 174 comments",
-        "url": "https://blog.cloudflare.com/clef-decision-models/"
+        "title": "From the creator of Redis; run LLM locally with ds4",
+        "meta": "217 pts",
+        "desc": "dwarfstar.sh \u00b7 56 comments",
+        "url": "https://dwarfstar.sh/"
       },
       {
         "kind": "hn",
-        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-        "meta": "202 pts",
-        "desc": "cnbc.com \u00b7 153 comments",
-        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+        "title": "With most information hidden, the game Stratego had stumped AI until now",
+        "meta": "209 pts",
+        "desc": "arstechnica.com \u00b7 104 comments",
+        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+      },
+      {
+        "kind": "hn",
+        "title": "AI Makes Me Sad",
+        "meta": "183 pts",
+        "desc": "mondobe.com \u00b7 222 comments",
+        "url": "https://mondobe.com/ai-makes-me-sad"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "mattpocock/skills",
+        "meta": "+713\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+622\u2605",
+        "meta": "+591\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
-        "title": "earendil-works/pi",
-        "meta": "+586\u2605",
-        "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "url": "https://github.com/earendil-works/pi"
-      },
-      {
-        "kind": "trending",
         "title": "obra/superpowers",
-        "meta": "+522\u2605",
+        "meta": "+470\u2605",
         "desc": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+502\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
+        "title": "paperclipai/paperclip",
+        "meta": "+456\u2605",
+        "desc": "The open-source app everyone uses to manage agents at work",
+        "url": "https://github.com/paperclipai/paperclip"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Pi 1.0",
-        "meta": "1169 pts",
-        "desc": "earendil.com \u00b7 367 comments",
-        "url": "https://earendil.com/posts/pi-1-0/"
+        "title": "Apple Pass Designer",
+        "meta": "399 pts",
+        "desc": "developer.apple.com \u00b7 244 comments",
+        "url": "https://developer.apple.com/pass-designer/"
       },
       {
         "kind": "hn",
-        "title": "StreetComplete on iOS is now in public beta",
-        "meta": "552 pts",
-        "desc": "github.com \u00b7 147 comments",
-        "url": "https://github.com/streetcomplete/StreetComplete/issues/5421"
+        "title": "The Legend of von Neumann (1973) [pdf]",
+        "meta": "273 pts",
+        "desc": "gwern.net \u00b7 148 comments",
+        "url": "https://gwern.net/doc/math/1973-halmos.pdf"
       },
       {
         "kind": "hn",
-        "title": "Returning from vacation? The government can search your phone without a warrant",
-        "meta": "371 pts",
-        "desc": "arstechnica.com \u00b7 340 comments",
-        "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
+        "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+        "meta": "257 pts",
+        "desc": "bsky.app \u00b7 53 comments",
+        "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f"
       },
       {
         "kind": "hn",
-        "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-        "meta": "353 pts",
-        "desc": "techpowerup.com \u00b7 407 comments",
-        "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026"
+        "title": "Zig v0.17.0",
+        "meta": "240 pts",
+        "desc": "ziglang.org \u00b7 160 comments",
+        "url": "https://ziglang.org/download/0.17.0/release-notes.html"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "KKKKhazix/AIHOT",
-        "meta": "4.8k\u2605",
+        "meta": "5.0k\u2605",
         "desc": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
         "url": "https://github.com/KKKKhazix/AIHOT"
       },
       {
         "kind": "rising",
         "title": "Louis-CFM/coucou",
-        "meta": "2.6k\u2605",
-        "desc": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+        "meta": "3.1k\u2605",
+        "desc": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
         "url": "https://github.com/Louis-CFM/coucou"
       },
       {
         "kind": "rising",
         "title": "feder-cr/dots",
-        "meta": "2.4k\u2605",
+        "meta": "2.6k\u2605",
         "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
         "url": "https://github.com/feder-cr/dots"
       },
       {
         "kind": "rising",
-        "title": "dzhng/jevgrep",
-        "meta": "2.0k\u2605",
-        "desc": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-        "url": "https://github.com/dzhng/jevgrep"
+        "title": "rehan-remade/universal-modder",
+        "meta": "2.3k\u2605",
+        "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "url": "https://github.com/rehan-remade/universal-modder"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
+    "hn": "Top 4 of 17 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "skills",
-      "gained": 897
+      "name": "ECC",
+      "gained": 726
     },
     {
-      "name": "coucou",
-      "gained": 782
+      "name": "skills",
+      "gained": 713
     },
     {
       "name": "deepseek-harness",
-      "gained": 622
+      "gained": 591
     },
     {
-      "name": "pi",
-      "gained": 586
-    },
-    {
-      "name": "AIHOT",
-      "gained": 565
+      "name": "universal-modder",
+      "gained": 571
     },
     {
       "name": "superpowers",
-      "gained": 522
-    },
-    {
-      "name": "ECC",
-      "gained": 502
+      "gained": 470
     },
     {
       "name": "paperclip",
-      "gained": 483
+      "gained": 456
+    },
+    {
+      "name": "coucou",
+      "gained": 451
+    },
+    {
+      "name": "caveman",
+      "gained": 439
     }
   ],
   "ticker": [],
   "infra": [
     {
-      "name": "OpenAI",
-      "title": "Issues with login, signup, and ads",
-      "impact": "major",
-      "minutes": 53,
+      "name": "Cloudflare",
+      "title": "Cloudflare CDN experiencing increase in errors.",
+      "impact": "critical",
+      "minutes": 11,
       "ongoing": false,
-      "url": ""
+      "url": "https://www.cloudflarestatus.com/incidents/2xnmsnv8yv5x"
     }
   ]
 }
