@@ -1,63 +1,63 @@
 {
-  "generated": "2026-10-03",
-  "edition": 366,
+  "generated": "2026-10-04",
+  "edition": 367,
   "lead": {
-    "headline": "ECC SURGES TO #1 ON GITHUB",
-    "deck": "The agent harness performance optimization system. Skills, instincts, memory, security, an",
-    "body": "affaan-m/ECC is today's fastest-growing repository on GitHub, gaining 726 stars in the last day to reach 271,573 total. The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "source": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC"
+    "headline": "PONYTAIL SURGES TO #1 ON GITHUB",
+    "deck": "Makes your AI agent think like the laziest senior dev in the room. The best code is the co",
+    "body": "DietrichGebert/ponytail is today's fastest-growing repository on GitHub, gaining 1,737 stars in the last day to reach 153,853 total. Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "source": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "From the creator of Redis; run LLM locally with ds4",
-        "meta": "217 pts",
-        "desc": "dwarfstar.sh \u00b7 56 comments",
-        "url": "https://dwarfstar.sh/"
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "meta": "596 pts",
+        "desc": "aleph-alpha.com \u00b7 312 comments",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
       },
       {
         "kind": "hn",
-        "title": "With most information hidden, the game Stratego had stumped AI until now",
-        "meta": "209 pts",
-        "desc": "arstechnica.com \u00b7 104 comments",
-        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+        "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+        "meta": "412 pts",
+        "desc": "tej.as \u00b7 11 comments",
+        "url": "https://tej.as/blog/aleph-alpha-kolibri"
       },
       {
         "kind": "hn",
-        "title": "AI Makes Me Sad",
-        "meta": "183 pts",
-        "desc": "mondobe.com \u00b7 222 comments",
-        "url": "https://mondobe.com/ai-makes-me-sad"
+        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "meta": "259 pts",
+        "desc": "theguardian.com \u00b7 3 comments",
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "affaan-m/ECC",
+        "meta": "+877\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+713\u2605",
+        "meta": "+666\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+591\u2605",
+        "meta": "+524\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
-        "title": "obra/superpowers",
-        "meta": "+470\u2605",
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
-      },
-      {
-        "kind": "trending",
         "title": "paperclipai/paperclip",
-        "meta": "+456\u2605",
+        "meta": "+426\u2605",
         "desc": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip"
       }
@@ -65,47 +65,54 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Apple Pass Designer",
-        "meta": "399 pts",
-        "desc": "developer.apple.com \u00b7 244 comments",
-        "url": "https://developer.apple.com/pass-designer/"
+        "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+        "meta": "416 pts",
+        "desc": "techcrunch.com \u00b7 232 comments",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
       },
       {
         "kind": "hn",
-        "title": "The Legend of von Neumann (1973) [pdf]",
-        "meta": "273 pts",
-        "desc": "gwern.net \u00b7 148 comments",
-        "url": "https://gwern.net/doc/math/1973-halmos.pdf"
+        "title": "We're going to need default hard budget caps on pretty much everything",
+        "meta": "387 pts",
+        "desc": "simonwillison.net \u00b7 193 comments",
+        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
       },
       {
         "kind": "hn",
-        "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-        "meta": "257 pts",
-        "desc": "bsky.app \u00b7 53 comments",
-        "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f"
+        "title": "Tell HN: Bob Cringely has died",
+        "meta": "374 pts",
+        "desc": "news.ycombinator.com \u00b7 72 comments",
+        "url": "https://news.ycombinator.com/item?id=49949438"
       },
       {
         "kind": "hn",
-        "title": "Zig v0.17.0",
-        "meta": "240 pts",
-        "desc": "ziglang.org \u00b7 160 comments",
-        "url": "https://ziglang.org/download/0.17.0/release-notes.html"
+        "title": "Hole Punch: Sling your spaceship around gravitational fields",
+        "meta": "278 pts",
+        "desc": "notoriousbfg.com \u00b7 63 comments",
+        "url": "https://notoriousbfg.com/hole-punch/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "KKKKhazix/AIHOT",
-        "meta": "5.0k\u2605",
+        "meta": "5.5k\u2605",
         "desc": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
         "url": "https://github.com/KKKKhazix/AIHOT"
       },
       {
         "kind": "rising",
-        "title": "Louis-CFM/coucou",
-        "meta": "3.1k\u2605",
-        "desc": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-        "url": "https://github.com/Louis-CFM/coucou"
+        "title": "CopilotKit/OpenDots",
+        "meta": "2.8k\u2605",
+        "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
+        "url": "https://github.com/CopilotKit/OpenDots"
+      },
+      {
+        "kind": "rising",
+        "title": "rehan-remade/universal-modder",
+        "meta": "2.7k\u2605",
+        "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "url": "https://github.com/rehan-remade/universal-modder"
       },
       {
         "kind": "rising",
@@ -113,65 +120,49 @@
         "meta": "2.6k\u2605",
         "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
         "url": "https://github.com/feder-cr/dots"
-      },
-      {
-        "kind": "rising",
-        "title": "rehan-remade/universal-modder",
-        "meta": "2.3k\u2605",
-        "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-        "url": "https://github.com/rehan-remade/universal-modder"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
+    "ai": "3 of 5 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 17 stories, past 24 hours",
+    "hn": "Top 4 of 13 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
+      "name": "ponytail",
+      "gained": 1737
+    },
+    {
+      "name": "OpenDots",
+      "gained": 1048
+    },
+    {
       "name": "ECC",
-      "gained": 726
+      "gained": 877
     },
     {
       "name": "skills",
-      "gained": 713
+      "gained": 666
     },
     {
       "name": "deepseek-harness",
-      "gained": 591
+      "gained": 524
+    },
+    {
+      "name": "AIHOT",
+      "gained": 522
     },
     {
       "name": "universal-modder",
-      "gained": 571
-    },
-    {
-      "name": "superpowers",
-      "gained": 470
+      "gained": 467
     },
     {
       "name": "paperclip",
-      "gained": 456
-    },
-    {
-      "name": "coucou",
-      "gained": 451
-    },
-    {
-      "name": "caveman",
-      "gained": 439
+      "gained": 426
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Cloudflare",
-      "title": "Cloudflare CDN experiencing increase in errors.",
-      "impact": "critical",
-      "minutes": 11,
-      "ongoing": false,
-      "url": "https://www.cloudflarestatus.com/incidents/2xnmsnv8yv5x"
-    }
-  ]
+  "infra": []
 }
