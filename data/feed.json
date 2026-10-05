@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-04",
-  "edition": 367,
+  "generated": "2026-10-05",
+  "edition": 368,
   "lead": {
     "headline": "PONYTAIL SURGES TO #1 ON GITHUB",
     "deck": "Makes your AI agent think like the laziest senior dev in the room. The best code is the co",
-    "body": "DietrichGebert/ponytail is today's fastest-growing repository on GitHub, gaining 1,737 stars in the last day to reach 153,853 total. Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "body": "DietrichGebert/ponytail is today's fastest-growing repository on GitHub, gaining 1,464 stars in the last day to reach 155,317 total. Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "source": "DietrichGebert/ponytail",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -12,107 +12,86 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Kolibri: A Sovereign Open-Weight Model",
-        "meta": "596 pts",
-        "desc": "aleph-alpha.com \u00b7 312 comments",
-        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
-      },
-      {
-        "kind": "hn",
-        "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-        "meta": "412 pts",
-        "desc": "tej.as \u00b7 11 comments",
-        "url": "https://tej.as/blog/aleph-alpha-kolibri"
-      },
-      {
-        "kind": "hn",
-        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "meta": "259 pts",
-        "desc": "theguardian.com \u00b7 3 comments",
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+        "title": "Show HN: AI search for every photo and every frame of video on macOS",
+        "meta": "151 pts",
+        "desc": "github.com \u00b7 67 comments",
+        "url": "https://github.com/allenv0/SCM"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+877\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+666\u2605",
+        "meta": "+895\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+524\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
+        "title": "msitarzewski/agency-agents",
+        "meta": "+749\u2605",
+        "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "url": "https://github.com/msitarzewski/agency-agents"
       },
       {
         "kind": "trending",
-        "title": "paperclipai/paperclip",
-        "meta": "+426\u2605",
-        "desc": "The open-source app everyone uses to manage agents at work",
-        "url": "https://github.com/paperclipai/paperclip"
+        "title": "affaan-m/ECC",
+        "meta": "+715\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
+        "title": "thedotmack/claude-mem",
+        "meta": "+548\u2605",
+        "desc": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "url": "https://github.com/thedotmack/claude-mem"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-        "meta": "416 pts",
-        "desc": "techcrunch.com \u00b7 232 comments",
-        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+        "meta": "778 pts",
+        "desc": "github.com \u00b7 350 comments",
+        "url": "https://github.com/Niko1221/Strata"
       },
       {
         "kind": "hn",
-        "title": "We're going to need default hard budget caps on pretty much everything",
-        "meta": "387 pts",
-        "desc": "simonwillison.net \u00b7 193 comments",
-        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+        "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+        "meta": "547 pts",
+        "desc": "github.com \u00b7 364 comments",
+        "url": "https://github.com/omlahore/RemoveMacAI"
       },
       {
         "kind": "hn",
-        "title": "Tell HN: Bob Cringely has died",
-        "meta": "374 pts",
-        "desc": "news.ycombinator.com \u00b7 72 comments",
-        "url": "https://news.ycombinator.com/item?id=49949438"
+        "title": "Improper redaction reveals Google Data Center water and electricity usage",
+        "meta": "371 pts",
+        "desc": "1011now.com \u00b7 481 comments",
+        "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/"
       },
       {
         "kind": "hn",
-        "title": "Hole Punch: Sling your spaceship around gravitational fields",
-        "meta": "278 pts",
-        "desc": "notoriousbfg.com \u00b7 63 comments",
-        "url": "https://notoriousbfg.com/hole-punch/"
+        "title": "Car is a smartphone on wheels. Here's who's listening",
+        "meta": "209 pts",
+        "desc": "automatictransmission.khoury.northeastern.edu \u00b7 140 comments",
+        "url": "https://automatictransmission.khoury.northeastern.edu/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "KKKKhazix/AIHOT",
-        "meta": "5.5k\u2605",
-        "desc": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
-        "url": "https://github.com/KKKKhazix/AIHOT"
+        "title": "rehan-remade/universal-modder",
+        "meta": "3.4k\u2605",
+        "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "url": "https://github.com/rehan-remade/universal-modder"
       },
       {
         "kind": "rising",
         "title": "CopilotKit/OpenDots",
-        "meta": "2.8k\u2605",
+        "meta": "3.3k\u2605",
         "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
         "url": "https://github.com/CopilotKit/OpenDots"
-      },
-      {
-        "kind": "rising",
-        "title": "rehan-remade/universal-modder",
-        "meta": "2.7k\u2605",
-        "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-        "url": "https://github.com/rehan-remade/universal-modder"
       },
       {
         "kind": "rising",
@@ -120,47 +99,54 @@
         "meta": "2.6k\u2605",
         "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
         "url": "https://github.com/feder-cr/dots"
+      },
+      {
+        "kind": "rising",
+        "title": "nanaism/yomiyasu",
+        "meta": "1.4k\u2605",
+        "desc": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "url": "https://github.com/nanaism/yomiyasu"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 5 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 13 stories, past 24 hours",
+    "ai": "1 of 1 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 25h",
+    "hn": "Top 4 of 9 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "ponytail",
-      "gained": 1737
-    },
-    {
-      "name": "OpenDots",
-      "gained": 1048
-    },
-    {
-      "name": "ECC",
-      "gained": 877
+      "gained": 1464
     },
     {
       "name": "skills",
-      "gained": 666
+      "gained": 895
     },
     {
-      "name": "deepseek-harness",
-      "gained": 524
+      "name": "agency-agents",
+      "gained": 749
     },
     {
-      "name": "AIHOT",
-      "gained": 522
+      "name": "ECC",
+      "gained": 715
     },
     {
       "name": "universal-modder",
-      "gained": 467
+      "gained": 693
     },
     {
-      "name": "paperclip",
-      "gained": 426
+      "name": "OpenDots",
+      "gained": 573
+    },
+    {
+      "name": "claude-mem",
+      "gained": 548
+    },
+    {
+      "name": "deepseek-harness",
+      "gained": 531
     }
   ],
   "ticker": [],
