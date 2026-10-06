@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-05",
-  "edition": 368,
+  "generated": "2026-10-06",
+  "edition": 369,
   "lead": {
     "headline": "PONYTAIL SURGES TO #1 ON GITHUB",
     "deck": "Makes your AI agent think like the laziest senior dev in the room. The best code is the co",
-    "body": "DietrichGebert/ponytail is today's fastest-growing repository on GitHub, gaining 1,464 stars in the last day to reach 155,317 total. Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "body": "DietrichGebert/ponytail is today's fastest-growing repository on GitHub, gaining 945 stars in the last day to reach 156,262 total. Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "source": "DietrichGebert/ponytail",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -12,143 +12,174 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Show HN: AI search for every photo and every frame of video on macOS",
-        "meta": "151 pts",
-        "desc": "github.com \u00b7 67 comments",
-        "url": "https://github.com/allenv0/SCM"
+        "title": "Beam: Reflection's 501B open-weight model",
+        "meta": "436 pts",
+        "desc": "reflection.ai \u00b7 137 comments",
+        "url": "https://reflection.ai/blog/introducing-beam"
+      },
+      {
+        "kind": "hn",
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "meta": "342 pts",
+        "desc": "vals.ai \u00b7 223 comments",
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
+      },
+      {
+        "kind": "hn",
+        "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "meta": "278 pts",
+        "desc": "diff.wikimedia.org \u00b7 182 comments",
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+895\u2605",
+        "meta": "+900\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "msitarzewski/agency-agents",
-        "meta": "+749\u2605",
-        "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "url": "https://github.com/msitarzewski/agency-agents"
-      },
-      {
-        "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+715\u2605",
+        "meta": "+681\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "thedotmack/claude-mem",
-        "meta": "+548\u2605",
-        "desc": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "url": "https://github.com/thedotmack/claude-mem"
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "+635\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
+      },
+      {
+        "kind": "trending",
+        "title": "msitarzewski/agency-agents",
+        "meta": "+589\u2605",
+        "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "url": "https://github.com/msitarzewski/agency-agents"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-        "meta": "778 pts",
-        "desc": "github.com \u00b7 350 comments",
-        "url": "https://github.com/Niko1221/Strata"
+        "title": "Web Search API",
+        "meta": "540 pts",
+        "desc": "developers.cloudflare.com \u00b7 245 comments",
+        "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"
       },
       {
         "kind": "hn",
-        "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-        "meta": "547 pts",
-        "desc": "github.com \u00b7 364 comments",
-        "url": "https://github.com/omlahore/RemoveMacAI"
+        "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+        "meta": "416 pts",
+        "desc": "discuss.grapheneos.org \u00b7 292 comments",
+        "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped"
       },
       {
         "kind": "hn",
-        "title": "Improper redaction reveals Google Data Center water and electricity usage",
-        "meta": "371 pts",
-        "desc": "1011now.com \u00b7 481 comments",
-        "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/"
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "meta": "413 pts",
+        "desc": "niemanlab.org \u00b7 300 comments",
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"
       },
       {
         "kind": "hn",
-        "title": "Car is a smartphone on wheels. Here's who's listening",
-        "meta": "209 pts",
-        "desc": "automatictransmission.khoury.northeastern.edu \u00b7 140 comments",
-        "url": "https://automatictransmission.khoury.northeastern.edu/"
+        "title": "Germany\u2019s RobCo hits $1B valuation",
+        "meta": "334 pts",
+        "desc": "techfundingnews.com \u00b7 347 comments",
+        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "rehan-remade/universal-modder",
-        "meta": "3.4k\u2605",
+        "meta": "4.0k\u2605",
         "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
         "url": "https://github.com/rehan-remade/universal-modder"
       },
       {
         "kind": "rising",
-        "title": "CopilotKit/OpenDots",
-        "meta": "3.3k\u2605",
-        "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
-        "url": "https://github.com/CopilotKit/OpenDots"
+        "title": "storytold/photocraft",
+        "meta": "2.3k\u2605",
+        "desc": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+        "url": "https://github.com/storytold/photocraft"
       },
       {
         "kind": "rising",
-        "title": "feder-cr/dots",
-        "meta": "2.6k\u2605",
-        "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-        "url": "https://github.com/feder-cr/dots"
+        "title": "QingYunA/answer-me-with-html",
+        "meta": "1.6k\u2605",
+        "desc": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+        "url": "https://github.com/QingYunA/answer-me-with-html"
       },
       {
         "kind": "rising",
         "title": "nanaism/yomiyasu",
-        "meta": "1.4k\u2605",
+        "meta": "1.6k\u2605",
         "desc": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
         "url": "https://github.com/nanaism/yomiyasu"
       }
     ]
   },
   "notes": {
-    "ai": "1 of 1 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 25h",
-    "hn": "Top 4 of 9 stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 24h",
+    "hn": "Top 4 of 19 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "ponytail",
-      "gained": 1464
+      "gained": 945
     },
     {
       "name": "skills",
-      "gained": 895
-    },
-    {
-      "name": "agency-agents",
-      "gained": 749
+      "gained": 900
     },
     {
       "name": "ECC",
-      "gained": 715
-    },
-    {
-      "name": "universal-modder",
-      "gained": 693
-    },
-    {
-      "name": "OpenDots",
-      "gained": 573
-    },
-    {
-      "name": "claude-mem",
-      "gained": 548
+      "gained": 681
     },
     {
       "name": "deepseek-harness",
-      "gained": 531
+      "gained": 635
+    },
+    {
+      "name": "universal-modder",
+      "gained": 614
+    },
+    {
+      "name": "agency-agents",
+      "gained": 589
+    },
+    {
+      "name": "paperclip",
+      "gained": 498
+    },
+    {
+      "name": "claude-mem",
+      "gained": 498
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "GitHub",
+      "title": "Incident with Actions",
+      "impact": "critical",
+      "minutes": 217,
+      "ongoing": false,
+      "url": "https://stspg.io/c11dc9nb1zdq"
+    },
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
+      "impact": "major",
+      "minutes": 15,
+      "ongoing": false,
+      "url": "https://stspg.io/wdqhxt8xt574"
+    }
+  ]
 }
