@@ -1,63 +1,63 @@
 {
-  "generated": "2026-10-07",
-  "edition": 370,
+  "generated": "2026-10-08",
+  "edition": 371,
   "lead": {
-    "headline": "SKILLS SURGES TO #1 ON GITHUB",
-    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
-    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,206 stars in the last day to reach 278,549 total. Skills for Real Engineers. Straight from my .agents directory.",
-    "source": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills"
+    "headline": "MATH SURGES TO #1 ON GITHUB",
+    "deck": "+5,245 stars in the last day",
+    "body": "openai/math is today's fastest-growing repository on GitHub, gaining 5,245 stars in the last day to reach 10,781 total.",
+    "source": "openai/math",
+    "url": "https://github.com/openai/math"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Mistral Large 4",
-        "meta": "1757 pts",
-        "desc": "mistral.ai \u00b7 1039 comments",
-        "url": "https://mistral.ai/news/mistral-large-4/\\"
+        "title": "Claude Haiku 5.5",
+        "meta": "850 pts",
+        "desc": "anthropic.com \u00b7 413 comments",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
       },
       {
         "kind": "hn",
-        "title": "Sharing AI progress in mathematics",
-        "meta": "833 pts",
-        "desc": "openai.com \u00b7 758 comments",
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+        "title": "GPT\u20116 and Intelligent UI for everyone",
+        "meta": "609 pts",
+        "desc": "openai.com \u00b7 328 comments",
+        "url": "https://openai.com/index/gpt-6-for-everyone/"
       },
       {
         "kind": "hn",
-        "title": "Mistral Large 4: \"Le Chonk\"",
-        "meta": "519 pts",
-        "desc": "mistral.ai \u00b7 5 comments",
-        "url": "https://mistral.ai/news/mistral-large-4/"
+        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+        "meta": "339 pts",
+        "desc": "rswebsols.com \u00b7 329 comments",
+        "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "mattpocock/skills",
+        "meta": "+1,670\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+813\u2605",
+        "meta": "+883\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
         "title": "addyosmani/agent-skills",
-        "meta": "+625\u2605",
+        "meta": "+818\u2605",
         "desc": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills"
       },
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+610\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+597\u2605",
+        "meta": "+686\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       }
@@ -65,121 +65,121 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "JetBrains reports revenue growth, net financial loss for 2025",
-        "meta": "579 pts",
-        "desc": "helgilibrary.com \u00b7 540 comments",
-        "url": "https://www.helgilibrary.com/companies/jetbrains"
+        "title": "Margaret Hamilton has died",
+        "meta": "1399 pts",
+        "desc": "news.mit.edu \u00b7 157 comments",
+        "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
       },
       {
         "kind": "hn",
-        "title": "Nobel Prize in Physics 2026: Francis Halzen",
-        "meta": "551 pts",
-        "desc": "nobelprize.org \u00b7 194 comments",
-        "url": "https://www.nobelprize.org/prizes/physics/2026/"
+        "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+        "meta": "542 pts",
+        "desc": "classaction.org \u00b7 391 comments",
+        "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees"
       },
       {
         "kind": "hn",
-        "title": "Polars 2.0",
-        "meta": "434 pts",
-        "desc": "pola.rs \u00b7 99 comments",
-        "url": "https://pola.rs/posts/release-polars-2/"
+        "title": "Shipping JPEG XL in Chrome",
+        "meta": "542 pts",
+        "desc": "developer.chrome.com \u00b7 357 comments",
+        "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome"
       },
       {
         "kind": "hn",
-        "title": "Meta\u2019s Muse is an adorable privacy and security dumpster fire",
-        "meta": "374 pts",
-        "desc": "techdirt.com \u00b7 263 comments",
-        "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/"
+        "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+        "meta": "389 pts",
+        "desc": "github.com \u00b7 64 comments",
+        "url": "https://github.com/szabadkai/c64-keyboard-font/"
       }
     ],
     "launches": [
       {
-        "kind": "rising",
-        "title": "openai/math",
-        "meta": "5.5k\u2605",
-        "desc": "",
-        "url": "https://github.com/openai/math"
+        "kind": "hn",
+        "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
+        "meta": "476 pts",
+        "desc": "bigwords.page \u00b7 135 comments",
+        "url": "https://bigwords.page/"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+        "meta": "153 pts",
+        "desc": "artmuseum.artfrompixels.com \u00b7 61 comments",
+        "url": "https://artmuseum.artfrompixels.com/"
       },
       {
         "kind": "rising",
         "title": "QingYunA/answer-me-with-html",
-        "meta": "1.9k\u2605",
+        "meta": "2.2k\u2605",
         "desc": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
         "url": "https://github.com/QingYunA/answer-me-with-html"
       },
       {
         "kind": "rising",
-        "title": "kargulstudio/sales-crm",
-        "meta": "1.6k\u2605",
-        "desc": "",
-        "url": "https://github.com/kargulstudio/sales-crm"
-      },
-      {
-        "kind": "rising",
-        "title": "facebookincubator/muse-gadget-sdk",
-        "meta": "1.6k\u2605",
-        "desc": "Open source SDK to build Muse gadgets",
-        "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+        "title": "alchaincyf/huashu-art-motion",
+        "meta": "2.1k\u2605",
+        "desc": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
+        "url": "https://github.com/alchaincyf/huashu-art-motion"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 7 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "launches": "2 Show HN \u00b7 2 new repos"
   },
   "market": [
     {
+      "name": "math",
+      "gained": 5245
+    },
+    {
       "name": "skills",
-      "gained": 1206
+      "gained": 1670
     },
     {
       "name": "ponytail",
-      "gained": 813
+      "gained": 883
     },
     {
       "name": "agent-skills",
-      "gained": 625
-    },
-    {
-      "name": "ECC",
-      "gained": 610
+      "gained": 818
     },
     {
       "name": "deepseek-harness",
-      "gained": 597
+      "gained": 686
     },
     {
-      "name": "agency-agents",
-      "gained": 548
+      "name": "ECC",
+      "gained": 667
+    },
+    {
+      "name": "cc-switch",
+      "gained": 650
     },
     {
       "name": "claude-mem",
-      "gained": 543
-    },
-    {
-      "name": "paperclip",
-      "gained": 376
+      "gained": 624
     }
   ],
   "ticker": [],
   "infra": [
     {
-      "name": "Cloudflare",
-      "title": "Network Performance Issues in Columbus",
+      "name": "Anthropic",
+      "title": "Elevated errors on platform.claude.com",
       "impact": "major",
-      "minutes": 321,
+      "minutes": 1141,
       "ongoing": true,
-      "url": "https://www.cloudflarestatus.com/incidents/tt8f4ttcuonf"
+      "url": "https://stspg.io/sjkw7njwf0mt"
     },
     {
-      "name": "OpenAI",
-      "title": "Unable to create new ChatGPT Work threads in latest version of desktop app",
-      "impact": "major",
-      "minutes": 158,
-      "ongoing": true,
-      "url": ""
+      "name": "GitHub",
+      "title": "Incident with Git Operations, Pull Requests and Actions",
+      "impact": "critical",
+      "minutes": 70,
+      "ongoing": false,
+      "url": "https://stspg.io/96smrcth8bpg"
     }
   ]
 }
