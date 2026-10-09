@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-08",
-  "edition": 371,
+  "generated": "2026-10-09",
+  "edition": 372,
   "lead": {
     "headline": "MATH SURGES TO #1 ON GITHUB",
-    "deck": "+5,245 stars in the last day",
-    "body": "openai/math is today's fastest-growing repository on GitHub, gaining 5,245 stars in the last day to reach 10,781 total.",
+    "deck": "+1,761 stars in the last day",
+    "body": "openai/math is today's fastest-growing repository on GitHub, gaining 1,761 stars in the last day to reach 12,542 total.",
     "source": "openai/math",
     "url": "https://github.com/openai/math"
   },
@@ -12,52 +12,45 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Claude Haiku 5.5",
-        "meta": "850 pts",
-        "desc": "anthropic.com \u00b7 413 comments",
-        "url": "https://www.anthropic.com/claude-haiku-5-5"
+        "title": "OpenAI annualised revenues $20B less than previously signalled",
+        "meta": "389 pts",
+        "desc": "cnbc.com \u00b7 255 comments",
+        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
       },
       {
         "kind": "hn",
-        "title": "GPT\u20116 and Intelligent UI for everyone",
-        "meta": "609 pts",
-        "desc": "openai.com \u00b7 328 comments",
-        "url": "https://openai.com/index/gpt-6-for-everyone/"
-      },
-      {
-        "kind": "hn",
-        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-        "meta": "339 pts",
-        "desc": "rswebsols.com \u00b7 329 comments",
-        "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
+        "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+        "meta": "389 pts",
+        "desc": "quesma.com \u00b7 190 comments",
+        "url": "https://quesma.com/blog/invisible-cities-one-shot/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,670\u2605",
+        "meta": "+1,469\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+883\u2605",
+        "meta": "+992\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "addyosmani/agent-skills",
-        "meta": "+818\u2605",
-        "desc": "Production-grade engineering skills for AI coding agents.",
-        "url": "https://github.com/addyosmani/agent-skills"
+        "title": "thedotmack/claude-mem",
+        "meta": "+811\u2605",
+        "desc": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "url": "https://github.com/thedotmack/claude-mem"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+686\u2605",
+        "meta": "+476\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       }
@@ -65,121 +58,104 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Margaret Hamilton has died",
-        "meta": "1399 pts",
-        "desc": "news.mit.edu \u00b7 157 comments",
-        "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+        "title": "Trump administration is suspending Microsoft from a green card program",
+        "meta": "869 pts",
+        "desc": "apnews.com \u00b7 1478 comments",
+        "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"
       },
       {
         "kind": "hn",
-        "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
-        "meta": "542 pts",
-        "desc": "classaction.org \u00b7 391 comments",
-        "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees"
+        "title": "Whistle: Speech to Text in 16.9 MB",
+        "meta": "740 pts",
+        "desc": "cactuscompute.com \u00b7 146 comments",
+        "url": "https://cactuscompute.com/blog/whistle"
       },
       {
         "kind": "hn",
-        "title": "Shipping JPEG XL in Chrome",
-        "meta": "542 pts",
-        "desc": "developer.chrome.com \u00b7 357 comments",
-        "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome"
+        "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+        "meta": "698 pts",
+        "desc": "news.ycombinator.com \u00b7 215 comments",
+        "url": "https://news.ycombinator.com/item?id=50006366"
       },
       {
         "kind": "hn",
-        "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-        "meta": "389 pts",
-        "desc": "github.com \u00b7 64 comments",
-        "url": "https://github.com/szabadkai/c64-keyboard-font/"
+        "title": "Theranos.world",
+        "meta": "427 pts",
+        "desc": "theranos.world \u00b7 149 comments",
+        "url": "https://www.theranos.world/"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
-        "meta": "476 pts",
-        "desc": "bigwords.page \u00b7 135 comments",
-        "url": "https://bigwords.page/"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
-        "meta": "153 pts",
-        "desc": "artmuseum.artfrompixels.com \u00b7 61 comments",
-        "url": "https://artmuseum.artfrompixels.com/"
-      },
-      {
-        "kind": "rising",
-        "title": "QingYunA/answer-me-with-html",
-        "meta": "2.2k\u2605",
-        "desc": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
-        "url": "https://github.com/QingYunA/answer-me-with-html"
+        "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+        "meta": "159 pts",
+        "desc": "scottbezek.blogspot.com \u00b7 30 comments",
+        "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html"
       },
       {
         "kind": "rising",
         "title": "alchaincyf/huashu-art-motion",
-        "meta": "2.1k\u2605",
+        "meta": "2.7k\u2605",
         "desc": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
         "url": "https://github.com/alchaincyf/huashu-art-motion"
+      },
+      {
+        "kind": "rising",
+        "title": "kargulstudio/sales-crm",
+        "meta": "1.7k\u2605",
+        "desc": "",
+        "url": "https://github.com/kargulstudio/sales-crm"
+      },
+      {
+        "kind": "rising",
+        "title": "nullmoth/nvidia-macos-driver",
+        "meta": "1.5k\u2605",
+        "desc": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
+    "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "2 Show HN \u00b7 2 new repos"
+    "hn": "Top 4 of 15 stories, past 24 hours",
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "math",
-      "gained": 5245
+      "gained": 1761
     },
     {
       "name": "skills",
-      "gained": 1670
+      "gained": 1469
     },
     {
       "name": "ponytail",
-      "gained": 883
-    },
-    {
-      "name": "agent-skills",
-      "gained": 818
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 686
-    },
-    {
-      "name": "ECC",
-      "gained": 667
-    },
-    {
-      "name": "cc-switch",
-      "gained": 650
+      "gained": 992
     },
     {
       "name": "claude-mem",
-      "gained": 624
+      "gained": 811
+    },
+    {
+      "name": "huashu-art-motion",
+      "gained": 613
+    },
+    {
+      "name": "deepseek-harness",
+      "gained": 476
+    },
+    {
+      "name": "cc-switch",
+      "gained": 460
+    },
+    {
+      "name": "ECC",
+      "gained": 453
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Anthropic",
-      "title": "Elevated errors on platform.claude.com",
-      "impact": "major",
-      "minutes": 1141,
-      "ongoing": true,
-      "url": "https://stspg.io/sjkw7njwf0mt"
-    },
-    {
-      "name": "GitHub",
-      "title": "Incident with Git Operations, Pull Requests and Actions",
-      "impact": "critical",
-      "minutes": 70,
-      "ongoing": false,
-      "url": "https://stspg.io/96smrcth8bpg"
-    }
-  ]
+  "infra": []
 }
