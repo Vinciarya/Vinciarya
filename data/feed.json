@@ -1,161 +1,177 @@
 {
-  "generated": "2026-10-09",
-  "edition": 372,
+  "generated": "2026-10-10",
+  "edition": 373,
   "lead": {
-    "headline": "MATH SURGES TO #1 ON GITHUB",
-    "deck": "+1,761 stars in the last day",
-    "body": "openai/math is today's fastest-growing repository on GitHub, gaining 1,761 stars in the last day to reach 12,542 total.",
-    "source": "openai/math",
-    "url": "https://github.com/openai/math"
+    "headline": "SKILLS SURGES TO #1 ON GITHUB",
+    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
+    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,615 stars in the last day to reach 283,303 total. Skills for Real Engineers. Straight from my .agents directory.",
+    "source": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "OpenAI annualised revenues $20B less than previously signalled",
-        "meta": "389 pts",
-        "desc": "cnbc.com \u00b7 255 comments",
-        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+        "meta": "395 pts",
+        "desc": "github.com \u00b7 175 comments",
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
       },
       {
         "kind": "hn",
-        "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-        "meta": "389 pts",
-        "desc": "quesma.com \u00b7 190 comments",
-        "url": "https://quesma.com/blog/invisible-cities-one-shot/"
+        "title": "Typesafe AI raises $870M at $7.5B",
+        "meta": "353 pts",
+        "desc": "typesafe.ai \u00b7 259 comments",
+        "url": "https://typesafe.ai/blog/series-ai"
+      },
+      {
+        "kind": "hn",
+        "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+        "meta": "329 pts",
+        "desc": "techcrunch.com \u00b7 208 comments",
+        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+1,469\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
-      },
-      {
-        "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+992\u2605",
+        "meta": "+968\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "thedotmack/claude-mem",
-        "meta": "+811\u2605",
-        "desc": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "url": "https://github.com/thedotmack/claude-mem"
+        "title": "addyosmani/agent-skills",
+        "meta": "+692\u2605",
+        "desc": "Production-grade engineering skills for AI coding agents.",
+        "url": "https://github.com/addyosmani/agent-skills"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+476\u2605",
+        "meta": "+636\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
+      },
+      {
+        "kind": "trending",
+        "title": "affaan-m/ECC",
+        "meta": "+556\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Trump administration is suspending Microsoft from a green card program",
-        "meta": "869 pts",
-        "desc": "apnews.com \u00b7 1478 comments",
-        "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"
+        "title": "Cloudflare acquires Deno",
+        "meta": "1191 pts",
+        "desc": "deno.com \u00b7 607 comments",
+        "url": "https://deno.com/blog/cloudflare"
       },
       {
         "kind": "hn",
-        "title": "Whistle: Speech to Text in 16.9 MB",
-        "meta": "740 pts",
-        "desc": "cactuscompute.com \u00b7 146 comments",
-        "url": "https://cactuscompute.com/blog/whistle"
+        "title": "Triple-A Minesweeper",
+        "meta": "911 pts",
+        "desc": "minesweeper.mikelacher.com \u00b7 174 comments",
+        "url": "https://minesweeper.mikelacher.com/"
       },
       {
         "kind": "hn",
-        "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-        "meta": "698 pts",
-        "desc": "news.ycombinator.com \u00b7 215 comments",
-        "url": "https://news.ycombinator.com/item?id=50006366"
+        "title": "Sorry, I'm in a meeting",
+        "meta": "876 pts",
+        "desc": "iminafleeting.com \u00b7 247 comments",
+        "url": "https://iminafleeting.com/"
       },
       {
         "kind": "hn",
-        "title": "Theranos.world",
-        "meta": "427 pts",
-        "desc": "theranos.world \u00b7 149 comments",
-        "url": "https://www.theranos.world/"
+        "title": "Our $445M Series D",
+        "meta": "645 pts",
+        "desc": "oxide.computer \u00b7 294 comments",
+        "url": "https://oxide.computer/blog/our-445m-series-d"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-        "meta": "159 pts",
-        "desc": "scottbezek.blogspot.com \u00b7 30 comments",
-        "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html"
+        "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+        "meta": "303 pts",
+        "desc": "carrierexplode.com \u00b7 40 comments",
+        "url": "https://carrierexplode.com/"
+      },
+      {
+        "kind": "rising",
+        "title": "openai/math",
+        "meta": "13.3k\u2605",
+        "desc": "",
+        "url": "https://github.com/openai/math"
       },
       {
         "kind": "rising",
         "title": "alchaincyf/huashu-art-motion",
-        "meta": "2.7k\u2605",
+        "meta": "3.0k\u2605",
         "desc": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
         "url": "https://github.com/alchaincyf/huashu-art-motion"
       },
       {
         "kind": "rising",
-        "title": "kargulstudio/sales-crm",
-        "meta": "1.7k\u2605",
-        "desc": "",
-        "url": "https://github.com/kargulstudio/sales-crm"
-      },
-      {
-        "kind": "rising",
-        "title": "nullmoth/nvidia-macos-driver",
-        "meta": "1.5k\u2605",
-        "desc": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-        "url": "https://github.com/nullmoth/nvidia-macos-driver"
+        "title": "mhtsec/ARTEX",
+        "meta": "2.6k\u2605",
+        "desc": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+        "url": "https://github.com/mhtsec/ARTEX"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 15 stories, past 24 hours",
+    "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
-      "name": "math",
-      "gained": 1761
+      "name": "skills",
+      "gained": 1615
     },
     {
-      "name": "skills",
-      "gained": 1469
+      "name": "ARTEX",
+      "gained": 1091
     },
     {
       "name": "ponytail",
-      "gained": 992
+      "gained": 968
     },
     {
-      "name": "claude-mem",
-      "gained": 811
+      "name": "math",
+      "gained": 792
     },
     {
-      "name": "huashu-art-motion",
-      "gained": 613
+      "name": "agent-skills",
+      "gained": 692
     },
     {
       "name": "deepseek-harness",
-      "gained": 476
-    },
-    {
-      "name": "cc-switch",
-      "gained": 460
+      "gained": 636
     },
     {
       "name": "ECC",
-      "gained": 453
+      "gained": 556
+    },
+    {
+      "name": "cc-switch",
+      "gained": 466
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "OpenAI",
+      "title": "Some ChatGPT content may be unavailable on Android",
+      "impact": "major",
+      "minutes": 206,
+      "ongoing": false,
+      "url": ""
+    }
+  ]
 }
