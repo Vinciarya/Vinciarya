@@ -1,22 +1,22 @@
 {
   "username": "Vinciarya",
-  "generated_at": "2026-10-10T12:31:14Z",
+  "generated_at": "2026-10-11T12:49:11Z",
   "range": {
-    "start": "2025-10-05",
-    "end": "2026-10-10"
+    "start": "2025-10-12",
+    "end": "2026-10-11"
   },
-  "total_contributions": 974,
-  "active_days": 132,
+  "total_contributions": 962,
+  "active_days": 130,
   "avg_per_active_day": 7.4,
   "current_streak": {
-    "length": 75,
+    "length": 76,
     "start": "2026-07-28",
-    "end": "2026-10-10"
+    "end": "2026-10-11"
   },
   "longest_streak": {
-    "length": 75,
+    "length": 76,
     "start": "2026-07-28",
-    "end": "2026-10-10"
+    "end": "2026-10-11"
   },
   "best_day": {
     "date": "2026-09-26",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 14
+      "total": 0
     },
     {
       "month": "2025-11",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 76
+      "total": 78
     }
   ],
   "days": [
-    {
-      "date": "2025-10-05",
-      "count": 0
-    },
-    {
-      "date": "2025-10-06",
-      "count": 3
-    },
-    {
-      "date": "2025-10-07",
-      "count": 0
-    },
-    {
-      "date": "2025-10-08",
-      "count": 0
-    },
-    {
-      "date": "2025-10-09",
-      "count": 0
-    },
-    {
-      "date": "2025-10-10",
-      "count": 7
-    },
-    {
-      "date": "2025-10-11",
-      "count": 4
-    },
     {
       "date": "2025-10-12",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-10",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
       "count": 1
     }
   ]
