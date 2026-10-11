@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-10",
-  "edition": 373,
+  "generated": "2026-10-11",
+  "edition": 374,
   "lead": {
     "headline": "SKILLS SURGES TO #1 ON GITHUB",
     "deck": "Skills for Real Engineers. Straight from my .agents directory.",
-    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,615 stars in the last day to reach 283,303 total. Skills for Real Engineers. Straight from my .agents directory.",
+    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,707 stars in the last day to reach 285,010 total. Skills for Real Engineers. Straight from my .agents directory.",
     "source": "mattpocock/skills",
     "url": "https://github.com/mattpocock/skills"
   },
@@ -12,166 +12,157 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-        "meta": "395 pts",
-        "desc": "github.com \u00b7 175 comments",
-        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+        "title": "Bitwarden Dual License Model",
+        "meta": "376 pts",
+        "desc": "community.bitwarden.com \u00b7 270 comments",
+        "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"
       },
       {
         "kind": "hn",
-        "title": "Typesafe AI raises $870M at $7.5B",
-        "meta": "353 pts",
-        "desc": "typesafe.ai \u00b7 259 comments",
-        "url": "https://typesafe.ai/blog/series-ai"
+        "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+        "meta": "286 pts",
+        "desc": "github.com \u00b7 132 comments",
+        "url": "https://github.com/rociiu/talorys"
       },
       {
         "kind": "hn",
-        "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-        "meta": "329 pts",
-        "desc": "techcrunch.com \u00b7 208 comments",
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+        "title": "Build your own decision model",
+        "meta": "266 pts",
+        "desc": "nishtahir.com \u00b7 61 comments",
+        "url": "https://nishtahir.com/build-your-own-decision-model/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+968\u2605",
+        "meta": "+756\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "addyosmani/agent-skills",
-        "meta": "+692\u2605",
-        "desc": "Production-grade engineering skills for AI coding agents.",
-        "url": "https://github.com/addyosmani/agent-skills"
-      },
-      {
-        "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+636\u2605",
+        "meta": "+575\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+556\u2605",
+        "meta": "+571\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
+        "title": "paperclipai/paperclip",
+        "meta": "+541\u2605",
+        "desc": "The open-source app everyone uses to manage agents at work",
+        "url": "https://github.com/paperclipai/paperclip"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Cloudflare acquires Deno",
-        "meta": "1191 pts",
-        "desc": "deno.com \u00b7 607 comments",
-        "url": "https://deno.com/blog/cloudflare"
+        "title": "Lobbying is corruption",
+        "meta": "486 pts",
+        "desc": "carette.xyz \u00b7 272 comments",
+        "url": "https://carette.xyz/posts/lobbying_and_corruption/"
       },
       {
         "kind": "hn",
-        "title": "Triple-A Minesweeper",
-        "meta": "911 pts",
-        "desc": "minesweeper.mikelacher.com \u00b7 174 comments",
-        "url": "https://minesweeper.mikelacher.com/"
+        "title": "`123456' password used in Danish CPR data breach",
+        "meta": "387 pts",
+        "desc": "cphpost.dk \u00b7 201 comments",
+        "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/"
       },
       {
         "kind": "hn",
-        "title": "Sorry, I'm in a meeting",
-        "meta": "876 pts",
-        "desc": "iminafleeting.com \u00b7 247 comments",
-        "url": "https://iminafleeting.com/"
+        "title": "A city-building game in which the city would prefer you didn't",
+        "meta": "321 pts",
+        "desc": "housing.over.pizza \u00b7 101 comments",
+        "url": "https://housing.over.pizza/"
       },
       {
         "kind": "hn",
-        "title": "Our $445M Series D",
-        "meta": "645 pts",
-        "desc": "oxide.computer \u00b7 294 comments",
-        "url": "https://oxide.computer/blog/our-445m-series-d"
+        "title": "Apple/macOS removed from official Unix registry",
+        "meta": "275 pts",
+        "desc": "opengroup.org \u00b7 227 comments",
+        "url": "https://www.opengroup.org//openbrand/register/"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-        "meta": "303 pts",
-        "desc": "carrierexplode.com \u00b7 40 comments",
-        "url": "https://carrierexplode.com/"
+        "title": "Show HN: WallHop \u2013 12ft.io is gone, so I built a replacement",
+        "meta": "244 pts",
+        "desc": "wallhop.io \u00b7 96 comments",
+        "url": "https://wallhop.io/"
       },
       {
         "kind": "rising",
         "title": "openai/math",
-        "meta": "13.3k\u2605",
+        "meta": "13.8k\u2605",
         "desc": "",
         "url": "https://github.com/openai/math"
       },
       {
         "kind": "rising",
-        "title": "alchaincyf/huashu-art-motion",
-        "meta": "3.0k\u2605",
-        "desc": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
-        "url": "https://github.com/alchaincyf/huashu-art-motion"
+        "title": "storytold/wordcraft",
+        "meta": "3.6k\u2605",
+        "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+        "url": "https://github.com/storytold/wordcraft"
       },
       {
         "kind": "rising",
-        "title": "mhtsec/ARTEX",
-        "meta": "2.6k\u2605",
-        "desc": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
-        "url": "https://github.com/mhtsec/ARTEX"
+        "title": "alchaincyf/huashu-art-motion",
+        "meta": "3.3k\u2605",
+        "desc": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
+        "url": "https://github.com/alchaincyf/huashu-art-motion"
       }
     ]
   },
   "notes": {
     "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
+    "hn": "Top 4 of 13 stories, past 24 hours",
     "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "skills",
-      "gained": 1615
+      "gained": 1707
     },
     {
-      "name": "ARTEX",
-      "gained": 1091
+      "name": "wordcraft",
+      "gained": 1340
     },
     {
       "name": "ponytail",
-      "gained": 968
-    },
-    {
-      "name": "math",
-      "gained": 792
-    },
-    {
-      "name": "agent-skills",
-      "gained": 692
+      "gained": 756
     },
     {
       "name": "deepseek-harness",
-      "gained": 636
+      "gained": 575
     },
     {
       "name": "ECC",
-      "gained": 556
+      "gained": 571
     },
     {
-      "name": "cc-switch",
-      "gained": 466
+      "name": "paperclip",
+      "gained": 541
+    },
+    {
+      "name": "iPhone-use",
+      "gained": 525
+    },
+    {
+      "name": "math",
+      "gained": 481
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "OpenAI",
-      "title": "Some ChatGPT content may be unavailable on Android",
-      "impact": "major",
-      "minutes": 206,
-      "ongoing": false,
-      "url": ""
-    }
-  ]
+  "infra": []
 }
