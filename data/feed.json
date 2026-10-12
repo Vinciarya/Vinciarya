@@ -1,166 +1,152 @@
 {
-  "generated": "2026-10-11",
-  "edition": 374,
+  "generated": "2026-10-12",
+  "edition": 375,
   "lead": {
-    "headline": "SKILLS SURGES TO #1 ON GITHUB",
-    "deck": "Skills for Real Engineers. Straight from my .agents directory.",
-    "body": "mattpocock/skills is today's fastest-growing repository on GitHub, gaining 1,707 stars in the last day to reach 285,010 total. Skills for Real Engineers. Straight from my .agents directory.",
-    "source": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills"
+    "headline": "WORDCRAFT SURGES TO #1 ON GITHUB",
+    "deck": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "body": "storytold/wordcraft is today's fastest-growing repository on GitHub, gaining 3,524 stars in the last day to reach 7,111 total. An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "source": "storytold/wordcraft",
+    "url": "https://github.com/storytold/wordcraft"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Bitwarden Dual License Model",
-        "meta": "376 pts",
-        "desc": "community.bitwarden.com \u00b7 270 comments",
-        "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"
-      },
-      {
-        "kind": "hn",
-        "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-        "meta": "286 pts",
-        "desc": "github.com \u00b7 132 comments",
-        "url": "https://github.com/rociiu/talorys"
-      },
-      {
-        "kind": "hn",
-        "title": "Build your own decision model",
-        "meta": "266 pts",
-        "desc": "nishtahir.com \u00b7 61 comments",
-        "url": "https://nishtahir.com/build-your-own-decision-model/"
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "meta": "443 pts",
+        "desc": "twitter.com \u00b7 627 comments",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "mattpocock/skills",
+        "meta": "+1,922\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
+        "title": "affaan-m/ECC",
+        "meta": "+752\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+756\u2605",
+        "meta": "+714\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+575\u2605",
+        "meta": "+647\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
-      },
-      {
-        "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+571\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
-        "title": "paperclipai/paperclip",
-        "meta": "+541\u2605",
-        "desc": "The open-source app everyone uses to manage agents at work",
-        "url": "https://github.com/paperclipai/paperclip"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Lobbying is corruption",
-        "meta": "486 pts",
-        "desc": "carette.xyz \u00b7 272 comments",
-        "url": "https://carette.xyz/posts/lobbying_and_corruption/"
+        "title": "Bot traffic from Yandex",
+        "meta": "624 pts",
+        "desc": "radar.cloudflare.com \u00b7 248 comments",
+        "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d"
       },
       {
         "kind": "hn",
-        "title": "`123456' password used in Danish CPR data breach",
-        "meta": "387 pts",
-        "desc": "cphpost.dk \u00b7 201 comments",
-        "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/"
+        "title": "Passkeys are a trap",
+        "meta": "583 pts",
+        "desc": "nonfunctional.substack.com \u00b7 334 comments",
+        "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"
       },
       {
         "kind": "hn",
-        "title": "A city-building game in which the city would prefer you didn't",
-        "meta": "321 pts",
-        "desc": "housing.over.pizza \u00b7 101 comments",
-        "url": "https://housing.over.pizza/"
+        "title": "Total Annihilation, rebuilt for modern computers",
+        "meta": "491 pts",
+        "desc": "nanolathe.gg \u00b7 196 comments",
+        "url": "https://nanolathe.gg"
       },
       {
         "kind": "hn",
-        "title": "Apple/macOS removed from official Unix registry",
-        "meta": "275 pts",
-        "desc": "opengroup.org \u00b7 227 comments",
-        "url": "https://www.opengroup.org//openbrand/register/"
+        "title": "NYC's \"Click to Cancel\" rule is now in effect",
+        "meta": "461 pts",
+        "desc": "nyc.gov \u00b7 217 comments",
+        "url": "https://www.nyc.gov/main/click-to-cancel"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: WallHop \u2013 12ft.io is gone, so I built a replacement",
-        "meta": "244 pts",
-        "desc": "wallhop.io \u00b7 96 comments",
-        "url": "https://wallhop.io/"
+        "title": "Show HN: BetterWispr \u2013 Free, open-source dictation for Mac",
+        "meta": "194 pts",
+        "desc": "betterwispr.com \u00b7 114 comments",
+        "url": "https://betterwispr.com/"
       },
       {
         "kind": "rising",
         "title": "openai/math",
-        "meta": "13.8k\u2605",
+        "meta": "14.2k\u2605",
         "desc": "",
         "url": "https://github.com/openai/math"
       },
       {
         "kind": "rising",
-        "title": "storytold/wordcraft",
-        "meta": "3.6k\u2605",
-        "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-        "url": "https://github.com/storytold/wordcraft"
+        "title": "wheresryan22/anatomy",
+        "meta": "4.3k\u2605",
+        "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+        "url": "https://github.com/wheresryan22/anatomy"
       },
       {
         "kind": "rising",
         "title": "alchaincyf/huashu-art-motion",
-        "meta": "3.3k\u2605",
+        "meta": "3.5k\u2605",
         "desc": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
         "url": "https://github.com/alchaincyf/huashu-art-motion"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
+    "ai": "1 of 1 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 13 stories, past 24 hours",
+    "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
-      "name": "skills",
-      "gained": 1707
-    },
-    {
       "name": "wordcraft",
-      "gained": 1340
+      "gained": 3524
     },
     {
-      "name": "ponytail",
-      "gained": 756
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 575
+      "name": "skills",
+      "gained": 1922
     },
     {
       "name": "ECC",
-      "gained": 571
+      "gained": 752
+    },
+    {
+      "name": "ponytail",
+      "gained": 714
+    },
+    {
+      "name": "deepseek-harness",
+      "gained": 647
     },
     {
       "name": "paperclip",
-      "gained": 541
+      "gained": 637
     },
     {
-      "name": "iPhone-use",
-      "gained": 525
+      "name": "agent-skills",
+      "gained": 623
     },
     {
-      "name": "math",
-      "gained": 481
+      "name": "superpowers",
+      "gained": 553
     }
   ],
   "ticker": [],
