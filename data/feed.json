@@ -1,49 +1,63 @@
 {
-  "generated": "2026-10-12",
-  "edition": 375,
+  "generated": "2026-10-13",
+  "edition": 376,
   "lead": {
-    "headline": "WORDCRAFT SURGES TO #1 ON GITHUB",
-    "deck": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-    "body": "storytold/wordcraft is today's fastest-growing repository on GitHub, gaining 3,524 stars in the last day to reach 7,111 total. An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-    "source": "storytold/wordcraft",
-    "url": "https://github.com/storytold/wordcraft"
+    "headline": "REA SURGES TO #1 ON GITHUB",
+    "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 55,235 stars in the last day to reach 179,396 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "source": "morluto/rea",
+    "url": "https://github.com/morluto/rea"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "meta": "443 pts",
-        "desc": "twitter.com \u00b7 627 comments",
-        "url": "https://twitter.com/karpathy/status/2109361546505966046"
+        "title": "AI is a tool and using it well takes skill",
+        "meta": "396 pts",
+        "desc": "yyhh.org \u00b7 318 comments",
+        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+      },
+      {
+        "kind": "hn",
+        "title": "QGIS enacts moratorium on AI contributions",
+        "meta": "374 pts",
+        "desc": "github.com \u00b7 402 comments",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
+      },
+      {
+        "kind": "hn",
+        "title": "AI coding agents generate more code, but not more software",
+        "meta": "334 pts",
+        "desc": "arstechnica.com \u00b7 281 comments",
+        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,922\u2605",
+        "meta": "+1,650\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+752\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
+        "title": "open-webui/open-webui",
+        "meta": "+1,056\u2605",
+        "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "url": "https://github.com/open-webui/open-webui"
       },
       {
         "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+714\u2605",
+        "meta": "+759\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+647\u2605",
+        "meta": "+739\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       }
@@ -51,102 +65,102 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Bot traffic from Yandex",
-        "meta": "624 pts",
-        "desc": "radar.cloudflare.com \u00b7 248 comments",
-        "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d"
+        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+        "meta": "675 pts",
+        "desc": "tomshardware.com \u00b7 802 comments",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
       },
       {
         "kind": "hn",
-        "title": "Passkeys are a trap",
-        "meta": "583 pts",
-        "desc": "nonfunctional.substack.com \u00b7 334 comments",
-        "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"
+        "title": "Muse Wonder",
+        "meta": "626 pts",
+        "desc": "research.meta.ai \u00b7 331 comments",
+        "url": "https://research.meta.ai/blog/muse-wonder"
       },
       {
         "kind": "hn",
-        "title": "Total Annihilation, rebuilt for modern computers",
-        "meta": "491 pts",
-        "desc": "nanolathe.gg \u00b7 196 comments",
-        "url": "https://nanolathe.gg"
+        "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+        "meta": "603 pts",
+        "desc": "bbc.com \u00b7 198 comments",
+        "url": "https://www.bbc.com/news/articles/c64g1l5389kvo"
       },
       {
         "kind": "hn",
-        "title": "NYC's \"Click to Cancel\" rule is now in effect",
-        "meta": "461 pts",
-        "desc": "nyc.gov \u00b7 217 comments",
-        "url": "https://www.nyc.gov/main/click-to-cancel"
+        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+        "meta": "552 pts",
+        "desc": "github.com \u00b7 273 comments",
+        "url": "https://github.com/openai/codex/issues/48195"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: BetterWispr \u2013 Free, open-source dictation for Mac",
-        "meta": "194 pts",
-        "desc": "betterwispr.com \u00b7 114 comments",
-        "url": "https://betterwispr.com/"
-      },
-      {
         "kind": "rising",
-        "title": "openai/math",
-        "meta": "14.2k\u2605",
-        "desc": "",
-        "url": "https://github.com/openai/math"
+        "title": "storytold/wordcraft",
+        "meta": "9.9k\u2605",
+        "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+        "url": "https://github.com/storytold/wordcraft"
       },
       {
         "kind": "rising",
         "title": "wheresryan22/anatomy",
-        "meta": "4.3k\u2605",
+        "meta": "7.1k\u2605",
         "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
         "url": "https://github.com/wheresryan22/anatomy"
       },
       {
         "kind": "rising",
-        "title": "alchaincyf/huashu-art-motion",
-        "meta": "3.5k\u2605",
-        "desc": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
-        "url": "https://github.com/alchaincyf/huashu-art-motion"
+        "title": "storytold/gridcraft",
+        "meta": "4.1k\u2605",
+        "desc": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "url": "https://github.com/storytold/gridcraft"
+      },
+      {
+        "kind": "rising",
+        "title": "mhtsec/ARTEX",
+        "meta": "3.8k\u2605",
+        "desc": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+        "url": "https://github.com/mhtsec/ARTEX"
       }
     ]
   },
   "notes": {
-    "ai": "1 of 1 AI stories, past 24 hours",
+    "ai": "3 of 7 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
+      "name": "rea",
+      "gained": 55235
+    },
+    {
       "name": "wordcraft",
-      "gained": 3524
+      "gained": 2761
+    },
+    {
+      "name": "anatomy",
+      "gained": 2760
     },
     {
       "name": "skills",
-      "gained": 1922
+      "gained": 1650
     },
     {
-      "name": "ECC",
-      "gained": 752
+      "name": "open-webui",
+      "gained": 1056
     },
     {
       "name": "ponytail",
-      "gained": 714
+      "gained": 759
     },
     {
       "name": "deepseek-harness",
-      "gained": 647
+      "gained": 739
     },
     {
-      "name": "paperclip",
-      "gained": 637
-    },
-    {
-      "name": "agent-skills",
-      "gained": 623
-    },
-    {
-      "name": "superpowers",
-      "gained": 553
+      "name": "ECC",
+      "gained": 687
     }
   ],
   "ticker": [],
