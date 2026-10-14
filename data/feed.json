@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-13",
-  "edition": 376,
+  "generated": "2026-10-14",
+  "edition": 377,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 55,235 stars in the last day to reach 179,396 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 39,296 stars in the last day to reach 218,692 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,157 +12,166 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "AI is a tool and using it well takes skill",
-        "meta": "396 pts",
-        "desc": "yyhh.org \u00b7 318 comments",
-        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+        "title": "Gemini 4 Argon",
+        "meta": "1213 pts",
+        "desc": "deepmind.google \u00b7 854 comments",
+        "url": "https://deepmind.google/models/gemini/"
       },
       {
         "kind": "hn",
-        "title": "QGIS enacts moratorium on AI contributions",
-        "meta": "374 pts",
-        "desc": "github.com \u00b7 402 comments",
-        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
+        "title": "Redesigning source control at Anthropic",
+        "meta": "710 pts",
+        "desc": "anthropic.com \u00b7 683 comments",
+        "url": "https://www.anthropic.com/engineering/redesigning-source-control"
       },
       {
         "kind": "hn",
-        "title": "AI coding agents generate more code, but not more software",
-        "meta": "334 pts",
-        "desc": "arstechnica.com \u00b7 281 comments",
-        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+        "title": "OpenAI engineer arrested in bugging of executive conference room",
+        "meta": "533 pts",
+        "desc": "sfstandard.com \u00b7 446 comments",
+        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,650\u2605",
+        "meta": "+1,553\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "open-webui/open-webui",
-        "meta": "+1,056\u2605",
-        "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "url": "https://github.com/open-webui/open-webui"
-      },
-      {
-        "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+759\u2605",
+        "meta": "+830\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+739\u2605",
+        "meta": "+650\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
+      },
+      {
+        "kind": "trending",
+        "title": "affaan-m/ECC",
+        "meta": "+624\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-        "meta": "675 pts",
-        "desc": "tomshardware.com \u00b7 802 comments",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
+        "title": "Apple HomeView",
+        "meta": "715 pts",
+        "desc": "apple.com \u00b7 842 comments",
+        "url": "https://www.apple.com/apple-homeview/"
       },
       {
         "kind": "hn",
-        "title": "Muse Wonder",
-        "meta": "626 pts",
-        "desc": "research.meta.ai \u00b7 331 comments",
-        "url": "https://research.meta.ai/blog/muse-wonder"
+        "title": "11 year old unsoundness bugs found in Rust borrow checker",
+        "meta": "710 pts",
+        "desc": "github.com \u00b7 395 comments",
+        "url": "https://github.com/rust-lang/rust/issues/164250"
       },
       {
         "kind": "hn",
-        "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-        "meta": "603 pts",
-        "desc": "bbc.com \u00b7 198 comments",
-        "url": "https://www.bbc.com/news/articles/c64g1l5389kvo"
+        "title": "Firefox Enterprise",
+        "meta": "697 pts",
+        "desc": "firefox.com \u00b7 291 comments",
+        "url": "https://www.firefox.com/en-US/enterprise/"
       },
       {
         "kind": "hn",
-        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-        "meta": "552 pts",
-        "desc": "github.com \u00b7 273 comments",
-        "url": "https://github.com/openai/codex/issues/48195"
+        "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+        "meta": "447 pts",
+        "desc": "bloomberg.com \u00b7 250 comments",
+        "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran"
       }
     ],
     "launches": [
       {
-        "kind": "rising",
-        "title": "storytold/wordcraft",
-        "meta": "9.9k\u2605",
-        "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-        "url": "https://github.com/storytold/wordcraft"
+        "kind": "hn",
+        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "meta": "392 pts",
+        "desc": "guitoro.com \u00b7 102 comments",
+        "url": "https://guitoro.com/"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+        "meta": "161 pts",
+        "desc": "pdftomp3.com \u00b7 82 comments",
+        "url": "https://pdftomp3.com/connect-ai/"
       },
       {
         "kind": "rising",
         "title": "wheresryan22/anatomy",
-        "meta": "7.1k\u2605",
+        "meta": "8.7k\u2605",
         "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
         "url": "https://github.com/wheresryan22/anatomy"
       },
       {
         "kind": "rising",
-        "title": "storytold/gridcraft",
-        "meta": "4.1k\u2605",
-        "desc": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-        "url": "https://github.com/storytold/gridcraft"
-      },
-      {
-        "kind": "rising",
         "title": "mhtsec/ARTEX",
-        "meta": "3.8k\u2605",
+        "meta": "4.0k\u2605",
         "desc": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
         "url": "https://github.com/mhtsec/ARTEX"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 7 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "ai": "3 of 8 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 22h",
+    "hn": "Top 4 of 19 stories, past 24 hours",
+    "launches": "2 Show HN \u00b7 2 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 55235
-    },
-    {
-      "name": "wordcraft",
-      "gained": 2761
+      "gained": 39296
     },
     {
       "name": "anatomy",
-      "gained": 2760
+      "gained": 1632
     },
     {
       "name": "skills",
-      "gained": 1650
-    },
-    {
-      "name": "open-webui",
-      "gained": 1056
+      "gained": 1553
     },
     {
       "name": "ponytail",
-      "gained": 759
+      "gained": 830
     },
     {
       "name": "deepseek-harness",
-      "gained": 739
+      "gained": 650
     },
     {
       "name": "ECC",
-      "gained": 687
+      "gained": 624
+    },
+    {
+      "name": "paperclip",
+      "gained": 538
+    },
+    {
+      "name": "agent-skills",
+      "gained": 512
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Cloudflare",
+      "title": "Cloudflare Service Issues",
+      "impact": "major",
+      "minutes": 1,
+      "ongoing": false,
+      "url": "https://www.cloudflarestatus.com/incidents/z7vongh8rqc1"
+    }
+  ]
 }
