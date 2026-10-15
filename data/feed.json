@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-14",
-  "edition": 377,
+  "generated": "2026-10-15",
+  "edition": 378,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 39,296 stars in the last day to reach 218,692 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 32,601 stars in the last day to reach 251,293 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,166 +12,157 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Gemini 4 Argon",
-        "meta": "1213 pts",
-        "desc": "deepmind.google \u00b7 854 comments",
-        "url": "https://deepmind.google/models/gemini/"
+        "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+        "meta": "874 pts",
+        "desc": "csoonline.com \u00b7 510 comments",
+        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
       },
       {
         "kind": "hn",
-        "title": "Redesigning source control at Anthropic",
-        "meta": "710 pts",
-        "desc": "anthropic.com \u00b7 683 comments",
-        "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+        "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+        "meta": "358 pts",
+        "desc": "startupfortune.com \u00b7 249 comments",
+        "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
       },
       {
         "kind": "hn",
-        "title": "OpenAI engineer arrested in bugging of executive conference room",
-        "meta": "533 pts",
-        "desc": "sfstandard.com \u00b7 446 comments",
-        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "meta": "349 pts",
+        "desc": "sunshowers.io \u00b7 129 comments",
+        "url": "https://sunshowers.io/posts/anthropic-mononoke/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,553\u2605",
+        "meta": "+1,559\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
+        "title": "affaan-m/ECC",
+        "meta": "+884\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+830\u2605",
+        "meta": "+844\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+650\u2605",
+        "meta": "+695\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
-      },
-      {
-        "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+624\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Apple HomeView",
+        "title": "Things to know when you get cancer",
+        "meta": "1167 pts",
+        "desc": "jjmaxwell4.com \u00b7 294 comments",
+        "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
+      },
+      {
+        "kind": "hn",
+        "title": "How Amazon pushes up prices all across the Internet",
+        "meta": "795 pts",
+        "desc": "not-ship.com \u00b7 624 comments",
+        "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
+      },
+      {
+        "kind": "hn",
+        "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
         "meta": "715 pts",
-        "desc": "apple.com \u00b7 842 comments",
-        "url": "https://www.apple.com/apple-homeview/"
+        "desc": "typeof.net \u00b7 296 comments",
+        "url": "https://typeof.net/Iosevka/"
       },
       {
         "kind": "hn",
-        "title": "11 year old unsoundness bugs found in Rust borrow checker",
-        "meta": "710 pts",
-        "desc": "github.com \u00b7 395 comments",
-        "url": "https://github.com/rust-lang/rust/issues/164250"
-      },
-      {
-        "kind": "hn",
-        "title": "Firefox Enterprise",
-        "meta": "697 pts",
-        "desc": "firefox.com \u00b7 291 comments",
-        "url": "https://www.firefox.com/en-US/enterprise/"
-      },
-      {
-        "kind": "hn",
-        "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-        "meta": "447 pts",
-        "desc": "bloomberg.com \u00b7 250 comments",
-        "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran"
+        "title": "Passkeys are not a trap",
+        "meta": "572 pts",
+        "desc": "scotthelme.co.uk \u00b7 725 comments",
+        "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-        "meta": "392 pts",
-        "desc": "guitoro.com \u00b7 102 comments",
-        "url": "https://guitoro.com/"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-        "meta": "161 pts",
-        "desc": "pdftomp3.com \u00b7 82 comments",
-        "url": "https://pdftomp3.com/connect-ai/"
+        "kind": "rising",
+        "title": "storytold/craft-launcher",
+        "meta": "2.7k\u2605",
+        "desc": "The Craft App Launcher",
+        "url": "https://github.com/storytold/craft-launcher"
       },
       {
         "kind": "rising",
-        "title": "wheresryan22/anatomy",
-        "meta": "8.7k\u2605",
-        "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-        "url": "https://github.com/wheresryan22/anatomy"
+        "title": "jhaizhou-ops/d2r-mobile",
+        "meta": "2.5k\u2605",
+        "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac \u2014 full touch controls, 60 fps, new endgame modes. Bring your own game files. \u5f00\u6e90\u7684\u300a\u6697\u9ed1\u7834\u574f\u795e II\uff1a\u72f1\u706b\u91cd\u751f\u300b\u672f\u58eb\u541b\u4e34 iOS / macOS \u517c\u5bb9\u5c42",
+        "url": "https://github.com/jhaizhou-ops/d2r-mobile"
       },
       {
         "kind": "rising",
-        "title": "mhtsec/ARTEX",
-        "meta": "4.0k\u2605",
-        "desc": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
-        "url": "https://github.com/mhtsec/ARTEX"
+        "title": "liseami/CCBaga",
+        "meta": "2.3k\u2605",
+        "desc": "",
+        "url": "https://github.com/liseami/CCBaga"
+      },
+      {
+        "kind": "rising",
+        "title": "onehumanbeing/esp32-iphone-agent",
+        "meta": "2.2k\u2605",
+        "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 8 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 22h",
-    "hn": "Top 4 of 19 stories, past 24 hours",
-    "launches": "2 Show HN \u00b7 2 new repos"
+    "ai": "3 of 3 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 24h",
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 39296
-    },
-    {
-      "name": "anatomy",
-      "gained": 1632
+      "gained": 32601
     },
     {
       "name": "skills",
-      "gained": 1553
-    },
-    {
-      "name": "ponytail",
-      "gained": 830
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 650
+      "gained": 1559
     },
     {
       "name": "ECC",
-      "gained": 624
+      "gained": 884
+    },
+    {
+      "name": "ponytail",
+      "gained": 844
+    },
+    {
+      "name": "deepseek-harness",
+      "gained": 695
     },
     {
       "name": "paperclip",
-      "gained": 538
+      "gained": 570
     },
     {
-      "name": "agent-skills",
-      "gained": 512
+      "name": "superpowers",
+      "gained": 490
+    },
+    {
+      "name": "cc-switch",
+      "gained": 479
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Cloudflare",
-      "title": "Cloudflare Service Issues",
-      "impact": "major",
-      "minutes": 1,
-      "ongoing": false,
-      "url": "https://www.cloudflarestatus.com/incidents/z7vongh8rqc1"
-    }
-  ]
+  "infra": []
 }
