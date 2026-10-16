@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-15",
-  "edition": 378,
+  "generated": "2026-10-16",
+  "edition": 379,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 32,601 stars in the last day to reach 251,293 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 25,936 stars in the last day to reach 277,229 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,157 +12,174 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
-        "meta": "874 pts",
-        "desc": "csoonline.com \u00b7 510 comments",
-        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+        "title": "Neural networks are clean",
+        "meta": "625 pts",
+        "desc": "already-clean.goodfire.com \u00b7 229 comments",
+        "url": "https://already-clean.goodfire.com/"
       },
       {
         "kind": "hn",
-        "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-        "meta": "358 pts",
-        "desc": "startupfortune.com \u00b7 249 comments",
-        "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
+        "title": "Krea 3 \u2013 An image model built for editing at scale",
+        "meta": "289 pts",
+        "desc": "krea.ai \u00b7 90 comments",
+        "url": "https://www.krea.ai/krea-3"
       },
       {
         "kind": "hn",
-        "title": "Anthropic's Scion is heavily inspired by Mononoke",
-        "meta": "349 pts",
-        "desc": "sunshowers.io \u00b7 129 comments",
-        "url": "https://sunshowers.io/posts/anthropic-mononoke/"
+        "title": "More on Anthropic's Scion ripping off Mononoke",
+        "meta": "238 pts",
+        "desc": "sunshowers.io \u00b7 77 comments",
+        "url": "https://sunshowers.io/posts/anthropic-mononoke-2/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,559\u2605",
+        "meta": "+1,499\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+884\u2605",
+        "meta": "+982\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "DietrichGebert/ponytail",
-        "meta": "+844\u2605",
-        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail"
+        "title": "obra/superpowers",
+        "meta": "+859\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+695\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
+        "title": "DietrichGebert/ponytail",
+        "meta": "+813\u2605",
+        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "url": "https://github.com/DietrichGebert/ponytail"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Things to know when you get cancer",
-        "meta": "1167 pts",
-        "desc": "jjmaxwell4.com \u00b7 294 comments",
-        "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
+        "title": "Muse Spark Open",
+        "meta": "753 pts",
+        "desc": "research.meta.ai \u00b7 388 comments",
+        "url": "https://research.meta.ai/blog/muse-spark-open"
       },
       {
         "kind": "hn",
-        "title": "How Amazon pushes up prices all across the Internet",
-        "meta": "795 pts",
-        "desc": "not-ship.com \u00b7 624 comments",
-        "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
+        "title": "Wayland desktop for Linux with skeuomorphic design",
+        "meta": "574 pts",
+        "desc": "github.com \u00b7 227 comments",
+        "url": "https://github.com/fyzugx/DEsk"
       },
       {
         "kind": "hn",
-        "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-        "meta": "715 pts",
-        "desc": "typeof.net \u00b7 296 comments",
-        "url": "https://typeof.net/Iosevka/"
+        "title": "Online ads weaponised to deliver \u2018zero-click\u2019 spyware, researchers say",
+        "meta": "502 pts",
+        "desc": "theguardian.com \u00b7 1 comments",
+        "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
       },
       {
         "kind": "hn",
-        "title": "Passkeys are not a trap",
-        "meta": "572 pts",
-        "desc": "scotthelme.co.uk \u00b7 725 comments",
-        "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
+        "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+        "meta": "444 pts",
+        "desc": "citizenlab.ca \u00b7 592 comments",
+        "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
       }
     ],
     "launches": [
       {
-        "kind": "rising",
-        "title": "storytold/craft-launcher",
-        "meta": "2.7k\u2605",
-        "desc": "The Craft App Launcher",
-        "url": "https://github.com/storytold/craft-launcher"
+        "kind": "hn",
+        "title": "Show HN: Unfenced \u2013 Land for sale that borders public land",
+        "meta": "292 pts",
+        "desc": "unfenced.land \u00b7 191 comments",
+        "url": "https://unfenced.land/"
       },
       {
         "kind": "rising",
         "title": "jhaizhou-ops/d2r-mobile",
-        "meta": "2.5k\u2605",
+        "meta": "3.3k\u2605",
         "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac \u2014 full touch controls, 60 fps, new endgame modes. Bring your own game files. \u5f00\u6e90\u7684\u300a\u6697\u9ed1\u7834\u574f\u795e II\uff1a\u72f1\u706b\u91cd\u751f\u300b\u672f\u58eb\u541b\u4e34 iOS / macOS \u517c\u5bb9\u5c42",
         "url": "https://github.com/jhaizhou-ops/d2r-mobile"
       },
       {
         "kind": "rising",
-        "title": "liseami/CCBaga",
-        "meta": "2.3k\u2605",
-        "desc": "",
-        "url": "https://github.com/liseami/CCBaga"
+        "title": "onehumanbeing/esp32-iphone-agent",
+        "meta": "2.6k\u2605",
+        "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
       },
       {
         "kind": "rising",
-        "title": "onehumanbeing/esp32-iphone-agent",
-        "meta": "2.2k\u2605",
-        "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-        "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+        "title": "liseami/CCBaga",
+        "meta": "2.4k\u2605",
+        "desc": "",
+        "url": "https://github.com/liseami/CCBaga"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
+    "ai": "3 of 5 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 32601
+      "gained": 25936
     },
     {
       "name": "skills",
-      "gained": 1559
+      "gained": 1499
     },
     {
       "name": "ECC",
-      "gained": 884
-    },
-    {
-      "name": "ponytail",
-      "gained": 844
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 695
-    },
-    {
-      "name": "paperclip",
-      "gained": 570
+      "gained": 982
     },
     {
       "name": "superpowers",
-      "gained": 490
+      "gained": 859
     },
     {
-      "name": "cc-switch",
-      "gained": 479
+      "name": "d2r-mobile",
+      "gained": 830
+    },
+    {
+      "name": "ponytail",
+      "gained": 813
+    },
+    {
+      "name": "caveman",
+      "gained": 800
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "gained": 782
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "OpenAI",
+      "title": "Widespread feature degradation",
+      "impact": "major",
+      "minutes": 146,
+      "ongoing": false,
+      "url": ""
+    },
+    {
+      "name": "Cloudflare",
+      "title": "Network Performance Issues in Eastern North America",
+      "impact": "major",
+      "minutes": 49,
+      "ongoing": false,
+      "url": "https://www.cloudflarestatus.com/incidents/fiv2bu3zf8kx"
+    }
+  ]
 }
