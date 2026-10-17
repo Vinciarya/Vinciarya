@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-16",
-  "edition": 379,
+  "generated": "2026-10-17",
+  "edition": 380,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 25,936 stars in the last day to reach 277,229 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 17,473 stars in the last day to reach 294,702 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,174 +12,166 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Neural networks are clean",
-        "meta": "625 pts",
-        "desc": "already-clean.goodfire.com \u00b7 229 comments",
-        "url": "https://already-clean.goodfire.com/"
+        "title": "Claude reveals ECDSA curve origins",
+        "meta": "807 pts",
+        "desc": "anthropic.com \u00b7 306 comments",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
       },
       {
         "kind": "hn",
-        "title": "Krea 3 \u2013 An image model built for editing at scale",
-        "meta": "289 pts",
-        "desc": "krea.ai \u00b7 90 comments",
-        "url": "https://www.krea.ai/krea-3"
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "meta": "462 pts",
+        "desc": "mercor.com \u00b7 400 comments",
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
       },
       {
         "kind": "hn",
-        "title": "More on Anthropic's Scion ripping off Mononoke",
-        "meta": "238 pts",
-        "desc": "sunshowers.io \u00b7 77 comments",
-        "url": "https://sunshowers.io/posts/anthropic-mononoke-2/"
+        "title": "How the Claude Code team does code review",
+        "meta": "308 pts",
+        "desc": "claude.dev \u00b7 281 comments",
+        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,499\u2605",
+        "meta": "+1,099\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+982\u2605",
+        "meta": "+1,074\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "obra/superpowers",
-        "meta": "+859\u2605",
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
+        "title": "DietrichGebert/ponytail",
+        "meta": "+711\u2605",
+        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "DietrichGebert/ponytail",
-        "meta": "+813\u2605",
-        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail"
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "+654\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Muse Spark Open",
-        "meta": "753 pts",
-        "desc": "research.meta.ai \u00b7 388 comments",
-        "url": "https://research.meta.ai/blog/muse-spark-open"
+        "title": "I love software rendering",
+        "meta": "313 pts",
+        "desc": "jamesfmackenzie.com \u00b7 198 comments",
+        "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
       },
       {
         "kind": "hn",
-        "title": "Wayland desktop for Linux with skeuomorphic design",
-        "meta": "574 pts",
-        "desc": "github.com \u00b7 227 comments",
-        "url": "https://github.com/fyzugx/DEsk"
+        "title": "Waymo in Toronto",
+        "meta": "308 pts",
+        "desc": "waymo.com \u00b7 410 comments",
+        "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/"
       },
       {
         "kind": "hn",
-        "title": "Online ads weaponised to deliver \u2018zero-click\u2019 spyware, researchers say",
-        "meta": "502 pts",
-        "desc": "theguardian.com \u00b7 1 comments",
-        "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
+        "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+        "meta": "298 pts",
+        "desc": "machinelearning.apple.com \u00b7 147 comments",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
       },
       {
         "kind": "hn",
-        "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-        "meta": "444 pts",
-        "desc": "citizenlab.ca \u00b7 592 comments",
-        "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "meta": "259 pts",
+        "desc": "github.com \u00b7 64 comments",
+        "url": "https://github.com/cobanov/PS5LM"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Unfenced \u2013 Land for sale that borders public land",
-        "meta": "292 pts",
-        "desc": "unfenced.land \u00b7 191 comments",
-        "url": "https://unfenced.land/"
+        "title": "Show HN: Gemini 4 Argon plays StarCraft",
+        "meta": "209 pts",
+        "desc": "starskirmish.com \u00b7 92 comments",
+        "url": "https://starskirmish.com/bench/v0-2/"
       },
       {
         "kind": "rising",
         "title": "jhaizhou-ops/d2r-mobile",
-        "meta": "3.3k\u2605",
+        "meta": "3.6k\u2605",
         "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac \u2014 full touch controls, 60 fps, new endgame modes. Bring your own game files. \u5f00\u6e90\u7684\u300a\u6697\u9ed1\u7834\u574f\u795e II\uff1a\u72f1\u706b\u91cd\u751f\u300b\u672f\u58eb\u541b\u4e34 iOS / macOS \u517c\u5bb9\u5c42",
         "url": "https://github.com/jhaizhou-ops/d2r-mobile"
       },
       {
         "kind": "rising",
         "title": "onehumanbeing/esp32-iphone-agent",
-        "meta": "2.6k\u2605",
+        "meta": "2.9k\u2605",
         "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
         "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
       },
       {
         "kind": "rising",
-        "title": "liseami/CCBaga",
-        "meta": "2.4k\u2605",
-        "desc": "",
-        "url": "https://github.com/liseami/CCBaga"
+        "title": "Arekejoker/qwen21-nsfw-pose-skill",
+        "meta": "2.6k\u2605",
+        "desc": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cursor / OpenClaw",
+        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 5 AI stories, past 24 hours",
+    "ai": "3 of 7 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
+    "hn": "Top 4 of 18 stories, past 24 hours",
     "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 25936
+      "gained": 17473
     },
     {
       "name": "skills",
-      "gained": 1499
+      "gained": 1099
     },
     {
       "name": "ECC",
-      "gained": 982
-    },
-    {
-      "name": "superpowers",
-      "gained": 859
-    },
-    {
-      "name": "d2r-mobile",
-      "gained": 830
+      "gained": 1074
     },
     {
       "name": "ponytail",
-      "gained": 813
+      "gained": 711
     },
     {
-      "name": "caveman",
-      "gained": 800
+      "name": "deepseek-harness",
+      "gained": 654
     },
     {
-      "name": "MoneyPrinterTurbo",
-      "gained": 782
+      "name": "Agent-Reach",
+      "gained": 488
+    },
+    {
+      "name": "paperclip",
+      "gained": 405
+    },
+    {
+      "name": "opencode",
+      "gained": 402
     }
   ],
   "ticker": [],
   "infra": [
     {
-      "name": "OpenAI",
-      "title": "Widespread feature degradation",
-      "impact": "major",
-      "minutes": 146,
-      "ongoing": false,
-      "url": ""
-    },
-    {
       "name": "Cloudflare",
-      "title": "Network Performance Issues in Eastern North America",
+      "title": "Cloudflare Fedramp Dashboard and Access",
       "impact": "major",
-      "minutes": 49,
+      "minutes": 72,
       "ongoing": false,
-      "url": "https://www.cloudflarestatus.com/incidents/fiv2bu3zf8kx"
+      "url": "https://www.cloudflarestatus.com/incidents/qwx5xtl8mv7d"
     }
   ]
 }
