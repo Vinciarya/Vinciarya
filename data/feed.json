@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-17",
-  "edition": 380,
+  "generated": "2026-10-18",
+  "edition": 381,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 17,473 stars in the last day to reach 294,702 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 16,884 stars in the last day to reach 311,586 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,166 +12,143 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Claude reveals ECDSA curve origins",
-        "meta": "807 pts",
-        "desc": "anthropic.com \u00b7 306 comments",
-        "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
-      },
-      {
-        "kind": "hn",
-        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-        "meta": "462 pts",
-        "desc": "mercor.com \u00b7 400 comments",
-        "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
-      },
-      {
-        "kind": "hn",
-        "title": "How the Claude Code team does code review",
-        "meta": "308 pts",
-        "desc": "claude.dev \u00b7 281 comments",
-        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+        "title": "Amazon uses AI to monitor union risk in UK warehouses",
+        "meta": "160 pts",
+        "desc": "opendemocracy.net \u00b7 58 comments",
+        "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "anomalyco/opencode",
+        "meta": "+1,244\u2605",
+        "desc": "The open source coding agent.",
+        "url": "https://github.com/anomalyco/opencode"
+      },
+      {
+        "kind": "trending",
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "+1,129\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,099\u2605",
+        "meta": "+1,071\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+1,074\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+711\u2605",
+        "meta": "+1,071\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
-      },
-      {
-        "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+654\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "I love software rendering",
-        "meta": "313 pts",
-        "desc": "jamesfmackenzie.com \u00b7 198 comments",
-        "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
+        "title": "OpenCode Hacked: User credentials leaked",
+        "meta": "836 pts",
+        "desc": "twitter.com \u00b7 156 comments",
+        "url": "https://twitter.com/opencode/status/2111516673953935833"
       },
       {
         "kind": "hn",
-        "title": "Waymo in Toronto",
-        "meta": "308 pts",
-        "desc": "waymo.com \u00b7 410 comments",
-        "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/"
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "meta": "808 pts",
+        "desc": "huggingface.co \u00b7 633 comments",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
       },
       {
         "kind": "hn",
-        "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-        "meta": "298 pts",
-        "desc": "machinelearning.apple.com \u00b7 147 comments",
-        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
+        "title": "Solar surpasses nuclear power globally for first time",
+        "meta": "564 pts",
+        "desc": "pv-magazine.com \u00b7 344 comments",
+        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
       },
       {
         "kind": "hn",
-        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "meta": "259 pts",
-        "desc": "github.com \u00b7 64 comments",
-        "url": "https://github.com/cobanov/PS5LM"
+        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "meta": "514 pts",
+        "desc": "openrouter.ai \u00b7 5 comments",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Gemini 4 Argon plays StarCraft",
-        "meta": "209 pts",
-        "desc": "starskirmish.com \u00b7 92 comments",
-        "url": "https://starskirmish.com/bench/v0-2/"
-      },
-      {
         "kind": "rising",
         "title": "jhaizhou-ops/d2r-mobile",
-        "meta": "3.6k\u2605",
+        "meta": "3.7k\u2605",
         "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac \u2014 full touch controls, 60 fps, new endgame modes. Bring your own game files. \u5f00\u6e90\u7684\u300a\u6697\u9ed1\u7834\u574f\u795e II\uff1a\u72f1\u706b\u91cd\u751f\u300b\u672f\u58eb\u541b\u4e34 iOS / macOS \u517c\u5bb9\u5c42",
         "url": "https://github.com/jhaizhou-ops/d2r-mobile"
       },
       {
         "kind": "rising",
-        "title": "onehumanbeing/esp32-iphone-agent",
-        "meta": "2.9k\u2605",
-        "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-        "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+        "title": "Arekejoker/qwen21-nsfw-pose-skill",
+        "meta": "2.7k\u2605",
+        "desc": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cursor / OpenClaw",
+        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
       },
       {
         "kind": "rising",
-        "title": "Arekejoker/qwen21-nsfw-pose-skill",
-        "meta": "2.6k\u2605",
-        "desc": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cursor / OpenClaw",
-        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+        "title": "HeyPuter/everything",
+        "meta": "2.1k\u2605",
+        "desc": "We're rebuilding and open-sourcing the world\u2019s software from scratch.",
+        "url": "https://github.com/HeyPuter/everything"
+      },
+      {
+        "kind": "rising",
+        "title": "deeplethe/solid-glass",
+        "meta": "1.9k\u2605",
+        "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+        "url": "https://github.com/deeplethe/solid-glass"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 7 AI stories, past 24 hours",
+    "ai": "1 of 1 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 18 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "hn": "Top 4 of 14 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 17473
-    },
-    {
-      "name": "skills",
-      "gained": 1099
-    },
-    {
-      "name": "ECC",
-      "gained": 1074
-    },
-    {
-      "name": "ponytail",
-      "gained": 711
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 654
-    },
-    {
-      "name": "Agent-Reach",
-      "gained": 488
-    },
-    {
-      "name": "paperclip",
-      "gained": 405
+      "gained": 16884
     },
     {
       "name": "opencode",
-      "gained": 402
+      "gained": 1244
+    },
+    {
+      "name": "deepseek-harness",
+      "gained": 1129
+    },
+    {
+      "name": "skills",
+      "gained": 1071
+    },
+    {
+      "name": "ponytail",
+      "gained": 1071
+    },
+    {
+      "name": "ECC",
+      "gained": 1031
+    },
+    {
+      "name": "claude-code",
+      "gained": 766
+    },
+    {
+      "name": "graphify",
+      "gained": 583
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "Cloudflare",
-      "title": "Cloudflare Fedramp Dashboard and Access",
-      "impact": "major",
-      "minutes": 72,
-      "ongoing": false,
-      "url": "https://www.cloudflarestatus.com/incidents/qwx5xtl8mv7d"
-    }
-  ]
+  "infra": []
 }
