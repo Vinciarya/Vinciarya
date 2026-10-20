@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-19",
-  "edition": 382,
+  "generated": "2026-10-20",
+  "edition": 383,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 15,486 stars in the last day to reach 327,072 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 13,100 stars in the last day to reach 340,172 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,150 +12,174 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-        "meta": "348 pts",
-        "desc": "arxiv.org \u00b7 166 comments",
-        "url": "https://arxiv.org/abs/2610.18861"
+        "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+        "meta": "638 pts",
+        "desc": "wjcl.com \u00b7 362 comments",
+        "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816"
       },
       {
         "kind": "hn",
-        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-        "meta": "162 pts",
-        "desc": "tomshardware.com \u00b7 163 comments",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+        "title": "Timestral: Mistral's time-series foundation models",
+        "meta": "578 pts",
+        "desc": "mistral.ai \u00b7 107 comments",
+        "url": "https://mistral.ai/news/timestral/"
+      },
+      {
+        "kind": "hn",
+        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+        "meta": "385 pts",
+        "desc": "news.ycombinator.com \u00b7 533 comments",
+        "url": "https://news.ycombinator.com/item?id=50151036"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "anomalyco/opencode",
-        "meta": "+1,245\u2605",
-        "desc": "The open source coding agent.",
-        "url": "https://github.com/anomalyco/opencode"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,218\u2605",
+        "meta": "+1,253\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,199\u2605",
+        "meta": "+1,226\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
-        "title": "DietrichGebert/ponytail",
-        "meta": "+874\u2605",
-        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail"
+        "title": "anomalyco/opencode",
+        "meta": "+1,214\u2605",
+        "desc": "The open source coding agent.",
+        "url": "https://github.com/anomalyco/opencode"
+      },
+      {
+        "kind": "trending",
+        "title": "Comfy-Org/ComfyUI",
+        "meta": "+1,139\u2605",
+        "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "url": "https://github.com/Comfy-Org/ComfyUI"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Namecheap just seized and disabled all my domains",
-        "meta": "547 pts",
-        "desc": "reddit.com \u00b7 285 comments",
-        "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/"
+        "title": "Linux 7.3",
+        "meta": "605 pts",
+        "desc": "lwn.net \u00b7 280 comments",
+        "url": "https://lwn.net/Articles/1101143/"
       },
       {
         "kind": "hn",
-        "title": "Someone behind the software",
-        "meta": "407 pts",
-        "desc": "karrisaarinen.com \u00b7 158 comments",
-        "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+        "title": "Wine ported to OpenBSD",
+        "meta": "545 pts",
+        "desc": "marc.info \u00b7 181 comments",
+        "url": "https://marc.info/?l=openbsd-ports&m=179236125692175"
       },
       {
         "kind": "hn",
-        "title": "RepRapMicron",
-        "meta": "376 pts",
-        "desc": "github.com \u00b7 58 comments",
-        "url": "https://github.com/VikOlliver/RepRapMicron/wiki"
+        "title": "I built a drone with only one motor [video]",
+        "meta": "498 pts",
+        "desc": "youtube.com \u00b7 107 comments",
+        "url": "https://www.youtube.com/watch?v=Ndftcft6XhU"
       },
       {
         "kind": "hn",
-        "title": "macOS 15.8.2 Breaks OpenGL",
-        "meta": "246 pts",
-        "desc": "developer.apple.com \u00b7 267 comments",
-        "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550"
+        "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+        "meta": "460 pts",
+        "desc": "po-ru.com \u00b7 437 comments",
+        "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-        "meta": "175 pts",
-        "desc": "legendofhyrule.com \u00b7 108 comments",
-        "url": "https://legendofhyrule.com/"
-      },
-      {
         "kind": "rising",
-        "title": "Arekejoker/qwen21-nsfw-pose-skill",
-        "meta": "3.1k\u2605",
-        "desc": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cursor / OpenClaw",
-        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
-      },
-      {
-        "kind": "rising",
-        "title": "Gathin23/tv-vibehack",
-        "meta": "2.7k\u2605",
-        "desc": "Your TV, minus the ads. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible.",
-        "url": "https://github.com/Gathin23/tv-vibehack"
+        "title": "Gathin23/cleanyourtv",
+        "meta": "7.2k\u2605",
+        "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+        "url": "https://github.com/Gathin23/cleanyourtv"
       },
       {
         "kind": "rising",
         "title": "feder-cr/git-ai",
-        "meta": "2.3k\u2605",
+        "meta": "2.5k\u2605",
         "desc": "Git designed for AI agents.",
         "url": "https://github.com/feder-cr/git-ai"
+      },
+      {
+        "kind": "rising",
+        "title": "ly05010419/MacNativeGames",
+        "meta": "2.1k\u2605",
+        "desc": "",
+        "url": "https://github.com/ly05010419/MacNativeGames"
+      },
+      {
+        "kind": "rising",
+        "title": "ahwootech/BRUTAL",
+        "meta": "2.0k\u2605",
+        "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+        "url": "https://github.com/ahwootech/BRUTAL"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
+    "ai": "3 of 6 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 14 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 15486
-    },
-    {
-      "name": "opencode",
-      "gained": 1245
+      "gained": 13100
     },
     {
       "name": "skills",
-      "gained": 1218
+      "gained": 1253
     },
     {
       "name": "deepseek-harness",
-      "gained": 1199
+      "gained": 1226
     },
     {
-      "name": "ponytail",
-      "gained": 874
+      "name": "opencode",
+      "gained": 1214
     },
     {
       "name": "ComfyUI",
-      "gained": 836
+      "gained": 1139
+    },
+    {
+      "name": "ponytail",
+      "gained": 1086
     },
     {
       "name": "ECC",
-      "gained": 752
+      "gained": 825
     },
     {
       "name": "graphify",
-      "gained": 683
+      "gained": 774
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Cloudflare",
+      "title": "Cloudflare Zero Trust connectivity",
+      "impact": "critical",
+      "minutes": 191,
+      "ongoing": false,
+      "url": "https://www.cloudflarestatus.com/incidents/0eqtn0khkz87"
+    },
+    {
+      "name": "GitHub",
+      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+      "impact": "critical",
+      "minutes": 67,
+      "ongoing": false,
+      "url": "https://stspg.io/nrv2k8s68bwn"
+    }
+  ]
 }
