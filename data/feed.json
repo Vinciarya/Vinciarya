@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-21",
-  "edition": 384,
+  "generated": "2026-10-22",
+  "edition": 385,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 10,809 stars in the last day to reach 350,981 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 9,225 stars in the last day to reach 360,206 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,150 +12,174 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-        "meta": "2213 pts",
-        "desc": "github.com \u00b7 852 comments",
-        "url": "https://github.com/deepseek-ai/DeepInfer"
+        "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+        "meta": "440 pts",
+        "desc": "wiz.io \u00b7 174 comments",
+        "url": "https://www.wiz.io/blog/php2shell-php-rce"
       },
       {
         "kind": "hn",
-        "title": "Publish fake stats, get cited in LLMs",
-        "meta": "336 pts",
-        "desc": "peec.ai \u00b7 194 comments",
-        "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
+        "title": "Claude Duet",
+        "meta": "347 pts",
+        "desc": "claude.com \u00b7 316 comments",
+        "url": "https://claude.com/product/claude-duet"
+      },
+      {
+        "kind": "hn",
+        "title": "Mistral Large 4",
+        "meta": "319 pts",
+        "desc": "mistral.ai \u00b7 95 comments",
+        "url": "https://mistral.ai/news/mistral-large-4/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "DietrichGebert/ponytail",
-        "meta": "+1,894\u2605",
+        "meta": "+1,875\u2605",
         "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+1,476\u2605",
+        "meta": "+1,613\u2605",
         "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,414\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
+        "title": "Graphify-Labs/graphify",
+        "meta": "+1,364\u2605",
+        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "url": "https://github.com/Graphify-Labs/graphify"
       },
       {
         "kind": "trending",
-        "title": "Graphify-Labs/graphify",
-        "meta": "+1,253\u2605",
-        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "url": "https://github.com/Graphify-Labs/graphify"
+        "title": "mattpocock/skills",
+        "meta": "+1,154\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "eMudhra intermediate CA compromise",
-        "meta": "843 pts",
-        "desc": "emudhra.we-have-a-problem.com \u00b7 374 comments",
-        "url": "https://emudhra.we-have-a-problem.com/"
+        "title": "PHP 8.2.35",
+        "meta": "1004 pts",
+        "desc": "github.com \u00b7 537 comments",
+        "url": "https://github.com/php/php-src/releases/tag/php-8.2.35"
       },
       {
         "kind": "hn",
-        "title": "Voxtral 3",
-        "meta": "611 pts",
-        "desc": "mistral.ai \u00b7 155 comments",
-        "url": "https://mistral.ai/news/voxtral-3/"
+        "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+        "meta": "876 pts",
+        "desc": "scotthelme.co.uk \u00b7 417 comments",
+        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
       },
       {
         "kind": "hn",
-        "title": "Apple broke an essential presentation feature of iPads",
-        "meta": "541 pts",
-        "desc": "teddysvoronos.com \u00b7 269 comments",
-        "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"
+        "title": "Today's PHP security release, and how we're strengthening security",
+        "meta": "714 pts",
+        "desc": "thephp.foundation \u00b7 349 comments",
+        "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
       },
       {
         "kind": "hn",
-        "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-        "meta": "482 pts",
-        "desc": "news-web.php.net \u00b7 182 comments",
-        "url": "https://news-web.php.net/php.announce/509"
+        "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
+        "meta": "624 pts",
+        "desc": "unric.org \u00b7 767 comments",
+        "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: SimCity, but with Permits",
-        "meta": "724 pts",
-        "desc": "permit.petercai.com \u00b7 357 comments",
-        "url": "https://permit.petercai.com/"
-      },
-      {
         "kind": "rising",
         "title": "Gathin23/cleanyourtv",
-        "meta": "14.0k\u2605",
+        "meta": "20.8k\u2605",
         "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
         "url": "https://github.com/Gathin23/cleanyourtv"
       },
       {
         "kind": "rising",
+        "title": "deepseek-ai/DeepInfer",
+        "meta": "18.7k\u2605",
+        "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+        "url": "https://github.com/deepseek-ai/DeepInfer"
+      },
+      {
+        "kind": "rising",
         "title": "ly05010419/MacNativeGames",
-        "meta": "3.1k\u2605",
+        "meta": "4.1k\u2605",
         "desc": "",
         "url": "https://github.com/ly05010419/MacNativeGames"
       },
       {
         "kind": "rising",
         "title": "simbasjungles/free-my-tv",
-        "meta": "2.1k\u2605",
+        "meta": "2.9k\u2605",
         "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
         "url": "https://github.com/simbasjungles/free-my-tv"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 10809
+      "gained": 9225
     },
     {
       "name": "cleanyourtv",
-      "gained": 6795
+      "gained": 6820
+    },
+    {
+      "name": "DeepInfer",
+      "gained": 3373
     },
     {
       "name": "ponytail",
-      "gained": 1894
+      "gained": 1875
     },
     {
       "name": "orca",
-      "gained": 1476
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 1414
+      "gained": 1613
     },
     {
       "name": "graphify",
-      "gained": 1253
+      "gained": 1364
     },
     {
       "name": "skills",
-      "gained": 1159
+      "gained": 1154
     },
     {
-      "name": "opencode",
-      "gained": 1065
+      "name": "deepseek-harness",
+      "gained": 1130
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "GitHub",
+      "title": "Delays for Pull Requests and Webhook deliveries",
+      "impact": "critical",
+      "minutes": 270,
+      "ongoing": false,
+      "url": "https://stspg.io/gnnt0tx9nxmk"
+    },
+    {
+      "name": "npm",
+      "title": "Degraded Package Install and Publishing",
+      "impact": "major",
+      "minutes": 110,
+      "ongoing": false,
+      "url": "https://stspg.io/fr89w5qkp7j4"
+    }
+  ]
 }
