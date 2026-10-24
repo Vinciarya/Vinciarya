@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-23",
-  "edition": 386,
+  "generated": "2026-10-24",
+  "edition": 387,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 8,075 stars in the last day to reach 368,281 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 6,150 stars in the last day to reach 374,431 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,166 +12,167 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
-        "meta": "366 pts",
-        "desc": "github.com \u00b7 187 comments",
-        "url": "https://github.com/NVIDIA/OpenShell"
+        "title": "Dessa: Conversation Model trained only on speech",
+        "meta": "343 pts",
+        "desc": "block.xyz \u00b7 132 comments",
+        "url": "https://block.xyz/dessa"
       },
       {
         "kind": "hn",
-        "title": "Every AI model has the same \"controversial\" take on humans",
-        "meta": "352 pts",
-        "desc": "modelcompare.ai \u00b7 381 comments",
-        "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
-      },
-      {
-        "kind": "hn",
-        "title": "LLMs are making formal software verification feasible at a much larger scale",
-        "meta": "286 pts",
-        "desc": "anthropic.com \u00b7 157 comments",
-        "url": "https://www.anthropic.com/research/formal-verification"
+        "title": "Swedish government offices to ban ChatGPT and Claude",
+        "meta": "316 pts",
+        "desc": "sverigesradio.se \u00b7 118 comments",
+        "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "DietrichGebert/ponytail",
-        "meta": "+1,805\u2605",
-        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail"
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "+1,180\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+1,334\u2605",
+        "meta": "+1,042\u2605",
         "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
-        "title": "Graphify-Labs/graphify",
-        "meta": "+1,319\u2605",
-        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "url": "https://github.com/Graphify-Labs/graphify"
+        "title": "DietrichGebert/ponytail",
+        "meta": "+1,018\u2605",
+        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "url": "https://github.com/DietrichGebert/ponytail"
       },
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,155\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
+        "title": "mattpocock/skills",
+        "meta": "+802\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Quad9 to exit France",
-        "meta": "1131 pts",
-        "desc": "quad9.net \u00b7 390 comments",
-        "url": "https://quad9.net/news/blog/au-revoir-france/"
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "meta": "852 pts",
+        "desc": "kimi.ai \u00b7 494 comments",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
       },
       {
         "kind": "hn",
-        "title": "eMudhra to exit global SSL/TLS certificate business",
-        "meta": "1012 pts",
-        "desc": "emudhra.com \u00b7 668 comments",
-        "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "meta": "828 pts",
+        "desc": "blog.calif.io \u00b7 538 comments",
+        "url": "https://blog.calif.io/p/iphone"
       },
       {
         "kind": "hn",
-        "title": "Jailbreaking the Switch 2",
-        "meta": "771 pts",
-        "desc": "pepsipu.com \u00b7 269 comments",
-        "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
+        "title": "Apple Music 404 Not Found",
+        "meta": "711 pts",
+        "desc": "music.apple.com \u00b7 225 comments",
+        "url": "https://music.apple.com/this-url-doesnt-exist"
       },
       {
         "kind": "hn",
-        "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
-        "meta": "621 pts",
-        "desc": "404media.co \u00b7 620 comments",
-        "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/"
+        "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+        "meta": "527 pts",
+        "desc": "kadoa.com \u00b7 384 comments",
+        "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "Gathin23/cleanyourtv",
-        "meta": "25.3k\u2605",
-        "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-        "url": "https://github.com/Gathin23/cleanyourtv"
-      },
-      {
-        "kind": "rising",
-        "title": "ly05010419/MacNativeGames",
-        "meta": "4.6k\u2605",
-        "desc": "",
-        "url": "https://github.com/ly05010419/MacNativeGames"
-      },
-      {
-        "kind": "rising",
         "title": "simbasjungles/free-my-tv",
-        "meta": "3.6k\u2605",
-        "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+        "meta": "4.0k\u2605",
+        "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
         "url": "https://github.com/simbasjungles/free-my-tv"
       },
       {
         "kind": "rising",
         "title": "pengchujin/aerial-tv",
-        "meta": "3.4k\u2605",
+        "meta": "4.0k\u2605",
         "desc": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
         "url": "https://github.com/pengchujin/aerial-tv"
+      },
+      {
+        "kind": "rising",
+        "title": "xiaoyang111222/cn-math-taxonomy",
+        "meta": "2.9k\u2605",
+        "desc": "\u6570\u5b66\uff08\u5c0f\u5b66\u5230\u9ad8\u4e2d\uff09\u3001\u82f1\u8bed\uff08\u4e09\u5e74\u7ea7\u5230\u9ad8\u4e2d\uff09\u3001\u521d\u4e2d\u7269\u7406\u7684\u77e5\u8bc6\u56fe\u8c31\uff1a1644 \u4e2a\u77e5\u8bc6\u70b9\u30012403 \u6761\u5148\u4fee\u8fb9\u30016723 \u9053\u9898\uff0c\u5bf9\u9f50\u8bfe\u6807\uff0c\u9644\u81ea\u9002\u5e94\u524d\u7f6e\u8bca\u65ad\u3002",
+        "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
+      },
+      {
+        "kind": "rising",
+        "title": "JoasASantos/REA-Prompts",
+        "meta": "1.8k\u2605",
+        "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+        "url": "https://github.com/JoasASantos/REA-Prompts"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
+    "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
+    "hn": "Top 4 of 17 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 8075
-    },
-    {
-      "name": "cleanyourtv",
-      "gained": 4572
-    },
-    {
-      "name": "ponytail",
-      "gained": 1805
-    },
-    {
-      "name": "orca",
-      "gained": 1334
-    },
-    {
-      "name": "graphify",
-      "gained": 1319
+      "gained": 6150
     },
     {
       "name": "deepseek-harness",
-      "gained": 1155
+      "gained": 1180
+    },
+    {
+      "name": "orca",
+      "gained": 1042
+    },
+    {
+      "name": "ponytail",
+      "gained": 1018
     },
     {
       "name": "skills",
-      "gained": 1017
+      "gained": 802
+    },
+    {
+      "name": "ECC",
+      "gained": 781
+    },
+    {
+      "name": "graphify",
+      "gained": 703
     },
     {
       "name": "aerial-tv",
-      "gained": 875
+      "gained": 597
     }
   ],
   "ticker": [],
   "infra": [
     {
-      "name": "Cloudflare",
-      "title": "Delayed audit log delivery for WARP and Zero Trust services",
-      "impact": "major",
-      "minutes": 398,
+      "name": "Anthropic",
+      "title": "Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
+      "impact": "critical",
+      "minutes": 33,
       "ongoing": false,
-      "url": "https://www.cloudflarestatus.com/incidents/qwrtvb4jfvk7"
+      "url": "https://stspg.io/gqp288t3qzpt"
+    },
+    {
+      "name": "Cloudflare",
+      "title": "Network connectivity issues affecting services in North America",
+      "impact": "major",
+      "minutes": 176,
+      "ongoing": false,
+      "url": "https://www.cloudflarestatus.com/incidents/sufgcbe8rrwt"
     }
   ]
 }
