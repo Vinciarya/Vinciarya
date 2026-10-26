@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-25",
-  "edition": 388,
+  "generated": "2026-10-26",
+  "edition": 389,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 5,694 stars in the last day to reach 380,125 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 6,446 stars in the last day to reach 386,571 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,52 +12,52 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "No signs of AI payoff outside the tech sector",
-        "meta": "538 pts",
-        "desc": "apollo.com \u00b7 552 comments",
-        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "meta": "526 pts",
+        "desc": "lynchlab.net \u00b7 230 comments",
+        "url": "https://lynchlab.net/llm-skin-cancer"
       },
       {
         "kind": "hn",
-        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-        "meta": "308 pts",
-        "desc": "apricitas.io \u00b7 307 comments",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
+        "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+        "meta": "288 pts",
+        "desc": "twitter.com \u00b7 1 comments",
+        "url": "https://twitter.com/mike64_t/status/2114150399406202896"
       },
       {
         "kind": "hn",
-        "title": "Why is AI generated language so hard to understand?",
-        "meta": "185 pts",
-        "desc": "arxiv.org \u00b7 161 comments",
-        "url": "https://arxiv.org/abs/2610.29162"
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "meta": "261 pts",
+        "desc": "minimaxir.com \u00b7 276 comments",
+        "url": "https://minimaxir.com/2026/10/cheap-llms/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,037\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
-      },
-      {
-        "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+986\u2605",
+        "meta": "+1,072\u2605",
         "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+797\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "+1,018\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
+      },
+      {
+        "kind": "trending",
+        "title": "Graphify-Labs/graphify",
+        "meta": "+924\u2605",
+        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "url": "https://github.com/Graphify-Labs/graphify"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+712\u2605",
+        "meta": "+796\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       }
@@ -65,66 +65,66 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-        "meta": "431 pts",
-        "desc": "steveblank.com \u00b7 466 comments",
-        "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/"
+        "title": "Dolly Parton's Imagination Library",
+        "meta": "502 pts",
+        "desc": "imaginationlibrary.com \u00b7 88 comments",
+        "url": "https://imaginationlibrary.com/"
       },
       {
         "kind": "hn",
-        "title": "The Goose Programming Language",
-        "meta": "342 pts",
-        "desc": "aardappel.github.io \u00b7 227 comments",
-        "url": "https://aardappel.github.io/goose/"
+        "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+        "meta": "479 pts",
+        "desc": "panamericandispatch.org \u00b7 330 comments",
+        "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order"
       },
       {
         "kind": "hn",
-        "title": "We should be more ambitious with the software we build",
-        "meta": "327 pts",
-        "desc": "danluu.com \u00b7 288 comments",
-        "url": "https://danluu.com/ambitious/"
+        "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+        "meta": "445 pts",
+        "desc": "theintercept.com \u00b7 122 comments",
+        "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"
       },
       {
         "kind": "hn",
-        "title": "I don't understand quantum physics (2018)",
-        "meta": "302 pts",
-        "desc": "southampton.ac.uk \u00b7 239 comments",
-        "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
+        "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+        "meta": "443 pts",
+        "desc": "talkweb.eu \u00b7 217 comments",
+        "url": "https://talkweb.eu/openweb/4558/"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Steal My Bitcoin",
-        "meta": "457 pts",
-        "desc": "stealmybitcoin.com \u00b7 284 comments",
-        "url": "https://stealmybitcoin.com/"
+        "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+        "meta": "172 pts",
+        "desc": "bigwhalehunting.com \u00b7 47 comments",
+        "url": "https://bigwhalehunting.com/workforce/"
       },
       {
         "kind": "rising",
         "title": "pengchujin/aerial-tv",
-        "meta": "4.5k\u2605",
+        "meta": "5.5k\u2605",
         "desc": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
         "url": "https://github.com/pengchujin/aerial-tv"
       },
       {
         "kind": "rising",
-        "title": "simbasjungles/free-my-tv",
-        "meta": "4.4k\u2605",
-        "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-        "url": "https://github.com/simbasjungles/free-my-tv"
+        "title": "JustAResearcher/gpu-unlock-ada",
+        "meta": "3.2k\u2605",
+        "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+        "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
       },
       {
         "kind": "rising",
-        "title": "JoasASantos/REA-Prompts",
-        "meta": "2.2k\u2605",
-        "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-        "url": "https://github.com/JoasASantos/REA-Prompts"
+        "title": "wesbos/3d-model-anything",
+        "meta": "2.0k\u2605",
+        "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+        "url": "https://github.com/wesbos/3d-model-anything"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
+    "ai": "3 of 5 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 17 stories, past 24 hours",
     "launches": "1 Show HN \u00b7 3 new repos"
@@ -132,46 +132,54 @@
   "market": [
     {
       "name": "rea",
-      "gained": 5694
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 1037
+      "gained": 6446
     },
     {
       "name": "orca",
-      "gained": 986
+      "gained": 1072
     },
     {
-      "name": "ECC",
-      "gained": 797
+      "name": "deepseek-harness",
+      "gained": 1018
     },
     {
-      "name": "skills",
-      "gained": 712
-    },
-    {
-      "name": "gemini-cli",
-      "gained": 671
+      "name": "aerial-tv",
+      "gained": 940
     },
     {
       "name": "graphify",
-      "gained": 580
+      "gained": 924
+    },
+    {
+      "name": "skills",
+      "gained": 796
+    },
+    {
+      "name": "ECC",
+      "gained": 791
     },
     {
       "name": "Agent-Reach",
-      "gained": 558
+      "gained": 711
     }
   ],
   "ticker": [],
   "infra": [
     {
-      "name": "Anthropic",
-      "title": "Elevated errors for Claude Sonnet 5.5 and other models",
+      "name": "npm",
+      "title": "View package and auth outage on npmjs.com",
       "impact": "major",
-      "minutes": 63,
-      "ongoing": true,
-      "url": "https://stspg.io/s3wd6gmdsdhn"
+      "minutes": 35,
+      "ongoing": false,
+      "url": "https://stspg.io/5rh64dpfcvqz"
+    },
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors for Claude Fable 5.1",
+      "impact": "major",
+      "minutes": 32,
+      "ongoing": false,
+      "url": "https://stspg.io/y0gkl12ztjst"
     }
   ]
 }
