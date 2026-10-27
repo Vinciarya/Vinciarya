@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-26",
-  "edition": 389,
+  "generated": "2026-10-27",
+  "edition": 390,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 6,446 stars in the last day to reach 386,571 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 6,811 stars in the last day to reach 393,382 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,174 +12,157 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-        "meta": "526 pts",
-        "desc": "lynchlab.net \u00b7 230 comments",
-        "url": "https://lynchlab.net/llm-skin-cancer"
+        "title": "Anthropic S-1",
+        "meta": "1577 pts",
+        "desc": "sec.gov \u00b7 1510 comments",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
       },
       {
         "kind": "hn",
-        "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-        "meta": "288 pts",
-        "desc": "twitter.com \u00b7 1 comments",
-        "url": "https://twitter.com/mike64_t/status/2114150399406202896"
+        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+        "meta": "668 pts",
+        "desc": "magazine.sebastianraschka.com \u00b7 93 comments",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
       },
       {
         "kind": "hn",
-        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "meta": "261 pts",
-        "desc": "minimaxir.com \u00b7 276 comments",
-        "url": "https://minimaxir.com/2026/10/cheap-llms/"
+        "title": "GPT-6.1 Terra",
+        "meta": "574 pts",
+        "desc": "openai.com \u00b7 357 comments",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "stablyai/orca",
-        "meta": "+1,072\u2605",
-        "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "url": "https://github.com/stablyai/orca"
+        "title": "Panniantong/Agent-Reach",
+        "meta": "+1,467\u2605",
+        "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "url": "https://github.com/Panniantong/Agent-Reach"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,018\u2605",
+        "meta": "+1,179\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
-        "title": "Graphify-Labs/graphify",
-        "meta": "+924\u2605",
-        "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "url": "https://github.com/Graphify-Labs/graphify"
+        "title": "stablyai/orca",
+        "meta": "+1,149\u2605",
+        "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+796\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
+        "title": "affaan-m/ECC",
+        "meta": "+1,037\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Dolly Parton's Imagination Library",
-        "meta": "502 pts",
-        "desc": "imaginationlibrary.com \u00b7 88 comments",
-        "url": "https://imaginationlibrary.com/"
+        "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+        "meta": "896 pts",
+        "desc": "seattletimes.com \u00b7 837 comments",
+        "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"
       },
       {
         "kind": "hn",
-        "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-        "meta": "479 pts",
-        "desc": "panamericandispatch.org \u00b7 330 comments",
-        "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order"
+        "title": "Three new discoveries in mathematics, computer science, and physics",
+        "meta": "779 pts",
+        "desc": "openai.com \u00b7 347 comments",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
       },
       {
         "kind": "hn",
-        "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-        "meta": "445 pts",
-        "desc": "theintercept.com \u00b7 122 comments",
-        "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "meta": "544 pts",
+        "desc": "github.com \u00b7 197 comments",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
       },
       {
         "kind": "hn",
-        "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-        "meta": "443 pts",
-        "desc": "talkweb.eu \u00b7 217 comments",
-        "url": "https://talkweb.eu/openweb/4558/"
+        "title": "Switzerland. Block by block. At 1:1 scale",
+        "meta": "466 pts",
+        "desc": "blocks.manifold3d.ch \u00b7 214 comments",
+        "url": "https://blocks.manifold3d.ch/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-        "meta": "172 pts",
-        "desc": "bigwhalehunting.com \u00b7 47 comments",
-        "url": "https://bigwhalehunting.com/workforce/"
-      },
-      {
-        "kind": "rising",
-        "title": "pengchujin/aerial-tv",
-        "meta": "5.5k\u2605",
-        "desc": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-        "url": "https://github.com/pengchujin/aerial-tv"
-      },
-      {
         "kind": "rising",
         "title": "JustAResearcher/gpu-unlock-ada",
-        "meta": "3.2k\u2605",
+        "meta": "4.0k\u2605",
         "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
         "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
       },
       {
         "kind": "rising",
+        "title": "rddmwmddr/android-ad-cleaner",
+        "meta": "2.5k\u2605",
+        "desc": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+      },
+      {
+        "kind": "rising",
         "title": "wesbos/3d-model-anything",
-        "meta": "2.0k\u2605",
+        "meta": "2.1k\u2605",
         "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
         "url": "https://github.com/wesbos/3d-model-anything"
+      },
+      {
+        "kind": "rising",
+        "title": "xevrion/hatchzip",
+        "meta": "2.1k\u2605",
+        "desc": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+        "url": "https://github.com/xevrion/hatchzip"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 5 AI stories, past 24 hours",
+    "ai": "3 of 4 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 17 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 6446
-    },
-    {
-      "name": "orca",
-      "gained": 1072
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 1018
-    },
-    {
-      "name": "aerial-tv",
-      "gained": 940
-    },
-    {
-      "name": "graphify",
-      "gained": 924
-    },
-    {
-      "name": "skills",
-      "gained": 796
-    },
-    {
-      "name": "ECC",
-      "gained": 791
+      "gained": 6811
     },
     {
       "name": "Agent-Reach",
-      "gained": 711
+      "gained": 1467
+    },
+    {
+      "name": "deepseek-harness",
+      "gained": 1179
+    },
+    {
+      "name": "orca",
+      "gained": 1149
+    },
+    {
+      "name": "ECC",
+      "gained": 1037
+    },
+    {
+      "name": "graphify",
+      "gained": 873
+    },
+    {
+      "name": "skills",
+      "gained": 841
+    },
+    {
+      "name": "gpu-unlock-ada",
+      "gained": 778
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "npm",
-      "title": "View package and auth outage on npmjs.com",
-      "impact": "major",
-      "minutes": 35,
-      "ongoing": false,
-      "url": "https://stspg.io/5rh64dpfcvqz"
-    },
-    {
-      "name": "Anthropic",
-      "title": "Elevated errors for Claude Fable 5.1",
-      "impact": "major",
-      "minutes": 32,
-      "ongoing": false,
-      "url": "https://stspg.io/y0gkl12ztjst"
-    }
-  ]
+  "infra": []
 }
