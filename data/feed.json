@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-27",
-  "edition": 390,
+  "generated": "2026-10-28",
+  "edition": 391,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 6,811 stars in the last day to reach 393,382 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 5,621 stars in the last day to reach 399,003 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,157 +12,174 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Anthropic S-1",
-        "meta": "1577 pts",
-        "desc": "sec.gov \u00b7 1510 comments",
-        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+        "title": "AI promised less work. I've never worked more",
+        "meta": "631 pts",
+        "desc": "oioannou.com \u00b7 628 comments",
+        "url": "https://oioannou.com/blog/ai-promised-less-work/"
       },
       {
         "kind": "hn",
-        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-        "meta": "668 pts",
-        "desc": "magazine.sebastianraschka.com \u00b7 93 comments",
-        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+        "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+        "meta": "513 pts",
+        "desc": "stanforddaily.com \u00b7 273 comments",
+        "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
       },
       {
         "kind": "hn",
-        "title": "GPT-6.1 Terra",
-        "meta": "574 pts",
-        "desc": "openai.com \u00b7 357 comments",
-        "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+        "title": "Wikipedia's Cleanup of AI-Generated Content",
+        "meta": "474 pts",
+        "desc": "spectrum.ieee.org \u00b7 216 comments",
+        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "Panniantong/Agent-Reach",
-        "meta": "+1,467\u2605",
-        "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
-        "url": "https://github.com/Panniantong/Agent-Reach"
-      },
-      {
-        "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,179\u2605",
+        "meta": "+1,184\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
+        "title": "affaan-m/ECC",
+        "meta": "+1,058\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+1,149\u2605",
+        "meta": "+1,021\u2605",
         "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+1,037\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
+        "title": "Panniantong/Agent-Reach",
+        "meta": "+1,008\u2605",
+        "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "url": "https://github.com/Panniantong/Agent-Reach"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-        "meta": "896 pts",
-        "desc": "seattletimes.com \u00b7 837 comments",
-        "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"
+        "title": "Ghostty 1.4",
+        "meta": "956 pts",
+        "desc": "ghostty.org \u00b7 297 comments",
+        "url": "https://ghostty.org/docs/install/release-notes/1-4-0"
       },
       {
         "kind": "hn",
-        "title": "Three new discoveries in mathematics, computer science, and physics",
-        "meta": "779 pts",
-        "desc": "openai.com \u00b7 347 comments",
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+        "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+        "meta": "910 pts",
+        "desc": "wired.com \u00b7 328 comments",
+        "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"
       },
       {
         "kind": "hn",
-        "title": "The Exponential Time Hypothesis Is False [pdf]",
-        "meta": "544 pts",
-        "desc": "github.com \u00b7 197 comments",
-        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+        "title": "Genie 4",
+        "meta": "853 pts",
+        "desc": "deepmind.google \u00b7 501 comments",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
       },
       {
         "kind": "hn",
-        "title": "Switzerland. Block by block. At 1:1 scale",
-        "meta": "466 pts",
-        "desc": "blocks.manifold3d.ch \u00b7 214 comments",
-        "url": "https://blocks.manifold3d.ch/"
+        "title": "Python's experimental JIT to be removed",
+        "meta": "488 pts",
+        "desc": "lwn.net \u00b7 259 comments",
+        "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "JustAResearcher/gpu-unlock-ada",
-        "meta": "4.0k\u2605",
+        "meta": "4.3k\u2605",
         "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
         "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
       },
       {
         "kind": "rising",
         "title": "rddmwmddr/android-ad-cleaner",
-        "meta": "2.5k\u2605",
+        "meta": "3.8k\u2605",
         "desc": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
         "url": "https://github.com/rddmwmddr/android-ad-cleaner"
       },
       {
         "kind": "rising",
-        "title": "wesbos/3d-model-anything",
-        "meta": "2.1k\u2605",
-        "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-        "url": "https://github.com/wesbos/3d-model-anything"
+        "title": "unclebob/ub-mode",
+        "meta": "2.9k\u2605",
+        "desc": "",
+        "url": "https://github.com/unclebob/ub-mode"
       },
       {
         "kind": "rising",
-        "title": "xevrion/hatchzip",
-        "meta": "2.1k\u2605",
-        "desc": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
-        "url": "https://github.com/xevrion/hatchzip"
+        "title": "designfuchen/word-atlas",
+        "meta": "2.8k\u2605",
+        "desc": "\u8bcd\u5149 \u00b7 Word Atlas \u2014 Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+        "url": "https://github.com/designfuchen/word-atlas"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
+    "ai": "3 of 9 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 25h",
     "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 6811
+      "gained": 5621
     },
     {
-      "name": "Agent-Reach",
-      "gained": 1467
+      "name": "android-ad-cleaner",
+      "gained": 1368
     },
     {
       "name": "deepseek-harness",
-      "gained": 1179
-    },
-    {
-      "name": "orca",
-      "gained": 1149
+      "gained": 1184
     },
     {
       "name": "ECC",
-      "gained": 1037
+      "gained": 1058
     },
     {
-      "name": "graphify",
-      "gained": 873
+      "name": "orca",
+      "gained": 1021
     },
     {
-      "name": "skills",
-      "gained": 841
+      "name": "Agent-Reach",
+      "gained": 1008
     },
     {
-      "name": "gpu-unlock-ada",
-      "gained": 778
+      "name": "superpowers",
+      "gained": 978
+    },
+    {
+      "name": "word-atlas",
+      "gained": 838
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Cloudflare",
+      "title": "ERR_TIMED_OUT and ERR_EMPTY_RESPONSE being observed by Cloudflare Customers",
+      "impact": "major",
+      "minutes": 163,
+      "ongoing": false,
+      "url": "https://www.cloudflarestatus.com/incidents/dk2obcyw2aew"
+    },
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors for Claude Sonnet 5.5",
+      "impact": "major",
+      "minutes": 42,
+      "ongoing": false,
+      "url": "https://stspg.io/rql9h590npxd"
+    }
+  ]
 }
