@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-30",
-  "edition": 393,
+  "generated": "2026-10-31",
+  "edition": 394,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 5,028 stars in the last day to reach 409,407 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 3,881 stars in the last day to reach 413,288 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,157 +12,166 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "We're releasing the weights of Mistral Large 4",
-        "meta": "1397 pts",
-        "desc": "mistral.ai \u00b7 379 comments",
-        "url": "https://mistral.ai/news/mistral-large-4-oss/"
+        "title": "Backdoors in official Claude Code extensions",
+        "meta": "655 pts",
+        "desc": "cyberplace.social \u00b7 17 comments",
+        "url": "https://cyberplace.social/@GossiTheDog/117528831681803563"
       },
       {
         "kind": "hn",
-        "title": "LLM Voice",
-        "meta": "446 pts",
-        "desc": "martinfowler.com \u00b7 241 comments",
-        "url": "https://martinfowler.com/bliki/LLM-Voice.html"
+        "title": "AI isn't replacing SREs, it's deskilling them",
+        "meta": "575 pts",
+        "desc": "newsletter.signoz.io \u00b7 421 comments",
+        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
       },
       {
         "kind": "hn",
-        "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-        "meta": "333 pts",
-        "desc": "artificialanalysis.ai \u00b7 241 comments",
-        "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
+        "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+        "meta": "399 pts",
+        "desc": "doublepulsar.com \u00b7 1 comments",
+        "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "obra/superpowers",
-        "meta": "+1,187\u2605",
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
-      },
-      {
-        "kind": "trending",
-        "title": "stablyai/orca",
-        "meta": "+1,034\u2605",
-        "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "url": "https://github.com/stablyai/orca"
-      },
-      {
-        "kind": "trending",
         "title": "thedotmack/claude-mem",
-        "meta": "+993\u2605",
+        "meta": "+1,628\u2605",
         "desc": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "url": "https://github.com/thedotmack/claude-mem"
       },
       {
         "kind": "trending",
-        "title": "DietrichGebert/ponytail",
-        "meta": "+976\u2605",
-        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail"
+        "title": "mattpocock/skills",
+        "meta": "+857\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
+        "title": "stablyai/orca",
+        "meta": "+845\u2605",
+        "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "url": "https://github.com/stablyai/orca"
+      },
+      {
+        "kind": "trending",
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "+714\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Patrick Stewart has died",
-        "meta": "2849 pts",
-        "desc": "nytimes.com \u00b7 605 comments",
-        "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+        "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+        "meta": "637 pts",
+        "desc": "progressives.house.gov \u00b7 488 comments",
+        "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead"
       },
       {
         "kind": "hn",
-        "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
-        "meta": "1204 pts",
-        "desc": "arkm.com \u00b7 738 comments",
-        "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+        "title": "elect.horse",
+        "meta": "543 pts",
+        "desc": "elect.horse \u00b7 152 comments",
+        "url": "https://elect.horse/"
       },
       {
         "kind": "hn",
-        "title": "DoorDash to acquire Instacart",
-        "meta": "462 pts",
-        "desc": "about.doordash.com \u00b7 628 comments",
-        "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
+        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+        "meta": "426 pts",
+        "desc": "wired.com \u00b7 286 comments",
+        "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
       },
       {
         "kind": "hn",
-        "title": "\u2018You Are Done\u2019: The letter sent to King by the F.B.I (2014)",
-        "meta": "416 pts",
-        "desc": "nytimes.com \u00b7 396 comments",
-        "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html"
+        "title": "Northflank Breached",
+        "meta": "420 pts",
+        "desc": "status.northflank.com \u00b7 311 comments",
+        "url": "https://status.northflank.com"
       }
     ],
     "launches": [
       {
+        "kind": "hn",
+        "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+        "meta": "239 pts",
+        "desc": "github.com \u00b7 120 comments",
+        "url": "https://github.com/dbreunig/nesformer"
+      },
+      {
         "kind": "rising",
         "title": "unclebob/ub-mode",
-        "meta": "5.0k\u2605",
+        "meta": "5.5k\u2605",
         "desc": "",
         "url": "https://github.com/unclebob/ub-mode"
       },
       {
         "kind": "rising",
-        "title": "rddmwmddr/android-ad-cleaner",
-        "meta": "4.9k\u2605",
-        "desc": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
-        "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+        "title": "anhao/ai-pose-gallery-zh",
+        "meta": "4.2k\u2605",
+        "desc": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
+        "url": "https://github.com/anhao/ai-pose-gallery-zh"
       },
       {
         "kind": "rising",
         "title": "interplains/Zero-Breach-Toolkit",
-        "meta": "3.7k\u2605",
+        "meta": "3.9k\u2605",
         "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
         "url": "https://github.com/interplains/Zero-Breach-Toolkit"
-      },
-      {
-        "kind": "rising",
-        "title": "anhao/ai-pose-gallery-zh",
-        "meta": "3.5k\u2605",
-        "desc": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
-        "url": "https://github.com/anhao/ai-pose-gallery-zh"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 5 AI stories, past 24 hours",
+    "ai": "3 of 6 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 5028
-    },
-    {
-      "name": "superpowers",
-      "gained": 1187
-    },
-    {
-      "name": "orca",
-      "gained": 1034
+      "gained": 3881
     },
     {
       "name": "claude-mem",
-      "gained": 993
+      "gained": 1628
     },
     {
-      "name": "ponytail",
-      "gained": 976
+      "name": "skills",
+      "gained": 857
+    },
+    {
+      "name": "orca",
+      "gained": 845
     },
     {
       "name": "deepseek-harness",
-      "gained": 959
+      "gained": 714
     },
     {
       "name": "taste-skill",
-      "gained": 942
+      "gained": 710
     },
     {
-      "name": "ub-mode",
-      "gained": 930
+      "name": "superpowers",
+      "gained": 691
+    },
+    {
+      "name": "ai-pose-gallery-zh",
+      "gained": 681
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "GitHub",
+      "title": "Disruption with GitHub services",
+      "impact": "critical",
+      "minutes": 31,
+      "ongoing": false,
+      "url": "https://stspg.io/6p81rf34z4nc"
+    }
+  ]
 }
