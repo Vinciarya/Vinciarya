@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-31",
-  "edition": 394,
+  "generated": "2026-11-01",
+  "edition": 395,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 3,881 stars in the last day to reach 413,288 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 3,221 stars in the last day to reach 416,509 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,166 +12,157 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Backdoors in official Claude Code extensions",
-        "meta": "655 pts",
-        "desc": "cyberplace.social \u00b7 17 comments",
-        "url": "https://cyberplace.social/@GossiTheDog/117528831681803563"
+        "title": "Anthropic blocks users for anything touching training larger models",
+        "meta": "332 pts",
+        "desc": "twitter.com \u00b7 190 comments",
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088"
       },
       {
         "kind": "hn",
-        "title": "AI isn't replacing SREs, it's deskilling them",
-        "meta": "575 pts",
-        "desc": "newsletter.signoz.io \u00b7 421 comments",
-        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "meta": "245 pts",
+        "desc": "blog.talosintelligence.com \u00b7 131 comments",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
       },
       {
         "kind": "hn",
-        "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
-        "meta": "399 pts",
-        "desc": "doublepulsar.com \u00b7 1 comments",
-        "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "meta": "212 pts",
+        "desc": "github.com \u00b7 103 comments",
+        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "thedotmack/claude-mem",
-        "meta": "+1,628\u2605",
+        "meta": "+1,529\u2605",
         "desc": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "url": "https://github.com/thedotmack/claude-mem"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+857\u2605",
+        "meta": "+1,014\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "stablyai/orca",
-        "meta": "+845\u2605",
-        "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "url": "https://github.com/stablyai/orca"
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "+829\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+714\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
+        "title": "Leonxlnx/taste-skill",
+        "meta": "+768\u2605",
+        "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+        "url": "https://github.com/Leonxlnx/taste-skill"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-        "meta": "637 pts",
-        "desc": "progressives.house.gov \u00b7 488 comments",
-        "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead"
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "meta": "1210 pts",
+        "desc": "karpathy.bearblog.dev \u00b7 347 comments",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/"
       },
       {
         "kind": "hn",
-        "title": "elect.horse",
-        "meta": "543 pts",
-        "desc": "elect.horse \u00b7 152 comments",
-        "url": "https://elect.horse/"
+        "title": "Serbia just elected the world's brainiest parliament",
+        "meta": "854 pts",
+        "desc": "science.org \u00b7 481 comments",
+        "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament"
       },
       {
         "kind": "hn",
-        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-        "meta": "426 pts",
-        "desc": "wired.com \u00b7 286 comments",
-        "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "meta": "488 pts",
+        "desc": "atlasum.net \u00b7 222 comments",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
       },
       {
         "kind": "hn",
-        "title": "Northflank Breached",
-        "meta": "420 pts",
-        "desc": "status.northflank.com \u00b7 311 comments",
-        "url": "https://status.northflank.com"
+        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "meta": "373 pts",
+        "desc": "smithsonianmag.com \u00b7 108 comments",
+        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-        "meta": "239 pts",
-        "desc": "github.com \u00b7 120 comments",
-        "url": "https://github.com/dbreunig/nesformer"
-      },
-      {
-        "kind": "rising",
-        "title": "unclebob/ub-mode",
-        "meta": "5.5k\u2605",
-        "desc": "",
-        "url": "https://github.com/unclebob/ub-mode"
-      },
-      {
         "kind": "rising",
         "title": "anhao/ai-pose-gallery-zh",
-        "meta": "4.2k\u2605",
+        "meta": "4.9k\u2605",
         "desc": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
         "url": "https://github.com/anhao/ai-pose-gallery-zh"
       },
       {
         "kind": "rising",
-        "title": "interplains/Zero-Breach-Toolkit",
+        "title": "deepseek-ai/dsh-superagent-prototype",
+        "meta": "4.5k\u2605",
+        "desc": "Towards a More Autonomous Agent System",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+      },
+      {
+        "kind": "rising",
+        "title": "heydamir/unslop",
         "meta": "3.9k\u2605",
-        "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-        "url": "https://github.com/interplains/Zero-Breach-Toolkit"
+        "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "url": "https://github.com/heydamir/unslop"
+      },
+      {
+        "kind": "rising",
+        "title": "wangzan101/Mika",
+        "meta": "3.1k\u2605",
+        "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "url": "https://github.com/wangzan101/Mika"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 6 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "ai": "3 of 4 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 25h",
+    "hn": "Top 4 of 15 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 3881
+      "gained": 3221
     },
     {
       "name": "claude-mem",
-      "gained": 1628
+      "gained": 1529
     },
     {
       "name": "skills",
-      "gained": 857
-    },
-    {
-      "name": "orca",
-      "gained": 845
+      "gained": 1014
     },
     {
       "name": "deepseek-harness",
-      "gained": 714
+      "gained": 829
     },
     {
       "name": "taste-skill",
-      "gained": 710
+      "gained": 768
     },
     {
-      "name": "superpowers",
-      "gained": 691
+      "name": "ECC",
+      "gained": 717
     },
     {
       "name": "ai-pose-gallery-zh",
-      "gained": 681
+      "gained": 704
+    },
+    {
+      "name": "superpowers",
+      "gained": 657
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "GitHub",
-      "title": "Disruption with GitHub services",
-      "impact": "critical",
-      "minutes": 31,
-      "ongoing": false,
-      "url": "https://stspg.io/6p81rf34z4nc"
-    }
-  ]
+  "infra": []
 }
