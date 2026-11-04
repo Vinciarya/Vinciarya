@@ -1,166 +1,166 @@
 {
-  "generated": "2026-11-03",
-  "edition": 397,
+  "generated": "2026-11-04",
+  "edition": 398,
   "lead": {
-    "headline": "DSH-SUPERAGENT-PROTOTYPE SURGES TO #1 ON GITHUB",
-    "deck": "Towards a More Autonomous Agent System",
-    "body": "deepseek-ai/dsh-superagent-prototype is today's fastest-growing repository on GitHub, gaining 4,610 stars in the last day to reach 15,018 total. Towards a More Autonomous Agent System",
-    "source": "deepseek-ai/dsh-superagent-prototype",
-    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    "headline": "REA SURGES TO #1 ON GITHUB",
+    "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 4,023 stars in the last day to reach 428,511 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "source": "morluto/rea",
+    "url": "https://github.com/morluto/rea"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-        "meta": "335 pts",
-        "desc": "techpolicy.press \u00b7 248 comments",
-        "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"
+        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+        "meta": "1234 pts",
+        "desc": "github.com \u00b7 402 comments",
+        "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
       },
       {
         "kind": "hn",
-        "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-        "meta": "320 pts",
-        "desc": "businessinsider.com \u00b7 248 comments",
-        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+        "title": "Google will turn off search for schools that reject AI",
+        "meta": "608 pts",
+        "desc": "nytimes.com \u00b7 429 comments",
+        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
       },
       {
         "kind": "hn",
-        "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-        "meta": "231 pts",
-        "desc": "cnbc.com \u00b7 274 comments",
-        "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+        "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "meta": "601 pts",
+        "desc": "simonwillison.net \u00b7 178 comments",
+        "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "morluto/rea",
-        "meta": "+4,186\u2605",
-        "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "url": "https://github.com/morluto/rea"
-      },
-      {
-        "kind": "trending",
-        "title": "heydamir/unslop",
-        "meta": "+1,459\u2605",
-        "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-        "url": "https://github.com/heydamir/unslop"
-      },
-      {
-        "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,445\u2605",
+        "meta": "+1,436\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
+        "title": "mattpocock/skills",
+        "meta": "+1,274\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
         "title": "thedotmack/claude-mem",
-        "meta": "+1,172\u2605",
+        "meta": "+1,130\u2605",
         "desc": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "url": "https://github.com/thedotmack/claude-mem"
+      },
+      {
+        "kind": "trending",
+        "title": "stablyai/orca",
+        "meta": "+914\u2605",
+        "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "url": "https://github.com/stablyai/orca"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Astra can read and write weights to improve Qwen",
-        "meta": "2533 pts",
-        "desc": "rikiyat.github.io \u00b7 782 comments",
-        "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+        "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+        "meta": "968 pts",
+        "desc": "honnibal.dev \u00b7 201 comments",
+        "url": "https://honnibal.dev/blog/astra-read-write-misleading"
       },
       {
         "kind": "hn",
-        "title": "WTF Ubuntu?",
-        "meta": "1495 pts",
-        "desc": "chalmovsky.com \u00b7 626 comments",
-        "url": "https://chalmovsky.com/posts/wtf-ubuntu"
+        "title": "Stringman, an $800 open-source room scale gripper robot",
+        "meta": "563 pts",
+        "desc": "neufangled.com \u00b7 193 comments",
+        "url": "https://neufangled.com/"
       },
       {
         "kind": "hn",
-        "title": "If you love a website, back it up",
-        "meta": "530 pts",
-        "desc": "blog.mistys-internet.website \u00b7 116 comments",
-        "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/"
+        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+        "meta": "474 pts",
+        "desc": "news.ycombinator.com \u00b7 144 comments",
+        "url": "https://news.ycombinator.com/item?id=50352757"
       },
       {
         "kind": "hn",
-        "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-        "meta": "475 pts",
-        "desc": "freenode.net \u00b7 137 comments",
-        "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432"
+        "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+        "meta": "470 pts",
+        "desc": "arstechnica.com \u00b7 462 comments",
+        "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
-        "meta": "677 pts",
-        "desc": "news.ycombinator.com \u00b7 336 comments",
-        "url": "https://news.ycombinator.com/item?id=50340088"
+        "kind": "rising",
+        "title": "deepseek-ai/dsh-superagent-prototype",
+        "meta": "17.8k\u2605",
+        "desc": "Towards a More Autonomous Agent System",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
       },
       {
-        "kind": "hn",
-        "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
-        "meta": "265 pts",
-        "desc": "p.migdal.pl \u00b7 42 comments",
-        "url": "https://p.migdal.pl/warsaw-vibe-voxel/"
+        "kind": "rising",
+        "title": "storytold/craft-anything",
+        "meta": "9.5k\u2605",
+        "desc": "Craft Anything: understand how any software works, and craft your own.",
+        "url": "https://github.com/storytold/craft-anything"
       },
       {
-        "kind": "hn",
-        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-        "meta": "233 pts",
-        "desc": "hackertimes.ca \u00b7 74 comments",
-        "url": "https://hackertimes.ca/"
+        "kind": "rising",
+        "title": "heydamir/unslop",
+        "meta": "7.8k\u2605",
+        "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "url": "https://github.com/heydamir/unslop"
       },
       {
-        "kind": "hn",
-        "title": "Show HN: I've updated my Linux System Call website and API",
-        "meta": "220 pts",
-        "desc": "syscall.sh \u00b7 52 comments",
-        "url": "https://syscall.sh/"
+        "kind": "rising",
+        "title": "wangzan101/Mika",
+        "meta": "6.3k\u2605",
+        "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "url": "https://github.com/wangzan101/Mika"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 5 AI stories, past 24 hours",
+    "ai": "3 of 8 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "4 Show HN \u00b7 0 new repos"
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "dsh-superagent-prototype",
-      "gained": 4610
-    },
-    {
       "name": "rea",
-      "gained": 4186
+      "gained": 4023
     },
     {
-      "name": "unslop",
-      "gained": 1459
+      "name": "craft-anything",
+      "gained": 3902
+    },
+    {
+      "name": "dsh-superagent-prototype",
+      "gained": 2815
     },
     {
       "name": "deepseek-harness",
-      "gained": 1445
-    },
-    {
-      "name": "claude-mem",
-      "gained": 1172
-    },
-    {
-      "name": "Mika",
-      "gained": 1143
+      "gained": 1436
     },
     {
       "name": "skills",
-      "gained": 1099
+      "gained": 1274
+    },
+    {
+      "name": "claude-mem",
+      "gained": 1130
+    },
+    {
+      "name": "unslop",
+      "gained": 1103
     },
     {
       "name": "orca",
-      "gained": 956
+      "gained": 914
     }
   ],
   "ticker": [],
