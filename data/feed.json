@@ -1,168 +1,177 @@
 {
-  "generated": "2026-11-04",
-  "edition": 398,
+  "generated": "2026-11-05",
+  "edition": 399,
   "lead": {
-    "headline": "REA SURGES TO #1 ON GITHUB",
-    "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 4,023 stars in the last day to reach 428,511 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "source": "morluto/rea",
-    "url": "https://github.com/morluto/rea"
+    "headline": "CRAFT-ANYTHING SURGES TO #1 ON GITHUB",
+    "deck": "Craft Anything: understand how any software works, and craft your own.",
+    "body": "storytold/craft-anything is today's fastest-growing repository on GitHub, gaining 3,869 stars in the last day to reach 13,351 total. Craft Anything: understand how any software works, and craft your own.",
+    "source": "storytold/craft-anything",
+    "url": "https://github.com/storytold/craft-anything"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-        "meta": "1234 pts",
-        "desc": "github.com \u00b7 402 comments",
-        "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "meta": "1172 pts",
+        "desc": "spectrum.ieee.org \u00b7 682 comments",
+        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
       },
       {
         "kind": "hn",
-        "title": "Google will turn off search for schools that reject AI",
-        "meta": "608 pts",
-        "desc": "nytimes.com \u00b7 429 comments",
-        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+        "meta": "664 pts",
+        "desc": "news.ycombinator.com \u00b7 171 comments",
+        "url": "https://news.ycombinator.com/item?id=50363461"
       },
       {
         "kind": "hn",
-        "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-        "meta": "601 pts",
-        "desc": "simonwillison.net \u00b7 178 comments",
-        "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+        "title": "Kimi K3.1 Pro model weights are out",
+        "meta": "514 pts",
+        "desc": "huggingface.co \u00b7 143 comments",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,436\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
+        "title": "morluto/rea",
+        "meta": "+3,788\u2605",
+        "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "url": "https://github.com/morluto/rea"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,274\u2605",
+        "meta": "+1,972\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "thedotmack/claude-mem",
-        "meta": "+1,130\u2605",
-        "desc": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "url": "https://github.com/thedotmack/claude-mem"
+        "title": "deepseek-ai/deepseek-harness",
+        "meta": "+1,416\u2605",
+        "desc": "DeepSeek Harness: Everything is a Plugin.",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
-        "title": "stablyai/orca",
-        "meta": "+914\u2605",
-        "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "url": "https://github.com/stablyai/orca"
+        "title": "pbakaus/impeccable",
+        "meta": "+1,356\u2605",
+        "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "url": "https://github.com/pbakaus/impeccable"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-        "meta": "968 pts",
-        "desc": "honnibal.dev \u00b7 201 comments",
-        "url": "https://honnibal.dev/blog/astra-read-write-misleading"
+        "title": "Residential proxies detected on White House network",
+        "meta": "996 pts",
+        "desc": "layer3intel.com \u00b7 308 comments",
+        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
       },
       {
         "kind": "hn",
-        "title": "Stringman, an $800 open-source room scale gripper robot",
-        "meta": "563 pts",
-        "desc": "neufangled.com \u00b7 193 comments",
-        "url": "https://neufangled.com/"
+        "title": "North Korean fake job interview led to $6.3B Binance heist",
+        "meta": "605 pts",
+        "desc": "theregister.com \u00b7 372 comments",
+        "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
       },
       {
         "kind": "hn",
-        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-        "meta": "474 pts",
-        "desc": "news.ycombinator.com \u00b7 144 comments",
-        "url": "https://news.ycombinator.com/item?id=50352757"
+        "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+        "meta": "540 pts",
+        "desc": "tomshardware.com \u00b7 197 comments",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
       },
       {
         "kind": "hn",
-        "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-        "meta": "470 pts",
-        "desc": "arstechnica.com \u00b7 462 comments",
-        "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
+        "title": "US voters roundly reject data centers in ballot measures",
+        "meta": "331 pts",
+        "desc": "semafor.com \u00b7 672 comments",
+        "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "deepseek-ai/dsh-superagent-prototype",
-        "meta": "17.8k\u2605",
+        "meta": "19.0k\u2605",
         "desc": "Towards a More Autonomous Agent System",
         "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
       },
       {
         "kind": "rising",
-        "title": "storytold/craft-anything",
-        "meta": "9.5k\u2605",
-        "desc": "Craft Anything: understand how any software works, and craft your own.",
-        "url": "https://github.com/storytold/craft-anything"
+        "title": "patch-gg/pixelfx",
+        "meta": "5.0k\u2605",
+        "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "url": "https://github.com/patch-gg/pixelfx"
       },
       {
         "kind": "rising",
-        "title": "heydamir/unslop",
-        "meta": "7.8k\u2605",
-        "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-        "url": "https://github.com/heydamir/unslop"
+        "title": "KKKKhazix/agent-autoloop",
+        "meta": "2.9k\u2605",
+        "desc": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
+        "url": "https://github.com/KKKKhazix/agent-autoloop"
       },
       {
         "kind": "rising",
-        "title": "wangzan101/Mika",
-        "meta": "6.3k\u2605",
-        "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-        "url": "https://github.com/wangzan101/Mika"
+        "title": "Verlintas/NOIR",
+        "meta": "2.3k\u2605",
+        "desc": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+        "url": "https://github.com/Verlintas/NOIR"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 8 AI stories, past 24 hours",
+    "ai": "3 of 6 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "rea",
-      "gained": 4023
-    },
-    {
       "name": "craft-anything",
-      "gained": 3902
+      "gained": 3869
     },
     {
-      "name": "dsh-superagent-prototype",
-      "gained": 2815
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 1436
+      "name": "rea",
+      "gained": 3788
     },
     {
       "name": "skills",
-      "gained": 1274
+      "gained": 1972
     },
     {
-      "name": "claude-mem",
-      "gained": 1130
+      "name": "deepseek-harness",
+      "gained": 1416
     },
     {
-      "name": "unslop",
-      "gained": 1103
+      "name": "impeccable",
+      "gained": 1356
+    },
+    {
+      "name": "dsh-superagent-prototype",
+      "gained": 1214
     },
     {
       "name": "orca",
-      "gained": 914
+      "gained": 1078
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "gained": 952
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "GitHub",
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "impact": "major",
+      "minutes": 120,
+      "ongoing": false,
+      "url": "https://stspg.io/18blsgwnbyy6"
+    }
+  ]
 }
