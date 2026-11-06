@@ -1,63 +1,63 @@
 {
-  "generated": "2026-11-05",
-  "edition": 399,
+  "generated": "2026-11-06",
+  "edition": 400,
   "lead": {
-    "headline": "CRAFT-ANYTHING SURGES TO #1 ON GITHUB",
-    "deck": "Craft Anything: understand how any software works, and craft your own.",
-    "body": "storytold/craft-anything is today's fastest-growing repository on GitHub, gaining 3,869 stars in the last day to reach 13,351 total. Craft Anything: understand how any software works, and craft your own.",
-    "source": "storytold/craft-anything",
-    "url": "https://github.com/storytold/craft-anything"
+    "headline": "REA SURGES TO #1 ON GITHUB",
+    "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 3,470 stars in the last day to reach 435,769 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "source": "morluto/rea",
+    "url": "https://github.com/morluto/rea"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "AI is forcing us to pay off 40 years of technical debt",
-        "meta": "1172 pts",
-        "desc": "spectrum.ieee.org \u00b7 682 comments",
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+        "title": "Claude Code sends your email address to websites",
+        "meta": "1063 pts",
+        "desc": "github.com \u00b7 332 comments",
+        "url": "https://github.com/anthropics/claude-code/issues/107757"
       },
       {
         "kind": "hn",
-        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-        "meta": "664 pts",
-        "desc": "news.ycombinator.com \u00b7 171 comments",
-        "url": "https://news.ycombinator.com/item?id=50363461"
+        "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+        "meta": "307 pts",
+        "desc": "finance.yahoo.com \u00b7 143 comments",
+        "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
       },
       {
         "kind": "hn",
-        "title": "Kimi K3.1 Pro model weights are out",
-        "meta": "514 pts",
-        "desc": "huggingface.co \u00b7 143 comments",
-        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+        "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+        "meta": "205 pts",
+        "desc": "euronews.com \u00b7 60 comments",
+        "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "morluto/rea",
-        "meta": "+3,788\u2605",
-        "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "url": "https://github.com/morluto/rea"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,972\u2605",
+        "meta": "+2,002\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+1,416\u2605",
+        "meta": "+1,174\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
+        "title": "stablyai/orca",
+        "meta": "+1,174\u2605",
+        "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+        "url": "https://github.com/stablyai/orca"
+      },
+      {
+        "kind": "trending",
         "title": "pbakaus/impeccable",
-        "meta": "+1,356\u2605",
+        "meta": "+1,033\u2605",
         "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable"
       }
@@ -65,113 +65,104 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Residential proxies detected on White House network",
-        "meta": "996 pts",
-        "desc": "layer3intel.com \u00b7 308 comments",
-        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
+        "title": "sshole",
+        "meta": "2659 pts",
+        "desc": "sshhole.com \u00b7 634 comments",
+        "url": "https://sshhole.com"
       },
       {
         "kind": "hn",
-        "title": "North Korean fake job interview led to $6.3B Binance heist",
-        "meta": "605 pts",
-        "desc": "theregister.com \u00b7 372 comments",
-        "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+        "title": "Search for everyone",
+        "meta": "664 pts",
+        "desc": "kagi.com \u00b7 338 comments",
+        "url": "https://kagi.com/changelog#11820"
       },
       {
         "kind": "hn",
-        "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-        "meta": "540 pts",
-        "desc": "tomshardware.com \u00b7 197 comments",
-        "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
+        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+        "meta": "622 pts",
+        "desc": "alpinelinux.org \u00b7 2 comments",
+        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
       },
       {
         "kind": "hn",
-        "title": "US voters roundly reject data centers in ballot measures",
-        "meta": "331 pts",
-        "desc": "semafor.com \u00b7 672 comments",
-        "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures"
+        "title": "Goodbye from Salon",
+        "meta": "570 pts",
+        "desc": "salon.com \u00b7 217 comments",
+        "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "deepseek-ai/dsh-superagent-prototype",
-        "meta": "19.0k\u2605",
+        "meta": "19.9k\u2605",
         "desc": "Towards a More Autonomous Agent System",
         "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
       },
       {
         "kind": "rising",
-        "title": "patch-gg/pixelfx",
-        "meta": "5.0k\u2605",
-        "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-        "url": "https://github.com/patch-gg/pixelfx"
+        "title": "storytold/craft-anything",
+        "meta": "16.2k\u2605",
+        "desc": "Craft Anything: understand how any software works, and craft your own.",
+        "url": "https://github.com/storytold/craft-anything"
       },
       {
         "kind": "rising",
         "title": "KKKKhazix/agent-autoloop",
-        "meta": "2.9k\u2605",
+        "meta": "3.4k\u2605",
         "desc": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
         "url": "https://github.com/KKKKhazix/agent-autoloop"
       },
       {
         "kind": "rising",
-        "title": "Verlintas/NOIR",
-        "meta": "2.3k\u2605",
-        "desc": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-        "url": "https://github.com/Verlintas/NOIR"
+        "title": "zortos293/Lichii",
+        "meta": "2.8k\u2605",
+        "desc": "VERY experimental Nintendo Switch 2 emulator",
+        "url": "https://github.com/zortos293/Lichii"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 6 AI stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "craft-anything",
-      "gained": 3869
+      "name": "rea",
+      "gained": 3470
     },
     {
-      "name": "rea",
-      "gained": 3788
+      "name": "craft-anything",
+      "gained": 2857
     },
     {
       "name": "skills",
-      "gained": 1972
+      "gained": 2002
     },
     {
       "name": "deepseek-harness",
-      "gained": 1416
-    },
-    {
-      "name": "impeccable",
-      "gained": 1356
-    },
-    {
-      "name": "dsh-superagent-prototype",
-      "gained": 1214
+      "gained": 1174
     },
     {
       "name": "orca",
-      "gained": 1078
+      "gained": 1174
     },
     {
-      "name": "MoneyPrinterTurbo",
-      "gained": 952
+      "name": "impeccable",
+      "gained": 1033
+    },
+    {
+      "name": "dsh-superagent-prototype",
+      "gained": 847
+    },
+    {
+      "name": "gstack",
+      "gained": 677
     }
   ],
   "ticker": [],
-  "infra": [
-    {
-      "name": "GitHub",
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "impact": "major",
-      "minutes": 120,
-      "ongoing": false,
-      "url": "https://stspg.io/18blsgwnbyy6"
-    }
-  ]
+  "infra": []
 }
