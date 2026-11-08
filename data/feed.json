@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-07",
-  "edition": 401,
+  "generated": "2026-11-08",
+  "edition": 402,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 3,166 stars in the last day to reach 438,935 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,953 stars in the last day to reach 441,888 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,52 +12,52 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Gemini Omni 1.2 Flash",
-        "meta": "325 pts",
-        "desc": "blog.google \u00b7 227 comments",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+        "title": "The end of Microsoft Research's AI Frontiers group",
+        "meta": "449 pts",
+        "desc": "hunch.net \u00b7 270 comments",
+        "url": "https://hunch.net/?p=13764006"
       },
       {
         "kind": "hn",
-        "title": "AI is dramatically accelerating AI research",
-        "meta": "284 pts",
-        "desc": "planned-obsolescence.org \u00b7 219 comments",
-        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "meta": "363 pts",
+        "desc": "apiiro.com \u00b7 250 comments",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
       },
       {
         "kind": "hn",
-        "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-        "meta": "273 pts",
-        "desc": "bloomberg.com \u00b7 544 comments",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
+        "title": "Goodbye Claude, Hello Pi",
+        "meta": "229 pts",
+        "desc": "caleb.software \u00b7 138 comments",
+        "url": "https://caleb.software/posts/claude-to-pi.html"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,120\u2605",
+        "meta": "+1,004\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+928\u2605",
+        "meta": "+777\u2605",
         "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+898\u2605",
+        "meta": "+770\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
         "title": "pbakaus/impeccable",
-        "meta": "+752\u2605",
+        "meta": "+750\u2605",
         "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable"
       }
@@ -65,102 +65,102 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Tesla to wind down Cybertruck production",
-        "meta": "984 pts",
-        "desc": "nbcnews.com \u00b7 1840 comments",
-        "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+        "title": "Need for Speed Underground 2 online in the browser",
+        "meta": "955 pts",
+        "desc": "nfsu2.xyz \u00b7 247 comments",
+        "url": "https://nfsu2.xyz/"
       },
       {
         "kind": "hn",
-        "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-        "meta": "635 pts",
-        "desc": "github.com \u00b7 413 comments",
-        "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105"
+        "title": "Every Mac comes with an (undocumented) family member classifier",
+        "meta": "704 pts",
+        "desc": "8rank.ai \u00b7 373 comments",
+        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
       },
       {
         "kind": "hn",
-        "title": "Libghostty 1.0",
-        "meta": "543 pts",
-        "desc": "mitchellh.com \u00b7 92 comments",
-        "url": "https://mitchellh.com/writing/libghostty-1-0"
+        "title": "What I run on my $10 USD OpenStick homelab",
+        "meta": "542 pts",
+        "desc": "blog.bosscher.ch \u00b7 104 comments",
+        "url": "https://blog.bosscher.ch/posts/openstick/"
       },
       {
         "kind": "hn",
-        "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-        "meta": "448 pts",
-        "desc": "hightouch.com \u00b7 101 comments",
-        "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+        "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+        "meta": "452 pts",
+        "desc": "theguardian.com \u00b7 284 comments",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
       }
     ],
     "launches": [
       {
+        "kind": "hn",
+        "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+        "meta": "228 pts",
+        "desc": "github.com \u00b7 54 comments",
+        "url": "https://github.com/hedgerow-dev/coldframe"
+      },
+      {
         "kind": "rising",
         "title": "KKKKhazix/agent-autoloop",
-        "meta": "3.8k\u2605",
+        "meta": "4.0k\u2605",
         "desc": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
         "url": "https://github.com/KKKKhazix/agent-autoloop"
       },
       {
         "kind": "rising",
         "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-        "meta": "3.0k\u2605",
+        "meta": "3.1k\u2605",
         "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
         "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
       },
       {
         "kind": "rising",
-        "title": "govijr/terminal-mac",
-        "meta": "2.2k\u2605",
-        "desc": "Entire MacOS running in your terminal.",
-        "url": "https://github.com/govijr/terminal-mac"
-      },
-      {
-        "kind": "rising",
-        "title": "mromidev/claude-animated-shorts",
-        "meta": "2.1k\u2605",
-        "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-        "url": "https://github.com/mromidev/claude-animated-shorts"
+        "title": "Minireel/HGhub",
+        "meta": "2.6k\u2605",
+        "desc": "YellowFruit third-party client",
+        "url": "https://github.com/Minireel/HGhub"
       }
     ]
   },
   "notes": {
     "ai": "3 of 3 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 23h",
-    "hn": "Top 4 of 18 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "trending": "Stars gained in the last 24h",
+    "hn": "Top 4 of 14 stories, past 24 hours",
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 3166
+      "gained": 2953
     },
     {
       "name": "skills",
-      "gained": 1120
+      "gained": 1004
     },
     {
       "name": "orca",
-      "gained": 928
+      "gained": 777
     },
     {
       "name": "deepseek-harness",
-      "gained": 898
+      "gained": 770
     },
     {
       "name": "impeccable",
-      "gained": 752
+      "gained": 750
+    },
+    {
+      "name": "skills",
+      "gained": 719
     },
     {
       "name": "ECC",
-      "gained": 672
+      "gained": 585
     },
     {
       "name": "superpowers",
-      "gained": 537
-    },
-    {
-      "name": "graphify",
-      "gained": 504
+      "gained": 515
     }
   ],
   "ticker": [],
