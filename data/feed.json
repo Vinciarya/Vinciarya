@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-08",
-  "edition": 402,
+  "generated": "2026-11-09",
+  "edition": 403,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,953 stars in the last day to reach 441,888 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 3,137 stars in the last day to reach 445,025 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,155 +12,155 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "The end of Microsoft Research's AI Frontiers group",
-        "meta": "449 pts",
-        "desc": "hunch.net \u00b7 270 comments",
-        "url": "https://hunch.net/?p=13764006"
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "meta": "758 pts",
+        "desc": "thestateofai.com \u00b7 405 comments",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
       },
       {
         "kind": "hn",
-        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "meta": "363 pts",
-        "desc": "apiiro.com \u00b7 250 comments",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "meta": "415 pts",
+        "desc": "github.com \u00b7 187 comments",
+        "url": "https://github.com/synchopate/llama-modchip"
       },
       {
         "kind": "hn",
-        "title": "Goodbye Claude, Hello Pi",
-        "meta": "229 pts",
-        "desc": "caleb.software \u00b7 138 comments",
-        "url": "https://caleb.software/posts/claude-to-pi.html"
+        "title": "I'm not convinced the AI bubble exists",
+        "meta": "255 pts",
+        "desc": "matteoraso.github.io \u00b7 400 comments",
+        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "anthropics/skills",
+        "meta": "+1,002\u2605",
+        "desc": "Public repository for Agent Skills",
+        "url": "https://github.com/anthropics/skills"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,004\u2605",
+        "meta": "+970\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "stablyai/orca",
-        "meta": "+777\u2605",
-        "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-        "url": "https://github.com/stablyai/orca"
-      },
-      {
-        "kind": "trending",
         "title": "deepseek-ai/deepseek-harness",
-        "meta": "+770\u2605",
+        "meta": "+965\u2605",
         "desc": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness"
       },
       {
         "kind": "trending",
-        "title": "pbakaus/impeccable",
-        "meta": "+750\u2605",
-        "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "url": "https://github.com/pbakaus/impeccable"
+        "title": "stablyai/orca",
+        "meta": "+904\u2605",
+        "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+        "url": "https://github.com/stablyai/orca"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Need for Speed Underground 2 online in the browser",
-        "meta": "955 pts",
-        "desc": "nfsu2.xyz \u00b7 247 comments",
-        "url": "https://nfsu2.xyz/"
+        "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+        "meta": "637 pts",
+        "desc": "nvidianews.nvidia.com \u00b7 670 comments",
+        "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
       },
       {
         "kind": "hn",
-        "title": "Every Mac comes with an (undocumented) family member classifier",
-        "meta": "704 pts",
-        "desc": "8rank.ai \u00b7 373 comments",
-        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+        "title": "Statement from Nvidia board of directors",
+        "meta": "465 pts",
+        "desc": "nvidianews.nvidia.com \u00b7 347 comments",
+        "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
       },
       {
         "kind": "hn",
-        "title": "What I run on my $10 USD OpenStick homelab",
-        "meta": "542 pts",
-        "desc": "blog.bosscher.ch \u00b7 104 comments",
-        "url": "https://blog.bosscher.ch/posts/openstick/"
+        "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+        "meta": "462 pts",
+        "desc": "ketchup3d.github.io \u00b7 129 comments",
+        "url": "https://ketchup3d.github.io/app/"
       },
       {
         "kind": "hn",
-        "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-        "meta": "452 pts",
-        "desc": "theguardian.com \u00b7 284 comments",
-        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+        "title": "Outlook.com is rejecting email from domains without DMARC",
+        "meta": "391 pts",
+        "desc": "mailroute.net \u00b7 278 comments",
+        "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-        "meta": "228 pts",
-        "desc": "github.com \u00b7 54 comments",
-        "url": "https://github.com/hedgerow-dev/coldframe"
+        "kind": "rising",
+        "title": "Minireel/HGhub",
+        "meta": "4.4k\u2605",
+        "desc": "YellowFruit third-party client",
+        "url": "https://github.com/Minireel/HGhub"
       },
       {
         "kind": "rising",
         "title": "KKKKhazix/agent-autoloop",
-        "meta": "4.0k\u2605",
+        "meta": "4.2k\u2605",
         "desc": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
         "url": "https://github.com/KKKKhazix/agent-autoloop"
       },
       {
         "kind": "rising",
-        "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-        "meta": "3.1k\u2605",
-        "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
-        "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+        "title": "NotRexed/Hookshot",
+        "meta": "3.5k\u2605",
+        "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "url": "https://github.com/NotRexed/Hookshot"
       },
       {
         "kind": "rising",
-        "title": "Minireel/HGhub",
-        "meta": "2.6k\u2605",
-        "desc": "YellowFruit third-party client",
-        "url": "https://github.com/Minireel/HGhub"
+        "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "meta": "3.3k\u2605",
+        "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 3 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 14 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "ai": "3 of 5 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 25h",
+    "hn": "Top 4 of 19 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 2953
+      "gained": 3137
+    },
+    {
+      "name": "HGhub",
+      "gained": 1855
+    },
+    {
+      "name": "Hookshot",
+      "gained": 1403
     },
     {
       "name": "skills",
-      "gained": 1004
+      "gained": 1002
     },
     {
-      "name": "orca",
-      "gained": 777
+      "name": "skills",
+      "gained": 970
     },
     {
       "name": "deepseek-harness",
-      "gained": 770
+      "gained": 965
+    },
+    {
+      "name": "orca",
+      "gained": 904
     },
     {
       "name": "impeccable",
-      "gained": 750
-    },
-    {
-      "name": "skills",
-      "gained": 719
-    },
-    {
-      "name": "ECC",
-      "gained": 585
-    },
-    {
-      "name": "superpowers",
-      "gained": 515
+      "gained": 695
     }
   ],
   "ticker": [],
