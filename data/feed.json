@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-09",
-  "edition": 403,
+  "generated": "2026-11-10",
+  "edition": 404,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 3,137 stars in the last day to reach 445,025 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 3,168 stars in the last day to reach 448,193 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,52 +12,52 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-        "meta": "758 pts",
-        "desc": "thestateofai.com \u00b7 405 comments",
-        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "meta": "975 pts",
+        "desc": "anthropic.com \u00b7 6 comments",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
       },
       {
         "kind": "hn",
-        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "meta": "415 pts",
-        "desc": "github.com \u00b7 187 comments",
-        "url": "https://github.com/synchopate/llama-modchip"
+        "title": "Google Gemini routes personal Drive files and emails to human annotators",
+        "meta": "588 pts",
+        "desc": "github.com \u00b7 128 comments",
+        "url": "https://github.com/thisisme6598/gemini_files/"
       },
       {
         "kind": "hn",
-        "title": "I'm not convinced the AI bubble exists",
-        "meta": "255 pts",
-        "desc": "matteoraso.github.io \u00b7 400 comments",
-        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+        "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+        "meta": "344 pts",
+        "desc": "artificialanalysis.ai \u00b7 244 comments",
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "anthropics/skills",
-        "meta": "+1,002\u2605",
+        "meta": "+1,566\u2605",
         "desc": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills"
       },
       {
         "kind": "trending",
+        "title": "debpalash/VoiceStudio",
+        "meta": "+1,193\u2605",
+        "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+970\u2605",
+        "meta": "+1,186\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+965\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
-      },
-      {
-        "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+904\u2605",
+        "meta": "+1,114\u2605",
         "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       }
@@ -65,104 +65,113 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-        "meta": "637 pts",
-        "desc": "nvidianews.nvidia.com \u00b7 670 comments",
-        "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+        "title": "Foldable Flight: The Best Paper Airplanes",
+        "meta": "1009 pts",
+        "desc": "foldableflight.com \u00b7 149 comments",
+        "url": "https://www.foldableflight.com"
       },
       {
         "kind": "hn",
-        "title": "Statement from Nvidia board of directors",
-        "meta": "465 pts",
-        "desc": "nvidianews.nvidia.com \u00b7 347 comments",
-        "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        "title": "USPS now offers official ZIP Code boundary polygons",
+        "meta": "613 pts",
+        "desc": "postalpro.usps.com \u00b7 308 comments",
+        "url": "https://postalpro.usps.com/zcb"
       },
       {
         "kind": "hn",
-        "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
-        "meta": "462 pts",
-        "desc": "ketchup3d.github.io \u00b7 129 comments",
-        "url": "https://ketchup3d.github.io/app/"
+        "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+        "meta": "529 pts",
+        "desc": "payments.ca \u00b7 284 comments",
+        "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
       },
       {
         "kind": "hn",
-        "title": "Outlook.com is rejecting email from domains without DMARC",
-        "meta": "391 pts",
-        "desc": "mailroute.net \u00b7 278 comments",
-        "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"
+        "title": "Humans will never again create a project quite like Wikipedia",
+        "meta": "476 pts",
+        "desc": "economist.com \u00b7 423 comments",
+        "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"
       }
     ],
     "launches": [
       {
-        "kind": "rising",
-        "title": "Minireel/HGhub",
-        "meta": "4.4k\u2605",
-        "desc": "YellowFruit third-party client",
-        "url": "https://github.com/Minireel/HGhub"
-      },
-      {
-        "kind": "rising",
-        "title": "KKKKhazix/agent-autoloop",
-        "meta": "4.2k\u2605",
-        "desc": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
-        "url": "https://github.com/KKKKhazix/agent-autoloop"
+        "kind": "hn",
+        "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+        "meta": "341 pts",
+        "desc": "watched.earth \u00b7 60 comments",
+        "url": "https://www.watched.earth"
       },
       {
         "kind": "rising",
         "title": "NotRexed/Hookshot",
-        "meta": "3.5k\u2605",
+        "meta": "5.6k\u2605",
         "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
         "url": "https://github.com/NotRexed/Hookshot"
       },
       {
         "kind": "rising",
-        "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-        "meta": "3.3k\u2605",
-        "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
-        "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+        "title": "huamidev/GestaltX",
+        "meta": "3.5k\u2605",
+        "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+        "url": "https://github.com/huamidev/GestaltX"
+      },
+      {
+        "kind": "rising",
+        "title": "tangerineturtle1/NX2navi",
+        "meta": "2.6k\u2605",
+        "desc": "",
+        "url": "https://github.com/tangerineturtle1/NX2navi"
       }
     ]
   },
   "notes": {
     "ai": "3 of 5 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 25h",
-    "hn": "Top 4 of 19 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "trending": "Stars gained in the last 24h",
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 3137
-    },
-    {
-      "name": "HGhub",
-      "gained": 1855
+      "gained": 3168
     },
     {
       "name": "Hookshot",
-      "gained": 1403
+      "gained": 2108
     },
     {
       "name": "skills",
-      "gained": 1002
+      "gained": 1566
+    },
+    {
+      "name": "VoiceStudio",
+      "gained": 1193
     },
     {
       "name": "skills",
-      "gained": 970
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 965
+      "gained": 1186
     },
     {
       "name": "orca",
-      "gained": 904
+      "gained": 1114
+    },
+    {
+      "name": "deepseek-harness",
+      "gained": 820
     },
     {
       "name": "impeccable",
-      "gained": 695
+      "gained": 692
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "GitHub",
+      "title": "Incident with Actions and Checks API",
+      "impact": "critical",
+      "minutes": 46,
+      "ongoing": false,
+      "url": "https://stspg.io/7yw63xl9ztrv"
+    }
+  ]
 }
