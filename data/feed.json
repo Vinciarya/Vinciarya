@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-11",
-  "edition": 405,
+  "generated": "2026-11-12",
+  "edition": 406,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,873 stars in the last day to reach 451,066 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,694 stars in the last day to reach 453,760 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,166 +12,174 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "AI usage generates a fragile codebase",
-        "meta": "527 pts",
-        "desc": "evanxmerz.com \u00b7 505 comments",
-        "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+        "title": "My AI agents found an unmapped Maya site?",
+        "meta": "985 pts",
+        "desc": "pietromiotti.com \u00b7 358 comments",
+        "url": "https://pietromiotti.com/latest/maya-site"
       },
       {
         "kind": "hn",
-        "title": "Tracking Anthropic-discovered vulnerabilities",
-        "meta": "393 pts",
-        "desc": "vulncheck.com \u00b7 183 comments",
-        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "meta": "546 pts",
+        "desc": "cbsnews.com \u00b7 537 comments",
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
       },
       {
         "kind": "hn",
-        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-        "meta": "357 pts",
-        "desc": "github.com \u00b7 106 comments",
-        "url": "https://github.com/GoogleChrome/modern-web-guidance"
+        "title": "Gemini Decisions API",
+        "meta": "422 pts",
+        "desc": "blog.google \u00b7 126 comments",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "sherlock-project/sherlock",
-        "meta": "+1,591\u2605",
-        "desc": "Hunt down social media accounts by username across social networks",
-        "url": "https://github.com/sherlock-project/sherlock"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+1,165\u2605",
+        "meta": "+1,051\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "anthropics/skills",
-        "meta": "+1,132\u2605",
-        "desc": "Public repository for Agent Skills",
-        "url": "https://github.com/anthropics/skills"
+        "title": "stablyai/orca",
+        "meta": "+1,015\u2605",
+        "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+        "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
         "title": "debpalash/VoiceStudio",
-        "meta": "+1,026\u2605",
+        "meta": "+997\u2605",
         "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      {
+        "kind": "trending",
+        "title": "sherlock-project/sherlock",
+        "meta": "+771\u2605",
+        "desc": "Hunt down social media accounts by username across social networks",
+        "url": "https://github.com/sherlock-project/sherlock"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Smart home devices should work without the internet",
-        "meta": "902 pts",
-        "desc": "docodethatmatters.com \u00b7 321 comments",
-        "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+        "title": "Nvidia is preparing to oust Jensen Huang",
+        "meta": "987 pts",
+        "desc": "wsj.com \u00b7 1331 comments",
+        "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
       },
       {
         "kind": "hn",
-        "title": ".name Grandfathered",
-        "meta": "812 pts",
-        "desc": "neil.fraser.name \u00b7 177 comments",
-        "url": "https://neil.fraser.name/news/2026/11/10/"
+        "title": "AWS emulator",
+        "meta": "835 pts",
+        "desc": "github.com \u00b7 233 comments",
+        "url": "https://github.com/aws/aws-emulator"
       },
       {
         "kind": "hn",
-        "title": "AlphaProof Code",
-        "meta": "624 pts",
-        "desc": "deepmind.google \u00b7 182 comments",
-        "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "meta": "486 pts",
+        "desc": "michael.bacarella.com \u00b7 236 comments",
+        "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
       },
       {
         "kind": "hn",
-        "title": "Blender 5.3 released with Gaussian Splat support",
-        "meta": "467 pts",
-        "desc": "blender.org \u00b7 69 comments",
-        "url": "https://www.blender.org/download/releases/5-3/"
+        "title": "93% of paint splatters are valid Perl programs (2019)",
+        "meta": "411 pts",
+        "desc": "mcmillen.dev \u00b7 54 comments",
+        "url": "https://www.mcmillen.dev/sigbovik/"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-        "meta": "227 pts",
-        "desc": "tinyvalencia.com \u00b7 55 comments",
-        "url": "https://tinyvalencia.com/"
+        "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+        "meta": "236 pts",
+        "desc": "github.com \u00b7 94 comments",
+        "url": "https://github.com/FrigadeHQ/yogurt"
       },
       {
-        "kind": "rising",
-        "title": "NotRexed/Hookshot",
-        "meta": "6.9k\u2605",
-        "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-        "url": "https://github.com/NotRexed/Hookshot"
+        "kind": "hn",
+        "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+        "meta": "223 pts",
+        "desc": "termsheetplease.com \u00b7 85 comments",
+        "url": "https://termsheetplease.com/"
       },
       {
         "kind": "rising",
         "title": "huamidev/GestaltX",
-        "meta": "5.6k\u2605",
+        "meta": "6.7k\u2605",
         "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
         "url": "https://github.com/huamidev/GestaltX"
       },
       {
         "kind": "rising",
         "title": "tangerineturtle1/NX2navi",
-        "meta": "3.0k\u2605",
+        "meta": "3.4k\u2605",
         "desc": "",
         "url": "https://github.com/tangerineturtle1/NX2navi"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 6 AI stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "launches": "2 Show HN \u00b7 2 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 2873
+      "gained": 2694
     },
     {
       "name": "GestaltX",
-      "gained": 2053
-    },
-    {
-      "name": "sherlock",
-      "gained": 1591
-    },
-    {
-      "name": "Hookshot",
-      "gained": 1302
+      "gained": 1081
     },
     {
       "name": "skills",
-      "gained": 1165
-    },
-    {
-      "name": "skills",
-      "gained": 1132
-    },
-    {
-      "name": "VoiceStudio",
-      "gained": 1026
+      "gained": 1051
     },
     {
       "name": "orca",
-      "gained": 981
+      "gained": 1015
+    },
+    {
+      "name": "VoiceStudio",
+      "gained": 997
+    },
+    {
+      "name": "sherlock",
+      "gained": 771
+    },
+    {
+      "name": "impeccable",
+      "gained": 752
+    },
+    {
+      "name": "taste-skill",
+      "gained": 678
     }
   ],
   "ticker": [],
   "infra": [
     {
-      "name": "GitHub",
-      "title": "Incident with Git Operations and Pull Requests",
+      "name": "OpenAI",
+      "title": "Unable to start new Workspace Agent runs",
       "impact": "critical",
-      "minutes": 104,
+      "minutes": 582,
       "ongoing": false,
-      "url": "https://stspg.io/16nsnk2th3rv"
+      "url": ""
+    },
+    {
+      "name": "GitHub",
+      "title": "Impact across multiple GitHub products including Actions, Pages, and Copilot products.",
+      "impact": "critical",
+      "minutes": 33,
+      "ongoing": false,
+      "url": "https://stspg.io/jdjlq5zjyl48"
     }
   ]
 }
