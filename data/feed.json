@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-13",
-  "edition": 407,
+  "generated": "2026-11-14",
+  "edition": 408,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,442 stars in the last day to reach 456,202 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,134 stars in the last day to reach 458,336 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,114 +12,114 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Anthropic IPO",
-        "meta": "919 pts",
-        "desc": "ipo.anthropic.com \u00b7 860 comments",
-        "url": "https://ipo.anthropic.com/us/"
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "meta": "488 pts",
+        "desc": "status.claude.com \u00b7 384 comments",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn"
       },
       {
         "kind": "hn",
-        "title": "Gemini 4 Hydrogen",
-        "meta": "525 pts",
-        "desc": "blog.google \u00b7 330 comments",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "meta": "483 pts",
+        "desc": "techpowerup.com \u00b7 269 comments",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
       },
       {
         "kind": "hn",
-        "title": "Gemini 4 Hydrogen and Orchestrator",
-        "meta": "407 pts",
-        "desc": "antigravity.google \u00b7 110 comments",
-        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+        "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+        "meta": "384 pts",
+        "desc": "theguardian.com \u00b7 96 comments",
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "stablyai/orca",
-        "meta": "+1,051\u2605",
-        "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-        "url": "https://github.com/stablyai/orca"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+914\u2605",
+        "meta": "+719\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
         "title": "debpalash/VoiceStudio",
-        "meta": "+828\u2605",
+        "meta": "+717\u2605",
         "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio"
       },
       {
         "kind": "trending",
-        "title": "deepseek-ai/deepseek-harness",
-        "meta": "+787\u2605",
-        "desc": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness"
+        "title": "stablyai/orca",
+        "meta": "+679\u2605",
+        "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+        "url": "https://github.com/stablyai/orca"
+      },
+      {
+        "kind": "trending",
+        "title": "Leonxlnx/taste-skill",
+        "meta": "+628\u2605",
+        "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+        "url": "https://github.com/Leonxlnx/taste-skill"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Jensen Huang resigns",
-        "meta": "3482 pts",
-        "desc": "apnews.com \u00b7 3097 comments",
-        "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+        "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
+        "meta": "1519 pts",
+        "desc": "nbcnews.com \u00b7 1160 comments",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
       },
       {
         "kind": "hn",
-        "title": "Service degradation on Microsoft 365",
-        "meta": "854 pts",
-        "desc": "status.cloud.microsoft \u00b7 757 comments",
-        "url": "https://status.cloud.microsoft/"
+        "title": "LibreOffice actually works 365 days a year",
+        "meta": "877 pts",
+        "desc": "twitter.com \u00b7 270 comments",
+        "url": "https://twitter.com/LibreOffice/status/2121205272479998268"
       },
       {
         "kind": "hn",
-        "title": "Rust 1.100",
-        "meta": "655 pts",
-        "desc": "blog.rust-lang.org \u00b7 250 comments",
-        "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+        "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+        "meta": "470 pts",
+        "desc": "science.org \u00b7 323 comments",
+        "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
       },
       {
         "kind": "hn",
-        "title": "Nvidia employees petition to bring back Jensen Huang",
-        "meta": "555 pts",
-        "desc": "wired.com \u00b7 388 comments",
-        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
+        "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+        "meta": "343 pts",
+        "desc": "freightwaves.com \u00b7 189 comments",
+        "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-        "meta": "502 pts",
-        "desc": "github.com \u00b7 179 comments",
-        "url": "https://github.com/simpsoka/zigzag"
-      },
-      {
         "kind": "rising",
         "title": "huamidev/GestaltX",
-        "meta": "7.1k\u2605",
+        "meta": "7.4k\u2605",
         "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
         "url": "https://github.com/huamidev/GestaltX"
       },
       {
         "kind": "rising",
-        "title": "tangerineturtle1/NX2navi",
-        "meta": "3.7k\u2605",
-        "desc": "",
-        "url": "https://github.com/tangerineturtle1/NX2navi"
+        "title": "jhaizhou-ops/S2Arm",
+        "meta": "2.9k\u2605",
+        "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
+        "url": "https://github.com/jhaizhou-ops/S2Arm"
       },
       {
         "kind": "rising",
-        "title": "jhaizhou-ops/S2Arm",
-        "meta": "2.8k\u2605",
-        "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
-        "url": "https://github.com/jhaizhou-ops/S2Arm"
+        "title": "Kianuni/Erosion-CN",
+        "meta": "2.0k\u2605",
+        "desc": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
+        "url": "https://github.com/Kianuni/Erosion-CN"
+      },
+      {
+        "kind": "rising",
+        "title": "apex-compute/ANR",
+        "meta": "1.6k\u2605",
+        "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+        "url": "https://github.com/apex-compute/ANR"
       }
     ]
   },
@@ -127,51 +127,59 @@
     "ai": "3 of 6 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 2442
-    },
-    {
-      "name": "orca",
-      "gained": 1051
+      "gained": 2134
     },
     {
       "name": "skills",
-      "gained": 914
+      "gained": 719
     },
     {
       "name": "VoiceStudio",
-      "gained": 828
+      "gained": 717
     },
     {
-      "name": "deepseek-harness",
-      "gained": 787
+      "name": "orca",
+      "gained": 679
     },
     {
       "name": "taste-skill",
-      "gained": 752
+      "gained": 628
+    },
+    {
+      "name": "sherlock",
+      "gained": 626
+    },
+    {
+      "name": "deepseek-harness",
+      "gained": 604
     },
     {
       "name": "impeccable",
-      "gained": 619
-    },
-    {
-      "name": "ECC",
-      "gained": 570
+      "gained": 597
     }
   ],
   "ticker": [],
   "infra": [
     {
       "name": "Anthropic",
-      "title": "Elevated errors affecting the Microsoft 365 connector",
+      "title": "Some users unable to sign up with Apple on the Claude iOS app",
       "impact": "major",
-      "minutes": 914,
+      "minutes": 86,
       "ongoing": true,
-      "url": "https://stspg.io/m0rbx38nmy1c"
+      "url": "https://stspg.io/4858wf40dx89"
+    },
+    {
+      "name": "GitHub",
+      "title": "Incident with Pull Requests",
+      "impact": "major",
+      "minutes": 162,
+      "ongoing": false,
+      "url": "https://stspg.io/qzj7qjdcr8jc"
     }
   ]
 }
