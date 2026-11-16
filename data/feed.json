@@ -1,146 +1,170 @@
 {
-  "generated": "2026-11-15",
-  "edition": 409,
+  "generated": "2026-11-16",
+  "edition": 410,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,245 stars in the last day to reach 460,581 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,172 stars in the last day to reach 462,753 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
   "sections": {
-    "ai": [],
+    "ai": [
+      {
+        "kind": "hn",
+        "title": "All AI-generated code should be Open Source",
+        "meta": "1163 pts",
+        "desc": "jakub.jankiewicz.org \u00b7 614 comments",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+      },
+      {
+        "kind": "hn",
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "meta": "227 pts",
+        "desc": "magazine.sebastianraschka.com \u00b7 27 comments",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+      }
+    ],
     "trending": [
       {
         "kind": "trending",
-        "title": "affaan-m/ECC",
-        "meta": "+811\u2605",
-        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+708\u2605",
+        "meta": "+875\u2605",
         "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
-        "title": "debpalash/VoiceStudio",
-        "meta": "+697\u2605",
-        "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "url": "https://github.com/debpalash/VoiceStudio"
+        "title": "mattpocock/skills",
+        "meta": "+812\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+634\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
+        "title": "sherlock-project/sherlock",
+        "meta": "+800\u2605",
+        "desc": "Hunt down social media accounts by username across social networks",
+        "url": "https://github.com/sherlock-project/sherlock"
+      },
+      {
+        "kind": "trending",
+        "title": "anthropics/skills",
+        "meta": "+744\u2605",
+        "desc": "Public repository for Agent Skills",
+        "url": "https://github.com/anthropics/skills"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "SpaceX catches the Starship to end Flight 15",
-        "meta": "1159 pts",
-        "desc": "spacex.com \u00b7 756 comments",
-        "url": "https://www.spacex.com/launches/starship-flight-15"
+        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+        "meta": "522 pts",
+        "desc": "www1.wdr.de \u00b7 227 comments",
+        "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
       },
       {
         "kind": "hn",
-        "title": "Lovable apps expose passport details and more than 200K private messages",
-        "meta": "795 pts",
-        "desc": "crissyfield.de \u00b7 309 comments",
-        "url": "https://www.crissyfield.de/research/lovable-en/"
+        "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+        "meta": "495 pts",
+        "desc": "nytimes.com \u00b7 227 comments",
+        "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
       },
       {
         "kind": "hn",
-        "title": "Tech companies are trying to shift the concept of privacy again",
-        "meta": "538 pts",
-        "desc": "eff.org \u00b7 184 comments",
-        "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"
+        "title": "The MacBook Pro's OLED PWM problem",
+        "meta": "481 pts",
+        "desc": "macanorak.com \u00b7 260 comments",
+        "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
       },
       {
         "kind": "hn",
-        "title": "KDE: The documentary [video]",
-        "meta": "456 pts",
-        "desc": "tube.kockatoo.org \u00b7 100 comments",
-        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
+        "title": "Qwen4-Max",
+        "meta": "465 pts",
+        "desc": "qwen.ai \u00b7 183 comments",
+        "url": "https://qwen.ai/blog?id=qwen4-max"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-        "meta": "228 pts",
-        "desc": "github.com \u00b7 21 comments",
-        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-        "meta": "155 pts",
-        "desc": "gitlab.com \u00b7 39 comments",
-        "url": "https://gitlab.com/snipedbywifi/terminactory"
+        "kind": "rising",
+        "title": "deepseek-ai/chat-demo",
+        "meta": "3.7k\u2605",
+        "desc": "Chat Demo",
+        "url": "https://github.com/deepseek-ai/chat-demo"
       },
       {
         "kind": "rising",
-        "title": "huamidev/GestaltX",
-        "meta": "7.6k\u2605",
-        "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-        "url": "https://github.com/huamidev/GestaltX"
+        "title": "apex-compute/ANR",
+        "meta": "2.3k\u2605",
+        "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+        "url": "https://github.com/apex-compute/ANR"
       },
       {
         "kind": "rising",
         "title": "Kianuni/Erosion-CN",
-        "meta": "2.1k\u2605",
-        "desc": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
+        "meta": "2.2k\u2605",
+        "desc": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
         "url": "https://github.com/Kianuni/Erosion-CN"
+      },
+      {
+        "kind": "rising",
+        "title": "hitkeeen/blender-ai-mcp-addon",
+        "meta": "1.9k\u2605",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
       }
     ]
   },
   "notes": {
-    "ai": "0 of 0 AI stories, past 24 hours",
+    "ai": "2 of 2 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 16 stories, past 24 hours",
-    "launches": "2 Show HN \u00b7 2 new repos"
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 2245
+      "gained": 2172
     },
     {
-      "name": "ECC",
-      "gained": 811
+      "name": "chat-demo",
+      "gained": 1757
     },
     {
       "name": "orca",
-      "gained": 708
-    },
-    {
-      "name": "VoiceStudio",
-      "gained": 697
+      "gained": 875
     },
     {
       "name": "skills",
-      "gained": 634
+      "gained": 812
     },
     {
       "name": "sherlock",
-      "gained": 607
+      "gained": 800
     },
     {
-      "name": "impeccable",
-      "gained": 581
+      "name": "skills",
+      "gained": 744
     },
     {
-      "name": "graphify",
-      "gained": 560
+      "name": "deepseek-harness",
+      "gained": 714
+    },
+    {
+      "name": "VoiceStudio",
+      "gained": 686
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2",
+      "impact": "major",
+      "minutes": 71,
+      "ongoing": true,
+      "url": "https://stspg.io/n18qjkd7dt4q"
+    }
+  ]
 }
