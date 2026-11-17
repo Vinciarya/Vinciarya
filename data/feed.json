@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-16",
-  "edition": 410,
+  "generated": "2026-11-17",
+  "edition": 411,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,172 stars in the last day to reach 462,753 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,332 stars in the last day to reach 465,085 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,45 +12,38 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "All AI-generated code should be Open Source",
-        "meta": "1163 pts",
-        "desc": "jakub.jankiewicz.org \u00b7 614 comments",
-        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
-      },
-      {
-        "kind": "hn",
-        "title": "Understanding Positional Embeddings in Modern LLMs",
-        "meta": "227 pts",
-        "desc": "magazine.sebastianraschka.com \u00b7 27 comments",
-        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+        "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+        "meta": "607 pts",
+        "desc": "xusheng.dev \u00b7 452 comments",
+        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+875\u2605",
+        "meta": "+1,077\u2605",
         "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
+        "title": "affaan-m/ECC",
+        "meta": "+867\u2605",
+        "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+812\u2605",
+        "meta": "+814\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "sherlock-project/sherlock",
-        "meta": "+800\u2605",
-        "desc": "Hunt down social media accounts by username across social networks",
-        "url": "https://github.com/sherlock-project/sherlock"
-      },
-      {
-        "kind": "trending",
         "title": "anthropics/skills",
-        "meta": "+744\u2605",
+        "meta": "+775\u2605",
         "desc": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills"
       }
@@ -58,113 +51,113 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-        "meta": "522 pts",
-        "desc": "www1.wdr.de \u00b7 227 comments",
-        "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "meta": "1523 pts",
+        "desc": "cs.cmu.edu \u00b7 209 comments",
+        "url": "https://www.cs.cmu.edu/learn/"
       },
       {
         "kind": "hn",
-        "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-        "meta": "495 pts",
-        "desc": "nytimes.com \u00b7 227 comments",
-        "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
+        "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
+        "meta": "895 pts",
+        "desc": "groundworkcollaborative.org \u00b7 531 comments",
+        "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"
       },
       {
         "kind": "hn",
-        "title": "The MacBook Pro's OLED PWM problem",
-        "meta": "481 pts",
-        "desc": "macanorak.com \u00b7 260 comments",
-        "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
+        "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+        "meta": "775 pts",
+        "desc": "apnews.com \u00b7 647 comments",
+        "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
       },
       {
         "kind": "hn",
-        "title": "Qwen4-Max",
-        "meta": "465 pts",
-        "desc": "qwen.ai \u00b7 183 comments",
-        "url": "https://qwen.ai/blog?id=qwen4-max"
+        "title": "BugMeNot has closed",
+        "meta": "547 pts",
+        "desc": "bugmenot.com \u00b7 241 comments",
+        "url": "https://www.bugmenot.com/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "deepseek-ai/chat-demo",
-        "meta": "3.7k\u2605",
+        "meta": "4.4k\u2605",
         "desc": "Chat Demo",
         "url": "https://github.com/deepseek-ai/chat-demo"
       },
       {
         "kind": "rising",
         "title": "apex-compute/ANR",
-        "meta": "2.3k\u2605",
+        "meta": "2.5k\u2605",
         "desc": "Apex Neural Rendering (ANR) by Apex Compute",
         "url": "https://github.com/apex-compute/ANR"
       },
       {
         "kind": "rising",
-        "title": "Kianuni/Erosion-CN",
-        "meta": "2.2k\u2605",
-        "desc": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
-        "url": "https://github.com/Kianuni/Erosion-CN"
+        "title": "hitkeeen/blender-ai-mcp-addon",
+        "meta": "2.4k\u2605",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
       },
       {
         "kind": "rising",
-        "title": "hitkeeen/blender-ai-mcp-addon",
+        "title": "Noniv/abyssal-garden",
         "meta": "1.9k\u2605",
-        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-        "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+        "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+        "url": "https://github.com/Noniv/abyssal-garden"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
+    "ai": "1 of 1 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 25h",
     "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 2172
-    },
-    {
-      "name": "chat-demo",
-      "gained": 1757
+      "gained": 2332
     },
     {
       "name": "orca",
-      "gained": 875
+      "gained": 1077
+    },
+    {
+      "name": "ECC",
+      "gained": 867
     },
     {
       "name": "skills",
-      "gained": 812
+      "gained": 814
+    },
+    {
+      "name": "skills",
+      "gained": 775
+    },
+    {
+      "name": "impeccable",
+      "gained": 710
     },
     {
       "name": "sherlock",
-      "gained": 800
-    },
-    {
-      "name": "skills",
-      "gained": 744
+      "gained": 696
     },
     {
       "name": "deepseek-harness",
-      "gained": 714
-    },
-    {
-      "name": "VoiceStudio",
-      "gained": 686
+      "gained": 690
     }
   ],
   "ticker": [],
   "infra": [
     {
       "name": "Anthropic",
-      "title": "Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2",
+      "title": "Claude unable to join meetings",
       "impact": "major",
-      "minutes": 71,
+      "minutes": 1143,
       "ongoing": true,
-      "url": "https://stspg.io/n18qjkd7dt4q"
+      "url": "https://stspg.io/01qq3kzyyqzl"
     }
   ]
 }
