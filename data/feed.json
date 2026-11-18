@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-17",
-  "edition": 411,
+  "generated": "2026-11-18",
+  "edition": 412,
   "lead": {
     "headline": "REA SURGES TO #1 ON GITHUB",
     "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,332 stars in the last day to reach 465,085 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,071 stars in the last day to reach 467,156 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
     "source": "morluto/rea",
     "url": "https://github.com/morluto/rea"
   },
@@ -12,152 +12,166 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-        "meta": "607 pts",
-        "desc": "xusheng.dev \u00b7 452 comments",
-        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+        "title": "GPT\u20116.2 Astra and Sol",
+        "meta": "1270 pts",
+        "desc": "openai.com \u00b7 791 comments",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+      },
+      {
+        "kind": "hn",
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "meta": "378 pts",
+        "desc": "revscope.co \u00b7 289 comments",
+        "url": "https://revscope.co/blog/search-seo-geo-2026/"
+      },
+      {
+        "kind": "hn",
+        "title": "What is the best harness for each model?",
+        "meta": "373 pts",
+        "desc": "runta.com \u00b7 126 comments",
+        "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+1,077\u2605",
+        "meta": "+1,087\u2605",
         "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+867\u2605",
+        "meta": "+1,032\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+814\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
+        "title": "debpalash/VoiceStudio",
+        "meta": "+871\u2605",
+        "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "url": "https://github.com/debpalash/VoiceStudio"
       },
       {
         "kind": "trending",
-        "title": "anthropics/skills",
-        "meta": "+775\u2605",
-        "desc": "Public repository for Agent Skills",
-        "url": "https://github.com/anthropics/skills"
+        "title": "pbakaus/impeccable",
+        "meta": "+816\u2605",
+        "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "url": "https://github.com/pbakaus/impeccable"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-        "meta": "1523 pts",
-        "desc": "cs.cmu.edu \u00b7 209 comments",
-        "url": "https://www.cs.cmu.edu/learn/"
+        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "meta": "1232 pts",
+        "desc": "nytimes.com \u00b7 620 comments",
+        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
       },
       {
         "kind": "hn",
-        "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
-        "meta": "895 pts",
-        "desc": "groundworkcollaborative.org \u00b7 531 comments",
-        "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "meta": "931 pts",
+        "desc": "calif.io \u00b7 239 comments",
+        "url": "https://calif.io/java4shell/"
       },
       {
         "kind": "hn",
-        "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-        "meta": "775 pts",
-        "desc": "apnews.com \u00b7 647 comments",
-        "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+        "title": "Apple Services Down",
+        "meta": "688 pts",
+        "desc": "developer.apple.com \u00b7 387 comments",
+        "url": "https://developer.apple.com/system-status/"
       },
       {
         "kind": "hn",
-        "title": "BugMeNot has closed",
-        "meta": "547 pts",
-        "desc": "bugmenot.com \u00b7 241 comments",
-        "url": "https://www.bugmenot.com/"
+        "title": "Quad9's withdrawal from France: A canary in the coal mine",
+        "meta": "589 pts",
+        "desc": "blog.cloudflare.com \u00b7 190 comments",
+        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
         "title": "deepseek-ai/chat-demo",
-        "meta": "4.4k\u2605",
+        "meta": "4.7k\u2605",
         "desc": "Chat Demo",
         "url": "https://github.com/deepseek-ai/chat-demo"
       },
       {
         "kind": "rising",
-        "title": "apex-compute/ANR",
-        "meta": "2.5k\u2605",
-        "desc": "Apex Neural Rendering (ANR) by Apex Compute",
-        "url": "https://github.com/apex-compute/ANR"
+        "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "meta": "3.4k\u2605",
+        "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+        "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
       },
       {
         "kind": "rising",
-        "title": "hitkeeen/blender-ai-mcp-addon",
-        "meta": "2.4k\u2605",
-        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-        "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+        "title": "gylive/google-ultra",
+        "meta": "2.3k\u2605",
+        "desc": "",
+        "url": "https://github.com/gylive/google-ultra"
       },
       {
         "kind": "rising",
         "title": "Noniv/abyssal-garden",
-        "meta": "1.9k\u2605",
+        "meta": "2.3k\u2605",
         "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
         "url": "https://github.com/Noniv/abyssal-garden"
       }
     ]
   },
   "notes": {
-    "ai": "1 of 1 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 25h",
+    "ai": "3 of 4 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
       "name": "rea",
-      "gained": 2332
+      "gained": 2071
     },
     {
       "name": "orca",
-      "gained": 1077
+      "gained": 1087
     },
     {
       "name": "ECC",
-      "gained": 867
+      "gained": 1032
     },
     {
-      "name": "skills",
-      "gained": 814
-    },
-    {
-      "name": "skills",
-      "gained": 775
+      "name": "VoiceStudio",
+      "gained": 871
     },
     {
       "name": "impeccable",
-      "gained": 710
+      "gained": 816
     },
     {
-      "name": "sherlock",
-      "gained": 696
+      "name": "skills",
+      "gained": 777
     },
     {
       "name": "deepseek-harness",
-      "gained": 690
+      "gained": 655
+    },
+    {
+      "name": "skills",
+      "gained": 603
     }
   ],
   "ticker": [],
   "infra": [
     {
       "name": "Anthropic",
-      "title": "Claude unable to join meetings",
+      "title": "Some users unable to sign in with Apple on claude.ai and the Claude iOS app",
       "impact": "major",
-      "minutes": 1143,
-      "ongoing": true,
-      "url": "https://stspg.io/01qq3kzyyqzl"
+      "minutes": 175,
+      "ongoing": false,
+      "url": "https://stspg.io/3tl6h35nnzwm"
     }
   ]
 }
