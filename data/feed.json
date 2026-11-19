@@ -1,177 +1,177 @@
 {
-  "generated": "2026-11-18",
-  "edition": 412,
+  "generated": "2026-11-19",
+  "edition": 413,
   "lead": {
-    "headline": "REA SURGES TO #1 ON GITHUB",
-    "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 2,071 stars in the last day to reach 467,156 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "source": "morluto/rea",
-    "url": "https://github.com/morluto/rea"
+    "headline": "RUST-ANYTHING SURGES TO #1 ON GITHUB",
+    "deck": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+    "body": "erkamyaman/rust-anything is today's fastest-growing repository on GitHub, gaining 1,876 stars in the last day to reach 4,064 total. Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+    "source": "erkamyaman/rust-anything",
+    "url": "https://github.com/erkamyaman/rust-anything"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "GPT\u20116.2 Astra and Sol",
-        "meta": "1270 pts",
-        "desc": "openai.com \u00b7 791 comments",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+        "title": "Gemini 4 Neon",
+        "meta": "822 pts",
+        "desc": "blog.google \u00b7 662 comments",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
       },
       {
         "kind": "hn",
-        "title": "Google's AI answers reducing search traffic by 40%",
-        "meta": "378 pts",
-        "desc": "revscope.co \u00b7 289 comments",
-        "url": "https://revscope.co/blog/search-seo-geo-2026/"
+        "title": "Seven new models at scalable price-performance",
+        "meta": "540 pts",
+        "desc": "microsoft.ai \u00b7 353 comments",
+        "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
       },
       {
         "kind": "hn",
-        "title": "What is the best harness for each model?",
-        "meta": "373 pts",
-        "desc": "runta.com \u00b7 126 comments",
-        "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+        "title": "AI agents ask better questions than KPMG accountants in audit trial",
+        "meta": "457 pts",
+        "desc": "europeanbusinessmagazine.com \u00b7 211 comments",
+        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
+        "title": "morluto/rea",
+        "meta": "+1,833\u2605",
+        "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "url": "https://github.com/morluto/rea"
+      },
+      {
+        "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+1,087\u2605",
+        "meta": "+956\u2605",
         "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
         "title": "affaan-m/ECC",
-        "meta": "+1,032\u2605",
+        "meta": "+911\u2605",
         "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC"
       },
       {
         "kind": "trending",
-        "title": "debpalash/VoiceStudio",
-        "meta": "+871\u2605",
-        "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "url": "https://github.com/debpalash/VoiceStudio"
-      },
-      {
-        "kind": "trending",
-        "title": "pbakaus/impeccable",
-        "meta": "+816\u2605",
-        "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "url": "https://github.com/pbakaus/impeccable"
+        "title": "firecrawl/firecrawl",
+        "meta": "+732\u2605",
+        "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+        "url": "https://github.com/firecrawl/firecrawl"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-        "meta": "1232 pts",
-        "desc": "nytimes.com \u00b7 620 comments",
-        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
+        "title": "Unauthenticated remote code execution in Nginx",
+        "meta": "1373 pts",
+        "desc": "wiz.io \u00b7 594 comments",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
       },
       {
         "kind": "hn",
-        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-        "meta": "931 pts",
-        "desc": "calif.io \u00b7 239 comments",
-        "url": "https://calif.io/java4shell/"
-      },
-      {
-        "kind": "hn",
-        "title": "Apple Services Down",
+        "title": "Inside Deutsche Bank",
         "meta": "688 pts",
-        "desc": "developer.apple.com \u00b7 387 comments",
-        "url": "https://developer.apple.com/system-status/"
+        "desc": "inside-db.com \u00b7 234 comments",
+        "url": "https://www.inside-db.com/"
       },
       {
         "kind": "hn",
-        "title": "Quad9's withdrawal from France: A canary in the coal mine",
-        "meta": "589 pts",
-        "desc": "blog.cloudflare.com \u00b7 190 comments",
-        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+        "title": "DNS resolvers are the wrong place to fight piracy",
+        "meta": "662 pts",
+        "desc": "techstackups.com \u00b7 268 comments",
+        "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
+      },
+      {
+        "kind": "hn",
+        "title": "We need smart people who give a shit",
+        "meta": "579 pts",
+        "desc": "violetpixel.com \u00b7 293 comments",
+        "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/"
       }
     ],
     "launches": [
       {
-        "kind": "rising",
-        "title": "deepseek-ai/chat-demo",
-        "meta": "4.7k\u2605",
-        "desc": "Chat Demo",
-        "url": "https://github.com/deepseek-ai/chat-demo"
+        "kind": "hn",
+        "title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365",
+        "meta": "213 pts",
+        "desc": "exitpath-ruddy.vercel.app \u00b7 70 comments",
+        "url": "https://exitpath-ruddy.vercel.app/"
       },
       {
         "kind": "rising",
         "title": "krisgfx9/Wireless-Device-Battery-Monitor",
-        "meta": "3.4k\u2605",
+        "meta": "4.2k\u2605",
         "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
         "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
       },
       {
         "kind": "rising",
-        "title": "gylive/google-ultra",
-        "meta": "2.3k\u2605",
-        "desc": "",
-        "url": "https://github.com/gylive/google-ultra"
+        "title": "duwqijlk/muse-protocol",
+        "meta": "1.6k\u2605",
+        "desc": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
+        "url": "https://github.com/duwqijlk/muse-protocol"
       },
       {
         "kind": "rising",
-        "title": "Noniv/abyssal-garden",
-        "meta": "2.3k\u2605",
-        "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
-        "url": "https://github.com/Noniv/abyssal-garden"
+        "title": "Hut-hzf/ung220z-tool",
+        "meta": "1.5k\u2605",
+        "desc": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
+        "url": "https://github.com/Hut-hzf/ung220z-tool"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
+    "ai": "3 of 7 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
     "hn": "Top 4 of 20 stories, past 24 hours",
-    "launches": "0 Show HN \u00b7 4 new repos"
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
+      "name": "rust-anything",
+      "gained": 1876
+    },
+    {
       "name": "rea",
-      "gained": 2071
+      "gained": 1833
     },
     {
       "name": "orca",
-      "gained": 1087
+      "gained": 956
     },
     {
       "name": "ECC",
-      "gained": 1032
+      "gained": 911
     },
     {
-      "name": "VoiceStudio",
-      "gained": 871
+      "name": "Wireless-Device-Battery-Monitor",
+      "gained": 887
+    },
+    {
+      "name": "firecrawl",
+      "gained": 732
+    },
+    {
+      "name": "skills",
+      "gained": 677
     },
     {
       "name": "impeccable",
-      "gained": 816
-    },
-    {
-      "name": "skills",
-      "gained": 777
-    },
-    {
-      "name": "deepseek-harness",
-      "gained": 655
-    },
-    {
-      "name": "skills",
-      "gained": 603
+      "gained": 624
     }
   ],
   "ticker": [],
   "infra": [
     {
       "name": "Anthropic",
-      "title": "Some users unable to sign in with Apple on claude.ai and the Claude iOS app",
+      "title": "Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2",
       "impact": "major",
-      "minutes": 175,
+      "minutes": 22,
       "ongoing": false,
-      "url": "https://stspg.io/3tl6h35nnzwm"
+      "url": "https://stspg.io/nlb5fptv28h5"
     }
   ]
 }
