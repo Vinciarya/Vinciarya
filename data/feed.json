@@ -1,123 +1,123 @@
 {
-  "generated": "2026-11-20",
-  "edition": 414,
+  "generated": "2026-11-21",
+  "edition": 415,
   "lead": {
-    "headline": "RUST-ANYTHING SURGES TO #1 ON GITHUB",
-    "deck": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
-    "body": "erkamyaman/rust-anything is today's fastest-growing repository on GitHub, gaining 1,743 stars in the last day to reach 5,807 total. Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-    "source": "erkamyaman/rust-anything",
-    "url": "https://github.com/erkamyaman/rust-anything"
+    "headline": "REA SURGES TO #1 ON GITHUB",
+    "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 1,281 stars in the last day to reach 471,931 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "source": "morluto/rea",
+    "url": "https://github.com/morluto/rea"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "Anthropic\u2019s Nasdaq debut",
-        "meta": "1077 pts",
-        "desc": "reuters.com \u00b7 2128 comments",
-        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "meta": "645 pts",
+        "desc": "architectlabs.com \u00b7 333 comments",
+        "url": "https://architectlabs.com/blog/frostbite"
       },
       {
         "kind": "hn",
-        "title": "Fuck Your AI Safeguards",
+        "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
         "meta": "549 pts",
-        "desc": "ounapuu.ee \u00b7 221 comments",
-        "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
+        "desc": "signal.org \u00b7 320 comments",
+        "url": "https://signal.org/blog/protecting-your-privacy/"
       },
       {
         "kind": "hn",
-        "title": "Claude solves two open problems in the physics of black holes",
-        "meta": "495 pts",
-        "desc": "anthropic.com \u00b7 229 comments",
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "meta": "401 pts",
+        "desc": "arxiv.org \u00b7 118 comments",
+        "url": "https://arxiv.org/abs/2611.21885"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "morluto/rea",
-        "meta": "+1,661\u2605",
-        "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "url": "https://github.com/morluto/rea"
+        "title": "stablyai/orca",
+        "meta": "+1,030\u2605",
+        "desc": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+        "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
         "title": "firecrawl/firecrawl",
-        "meta": "+1,183\u2605",
-        "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+        "meta": "+942\u2605",
+        "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
         "url": "https://github.com/firecrawl/firecrawl"
       },
       {
         "kind": "trending",
-        "title": "debpalash/VoiceStudio",
-        "meta": "+1,114\u2605",
-        "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "url": "https://github.com/debpalash/VoiceStudio"
+        "title": "mattpocock/skills",
+        "meta": "+791\u2605",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "stablyai/orca",
-        "meta": "+1,073\u2605",
-        "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-        "url": "https://github.com/stablyai/orca"
+        "title": "debpalash/VoiceStudio",
+        "meta": "+767\u2605",
+        "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "url": "https://github.com/debpalash/VoiceStudio"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Pancreatic cancer halted by virus injection in three patients",
-        "meta": "773 pts",
-        "desc": "newscientist.com \u00b7 132 comments",
-        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+        "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "meta": "2598 pts",
+        "desc": "alpo.ge \u00b7 1788 comments",
+        "url": "https://alpo.ge/remark.pdf"
       },
       {
         "kind": "hn",
-        "title": "How the European Commission rolled out Matrix to more than 40k staff",
-        "meta": "698 pts",
-        "desc": "element.io \u00b7 345 comments",
-        "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "meta": "1994 pts",
+        "desc": "math216.wordpress.com \u00b7 922 comments",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
       },
       {
         "kind": "hn",
-        "title": "UK government forced to admit it issued Apple a secret encryption order",
-        "meta": "645 pts",
-        "desc": "macanorak.com \u00b7 291 comments",
-        "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+        "title": "Inkling 2 Mini",
+        "meta": "955 pts",
+        "desc": "thinkingmachines.ai \u00b7 177 comments",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
       },
       {
         "kind": "hn",
-        "title": "Someone reported java4shell bug in September 2026",
-        "meta": "426 pts",
-        "desc": "github.com \u00b7 116 comments",
-        "url": "https://github.com/openjdk/jdk/pull/32781"
+        "title": "I'll never buy Framework hardware again",
+        "meta": "790 pts",
+        "desc": "poolp.org \u00b7 577 comments",
+        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
-        "meta": "224 pts",
-        "desc": "cornholenews.news \u00b7 102 comments",
-        "url": "https://cornholenews.news"
+        "kind": "rising",
+        "title": "erkamyaman/rust-anything",
+        "meta": "6.9k\u2605",
+        "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+        "url": "https://github.com/erkamyaman/rust-anything"
       },
       {
         "kind": "rising",
         "title": "krisgfx9/Wireless-Device-Battery-Monitor",
-        "meta": "4.9k\u2605",
+        "meta": "5.5k\u2605",
         "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
         "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
       },
       {
         "kind": "rising",
         "title": "gylive/google-ultra",
-        "meta": "2.5k\u2605",
+        "meta": "2.6k\u2605",
         "desc": "",
         "url": "https://github.com/gylive/google-ultra"
       },
       {
         "kind": "rising",
         "title": "Hut-hzf/ung220z-tool",
-        "meta": "1.9k\u2605",
+        "meta": "2.1k\u2605",
         "desc": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
         "url": "https://github.com/Hut-hzf/ung220z-tool"
       }
@@ -126,52 +126,52 @@
   "notes": {
     "ai": "3 of 5 AI stories, past 24 hours",
     "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 19 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "hn": "Top 4 of 20 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "rust-anything",
-      "gained": 1743
-    },
-    {
       "name": "rea",
-      "gained": 1661
+      "gained": 1281
     },
     {
-      "name": "firecrawl",
-      "gained": 1183
-    },
-    {
-      "name": "VoiceStudio",
-      "gained": 1114
+      "name": "rust-anything",
+      "gained": 1119
     },
     {
       "name": "orca",
-      "gained": 1073
+      "gained": 1030
+    },
+    {
+      "name": "firecrawl",
+      "gained": 942
     },
     {
       "name": "skills",
-      "gained": 705
+      "gained": 791
+    },
+    {
+      "name": "VoiceStudio",
+      "gained": 767
     },
     {
       "name": "Wireless-Device-Battery-Monitor",
-      "gained": 632
+      "gained": 629
     },
     {
       "name": "ECC",
-      "gained": 608
+      "gained": 556
     }
   ],
   "ticker": [],
   "infra": [
     {
-      "name": "OpenAI",
-      "title": "Elevated error rates for gpt-6 Luna API requests",
+      "name": "Cloudflare",
+      "title": "Cloudflare Dashboard and Cloudflare API service issues in EU region",
       "impact": "major",
-      "minutes": 56,
+      "minutes": 28,
       "ongoing": false,
-      "url": ""
+      "url": "https://www.cloudflarestatus.com/incidents/iysf3fasf7wn"
     }
   ]
 }
