@@ -1,146 +1,170 @@
 {
-  "generated": "2026-11-22",
-  "edition": 416,
+  "generated": "2026-11-23",
+  "edition": 417,
   "lead": {
-    "headline": "REA SURGES TO #1 ON GITHUB",
-    "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 1,305 stars in the last day to reach 473,236 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "source": "morluto/rea",
-    "url": "https://github.com/morluto/rea"
+    "headline": "LEONIDA SURGES TO #1 ON GITHUB",
+    "deck": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "body": "ItsNotRexed/Leonida is today's fastest-growing repository on GitHub, gaining 9,859 stars in the last day to reach 18,272 total. Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "source": "ItsNotRexed/Leonida",
+    "url": "https://github.com/ItsNotRexed/Leonida"
   },
   "sections": {
-    "ai": [],
+    "ai": [
+      {
+        "kind": "hn",
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "meta": "509 pts",
+        "desc": "gpupartner.com \u00b7 215 comments",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+      },
+      {
+        "kind": "hn",
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "meta": "318 pts",
+        "desc": "github.com \u00b7 78 comments",
+        "url": "https://github.com/gulivan/worker755"
+      }
+    ],
     "trending": [
       {
         "kind": "trending",
+        "title": "morluto/rea",
+        "meta": "+1,548\u2605",
+        "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "url": "https://github.com/morluto/rea"
+      },
+      {
+        "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+965\u2605",
+        "meta": "+1,401\u2605",
         "desc": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+886\u2605",
-        "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-        "url": "https://github.com/firecrawl/firecrawl"
-      },
-      {
-        "kind": "trending",
-        "title": "bookwjitchieni1986/blender-ai-mcp-addon",
-        "meta": "+818\u2605",
-        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
-      },
-      {
-        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+760\u2605",
+        "meta": "+920\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
+      },
+      {
+        "kind": "trending",
+        "title": "firecrawl/firecrawl",
+        "meta": "+912\u2605",
+        "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "url": "https://github.com/firecrawl/firecrawl"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Lean verification of the Riemann Hypothesis",
-        "meta": "1015 pts",
-        "desc": "leanprover-community.github.io \u00b7 834 comments",
-        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+        "title": "What Happened to Silicon Valley?",
+        "meta": "657 pts",
+        "desc": "oreilly.com \u00b7 349 comments",
+        "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
       },
       {
         "kind": "hn",
-        "title": "Detonating a pile of lead azide",
-        "meta": "602 pts",
-        "desc": "science.org \u00b7 386 comments",
-        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+        "title": "Perplexity and Intelligence",
+        "meta": "589 pts",
+        "desc": "openai.com \u00b7 400 comments",
+        "url": "https://openai.com/index/perplexity-and-intelligence/"
       },
       {
         "kind": "hn",
-        "title": "My monitor was cutting my download speed by 75%",
-        "meta": "574 pts",
-        "desc": "blog.tymscar.com \u00b7 268 comments",
-        "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "meta": "527 pts",
+        "desc": "spelunkr.tv \u00b7 83 comments",
+        "url": "https://spelunkr.tv"
       },
       {
         "kind": "hn",
-        "title": "Inkling-2-Mini in 5.4 GB Memory",
-        "meta": "453 pts",
-        "desc": "github.com \u00b7 113 comments",
-        "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+        "meta": "503 pts",
+        "desc": "audubon.org \u00b7 253 comments",
+        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
       }
     ],
     "launches": [
       {
-        "kind": "hn",
-        "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
-        "meta": "159 pts",
-        "desc": "onurgumus.github.io \u00b7 109 comments",
-        "url": "https://onurgumus.github.io/zero-csharp/index.html"
+        "kind": "rising",
+        "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "meta": "2.8k\u2605",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
       },
       {
         "kind": "rising",
-        "title": "ItsNotRexed/Leonida",
-        "meta": "8.4k\u2605",
-        "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-        "url": "https://github.com/ItsNotRexed/Leonida"
+        "title": "EL4CTEO/fast-anything",
+        "meta": "2.5k\u2605",
+        "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "url": "https://github.com/EL4CTEO/fast-anything"
       },
       {
         "kind": "rising",
-        "title": "erkamyaman/rust-anything",
-        "meta": "7.6k\u2605",
-        "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-        "url": "https://github.com/erkamyaman/rust-anything"
+        "title": "iamajmeena/neonclipping",
+        "meta": "2.2k\u2605",
+        "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+        "url": "https://github.com/iamajmeena/neonclipping"
       },
       {
         "kind": "rising",
-        "title": "krisgfx9/Wireless-Device-Battery-Monitor",
-        "meta": "5.9k\u2605",
-        "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-        "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+        "title": "omonkeyz/xbox-emulator",
+        "meta": "1.5k\u2605",
+        "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+        "url": "https://github.com/omonkeyz/xbox-emulator"
       }
     ]
   },
   "notes": {
-    "ai": "0 of 0 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 11 stories, past 24 hours",
-    "launches": "1 Show HN \u00b7 3 new repos"
+    "ai": "2 of 2 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 25h",
+    "hn": "Top 4 of 17 stories, past 24 hours",
+    "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
+      "name": "Leonida",
+      "gained": 9859
+    },
+    {
       "name": "rea",
-      "gained": 1305
+      "gained": 1548
     },
     {
       "name": "orca",
-      "gained": 965
-    },
-    {
-      "name": "firecrawl",
-      "gained": 886
-    },
-    {
-      "name": "blender-ai-mcp-addon",
-      "gained": 818
+      "gained": 1401
     },
     {
       "name": "skills",
-      "gained": 760
+      "gained": 920
     },
     {
-      "name": "rust-anything",
-      "gained": 703
-    },
-    {
-      "name": "ECC",
-      "gained": 547
+      "name": "firecrawl",
+      "gained": 912
     },
     {
       "name": "VoiceStudio",
-      "gained": 515
+      "gained": 667
+    },
+    {
+      "name": "ECC",
+      "gained": 665
+    },
+    {
+      "name": "ponytail",
+      "gained": 614
     }
   ],
   "ticker": [],
-  "infra": []
+  "infra": [
+    {
+      "name": "Anthropic",
+      "title": "Elevated errors for multiple models",
+      "impact": "major",
+      "minutes": 29,
+      "ongoing": true,
+      "url": "https://stspg.io/q2ptbwdjx31m"
+    }
+  ]
 }
