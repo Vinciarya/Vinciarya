@@ -1,170 +1,163 @@
 {
-  "generated": "2026-11-23",
-  "edition": 417,
+  "generated": "2026-11-24",
+  "edition": 418,
   "lead": {
-    "headline": "LEONIDA SURGES TO #1 ON GITHUB",
-    "deck": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-    "body": "ItsNotRexed/Leonida is today's fastest-growing repository on GitHub, gaining 9,859 stars in the last day to reach 18,272 total. Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-    "source": "ItsNotRexed/Leonida",
-    "url": "https://github.com/ItsNotRexed/Leonida"
+    "headline": "REA SURGES TO #1 ON GITHUB",
+    "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 1,579 stars in the last day to reach 476,363 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "source": "morluto/rea",
+    "url": "https://github.com/morluto/rea"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "meta": "509 pts",
-        "desc": "gpupartner.com \u00b7 215 comments",
-        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: I built a game where you are an LLM's subagent",
-        "meta": "318 pts",
-        "desc": "github.com \u00b7 78 comments",
-        "url": "https://github.com/gulivan/worker755"
+        "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+        "meta": "1748 pts",
+        "desc": "twitter.com \u00b7 1007 comments",
+        "url": "https://twitter.com/ylecun/status/2124550037912920090"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "morluto/rea",
-        "meta": "+1,548\u2605",
-        "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "url": "https://github.com/morluto/rea"
-      },
-      {
-        "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+1,401\u2605",
+        "meta": "+1,532\u2605",
         "desc": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
+        "title": "firecrawl/firecrawl",
+        "meta": "+1,004\u2605",
+        "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "url": "https://github.com/firecrawl/firecrawl"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+920\u2605",
+        "meta": "+898\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       },
       {
         "kind": "trending",
-        "title": "firecrawl/firecrawl",
-        "meta": "+912\u2605",
-        "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-        "url": "https://github.com/firecrawl/firecrawl"
+        "title": "debpalash/VoiceStudio",
+        "meta": "+705\u2605",
+        "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "url": "https://github.com/debpalash/VoiceStudio"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "What Happened to Silicon Valley?",
-        "meta": "657 pts",
-        "desc": "oreilly.com \u00b7 349 comments",
-        "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "meta": "2630 pts",
+        "desc": "cnbc.com \u00b7 3511 comments",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
       },
       {
         "kind": "hn",
-        "title": "Perplexity and Intelligence",
-        "meta": "589 pts",
-        "desc": "openai.com \u00b7 400 comments",
-        "url": "https://openai.com/index/perplexity-and-intelligence/"
+        "title": "Ladybird is now in alpha",
+        "meta": "2075 pts",
+        "desc": "ladybird.org \u00b7 491 comments",
+        "url": "https://ladybird.org/posts/alpha/"
       },
       {
         "kind": "hn",
-        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-        "meta": "527 pts",
-        "desc": "spelunkr.tv \u00b7 83 comments",
-        "url": "https://spelunkr.tv"
+        "title": "Jensen Huang Reinstated as Nvidia CEO",
+        "meta": "1708 pts",
+        "desc": "nvidianews.nvidia.com \u00b7 4 comments",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
       },
       {
         "kind": "hn",
-        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-        "meta": "503 pts",
-        "desc": "audubon.org \u00b7 253 comments",
-        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
+        "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+        "meta": "1074 pts",
+        "desc": "arm.jonpalmisc.com \u00b7 250 comments",
+        "url": "https://arm.jonpalmisc.com/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "bookwjitchieni1986/blender-ai-mcp-addon",
-        "meta": "2.8k\u2605",
-        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+        "title": "Marvisak/VIctory",
+        "meta": "8.2k\u2605",
+        "desc": "An attempt at running GTA VI on PC",
+        "url": "https://github.com/Marvisak/VIctory"
+      },
+      {
+        "kind": "rising",
+        "title": "ivall/xcl",
+        "meta": "6.3k\u2605",
+        "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+        "url": "https://github.com/ivall/xcl"
       },
       {
         "kind": "rising",
         "title": "EL4CTEO/fast-anything",
-        "meta": "2.5k\u2605",
+        "meta": "3.4k\u2605",
         "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
         "url": "https://github.com/EL4CTEO/fast-anything"
       },
       {
         "kind": "rising",
-        "title": "iamajmeena/neonclipping",
-        "meta": "2.2k\u2605",
-        "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-        "url": "https://github.com/iamajmeena/neonclipping"
-      },
-      {
-        "kind": "rising",
-        "title": "omonkeyz/xbox-emulator",
-        "meta": "1.5k\u2605",
-        "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-        "url": "https://github.com/omonkeyz/xbox-emulator"
+        "title": "AFK-surf/xnulinux",
+        "meta": "2.8k\u2605",
+        "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+        "url": "https://github.com/AFK-surf/xnulinux"
       }
     ]
   },
   "notes": {
-    "ai": "2 of 2 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 25h",
-    "hn": "Top 4 of 17 stories, past 24 hours",
+    "ai": "1 of 1 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 26h",
+    "hn": "Top 4 of 18 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "Leonida",
-      "gained": 9859
-    },
-    {
       "name": "rea",
-      "gained": 1548
+      "gained": 1579
     },
     {
       "name": "orca",
-      "gained": 1401
-    },
-    {
-      "name": "skills",
-      "gained": 920
+      "gained": 1532
     },
     {
       "name": "firecrawl",
-      "gained": 912
+      "gained": 1004
+    },
+    {
+      "name": "skills",
+      "gained": 898
+    },
+    {
+      "name": "fast-anything",
+      "gained": 896
     },
     {
       "name": "VoiceStudio",
+      "gained": 705
+    },
+    {
+      "name": "sherlock",
       "gained": 667
     },
     {
-      "name": "ECC",
-      "gained": 665
-    },
-    {
-      "name": "ponytail",
-      "gained": 614
+      "name": "impeccable",
+      "gained": 658
     }
   ],
   "ticker": [],
   "infra": [
     {
-      "name": "Anthropic",
-      "title": "Elevated errors for multiple models",
+      "name": "Cloudflare",
+      "title": "Magic Transit Degraded Performance",
       "impact": "major",
-      "minutes": 29,
+      "minutes": 31,
       "ongoing": true,
-      "url": "https://stspg.io/q2ptbwdjx31m"
+      "url": "https://www.cloudflarestatus.com/incidents/no721jcnlrbh"
     }
   ]
 }
