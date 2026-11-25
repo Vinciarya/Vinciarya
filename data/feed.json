@@ -1,162 +1,184 @@
 {
-  "generated": "2026-11-24",
-  "edition": 418,
+  "generated": "2026-11-25",
+  "edition": 419,
   "lead": {
-    "headline": "REA SURGES TO #1 ON GITHUB",
-    "deck": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "body": "morluto/rea is today's fastest-growing repository on GitHub, gaining 1,579 stars in the last day to reach 476,363 total. Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "source": "morluto/rea",
-    "url": "https://github.com/morluto/rea"
+    "headline": "VICTORY SURGES TO #1 ON GITHUB",
+    "deck": "An attempt at running GTA VI on PC",
+    "body": "Marvisak/VIctory is today's fastest-growing repository on GitHub, gaining 3,760 stars in the last day to reach 11,919 total. An attempt at running GTA VI on PC",
+    "source": "Marvisak/VIctory",
+    "url": "https://github.com/Marvisak/VIctory"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-        "meta": "1748 pts",
-        "desc": "twitter.com \u00b7 1007 comments",
-        "url": "https://twitter.com/ylecun/status/2124550037912920090"
+        "title": "LLM agents work for their parent companies, not for you",
+        "meta": "976 pts",
+        "desc": "michaelharley.net \u00b7 403 comments",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+      },
+      {
+        "kind": "hn",
+        "title": "Anthropic breaks below $83 IPO price",
+        "meta": "401 pts",
+        "desc": "bloomberg.com \u00b7 766 comments",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+      },
+      {
+        "kind": "hn",
+        "title": "Tidal bans AI-generated music",
+        "meta": "329 pts",
+        "desc": "variety.com \u00b7 314 comments",
+        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "stablyai/orca",
-        "meta": "+1,532\u2605",
+        "meta": "+1,828\u2605",
         "desc": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca"
       },
       {
         "kind": "trending",
+        "title": "morluto/rea",
+        "meta": "+1,414\u2605",
+        "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "url": "https://github.com/morluto/rea"
+      },
+      {
+        "kind": "trending",
         "title": "firecrawl/firecrawl",
-        "meta": "+1,004\u2605",
+        "meta": "+1,049\u2605",
         "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
         "url": "https://github.com/firecrawl/firecrawl"
       },
       {
         "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+898\u2605",
+        "meta": "+736\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
-      },
-      {
-        "kind": "trending",
-        "title": "debpalash/VoiceStudio",
-        "meta": "+705\u2605",
-        "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "url": "https://github.com/debpalash/VoiceStudio"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Nvidia Reinstates Jensen Huang as CEO",
-        "meta": "2630 pts",
-        "desc": "cnbc.com \u00b7 3511 comments",
-        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+        "meta": "661 pts",
+        "desc": "github.com \u00b7 353 comments",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
       },
       {
         "kind": "hn",
-        "title": "Ladybird is now in alpha",
-        "meta": "2075 pts",
-        "desc": "ladybird.org \u00b7 491 comments",
-        "url": "https://ladybird.org/posts/alpha/"
+        "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+        "meta": "476 pts",
+        "desc": "deucalionn.vercel.app \u00b7 271 comments",
+        "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/"
       },
       {
         "kind": "hn",
-        "title": "Jensen Huang Reinstated as Nvidia CEO",
-        "meta": "1708 pts",
-        "desc": "nvidianews.nvidia.com \u00b7 4 comments",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+        "title": "Ternary Bonsai 2.5 27B",
+        "meta": "456 pts",
+        "desc": "prismml.com \u00b7 141 comments",
+        "url": "https://prismml.com/news/bonsai-2-5-27b"
       },
       {
         "kind": "hn",
-        "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-        "meta": "1074 pts",
-        "desc": "arm.jonpalmisc.com \u00b7 250 comments",
-        "url": "https://arm.jonpalmisc.com/"
+        "title": "GTA 6 Running on Windows",
+        "meta": "406 pts",
+        "desc": "twitter.com \u00b7 483 comments",
+        "url": "https://twitter.com/raul_bs3/status/2125213756238291075"
       }
     ],
     "launches": [
       {
         "kind": "rising",
-        "title": "Marvisak/VIctory",
-        "meta": "8.2k\u2605",
-        "desc": "An attempt at running GTA VI on PC",
-        "url": "https://github.com/Marvisak/VIctory"
-      },
-      {
-        "kind": "rising",
-        "title": "ivall/xcl",
-        "meta": "6.3k\u2605",
+        "title": "xcl-dev/xcl",
+        "meta": "8.1k\u2605",
         "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-        "url": "https://github.com/ivall/xcl"
+        "url": "https://github.com/xcl-dev/xcl"
       },
       {
         "kind": "rising",
         "title": "EL4CTEO/fast-anything",
-        "meta": "3.4k\u2605",
+        "meta": "3.8k\u2605",
         "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
         "url": "https://github.com/EL4CTEO/fast-anything"
       },
       {
         "kind": "rising",
         "title": "AFK-surf/xnulinux",
-        "meta": "2.8k\u2605",
+        "meta": "3.7k\u2605",
         "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
         "url": "https://github.com/AFK-surf/xnulinux"
+      },
+      {
+        "kind": "rising",
+        "title": "4lwayz/portwatch-vi",
+        "meta": "3.2k\u2605",
+        "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+        "url": "https://github.com/4lwayz/portwatch-vi"
       }
     ]
   },
   "notes": {
-    "ai": "1 of 1 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 26h",
-    "hn": "Top 4 of 18 stories, past 24 hours",
+    "ai": "3 of 9 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 23h",
+    "hn": "Top 4 of 20 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "rea",
-      "gained": 1579
+      "name": "VIctory",
+      "gained": 3760
     },
     {
       "name": "orca",
-      "gained": 1532
+      "gained": 1828
+    },
+    {
+      "name": "rea",
+      "gained": 1414
     },
     {
       "name": "firecrawl",
-      "gained": 1004
+      "gained": 1049
+    },
+    {
+      "name": "xnulinux",
+      "gained": 861
     },
     {
       "name": "skills",
-      "gained": 898
-    },
-    {
-      "name": "fast-anything",
-      "gained": 896
-    },
-    {
-      "name": "VoiceStudio",
-      "gained": 705
-    },
-    {
-      "name": "sherlock",
-      "gained": 667
+      "gained": 736
     },
     {
       "name": "impeccable",
-      "gained": 658
+      "gained": 614
+    },
+    {
+      "name": "sherlock",
+      "gained": 607
     }
   ],
   "ticker": [],
   "infra": [
     {
+      "name": "GitHub",
+      "title": "Disruption with Code Completions and Next Edit Suggestions",
+      "impact": "critical",
+      "minutes": 67,
+      "ongoing": false,
+      "url": "https://stspg.io/bk5200jsb13k"
+    },
+    {
       "name": "Cloudflare",
       "title": "Magic Transit Degraded Performance",
       "impact": "major",
-      "minutes": 31,
-      "ongoing": true,
+      "minutes": 1247,
+      "ongoing": false,
       "url": "https://www.cloudflarestatus.com/incidents/no721jcnlrbh"
     }
   ]
