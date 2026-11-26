@@ -1,63 +1,63 @@
 {
-  "generated": "2026-11-25",
-  "edition": 419,
+  "generated": "2026-11-26",
+  "edition": 420,
   "lead": {
-    "headline": "VICTORY SURGES TO #1 ON GITHUB",
-    "deck": "An attempt at running GTA VI on PC",
-    "body": "Marvisak/VIctory is today's fastest-growing repository on GitHub, gaining 3,760 stars in the last day to reach 11,919 total. An attempt at running GTA VI on PC",
-    "source": "Marvisak/VIctory",
-    "url": "https://github.com/Marvisak/VIctory"
+    "headline": "ORCA SURGES TO #1 ON GITHUB",
+    "deck": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy,",
+    "body": "stablyai/orca is today's fastest-growing repository on GitHub, gaining 2,218 stars in the last day to reach 139,311 total. Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+    "source": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca"
   },
   "sections": {
     "ai": [
       {
         "kind": "hn",
-        "title": "LLM agents work for their parent companies, not for you",
-        "meta": "976 pts",
-        "desc": "michaelharley.net \u00b7 403 comments",
-        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "meta": "459 pts",
+        "desc": "github.com \u00b7 239 comments",
+        "url": "https://github.com/lsernau/grh-lean"
       },
       {
         "kind": "hn",
-        "title": "Anthropic breaks below $83 IPO price",
-        "meta": "401 pts",
-        "desc": "bloomberg.com \u00b7 766 comments",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "meta": "394 pts",
+        "desc": "theverge.com \u00b7 329 comments",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
       },
       {
         "kind": "hn",
-        "title": "Tidal bans AI-generated music",
-        "meta": "329 pts",
-        "desc": "variety.com \u00b7 314 comments",
-        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
+        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "meta": "258 pts",
+        "desc": "twitter.com \u00b7 135 comments",
+        "url": "https://twitter.com/thsottiaux/status/2125784147889393806"
       }
     ],
     "trending": [
       {
         "kind": "trending",
-        "title": "stablyai/orca",
-        "meta": "+1,828\u2605",
-        "desc": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
-        "url": "https://github.com/stablyai/orca"
-      },
-      {
-        "kind": "trending",
         "title": "morluto/rea",
-        "meta": "+1,414\u2605",
+        "meta": "+1,262\u2605",
         "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea"
       },
       {
         "kind": "trending",
         "title": "firecrawl/firecrawl",
-        "meta": "+1,049\u2605",
+        "meta": "+1,005\u2605",
         "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
         "url": "https://github.com/firecrawl/firecrawl"
       },
       {
         "kind": "trending",
+        "title": "obra/superpowers",
+        "meta": "+798\u2605",
+        "desc": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers"
+      },
+      {
+        "kind": "trending",
         "title": "mattpocock/skills",
-        "meta": "+736\u2605",
+        "meta": "+660\u2605",
         "desc": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills"
       }
@@ -65,121 +65,113 @@
     "hn": [
       {
         "kind": "hn",
-        "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-        "meta": "661 pts",
-        "desc": "github.com \u00b7 353 comments",
-        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+        "meta": "1563 pts",
+        "desc": "scottaaronson.blog \u00b7 1371 comments",
+        "url": "https://scottaaronson.blog/?p=10379"
       },
       {
         "kind": "hn",
-        "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-        "meta": "476 pts",
-        "desc": "deucalionn.vercel.app \u00b7 271 comments",
-        "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/"
+        "title": "1Password Security Incident",
+        "meta": "1440 pts",
+        "desc": "1password.com \u00b7 613 comments",
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
       },
       {
         "kind": "hn",
-        "title": "Ternary Bonsai 2.5 27B",
-        "meta": "456 pts",
-        "desc": "prismml.com \u00b7 141 comments",
-        "url": "https://prismml.com/news/bonsai-2-5-27b"
+        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+        "meta": "494 pts",
+        "desc": "github.com \u00b7 357 comments",
+        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
       },
       {
         "kind": "hn",
-        "title": "GTA 6 Running on Windows",
-        "meta": "406 pts",
-        "desc": "twitter.com \u00b7 483 comments",
-        "url": "https://twitter.com/raul_bs3/status/2125213756238291075"
+        "title": "Rumors swirling that labs might have cracked Factoring in P",
+        "meta": "492 pts",
+        "desc": "reddit.com \u00b7 357 comments",
+        "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/"
       }
     ],
     "launches": [
       {
         "kind": "rising",
+        "title": "Marvisak/VIctory",
+        "meta": "12.9k\u2605",
+        "desc": "An attempt at running GTA VI on PC",
+        "url": "https://github.com/Marvisak/VIctory"
+      },
+      {
+        "kind": "rising",
         "title": "xcl-dev/xcl",
-        "meta": "8.1k\u2605",
+        "meta": "8.4k\u2605",
         "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
         "url": "https://github.com/xcl-dev/xcl"
       },
       {
         "kind": "rising",
-        "title": "EL4CTEO/fast-anything",
-        "meta": "3.8k\u2605",
-        "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-        "url": "https://github.com/EL4CTEO/fast-anything"
-      },
-      {
-        "kind": "rising",
-        "title": "AFK-surf/xnulinux",
-        "meta": "3.7k\u2605",
-        "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-        "url": "https://github.com/AFK-surf/xnulinux"
-      },
-      {
-        "kind": "rising",
         "title": "4lwayz/portwatch-vi",
-        "meta": "3.2k\u2605",
+        "meta": "4.8k\u2605",
         "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
         "url": "https://github.com/4lwayz/portwatch-vi"
+      },
+      {
+        "kind": "rising",
+        "title": "EL4CTEO/fast-anything",
+        "meta": "4.1k\u2605",
+        "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "url": "https://github.com/EL4CTEO/fast-anything"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 9 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 23h",
-    "hn": "Top 4 of 20 stories, past 24 hours",
+    "ai": "3 of 3 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 24h",
+    "hn": "Top 4 of 19 stories, past 24 hours",
     "launches": "0 Show HN \u00b7 4 new repos"
   },
   "market": [
     {
-      "name": "VIctory",
-      "gained": 3760
+      "name": "orca",
+      "gained": 2218
     },
     {
-      "name": "orca",
-      "gained": 1828
+      "name": "portwatch-vi",
+      "gained": 1541
     },
     {
       "name": "rea",
-      "gained": 1414
+      "gained": 1262
     },
     {
       "name": "firecrawl",
-      "gained": 1049
+      "gained": 1005
     },
     {
-      "name": "xnulinux",
-      "gained": 861
+      "name": "VIctory",
+      "gained": 963
+    },
+    {
+      "name": "superpowers",
+      "gained": 798
     },
     {
       "name": "skills",
-      "gained": 736
+      "gained": 660
     },
     {
       "name": "impeccable",
-      "gained": 614
-    },
-    {
-      "name": "sherlock",
-      "gained": 607
+      "gained": 634
     }
   ],
   "ticker": [],
   "infra": [
     {
       "name": "GitHub",
-      "title": "Disruption with Code Completions and Next Edit Suggestions",
+      "title": "Investigating degraded experiences across GitHub products",
       "impact": "critical",
-      "minutes": 67,
+      "minutes": 56,
       "ongoing": false,
-      "url": "https://stspg.io/bk5200jsb13k"
-    },
-    {
-      "name": "Cloudflare",
-      "title": "Magic Transit Degraded Performance",
-      "impact": "major",
-      "minutes": 1247,
-      "ongoing": false,
-      "url": "https://www.cloudflarestatus.com/incidents/no721jcnlrbh"
+      "url": "https://stspg.io/5qj9j0p5g4cr"
     }
   ]
 }
