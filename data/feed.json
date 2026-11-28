@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-27",
-  "edition": 421,
+  "generated": "2026-11-28",
+  "edition": 422,
   "lead": {
     "headline": "ORCA SURGES TO #1 ON GITHUB",
     "deck": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy,",
-    "body": "stablyai/orca is today's fastest-growing repository on GitHub, gaining 2,246 stars in the last day to reach 141,557 total. Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+    "body": "stablyai/orca is today's fastest-growing repository on GitHub, gaining 1,500 stars in the last day to reach 143,057 total. Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
     "source": "stablyai/orca",
     "url": "https://github.com/stablyai/orca"
   },
@@ -12,166 +12,174 @@
     "ai": [
       {
         "kind": "hn",
-        "title": "AI made self-hosting fun again",
-        "meta": "715 pts",
-        "desc": "janlukas.blog \u00b7 352 comments",
-        "url": "https://janlukas.blog/posts/ai-self-hosting"
+        "title": "Michael Nielsen took down his book on neural nets",
+        "meta": "533 pts",
+        "desc": "neuralnetworksanddeeplearning.com \u00b7 328 comments",
+        "url": "https://neuralnetworksanddeeplearning.com/"
       },
       {
         "kind": "hn",
-        "title": "AMD-specific fork of llama.cpp",
-        "meta": "364 pts",
-        "desc": "devnull.land \u00b7 87 comments",
-        "url": "https://devnull.land/amd-specific-llama-cpp"
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "meta": "389 pts",
+        "desc": "research.google \u00b7 149 comments",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
       },
       {
         "kind": "hn",
-        "title": "Tracking Diseases Cured by AI",
-        "meta": "310 pts",
-        "desc": "diseasescuredbyai.com \u00b7 190 comments",
-        "url": "https://diseasescuredbyai.com/"
+        "title": "I'm Scared of AI",
+        "meta": "213 pts",
+        "desc": "thesoapbox.email \u00b7 247 comments",
+        "url": "https://thesoapbox.email/archive/3"
       }
     ],
     "trending": [
       {
         "kind": "trending",
         "title": "morluto/rea",
-        "meta": "+1,371\u2605",
+        "meta": "+1,133\u2605",
         "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea"
       },
       {
         "kind": "trending",
+        "title": "DietrichGebert/ponytail",
+        "meta": "+752\u2605",
+        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "url": "https://github.com/DietrichGebert/ponytail"
+      },
+      {
+        "kind": "trending",
         "title": "obra/superpowers",
-        "meta": "+870\u2605",
+        "meta": "+750\u2605",
         "desc": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers"
       },
       {
         "kind": "trending",
         "title": "firecrawl/firecrawl",
-        "meta": "+808\u2605",
+        "meta": "+655\u2605",
         "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
         "url": "https://github.com/firecrawl/firecrawl"
-      },
-      {
-        "kind": "trending",
-        "title": "mattpocock/skills",
-        "meta": "+719\u2605",
-        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills"
       }
     ],
     "hn": [
       {
         "kind": "hn",
-        "title": "Tell HN: Happy Thanksgiving",
-        "meta": "696 pts",
-        "desc": "news.ycombinator.com \u00b7 150 comments",
-        "url": "https://news.ycombinator.com/item?id=50655664"
+        "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+        "meta": "523 pts",
+        "desc": "infohawk.com \u00b7 271 comments",
+        "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
       },
       {
         "kind": "hn",
-        "title": "Nextcloud Office Desktop app",
-        "meta": "437 pts",
-        "desc": "nextcloud.com \u00b7 225 comments",
-        "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/"
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "meta": "383 pts",
+        "desc": "oag.state.va.us \u00b7 232 comments",
+        "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
       },
       {
         "kind": "hn",
-        "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-        "meta": "409 pts",
-        "desc": "github.com \u00b7 471 comments",
-        "url": "https://github.com/antonpictures/youtube-punisher"
+        "title": "US Air Force's cloud computing platform hacked",
+        "meta": "345 pts",
+        "desc": "news.sky.com \u00b7 211 comments",
+        "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163"
       },
       {
         "kind": "hn",
-        "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-        "meta": "373 pts",
-        "desc": "worksinprogress.co \u00b7 90 comments",
-        "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
+        "title": "Convex skills send the user's app idea to a remote server without telling them",
+        "meta": "301 pts",
+        "desc": "github.com \u00b7 95 comments",
+        "url": "https://github.com/convex/convex-backend-skill/issues/64"
       }
     ],
     "launches": [
       {
         "kind": "hn",
-        "title": "Show HN: Fuck_data_brokers.py",
-        "meta": "235 pts",
-        "desc": "github.com \u00b7 52 comments",
-        "url": "https://github.com/gary23w/f-ck_data_brokers"
-      },
-      {
-        "kind": "hn",
-        "title": "Show HN: I wrote an entire Vim manual over 4 years",
-        "meta": "177 pts",
-        "desc": "themouseless.dev \u00b7 54 comments",
-        "url": "http://themouseless.dev/vim/"
+        "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+        "meta": "373 pts",
+        "desc": "bouncemarket.minhanhday.com \u00b7 126 comments",
+        "url": "https://bouncemarket.minhanhday.com/"
       },
       {
         "kind": "rising",
         "title": "Marvisak/VIctory",
-        "meta": "13.6k\u2605",
+        "meta": "13.9k\u2605",
         "desc": "An attempt at running GTA VI on PC",
         "url": "https://github.com/Marvisak/VIctory"
       },
       {
         "kind": "rising",
-        "title": "4lwayz/portwatch-vi",
-        "meta": "6.2k\u2605",
-        "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-        "url": "https://github.com/4lwayz/portwatch-vi"
+        "title": "trustno1-coder/VIctory-NVIDIA",
+        "meta": "4.8k\u2605",
+        "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+        "url": "https://github.com/trustno1-coder/VIctory-NVIDIA"
+      },
+      {
+        "kind": "rising",
+        "title": "fxceless/victory-fork",
+        "meta": "3.4k\u2605",
+        "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+        "url": "https://github.com/fxceless/victory-fork"
       }
     ]
   },
   "notes": {
-    "ai": "3 of 4 AI stories, past 24 hours",
-    "trending": "Stars gained in the last 24h",
-    "hn": "Top 4 of 16 stories, past 24 hours",
-    "launches": "2 Show HN \u00b7 2 new repos"
+    "ai": "3 of 5 AI stories, past 24 hours",
+    "trending": "Stars gained in the last 23h",
+    "hn": "Top 4 of 17 stories, past 24 hours",
+    "launches": "1 Show HN \u00b7 3 new repos"
   },
   "market": [
     {
       "name": "orca",
-      "gained": 2246
-    },
-    {
-      "name": "portwatch-vi",
-      "gained": 1400
+      "gained": 1500
     },
     {
       "name": "rea",
-      "gained": 1371
-    },
-    {
-      "name": "superpowers",
-      "gained": 870
-    },
-    {
-      "name": "firecrawl",
-      "gained": 808
-    },
-    {
-      "name": "skills",
-      "gained": 719
-    },
-    {
-      "name": "VIctory",
-      "gained": 692
+      "gained": 1133
     },
     {
       "name": "ponytail",
-      "gained": 598
+      "gained": 752
+    },
+    {
+      "name": "superpowers",
+      "gained": 750
+    },
+    {
+      "name": "firecrawl",
+      "gained": 655
+    },
+    {
+      "name": "ECC",
+      "gained": 591
+    },
+    {
+      "name": "spec-kit",
+      "gained": 553
+    },
+    {
+      "name": "skills",
+      "gained": 540
     }
   ],
   "ticker": [],
   "infra": [
     {
       "name": "Cloudflare",
-      "title": "Cloudflare Dashboard and Cloudflare API service issues",
-      "impact": "major",
-      "minutes": 133,
+      "title": "Email Delivery Delays",
+      "impact": "critical",
+      "minutes": 122,
       "ongoing": false,
-      "url": "https://www.cloudflarestatus.com/incidents/xiqj67vl5pqm"
+      "url": "https://www.cloudflarestatus.com/incidents/27xnfvjy0n6j"
+    },
+    {
+      "name": "Anthropic",
+      "title": "Degraded performance for Claude Fable 5.2",
+      "impact": "major",
+      "minutes": 15,
+      "ongoing": false,
+      "url": "https://stspg.io/n4l14k7m49zw"
     }
   ]
 }
